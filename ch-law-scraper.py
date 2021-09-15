@@ -24,7 +24,7 @@ try:
         EC.visibility_of_element_located((By.ID, 'lawcontent')))
     html = driver.page_source
     soup = BeautifulSoup(html, "html.parser")
-    lawtext = soup.find("div", id="lawcontent")
+    lawtext = soup.find("div", id="lawcontent")  # extract norms
 
     # remove toolbar
     soup.find("div", id="toolbar").decompose()
@@ -34,9 +34,9 @@ try:
         div.decompose()
 
     # remove superscripts belonging to footnotes
-    for superscript in soup.find_all("sup"):
-        for a in superscript.find_all("a"):
-            a.decompose()
+    for superscripts in soup.find_all("sup"):
+        for suplink in superscripts.find_all("a"):
+            suplink.decompose()
 
     # replace h6 headers with h3 headers
     for header in soup.find_all("h6"):
@@ -48,6 +48,7 @@ try:
     # write to markdown file
     with open("output.md", "w") as f:
         f.write(content)
+
 
 # raises Exception if element is not visible within delay duration
 except TimeoutException:
