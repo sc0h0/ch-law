@@ -45,9 +45,6 @@ try:
     for dt_list in soup.find_all("dt"):
         dt_list.name = "br"
 
-    # add whitespace between description list items
-    text = soup.get_text(separator=' ')
-
     # replace div headings headers with h2 headers
     for divheader in soup.find_all("div", {'class': 'heading'}):
         divheader.name = "h2"
