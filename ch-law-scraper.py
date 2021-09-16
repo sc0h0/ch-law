@@ -9,7 +9,7 @@ from selenium.common.exceptions import TimeoutException
 from markdownify import markdownify
 
 # target URL
-url = "https://www.fedlex.admin.ch/eli/cc/1999/404/en"
+url = "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en"
 
 # utilize headless browser
 opts = FirefoxOptions()
@@ -37,6 +37,20 @@ try:
     for superscripts in soup.find_all("sup"):
         for suplink in superscripts.find_all("a"):
             suplink.decompose()
+
+    # isolate descriptive lists to paragraphs
+    for dt_list in soup.find_all("dl"):
+        dt_list.name = "p"
+
+    for dt_list in soup.find_all("dt"):
+        dt_list.name = "br"
+
+    # add whitespace between description list items
+    text = soup.get_text(separator=' ')
+
+    # replace div headings headers with h2 headers
+    for divheader in soup.find_all("div", {'class': 'heading'}):
+        divheader.name = "h2"
 
     # replace h6 headers with h3 headers
     for header in soup.find_all("h6"):
