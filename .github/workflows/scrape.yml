@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: scrape revisions
 
 on:
@@ -28,6 +27,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-=======
-
->>>>>>> 2003a4a3bca857334afa87a5d83455847e0c9bf8
