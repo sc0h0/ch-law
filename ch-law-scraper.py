@@ -22,7 +22,7 @@ with open('linklist.txt', 'r') as f_in:
             continue
 
         driver.get(line)
-        time.sleep(10)  # standard delay
+        time.sleep(30)  # standard delay
 
         # wait until necessary elements are present
         delay = 60  # max delay in seconds until element is present
