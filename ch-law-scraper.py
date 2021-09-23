@@ -66,9 +66,13 @@ with open('linklist.txt', 'r') as f_in:
             dt_list.insert_after(" ")  # add whitespace after tag
             dt_list.name = "br"
 
+        # replace articles with bold paragraphs
+        for article in soup.find_all("h6", {"class": "heading"}):
+            article.name = "p"
+
         # replace div headings with corresponding <h> tag
         for divheader in soup.find_all("div", {"aria-level": "1"}):
-            divheader.name = "h2"
+            divheader.name = "h1"
         for divheader in soup.find_all("div", {"aria-level": "2"}):
             divheader.name = "h2"
         for divheader in soup.find_all("div", {"aria-level": "3"}):
