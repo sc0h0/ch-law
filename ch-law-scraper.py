@@ -35,9 +35,6 @@ with open('linklist.txt', 'r') as f_in:
         html = driver.page_source
         soup = BeautifulSoup(html, "html.parser")
 
-        # get norms
-        lawtext = soup.find("div", id="lawcontent")
-
         # remove toolbar
         soup.find("div", id="toolbar").decompose()
 
@@ -46,20 +43,26 @@ with open('linklist.txt', 'r') as f_in:
             div.decompose()
 
         # remove superscripts belonging to footnotes
-        for superscripts in soup.find_all("sup"):
-            for suplink in superscripts.find_all("a"):
+        for superscript in soup.find_all("sup"):
+            for suplink in superscript.find_all("a"):
                 suplink.decompose()
+            superscript.insert(0, "[")
+            superscript.insert_after("]")
 
         # isolate descriptive lists to paragraphs
-        for dt_list in soup.find_all("dl"):
-            dt_list.name = "p"
+        for dl_list in soup.find_all("dl"):
+            dl_list.name = "p"
 
         for dt_list in soup.find_all("dt"):
+            dt_list.insert_after(" ")  # add whitespace
             dt_list.name = "br"
 
         # replace div headings with h2 headers
         for divheader in soup.find_all("div", {'class': 'heading'}):
             divheader.name = "h2"
+
+        # get norms
+        lawtext = soup.find("div", id="lawcontent")
 
         # convert to markdown
         content = markdownify(str(lawtext), heading_style='ATX')
