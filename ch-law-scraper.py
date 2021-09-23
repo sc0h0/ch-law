@@ -46,6 +46,8 @@ with open('linklist.txt', 'r') as f_in:
         for superscript in soup.find_all("sup"):
             for suplink in superscript.find_all("a"):
                 suplink.decompose()
+
+            # wrap articles in brackets
             superscript.insert(0, "[")
             superscript.insert_after("]")
 
