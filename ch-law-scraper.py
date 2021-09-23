@@ -66,9 +66,21 @@ with open('linklist.txt', 'r') as f_in:
             dt_list.insert_after(" ")  # add whitespace after tag
             dt_list.name = "br"
 
-        # replace div headings with h2 headers
-        for divheader in soup.find_all("div", {'class': 'heading'}):
+        # replace lvl 2 div headings with h2 headers
+        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "2"}):
             divheader.name = "h2"
+
+        # replace lvl 3 div headings with h3 headers
+        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "3"}):
+            divheader.name = "h3"
+
+        # replace lvl 4 div headings with h4 headers
+        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "4"}):
+            divheader.name = "h4"
+
+        # replace lvl 5 div headings with h5 headers
+        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "5"}):
+            divheader.name = "h5"
 
         # get norms
         lawtext = soup.find("div", id="lawcontent")
