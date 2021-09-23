@@ -79,6 +79,8 @@ with open('linklist.txt', 'r') as f_in:
             divheader.name = "h5"
         for divheader in soup.find_all("div", {"aria-level": "6"}):
             divheader.name = "h6"
+        for divheader in soup.find_all("div", {"aria-level": "7"}):
+            divheader.name = "h6"  # max level possible in markdown
 
         # get norms
         lawtext = soup.find("div", id="lawcontent")
