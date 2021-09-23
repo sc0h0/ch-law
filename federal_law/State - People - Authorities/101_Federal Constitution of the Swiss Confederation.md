@@ -22,7 +22,7 @@ conscious of their common achievements and their responsibility towards future g
 
 and in the knowledge that only those who use their freedom remain free, and that the strength of a people is measured by the well-being of its weakest members,
 
-adopt the following Constitution*[]*:
+adopt the following Constitution:
 
 # [Title 1 General Provisions](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_2)
 
@@ -58,7 +58,7 @@ adopt the following Constitution*[]*:
 
 [4] The Confederation and the Cantons shall respect international law.
 
-###### [**Art. 5***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_5_a)[] [Subsidiarity](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_5_a)
+###### [**Art. 5***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_5_a) [Subsidiarity](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_5_a)
 
  The principle of subsidiarity must be observed in the allocation and performance of state tasks.
 
@@ -96,7 +96,7 @@ adopt the following Constitution*[]*:
 
 [3] Torture and any other form of cruel, inhuman or degrading treatment or punishment are prohibited.
 
-###### [**Art.** **10***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_10_a)[] [Ban on covering the face](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_10_a)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_10_a)
+###### [**Art.** **10***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_10_a) [Ban on covering the face](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_10_a)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_10_a)
 
  [1] No person may cover their face in public spaces or in places that are accessible to the public or where services are offered to anyone wishing to partake of them; the ban does not apply to places of worship.
 
@@ -224,7 +224,7 @@ adopt the following Constitution*[]*:
 
 [3] Any person who does not have sufficient means has the right to free legal advice and assistance unless their case appears to have no prospect of success. If it is necessary in order to safeguard their rights, they also have the right to free legal representation in court.
 
-###### [**Art. 29***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_29_a)[] [Guarantee of access to the courts](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_29_a)
+###### [**Art. 29***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_29_a) [Guarantee of access to the courts](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_29_a)
 
  In a legal dispute, every person has the right to have their case determined by a judicial authority. The Confederation and the Cantons may by law preclude the determination by the courts of certain exceptional categories of case.
 
@@ -302,7 +302,7 @@ adopt the following Constitution*[]*:
 
   
 a. third generation immigrants;  
-b. stateless children.[]
+b. stateless children.
 
 ###### [**Art. 39** Exercise of political rights](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_39)
 
@@ -351,13 +351,13 @@ g. children and young people are encouraged to develop into independent and soci
 
  [1] The Confederation shall fulfil the duties that are assigned to it by Federal Constitution.
 
-[2] ...[]
+[2] ...
 
 ###### [**Art. 43** Duties of the Cantons](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_43)
 
  The Cantons decide on the duties that they must fulfil within the scope of their powers.
 
-###### [**Art. 43***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_43_a)[] [Principles for the allocation and fulfilment of state tasks](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_43_a)
+###### [**Art. 43***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_43_a) [Principles for the allocation and fulfilment of state tasks](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_43_a)
 
  [1] The Confederation only undertakes tasks that the Cantons are unable to perform or which require uniform regulation by the Confederation.
 
@@ -389,15 +389,15 @@ g. children and young people are encouraged to develop into independent and soci
 
  [1] The Cantons shall implement federal law in accordance with the Federal Constitution and federal legislation.
 
-[2] The Confederation and the Cantons may together agree that the Cantons should achieve specific goals in the implementation of federal law and may to this end conduct programmes that receive financial support from the Confederation.[]
+[2] The Confederation and the Cantons may together agree that the Cantons should achieve specific goals in the implementation of federal law and may to this end conduct programmes that receive financial support from the Confederation.
 
-[3] The Confederation shall allow the Cantons all possible discretion to organise their own affairs and shall take account of cantonal particularities.[]
+[3] The Confederation shall allow the Cantons all possible discretion to organise their own affairs and shall take account of cantonal particularities.
 
 ###### [**Art. 47** Autonomy of the Cantons](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_47)
 
  [1] The Confederation shall respect the autonomy of the Cantons.
 
-[2] It shall leave the Cantons sufficient tasks of their own and respect their organisational autonomy. It shall leave the Cantons with sufficient sources of finance and contribute towards ensuring that they have the financial resources required to fulfil their tasks.[]
+[2] It shall leave the Cantons sufficient tasks of their own and respect their organisational autonomy. It shall leave the Cantons with sufficient sources of finance and contribute towards ensuring that they have the financial resources required to fulfil their tasks.
 
 ###### [**Art. 48** Intercantonal agreements](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_48)
 
@@ -411,18 +411,18 @@ g. children and young people are encouraged to develop into independent and soci
 
   
 a. has been approved under the same procedure that applies to other legislation;  
-b. determines the basic content of the provisions.[]
+b. determines the basic content of the provisions.
 
-[5] The Cantons shall comply with intercantonal law.[]
+[5] The Cantons shall comply with intercantonal law.
 
-###### [**Art. 48***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_48_a)[] [Declaration of general application and requirement of participation](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_48_a)
+###### [**Art. 48***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_48_a) [Declaration of general application and requirement of participation](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_48_a)
 
  [1] At the request of interested Cantons, the Confederation may declare intercantonal agreements to be generally binding or require Cantons to participate in intercantonal agreements in the following fields:
 
   
 a. the execution of criminal penalties and measures;  
-b.[] school education in the matters specified in Article 62 paragraph 4;  
-c.[] cantonal institutions of higher education;  
+b. school education in the matters specified in Article 62 paragraph 4;  
+c. cantonal institutions of higher education;  
 d. cultural institutions of supra-regional importance;  
 e. waste management;  
 f. waste water treatment;  
@@ -516,7 +516,7 @@ i. institutions for the rehabilitation and care of invalids.
 
 [2] The armed forces serve to prevent war and to maintain peace; they defend the country and its population. They shall support the civilian authorities in safeguarding the country against serious threats to internal security and in dealing with exceptional situations. Further duties may be provided for by law.
 
-[3] The deployment of the armed forces is the responsibility of the Confederation.[]
+[3] The deployment of the armed forces is the responsibility of the Confederation.
 
 ###### [**Art. 59** Military service and alternative service](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_59)
 
@@ -534,7 +534,7 @@ i. institutions for the rehabilitation and care of invalids.
 
  [1] Armed forces legislation, together with the organisation, training and equipment of the armed forces, is the responsibility of the Confederation.
 
-[2] ...[]
+[2] ...
 
 [3] The Confederation may, in return for appropriate compensation, take over the running of cantonal military installations
 
@@ -552,35 +552,35 @@ i. institutions for the rehabilitation and care of invalids.
 
 ### [Section 3 Education, Research and Culture](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_4/chap_2/sec_3)
 
- ###### [**Art. 61***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_61_a)[] [Swiss Education Area](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_61_a)
+ ###### [**Art. 61***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_61_a) [Swiss Education Area](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_61_a)
 
  [1] The Confederation and the Cantons shall, within the scope of their powers, jointly ensure the high quality and accessibility of the Swiss Education Area.
 
 [2] They shall coordinate their efforts and ensure their cooperation through joint administrative bodies and other measures.
 
-[3] They shall ensure in the fulfilment of their duties[] that general and vocational courses of study achieve equal recognition in society.
+[3] They shall ensure in the fulfilment of their duties that general and vocational courses of study achieve equal recognition in society.
 
-###### [**Art. 62** School education](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_62)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_62)
+###### [**Art. 62** School education](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_62)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_62)
 
  [1] The Cantons are responsible for the system of school education.
 
-[2] They shall ensure the provision of an adequate basic education that is available to all children. Basic education is mandatory and is managed or supervised by the state. At state schools it is free of charge.[]
+[2] They shall ensure the provision of an adequate basic education that is available to all children. Basic education is mandatory and is managed or supervised by the state. At state schools it is free of charge.
 
-[3] The Cantons shall ensure that adequate special needs education is provided to all children and young people with disabilities up to the age of 20.[]
+[3] The Cantons shall ensure that adequate special needs education is provided to all children and young people with disabilities up to the age of 20.
 
-[4] Where harmonisation of school education is not achieved by means of coordination in the areas of school entry age and compulsory school attendance, the duration and objectives of levels of education, and the transition for one level to another, as well as the recognition of qualifications, the Confederation shall issue regulations to achieve such harmonisation.[]
+[4] Where harmonisation of school education is not achieved by means of coordination in the areas of school entry age and compulsory school attendance, the duration and objectives of levels of education, and the transition for one level to another, as well as the recognition of qualifications, the Confederation shall issue regulations to achieve such harmonisation.
 
-[5] The Confederation shall regulate the start of the school year.[]
+[5] The Confederation shall regulate the start of the school year.
 
-[6] The Cantons shall participate in the drafting of federal legislation on school education that affects cantonal responsibilities, and special account shall be taken of their opinions.[]
+[6] The Cantons shall participate in the drafting of federal legislation on school education that affects cantonal responsibilities, and special account shall be taken of their opinions.
 
-###### [**Art. 63**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63)[] [Vocational and professional education and training](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63)
+###### [**Art. 63**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63) [Vocational and professional education and training](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63)
 
  [1] The Confederation shall issue regulations on vocational and professional education and training.
 
 [2] It shall encourage the provision of a diverse and accessible range of courses in vocational and professional education and training.
 
-###### [**Art. 63***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63_a)[] [Higher education institutions](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63_a)
+###### [**Art. 63***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63_a) [Higher education institutions](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_63_a)
 
  [1] The Confederation shall manage the Federal Institutes of Technology. It may establish, take over or manage additional universities and other higher education institutions.
 
@@ -594,13 +594,13 @@ i. institutions for the rehabilitation and care of invalids.
 
 ###### [**Art. 64** Research](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_64)
 
- [1] The Confederation shall promote scientific research and innovation.[]
+ [1] The Confederation shall promote scientific research and innovation.
 
-[2] It may make its support conditional in particular on quality assurance and coordination being guaranteed.[]
+[2] It may make its support conditional in particular on quality assurance and coordination being guaranteed.
 
 [3] It may establish, take over or run research institutes.
 
-###### [**Art. 64***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_64_a)[] [Continuing education and training](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_64_a)
+###### [**Art. 64***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_64_a) [Continuing education and training](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_64_a)
 
  [1] The Confederation shall specify principles governing continuing education and training.
 
@@ -610,23 +610,23 @@ i. institutions for the rehabilitation and care of invalids.
 
 ###### [**Art. 65** Statistics](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_65)
 
- [1] The Confederation shall compile the necessary statistical data on the status and trends in the population, the economy, society, education, research, the land and the environment in Switzerland.[]
+ [1] The Confederation shall compile the necessary statistical data on the status and trends in the population, the economy, society, education, research, the land and the environment in Switzerland.
 
 [2] It may issue regulations on the harmonisation and maintenance of official registers in order to reduce the cost of compiling data.
 
-###### [**Art. 66** Education grants](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_66)[]
+###### [**Art. 66** Education grants](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_66)
 
- [1] The Confederation may contribute to cantonal expenditure on grants provided to students at universities and higher education institutions. It may encourage the intercantonal harmonisation of education grants and lay down principles for the payment of education grants.[]
+ [1] The Confederation may contribute to cantonal expenditure on grants provided to students at universities and higher education institutions. It may encourage the intercantonal harmonisation of education grants and lay down principles for the payment of education grants.
 
 [2] It may also supplement cantonal measures while preserving cantonal autonomy in education matters by taking its own measures to promote education.
 
-###### [**Art. 67** Encouragement of children and young people](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_67)[]
+###### [**Art. 67** Encouragement of children and young people](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_67)
 
  [1] In fulfilling their duties, the Confederation and Cantons shall take account of the special need of children and young people to receive encouragement and protection.
 
-[2] The Confederation may supplement cantonal measures by supporting extra-curricular work with children and young people.[]
+[2] The Confederation may supplement cantonal measures by supporting extra-curricular work with children and young people.
 
-###### [**Art. 67***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_67_a)[] [Musical education](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_67_a)
+###### [**Art. 67***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_67_a) [Musical education](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_67_a)
 
  [1] The Confederation and Cantons shall encourage musical education, in particular that of children and young people.
 
@@ -674,7 +674,7 @@ i. institutions for the rehabilitation and care of invalids.
 
 [2] The Confederation and the Cantons may within the scope of their powers take measures to preserve public peace between the members of different religious communities.
 
-[3] The construction of minarets is prohibited.[]
+[3] The construction of minarets is prohibited.
 
 ### [Section 4 Environment and Spatial Planning](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_4/chap_2/sec_4)
 
@@ -698,7 +698,7 @@ i. institutions for the rehabilitation and care of invalids.
 
 [3] Confederation and Cantons shall take account of the requirements of spatial planning in fulfilling their duties.
 
-###### [**Art. 75***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_a)[] [National Land Survey](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_a)
+###### [**Art. 75***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_a) [National Land Survey](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_a)
 
  [1] The National Land Survey is the responsibility of the Confederation.
 
@@ -706,7 +706,7 @@ i. institutions for the rehabilitation and care of invalids.
 
 [3] It may issue regulations on the harmonisation of official information relating to the land.
 
-###### [**Art. 75***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_b)[] [Second homes](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_b)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_b)
+###### [**Art. 75***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_b) [Second homes](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_b)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_75_b)
 
  [1] No more than 20 per cent of the total stock of residential units and the gross residential floor area in any commune may be used as second homes.
 
@@ -772,7 +772,7 @@ f. the killing of animals.
 
  The Confederation may in the interests of the country as a whole or a large part of it carry out and operate public construction works, or provide support for such construction works.
 
-###### [**Art. 81***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_81_a)[] [Public transport](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_81_a)
+###### [**Art. 81***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_81_a) [Public transport](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_81_a)
 
  [1] The Confederation and the Cantons shall ensure that an adequate range of public transport services is provided on rail, roads, water and by cableway in all regions of the country. In doing so, appropriate account must be taken of the interests of rail freight transport.
 
@@ -786,13 +786,13 @@ f. the killing of animals.
 
 [3] Public roads may be used free of charge. The Federal Assembly may authorise exceptions.
 
-###### [**Art. 83**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_83)[] [Road infrastructure](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_83)
+###### [**Art. 83**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_83) [Road infrastructure](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_83)
 
  [1] The Confederation and the cantons shall ensure that there is adequate road infrastructure in all regions of the country.
 
 2 The Confederation shall ensure the construction of a network of national highways and guarantee that they remain useable. It shall construct, operate and maintain the national highways. It shall bear the costs thereof. It may assign this task wholly or partly to public or private bodies or combined public-private bodies.
 
-###### [**Art. 84** Alpine transit traffic](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_84)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_84)
+###### [**Art. 84** Alpine transit traffic](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_84)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_84)
 
  [1] The Confederation shall protect the Alpine region from the negative effects of transit traffic. It shall limit the nuisance caused by transit traffic to a level that is not harmful to people, animals and plants or their habitats.
 
@@ -800,19 +800,19 @@ f. the killing of animals.
 
 [3] The capacity of the transit routes in the Alpine region may not be increased. This does not apply to by-pass roads that reduce the level of transit traffic in towns and villages.
 
-###### [**Art. 85** Heavy vehicle charge](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85)
+###### [**Art. 85** Heavy vehicle charge](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85)
 
  [1] The Confederation may levy a capacity or mileage-related charge on heavy vehicle traffic where such traffic creates public costs that are not covered by other charges or taxes.
 
-[2] The net revenue from the charge shall be used to cover the costs incurred in connection with overland transport.[]
+[2] The net revenue from the charge shall be used to cover the costs incurred in connection with overland transport.
 
 [3] The Cantons are entitled to a share of the net revenue. In the assessment of the shares allocated, the particular consequences that levying the charge have for mountainous and remote regions shall be taken into account.
 
-###### [**Art. 85***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85_a)[] [Charge for using the national highways](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85_a)
+###### [**Art. 85***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85_a) [Charge for using the national highways](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_85_a)
 
  The Confederation shall levy a charge for the use of the national highways by motor vehicles and trailers that are not liable to pay the heavy vehicle charge.
 
-###### [**Art. 86**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_86)[] [Use of charges for tasks and costs in connection with road transport](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_86)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_86)
+###### [**Art. 86**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_86) [Use of charges for tasks and costs in connection with road transport](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_86)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_86)
 
  [1] A fund shall be set up to finance the national highways and contributions towards measures to improve the road transport infrastructure in cities and urban areas.
 
@@ -843,11 +843,11 @@ g. contributions to the fund in accordance with paragraph 2 letter g.
 
 [5] Where the special finance programme has a proven need and in order to form appropriate reserves in the special finance programme, proceeds from the consumption tax in accordance with Article 131 paragraph 1 letter d shall be allocated to the special finance programme instead of the fund.
 
-###### [**Art. 87** Railways and other modes of transport](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87)
+###### [**Art. 87** Railways and other modes of transport](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87)
 
  The legislation on rail transport, cableways, shipping, aviation and space travel is the responsibility of the Confederation.
 
-###### [**Art. 87***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_a)[] [Railway infrastructure](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_a)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_a)
+###### [**Art. 87***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_a) [Railway infrastructure](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_a)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_a)
 
  [1] The Confederation shall bear the principal burden of financing railway infrastructure.
 
@@ -863,7 +863,7 @@ d. 2,300 million francs each year from the general federal budget; the indexatio
 
 [4] The law may provide for additional financing from third parties.
 
-###### [**Art. 87***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_b)[] [Use of charges for tasks and costs in connection with air traffic](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_b)
+###### [**Art. 87***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_b) [Use of charges for tasks and costs in connection with air traffic](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_87_b)
 
  One half of the net proceeds of the consumption tax on aviation fuels and the surcharge on the consumption tax on aviation fuels shall be used for the following tasks and costs in connection with air traffic:
 
@@ -872,7 +872,7 @@ a. contributions towards environmental protection measures made necessary by air
 b. contributions towards security measures to protect against unlawful acts against air traffic, and in particular against terrorist attacks and the hijacking of aircraft, insofar as such measures are not the responsibility of national authorities;  
 c. contributions towards measures to ensure a high technical level of safety in air traffic.
 
-###### [**Art. 88**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_88)[] [Footpaths, hiking trails and cycle paths](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_88)
+###### [**Art. 88**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_88) [Footpaths, hiking trails and cycle paths](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_88)
 
  [1] The Confederation shall lay down principles with regard to the network of footpaths, hiking trails and cycle paths.
 
@@ -894,7 +894,7 @@ c. contributions towards measures to ensure a high technical level of safety in 
 
 [5] The Confederation shall take account in its energy policy of the efforts made by the Cantons, the communes and the business community; it shall take account of the conditions in the individual regions of the country and the limitations of what is economically feasible.
 
-###### [**Art. 90** Nuclear energy](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_90)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_90)
+###### [**Art. 90** Nuclear energy](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_90)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_90)
 
  The Confederation is responsible for legislation in the field of nuclear energy.
 
@@ -934,7 +934,7 @@ c. contributions towards measures to ensure a high technical level of safety in 
 
 [4] Any divergence from the principle of economic freedom, and in particular measures designed to restrain competition, shall be permitted only if they are provided for in the Federal Constitution or based on cantonal monopoly rights.
 
-###### [**Art. 95** Professional activities in the private sector](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_95)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_95)
+###### [**Art. 95** Professional activities in the private sector](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_95)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_95)
 
  [1] The Confederation may legislate on professional activities in the private sector.
 
@@ -946,7 +946,7 @@ c. contributions towards measures to ensure a high technical level of safety in 
 a. the general meeting votes on an annual basis on the total amount of all remuneration (money and the value of benefits in kind) given to the board of directors, the executive board and the board of advisors. It elects on an annual basis the president of the board of directors, the individual members of the board of directors and the remuneration committee, and the independent representatives of voting rights. Pension funds vote in the interests of their insured members and disclose how they have voted. Shareholders may vote remotely online; they may not be represented by a governing officer of the company or by a custodian bank;  
 b. the governing officers may not be given severance or similar payments, advance payments, bonuses for company purchases and sales, additional contracts as consultants to or employees of other companies in the group. The management of the company may not be delegated to a legal entity;  
 c. the articles of association regulate the amount of credits, loans and pensions payable to governing officers, their profit-sharing and equity participation plans and the number of mandates they may accept outside the group, as well as the duration of employment contracts of members of the executive board;  
-d. persons violating the provisions under letters a-c are liable to a custodial sentence not exceeding three years and to a monetary penalty not exceeding six times their annual remuneration.[]
+d. persons violating the provisions under letters a-c are liable to a custodial sentence not exceeding three years and to a monetary penalty not exceeding six times their annual remuneration.
 
 ###### [**Art. 96** Competition policy](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_96)
 
@@ -1004,13 +1004,13 @@ b. against unfair competition.
 
 [2] In special cases, it may take measures to protect the domestic economy. In doing so, it may if necessary depart from the principle of economic freedom.
 
-###### [**Art. 102** National economic supply](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_102)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_102)
+###### [**Art. 102** National economic supply](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_102)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_102)
 
  [1] The Confederation shall ensure that the country is supplied with essential goods and services in the event of the threat of politico-military strife or war, or of severe shortages that the economy cannot by itself counteract. It shall take precautionary measures to address these matters.
 
 [2] In exercising its powers under this Article, it may if necessary depart from the principle of economic freedom.
 
-###### [**Art. 103** Structural policy](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_103)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_103)
+###### [**Art. 103** Structural policy](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_103)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_103)
 
  The Confederation may support regions of the country that are under economic threat and promote specific economic sectors and professions, if reasonable self-help measures are insufficient to ensure their existence. In exercising its powers under this Article, it may if necessary depart from the principle of economic freedom.
 
@@ -1037,7 +1037,7 @@ f. at its discretion, legislating on the consolidation of agricultural property 
 
 [4] For these purposes, the Confederation shall provide both funds earmarked for the agricultural sector and general federal funds.
 
-###### [**Art. 104***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_104_a)[] [Food security](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_104_a)
+###### [**Art. 104***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_104_a) [Food security](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_104_a)
 
  In order to guarantee the supply of food to the population, the Confederation shall create the conditions required for:
 
@@ -1052,7 +1052,7 @@ e. using food in a way that conserves natural resources.
 
  The legislation on the manufacture, import, rectification and sale of alcohol obtained by distillation is the responsibility of the Confederation. The Confederation shall in particular take account of the harmful effects of alcohol consumption.
 
-###### [**Art. 106**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_106)[] [Gambling](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_106)
+###### [**Art. 106**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_106) [Gambling](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_106)
 
  [1] The Confederation shall legislate on gambling; in doing so it shall take account of cantonal interests.
 
@@ -1097,7 +1097,7 @@ c. games of skill.
 
 [2] It may legislate to declare framework leases to be generally applicable. Such leases may be declared generally applicable only if they take appropriate account of the justified interests of minorities and regional particularities, and respect the principle of equality before the law.
 
-###### [**Art. 110** Employment](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_110)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_110)
+###### [**Art. 110** Employment](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_110)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_110)
 
  [1] The Confederation may legislate on:
 
@@ -1129,7 +1129,7 @@ d. the declaration of collective employment agreements to be generally applicabl
 
   
 a. the insurance is compulsory;  
-a[bis].[] it provides cash and non-cash benefits;  
+a[bis]. it provides cash and non-cash benefits;  
 b. pensions must be sufficient to cover basic living expenses adequately;  
 c. the maximum pension must not be more than twice the minimum pension;  
 d. pensions must as a minimum be adjusted in line with price trends.
@@ -1138,21 +1138,21 @@ d. pensions must as a minimum be adjusted in line with price trends.
 
   
 a. through contributions from those insured, whereby employers must pay one half of the contributions payable by their employees;  
-b.[] through subsidies from the Confederation.
+b. through subsidies from the Confederation.
 
-[4] The subsidies from the Confederation may not exceed one half of the disbursements made under the scheme.[].
+[4] The subsidies from the Confederation may not exceed one half of the disbursements made under the scheme..
 
 [5] The subsidies from the Confederation shall in the first place be funded from the net proceeds of the tax on tobacco, the tax on distilled spirits and the tax on the revenues from gaming houses.
 
-[6] ...[]
+[6] ...
 
-###### [**Art. 112***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_a)[] [Supplementary benefits](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_a)
+###### [**Art. 112***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_a) [Supplementary benefits](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_a)
 
  [1] Confederation and Cantons shall pay supplementary benefits to people whose basic living expenses are not covered by benefits under the Old-age, Survivors and Invalidity Insurance.
 
 [2] The law determines the extent of the supplementary benefits as well as the tasks and responsibilities of the Confederation and Cantons.
 
-###### [**Art. 112***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_b)[] [Promoting the rehabilitation of people eligible for invalidity benefits](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_b)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_b)
+###### [**Art. 112***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_b) [Promoting the rehabilitation of people eligible for invalidity benefits](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_b)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_b)
 
  [1] The Confederation shall encourage the rehabilitation of people eligible for invalidity benefits by providing cash and non-cash benefits. For this purpose, it may use resources from the Invalidity Insurance.
 
@@ -1160,13 +1160,13 @@ b.[] through subsidies from the Confederation.
 
 [3] The law determines the goals of rehabilitation and the principles and criteria.
 
-###### [**Art. 112***c*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_c)[] [Aid for elderly people and people with disabilities](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_c)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_c)
+###### [**Art. 112***c*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_c) [Aid for elderly people and people with disabilities](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_c)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_112_c)
 
  [1] The Cantons shall provide for assistance and care in the home for elderly people and people with disabilities.
 
 [2] The Confederation shall support national efforts for the benefit of elderly people and people with disabilities. For this purpose, it may use resources from the Old-age, Survivors and Invalidity Insurance.
 
-###### [**Art. 113** Occupational pension scheme](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_113)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_113)
+###### [**Art. 113** Occupational pension scheme](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_113)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_113)
 
  [1] The Confederation shall legislate for an occupational pension scheme.
 
@@ -1220,7 +1220,7 @@ c. self-employed persons may insure themselves voluntarily.
 
 [2] It may declare health and the accident insurance to be compulsory, either in general terms or for individual sections of the population.
 
-###### [**Art. 117***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_117_a)[] [Primary medical care](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_117_a)
+###### [**Art. 117***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_117_a) [Primary medical care](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_117_a)
 
  [1] The Confederation and the Cantons shall within the scope of their powers ensure the adequate provision of high quality primary medical care that is accessible to all. They shall recognise and promote family medicine as an essential component of primary care.
 
@@ -1241,11 +1241,11 @@ a. the use of foodstuffs as well as therapeutic products, narcotics, organisms, 
 b. the combating of communicable, widespread or particularly dangerous human and animal diseases;  
 c. protection against ionising radiation.
 
-###### [**Art. 118***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_a)[] [Complementary medicine](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_a)
+###### [**Art. 118***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_a) [Complementary medicine](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_a)
 
  The Confederation and the Cantons shall within the scope of their powers ensure that consideration is given to complementary medicine.
 
-###### [**Art. 118***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_b)[] [Research on human beings](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_b)
+###### [**Art. 118***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_b) [Research on human beings](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_b)
 
  [1] The Confederation shall legislate on research on human beings where this is required in order to protect their dignity and privacy. In doing so, it shall preserve the freedom to conduct research and shall take account of the importance of research to health and society.
 
@@ -1266,13 +1266,13 @@ d. An independent assessment of the research project must have determined that t
   
 a. All forms of cloning and interference with the genetic material of human reproductive cells and embryos are unlawful.  
 b. Non-human reproductive and genetic material may neither be introduced into nor combined with human reproductive material.  
-c.[] The procedures for medically-assisted reproduction may be used only if infertility or the risk of transmitting a serious illness cannot otherwise be overcome, but not in order to conceive a child with specific characteristics or to further research; the fertilisation of human egg cells outside a woman’s body is permitted only under the conditions laid down by the law; no more human egg cells may be developed into embryos outside a woman’s body than are required for medically-assisted reproduction.  
+c. The procedures for medically-assisted reproduction may be used only if infertility or the risk of transmitting a serious illness cannot otherwise be overcome, but not in order to conceive a child with specific characteristics or to further research; the fertilisation of human egg cells outside a woman’s body is permitted only under the conditions laid down by the law; no more human egg cells may be developed into embryos outside a woman’s body than are required for medically-assisted reproduction.  
 d. The donation of embryos and all forms of surrogate motherhood are unlawful.  
 e. The trade in human reproductive material and in products obtained from embryos is prohibited.  
 f. The genetic material of a person may be analysed, registered or made public only with the consent of the person concerned or if the law so provides.  
 g. Every person shall have access to data relating to their ancestry.
 
-###### [**Art. 119***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_119_a)[] [Transplant medicine](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_119_a)
+###### [**Art. 119***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_119_a) [Transplant medicine](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_119_a)
 
  [1] The Confederation shall legislate in the field of organ, tissue and cell transplants. In doing so, it shall ensure the protection of human dignity, privacy and health.
 
@@ -1280,7 +1280,7 @@ g. Every person shall have access to data relating to their ancestry.
 
 [3] Any donation of human organs, tissue and cells must be free of charge. The trade in human organs is prohibited.
 
-###### [**Art. 120** Non-human gene technology](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_120)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_120)
+###### [**Art. 120** Non-human gene technology](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_120)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_120)
 
  [1] Human beings and their environment shall be protected against the misuse of gene technology.
 
@@ -1288,7 +1288,7 @@ g. Every person shall have access to data relating to their ancestry.
 
 ### [Section 9 Residence and Permanent Settlement of Foreign Nationals](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_4/chap_2/sec_9)
 
- ###### [**Art. 121** Legislation on foreign nationals and asylum](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121) []
+ ###### [**Art. 121** Legislation on foreign nationals and asylum](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121)
 
  [1] The Confederation is responsible for legislation on entry to and exit from Switzerland, the residence and the permanent settlement of foreign nationals and on the granting of asylum.
 
@@ -1298,15 +1298,15 @@ g. Every person shall have access to data relating to their ancestry.
 
   
 a. are convicted with legal binding effect of an offence of intentional homicide, rape or any other serious sexual offence, any other violent offence such as robbery, the offences of trafficking in human beings or in drugs, or a burglary offence; or  
-b. have improperly claimed social insurance or social assistance benefits.[]
+b. have improperly claimed social insurance or social assistance benefits.
 
-[4] The legislature shall define the offences covered by paragraph 3 in more detail. It may add additional offences.[]
+[4] The legislature shall define the offences covered by paragraph 3 in more detail. It may add additional offences.
 
-[5] Foreign nationals who lose their right of residence and all other legal rights to remain in Switzerland in accordance with paragraphs 3 and 4 must be deported from Switzerland by the competent authority and must be made subject to a ban on entry of from 5–15 years. In the event of reoffending, the ban on entry is for 20 years.[]
+[5] Foreign nationals who lose their right of residence and all other legal rights to remain in Switzerland in accordance with paragraphs 3 and 4 must be deported from Switzerland by the competent authority and must be made subject to a ban on entry of from 5–15 years. In the event of reoffending, the ban on entry is for 20 years.
 
-[6] Any person who fails to comply with the ban on entry or otherwise enters Switzerland illegally commits an offence. The legislature shall issue the relevant provisions.[]
+[6] Any person who fails to comply with the ban on entry or otherwise enters Switzerland illegally commits an offence. The legislature shall issue the relevant provisions.
 
-###### [**Art. 121***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121_a)[] [Control of immigration](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121_a)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121_a)
+###### [**Art. 121***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121_a) [Control of immigration](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121_a)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_121_a)
 
  [1] Switzerland shall control the immigration of foreign nationals autonomously.
 
@@ -1320,13 +1320,13 @@ b. have improperly claimed social insurance or social assistance benefits.[]
 
 ### [Section 10 Civil Law, Criminal Law, Weights and Measures](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_4/chap_2/sec_10)
 
- ###### [**Art. 122**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_122)[] [Civil law](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_122)
+ ###### [**Art. 122**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_122) [Civil law](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_122)
 
  [1] The Confederation is responsible for legislation in the field of civil law and the law of civil procedure.
 
 [2] The Cantons are responsible for the organisation of the courts and the administration of justice in civil matters, unless the law provides otherwise.
 
-###### [**Art. 123**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123)[] [Criminal law](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123)
+###### [**Art. 123**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123) [Criminal law](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123)
 
  [1] The Confederation is responsible for legislation in the field of criminal law and the law of criminal procedure.
 
@@ -1337,9 +1337,9 @@ b. have improperly claimed social insurance or social assistance benefits.[]
   
 a. the construction of penal institutions;  
 b. improvements in the execution of penalties and measures;  
-c. institutions that conduct educative measures for the benefit of children, adolescents and young adults.[]
+c. institutions that conduct educative measures for the benefit of children, adolescents and young adults.
 
-###### [**Art. 123***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_a)[]
+###### [**Art. 123***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_a)
 
 [1] If a sex offender or violent offender is regarded in the reports required for sentencing as being extremely dangerous and his or her condition assessed as untreatable, he or she must be incarcerated until the end of his or her life due to the high risk of reoffending. Early release and release on temporary licence are not permitted.
 
@@ -1347,11 +1347,11 @@ c. institutions that conduct educative measures for the benefit of children, ado
 
 [3] All reports assessing sex offenders or violent offenders must be drawn up by at least two experienced specialists who are independent of each other. The reports must take account of all the principles that are important for the assessment.
 
-###### [**Art. 123***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_b)[] [No time limit for the right to prosecute or for penalties for sexual or pornography offences involving prepubescent children](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_b)
+###### [**Art. 123***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_b) [No time limit for the right to prosecute or for penalties for sexual or pornography offences involving prepubescent children](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_b)
 
  The right to prosecute sexual or pornography offences involving prepubescent children and the penalties for such offences is not subject to a time limit.
 
-###### [**Art. 123***c*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_c)[] [Measure relating to sexual offences involving children or persons who are incapable of judgement or resistance](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_c)
+###### [**Art. 123***c*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_c) [Measure relating to sexual offences involving children or persons who are incapable of judgement or resistance](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_c)
 
  Persons convicted of harming the sexual integrity of a child or of a dependent person shall permanently lose the right to carry on a profession or voluntary activity involving minors or dependent persons.
 
@@ -1365,7 +1365,7 @@ c. institutions that conduct educative measures for the benefit of children, ado
 
 ## [Chapter 3 Financial System](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_4/chap_3)
 
- ###### [**Art. 126**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_126)[] [Financial management](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_126)
+ ###### [**Art. 126**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_126) [Financial management](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_126)
 
  [1] The Confederation shall maintain its income and expenditure in balance over time.
 
@@ -1385,20 +1385,20 @@ c. institutions that conduct educative measures for the benefit of children, ado
 
 [3] Intercantonal double taxation is prohibited. The Confederation shall take the measures required.
 
-###### [**Art. 128** Direct taxes](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_128)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_128)
+###### [**Art. 128** Direct taxes](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_128)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_128)
 
  [1] The Confederation may levy a direct tax:
 
   
 a. of a maximum of 11.5 per cent on the income of private individuals;  
-b.[] of a maximum of 8.5 per cent of the net profit of legal entities;  
-c.[] ...
+b. of a maximum of 8.5 per cent of the net profit of legal entities;  
+c. ...
 
 [2] The Confederation, in fixing the taxation rates, shall take account of the burden of direct taxation imposed by the Cantons and communes.
 
 [3] In relation to the tax on the income of private individuals, regular revisions shall be made to compensate for the consequences of an increased tax burden due to inflation.
 
-[4] The tax is assessed and collected by the Cantons. A minimum of 17 per cent of the gross revenue from taxation is allocated to the Cantons. This share may be reduced to 15 per cent if the consequences of financial equalisation so require.[]
+[4] The tax is assessed and collected by the Cantons. A minimum of 17 per cent of the gross revenue from taxation is allocated to the Cantons. This share may be reduced to 15 per cent if the consequences of financial equalisation so require.
 
 ###### [**Art. 129** Tax harmonisation](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_129)
 
@@ -1408,19 +1408,19 @@ c.[] ...
 
 [3] The Confederation may issue regulations to prevent unjustified tax benefits.
 
-###### [**Art. 130**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_130)[] [Value added tax[*]](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_130)
+###### [**Art. 130**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_130) [Value added tax*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_130)
 
  1 The Confederation may levy value added tax on the supply of goods, on services, including goods and services for personal use, and on imports, at a standard rate of a maximum of 6.5 per cent and at a reduced rate of at least 2.0 per cent.
 
-[2] The law may provide for the taxation of accommodation services at a rate between the reduced rate and the standard rate.[]
+[2] The law may provide for the taxation of accommodation services at a rate between the reduced rate and the standard rate.
 
-[3] If, due to demographic changes, the financing of the Old-Age, Survivors’ and Invalidity Insurance is no longer guaranteed, the standard rate may be increased by federal act by a maximum of 1 percentage point and the reduced rate by a maximum of 0.3 of a percentage point.[]
+[3] If, due to demographic changes, the financing of the Old-Age, Survivors’ and Invalidity Insurance is no longer guaranteed, the standard rate may be increased by federal act by a maximum of 1 percentage point and the reduced rate by a maximum of 0.3 of a percentage point.
 
-[3bis] In order to finance railway infrastructure, the rates shall be increased by 0.1 of a percentage point.[]
+[3bis] In order to finance railway infrastructure, the rates shall be increased by 0.1 of a percentage point.
 
 [4] 5 per cent of the non-earmarked revenues shall be used to reduce the health insurance premiums of persons on low incomes, unless an alternative method of assisting such persons is provided for by law.
 
-###### [**Art. 131** Special consumption taxes](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_131)[][*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_131)
+###### [**Art. 131** Special consumption taxes](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_131)[*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_131)
 
  [1] The Confederation may level special consumption taxes on:
 
@@ -1435,9 +1435,9 @@ e. petroleum, other mineral oils, natural gas and products obtained by refining 
 
   
 a. a surcharge on the consumption tax on motor fuels with the exception of aviation fuels;  
-b. a charge that applies when motor vehicles are powered by means other than motor fuels in accordance with paragraph 1 letter e.[]
+b. a charge that applies when motor vehicles are powered by means other than motor fuels in accordance with paragraph 1 letter e.
 
-[2bis] If the monies are insufficient to carry out the tasks provided for under Article 87*b* in connection with air traffic, the Confederation shall levy a surcharge on the consumption tax on aviation fuels.[]
+[2bis] If the monies are insufficient to carry out the tasks provided for under Article 87*b* in connection with air traffic, the Confederation shall levy a surcharge on the consumption tax on aviation fuels.
 
 [3] The Cantons shall receive ten per cent of the net proceeds from the taxation of distilled spirits. These funds must be used to fight the causes and effects of substance addiction.
 
@@ -1445,7 +1445,7 @@ b. a charge that applies when motor vehicles are powered by means other than mot
 
  [1] The Confederation may levy a stamp duty on securities, on receipts for insurance premiums and on other commercial deeds; deeds relating to property and mortgage transactions are exempt from stamp duty.
 
-[2] The Confederation may levy a withholding tax on income from moveable capital assets, on lottery winnings and on insurance benefits. 10 per cent of the tax revenue shall be allocated to the Cantons.[]
+[2] The Confederation may levy a withholding tax on income from moveable capital assets, on lottery winnings and on insurance benefits. 10 per cent of the tax revenue shall be allocated to the Cantons.
 
 ###### [**Art. 133** Customs duties](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_133)
 
@@ -1455,7 +1455,7 @@ b. a charge that applies when motor vehicles are powered by means other than mot
 
  Anything that is declared by federal legislation to be subject to, or exempt from value added tax, special consumption taxes, stamp duty or withholding tax may not be made liable to similar taxes by the Cantons or communes.
 
-###### [**Art. 135**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_135)[] [Equalisation of financial resources and burdens](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_135)
+###### [**Art. 135**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_135) [Equalisation of financial resources and burdens](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_135)
 
  [1] The Confederation shall issue regulations on the equitable equalisation of financial resources and burdens between the Confederation and the Cantons as well as among the Cantons.
 
@@ -1488,11 +1488,11 @@ e. maintain the tax competitiveness of the Cantons by national and international
 
  ###### [**Art. 138** Popular initiative requesting the total revision of the Federal Constitution](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_138)
 
- [1] Any 100,000 persons eligible to vote may within 18 months of the official publication of their initiative propose a total revision of the Federal Constitution.[]
+ [1] Any 100,000 persons eligible to vote may within 18 months of the official publication of their initiative propose a total revision of the Federal Constitution.
 
 [2] This proposal must be submitted to a vote of the People.
 
-###### [**Art. 139**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139)[] [Popular initiative requesting a partial revision of the Federal Constitution in specific terms](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139)
+###### [**Art. 139**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139) [Popular initiative requesting a partial revision of the Federal Constitution in specific terms](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139)
 
  [1] Any 100,000 persons eligible to vote may within 18 months of the official publication of their initiative request a partial revision of the Federal Constitution.
 
@@ -1504,11 +1504,11 @@ e. maintain the tax competitiveness of the Cantons by national and international
 
 [5] An initiative in the form of a specific draft shall be submitted to the vote of the People and the Cantons. The Federal Assembly shall recommend whether the initiative should be adopted or rejected. It may submit a counter-proposal to the initiative.
 
-###### [**Art. 139***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139_a)[]
+###### [**Art. 139***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139_a)
 
-###### [**Art. 139***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139_b)[] [Procedure applicable to an initiative and counter-proposal](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139_b)
+###### [**Art. 139***b*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139_b) [Procedure applicable to an initiative and counter-proposal](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_139_b)
 
- [1] The People vote on the initiative and the counter-proposal at the same time.[]
+ [1] The People vote on the initiative and the counter-proposal at the same time.
 
 [2] The People may vote in favour of both proposals. In response to the third question, they may indicate the proposal that they prefer if both are accepted.
 
@@ -1527,13 +1527,13 @@ c. emergency federal acts that are not based on a provision of the Constitution 
 
   
 popular initiatives for a total revision of the Federal Constitution;   
-a[bis].[] ...  
-b.[] popular initiatives for a partial revision of the Federal Constitution in the form of a general proposal that have been rejected by the Federal Assembly;  
+a[bis]. ...  
+b. popular initiatives for a partial revision of the Federal Constitution in the form of a general proposal that have been rejected by the Federal Assembly;  
 c. the question of whether a total revision of the Federal Constitution should be carried out, in the event that there is disagreement between the two Councils.
 
 ###### [**Art. 141** Optional referendum](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_141)
 
- [1] If within 100 days of the official publication of the enactment any 50,000 persons eligible to vote or any eight Cantons request it, the following shall be submitted to a vote of the People:[]
+ [1] If within 100 days of the official publication of the enactment any 50,000 persons eligible to vote or any eight Cantons request it, the following shall be submitted to a vote of the People:
 
   
 a. federal acts;  
@@ -1542,13 +1542,13 @@ c. federal decrees, provided the Constitution or an act so requires;
 d. international treaties that:  
 1. are of unlimited duration and may not be terminated,  
 2. provide for accession to an international organisation,  
-3.[] contain important legislative provisions or whose implementation requires the enactment of federal legislation.
+3. contain important legislative provisions or whose implementation requires the enactment of federal legislation.
 
 
 
-[2] ...[]
+[2] ...
 
-###### [**Art. 141***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_141_a)[] [Implementation of international treaties](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_141_a)
+###### [**Art. 141***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_141_a) [Implementation of international treaties](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_141_a)
 
  [1] If the decision on ratification of an international treaty is subject to a mandatory referendum, the Federal Assembly may incorporate in the decision on ratification the amendments to the Constitution that provide for the implementation of the treaty.
 
@@ -1660,9 +1660,9 @@ d. international treaties that:
 
   
 a. the validity or partial invalidity of a popular initiative;  
-b.[] the implementation of a popular initiative in the form of a general proposal that has been adopted by the People;  
-c.[] the implementation of a Federal Decree initiating a total revision of the Federal Constitution that has been approved by the People;  
-d. the budget or any amendment to it.[]
+b. the implementation of a popular initiative in the form of a general proposal that has been adopted by the People;  
+c. the implementation of a Federal Decree initiating a total revision of the Federal Constitution that has been approved by the People;  
+d. the budget or any amendment to it.
 
 ###### [**Art. 157** Joint proceedings](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_157)
 
@@ -1690,9 +1690,9 @@ c. decide on applications for pardons.
   
 a. a declaration that a federal act is urgent;  
 b. provisions on subsidies, guarantee credits or spending ceilings that involve new non-recurrent expenditure of more than 20 million francs or new recurrent expenditure of more than 2 million francs;  
-c.[] an increase in overall expenditure in the case of extraordinary financial requirements in terms of Article 126 paragraph 3.
+c. an increase in overall expenditure in the case of extraordinary financial requirements in terms of Article 126 paragraph 3.
 
-[4] The Federal Assembly may, by ordinance, adjust subsidies made in terms of paragraph 3 letter b in line with inflation.[]
+[4] The Federal Assembly may, by ordinance, adjust subsidies made in terms of paragraph 3 letter b in line with inflation.
 
 ###### [**Art. 160** Right to submit initiatives and motions](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_160)
 
@@ -1817,9 +1817,9 @@ k. Issuing pardons and deciding on amnesties.
 
 [2] The members of the Federal Council are elected by the Federal Assembly following each general election to the National Council.
 
-[3] They are elected for a term of office of four years. Any Swiss citizen eligible for election to the National Council may be elected to the Federal Council.[]
+[3] They are elected for a term of office of four years. Any Swiss citizen eligible for election to the National Council may be elected to the Federal Council.
 
-[4] In electing the Federal Council, care must be taken to ensure that the various geographical and language regions of the country are appropriately represented.[]
+[4] In electing the Federal Council, care must be taken to ensure that the various geographical and language regions of the country are appropriately represented.
 
 ###### [**Art. 176** Presidency](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_176)
 
@@ -1913,7 +1913,7 @@ d. Dealing with appeals, where the law so provides.
 
 [2] Other duties and powers may be delegated by law to the Federal Council.
 
-## [Chapter 4](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_6/chap_4)**[]** [Federal Supreme Court and other Judicial Authorities](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_6/chap_4)
+## [Chapter 4](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_6/chap_4) [Federal Supreme Court and other Judicial Authorities](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_6/chap_4)
 
  ###### [**Art. 188** Status](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_188)
 
@@ -1934,7 +1934,7 @@ c. inter-cantonal law;
 d. cantonal constitutional rights;  
 e. the autonomy of the communes and other cantonal guarantees in favour of public law corporations;  
 f. federal and cantonal provisions on political rights.  
-[1bis] ...[] 
+[1bis] ... 
 
 [2] It hears disputes between the Confederation and Cantons or between Cantons.
 
@@ -1956,7 +1956,7 @@ f. federal and cantonal provisions on political rights.
 
 4 The law may provide for a simplified procedure for appeals that are manifestly unfounded.
 
-###### [**Art. 191***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_191_a)[] [Other federal judicial authorities](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_191_a)
+###### [**Art. 191***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_191_a) [Other federal judicial authorities](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_191_a)
 
  [1] The Confederation shall appoint a criminal court, which hears at first instance criminal cases that by law come under federal jurisdiction. The law may confer further powers on the Federal Criminal Court.
 
@@ -2009,7 +2009,7 @@ f. federal and cantonal provisions on political rights.
 
 ## [Chapter 2 Transitional Provisions](https://www.fedlex.admin.ch/eli/cc/1999/404/en#tit_6/chap_2)
 
- ###### [**Art. 196** Transitional provisions in terms of the Federal Decree of 18 December 1998 on a new Federal Constitution](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_196)[]
+ ###### [**Art. 196** Transitional provisions in terms of the Federal Decree of 18 December 1998 on a new Federal Constitution](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_196)
 
  1. Transitional provision to Art. 84 (Transalpine transit traffic)
 
@@ -2037,7 +2037,7 @@ The transfer of freight transit traffic from road to rail must be completed ten 
 
 [3] The rates of the charge may be adjusted by federal act insofar as this is justified by the cost of road transport.
 
-[4] In addition, the Federal Council may adjust by ordinance the tariff category above 12 t in accordance with paragraph 2 to comply with any amendments to the weight categories contained in the Road Traffic Act of 19 December 1958[].
+[4] In addition, the Federal Council may adjust by ordinance the tariff category above 12 t in accordance with paragraph 2 to comply with any amendments to the weight categories contained in the Road Traffic Act of 19 December 1958.
 
 [5] For vehicles that are not on the road in Switzerland for the entire year, the Federal Council shall determine suitably graduated rates of the charge; it shall take account of the costs of collecting the charge.
 
@@ -2045,19 +2045,19 @@ The transfer of freight transit traffic from road to rail must be completed ten 
 
 [7] The charge may be limited or abolished by law.
 
-[8] This provision applies until the Heavy Vehicle Charge Act of 19 December 1997[] comes into force.
+[8] This provision applies until the Heavy Vehicle Charge Act of 19 December 1997 comes into force.
 
-3. Transitional provisions to Art. 86 (Use of charges for tasks and costs in connection with road transport), Art. 87 (Railways and other carriers) and Art. 87a (Railway infrastructure)*[]* 
+3. Transitional provisions to Art. 86 (Use of charges for tasks and costs in connection with road transport), Art. 87 (Railways and other carriers) and Art. 87a (Railway infrastructure) 
 
 [1] The major rail projects include the New Rail Link through the Alps (NRLA), RAIL 2000, the connection of Eastern and Western Switzerland to the European High Speed Rail Network as well as the improvement of noise protection along railway lines through active and passive measures.
 
-[2] Until the interest payments and repayments on the advances made to the fund in accordance with Article 87*a* paragraph 2 have been made in full, the monies in accordance with Article 86 paragraph 2 letter e shall be allocated to the special finance programme for road transport in accordance with Article 86 paragraph 4 instead of the fund in accordance with Article 86 paragraph 2.[]
+[2] Until the interest payments and repayments on the advances made to the fund in accordance with Article 87*a* paragraph 2 have been made in full, the monies in accordance with Article 86 paragraph 2 letter e shall be allocated to the special finance programme for road transport in accordance with Article 86 paragraph 4 instead of the fund in accordance with Article 86 paragraph 2.
 
-[2bis ]In order to finance railway infrastructure and thereafter to finance the interest and repayments on the advances made to the fund in accordance with Article 87*a* paragraph 2, the Federal Council may use monies in accordance with paragraph 2 until 31 December 2018. The monies shall be calculated in accordance with Article 86 paragraph 2 letter e.[]
+[2bis]In order to finance railway infrastructure and thereafter to finance the interest and repayments on the advances made to the fund in accordance with Article 87*a* paragraph 2, the Federal Council may use monies in accordance with paragraph 2 until 31 December 2018. The monies shall be calculated in accordance with Article 86 paragraph 2 letter e.
 
-[2ter] The percentage in accordance with Article 86 paragraph 2 letter f applies from two years after this provision comes into force. Prior to that, it shall be 5 per cent.[]
+[2ter] The percentage in accordance with Article 86 paragraph 2 letter f applies from two years after this provision comes into force. Prior to that, it shall be 5 per cent.
 
-[3] The financing of the major rail projects in accordance with paragraph 1 shall be carried out through the fund under Article 87*a* paragraph 2.[]
+[3] The financing of the major rail projects in accordance with paragraph 1 shall be carried out through the fund under Article 87*a* paragraph 2.
 
 [4] The four major rail projects in terms of paragraph 1 shall be adopted by federal acts. Proof must be established of the necessity and readiness for implementation For each major project in its entirety. In the case of the NRLA project, each of the construction phases shall form the subject matter of a federal act. The Federal Assembly shall approve the required financing through guarantee credits. The Federal Council shall approve the construction phases and determine the time schedule.
 
@@ -2081,67 +2081,67 @@ Until the enactment of federal legislation, the Cantons must mutually recognise 
 
 For no more than ten years from the date on which the Constitution comes into force, the Cantons may retain existing regulations that make the opening of new businesses dependent on establishing a need, in order to guarantee the existence of important parts of a specific branch of the hotel and restaurant industry.
 
-8.*[]* ...
+8. ...
 
 9. Transitional provision to Art. 110 para. 3 (National Day of the Swiss Confederation)
 
 [1] Until the amended federal legislation comes into force, the Federal Council shall regulate the details.
 
-[2] The National Day of the Swiss Confederation shall not be included in the calculation of the number the public holidays in accordance with Article 18 paragraph 2 of the Employment Act of 13 March 1964[].
+[2] The National Day of the Swiss Confederation shall not be included in the calculation of the number the public holidays in accordance with Article 18 paragraph 2 of the Employment Act of 13 March 1964.
 
-*10.*[] ...
+*10.* ...
 
 11. Transitional provision to Art. 113 (Occupational Pension Scheme)
 
 Insured persons who belong to the generation working at the time of the introduction of the occupational pension scheme and therefore do not contribute for the full period shall receive the statutory minimum benefits, according to their income, within 10 to 20 years of the Act coming into force.
 
-12.*[]* ...
+12. ...
 
-13.*[]* Transitional provision to Art. 128 (Duration of tax levy)
+13. Transitional provision to Art. 128 (Duration of tax levy)
 
 The power to levy the direct federal tax shall be limited until the end of 2035.
 
-14.*[]* Transitional provision to Art. 130 (Value Added Tax)*[]*
+14. Transitional provision to Art. 130 (Value Added Tax)
 
-[1] The power to levy value added tax is limited until the end of 2035.[]
+[1] The power to levy value added tax is limited until the end of 2035.
 
 [2] In order to guarantee the funding of invalidity insurance, the Federal Council shall raise the value added tax rates from 1 January 2011 until 31 December 2017 as follows: ...
 
-[3] The revenue from the increase in rates in accordance with paragraph 2 will be allocated in full to the Compensation Fund for Invalidity Insurance.[]
+[3] The revenue from the increase in rates in accordance with paragraph 2 will be allocated in full to the Compensation Fund for Invalidity Insurance.
 
-[4] In order to secure the financing of railway infrastructure, the Federal Council shall raise the tax rates under Article 25 of the Value Added Tax Act of 12 June 2009[] from 1 January 2018 by 0.1 of a percentage point, in the event of an extension of the time limit under paragraph 1 until 31 December 2030 at the latest.[]
+[4] In order to secure the financing of railway infrastructure, the Federal Council shall raise the tax rates under Article 25 of the Value Added Tax Act of 12 June 2009 from 1 January 2018 by 0.1 of a percentage point, in the event of an extension of the time limit under paragraph 1 until 31 December 2030 at the latest.
 
-[5] The entire revenue from the increase under paragraph 4 shall be allocated to the fund under Article 87*a*.[]
+[5] The entire revenue from the increase under paragraph 4 shall be allocated to the fund under Article 87*a*.
 
-15.*[]* ...
+15. ...
 
-*16*.[] ...
+*16*. ...
 
-###### [**Art. 197**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_197)[] [Transitional provisions following the adoption of the Federal Constitution of 18 April 1999](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_197)
+###### [**Art. 197**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_197) [Transitional provisions following the adoption of the Federal Constitution of 18 April 1999](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_197)
 
  1. Accession of Switzerland to the United Nations
 
 [1] Switzerland shall accede to the United Nations.
 
-[2] The Federal Council shall be authorised to submit an application to the Secretary General of the United Nations (UN) requesting Switzerland’s accession to the organisation, together with a declaration on the acceptance of the obligations contained in the UN Charter[].
+[2] The Federal Council shall be authorised to submit an application to the Secretary General of the United Nations (UN) requesting Switzerland’s accession to the organisation, together with a declaration on the acceptance of the obligations contained in the UN Charter.
 
-2.*[]* Transitional provision to Art. 62 (School education)
+2. Transitional provision to Art. 62 (School education)
 
-From the date on which the Federal Decree of 3 October 2003[] on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons comes into force, the Cantons shall, until they have their own approved special-needs school strategies, but for a minimum of three years, assume responsibility for the current payments made by the Invalidity Insurance for special needs education (including the special needs pre-school education in accordance with Art. 19 of the Federal Act of 19 June 1959[] on Invalidity Insurance).
+From the date on which the Federal Decree of 3 October 2003 on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons comes into force, the Cantons shall, until they have their own approved special-needs school strategies, but for a minimum of three years, assume responsibility for the current payments made by the Invalidity Insurance for special needs education (including the special needs pre-school education in accordance with Art. 19 of the Federal Act of 19 June 1959 on Invalidity Insurance).
 
-3.*[]* Transitional provision to Art. 83 (National highways)
+3. Transitional provision to Art. 83 (National highways)
 
-The Cantons shall construct the national highways listed in the Federal Decree of 21 June 1960[] on the National Highway Network (in its version valid on the commencement of the Federal Decree of 3 Oct. 2003[] on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons) in accordance with the regulations of and subject to the oversight of the Confederation. The Confederation and Cantons shall share the costs. The share of the costs borne by the individual Cantons shall be determined by the burden imposed on them by the national highways, their interest in these highways, and their financial capacity.
+The Cantons shall construct the national highways listed in the Federal Decree of 21 June 1960 on the National Highway Network (in its version valid on the commencement of the Federal Decree of 3 Oct. 2003 on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons) in accordance with the regulations of and subject to the oversight of the Confederation. The Confederation and Cantons shall share the costs. The share of the costs borne by the individual Cantons shall be determined by the burden imposed on them by the national highways, their interest in these highways, and their financial capacity.
 
-4.*[]* Transitional provision to Art. 112b (Promoting the rehabilitation of people eligible for invalidity benefits)
+4. Transitional provision to Art. 112b (Promoting the rehabilitation of people eligible for invalidity benefits)
 
-From the date on which the Federal Decree of 3 October 2003[] on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons comes into force, the Cantons shall assume responsibility for the current payments made by the Invalidity Insurance to institutions, workshops and residential homes until they have an approved strategy on people with disabilities that also regulates the granting of cantonal contributions towards the construction and running of institutions that accept residents from outside the relevant canton, but for a minimum of three years.
+From the date on which the Federal Decree of 3 October 2003 on the New System of Financial Equalisation and the Allocation of Tasks between the Confederation and Cantons comes into force, the Cantons shall assume responsibility for the current payments made by the Invalidity Insurance to institutions, workshops and residential homes until they have an approved strategy on people with disabilities that also regulates the granting of cantonal contributions towards the construction and running of institutions that accept residents from outside the relevant canton, but for a minimum of three years.
 
-5.*[]* Transitional provision to Art. 112c (Aid for elderly people and people with disabilities)
+5. Transitional provision to Art. 112c (Aid for elderly people and people with disabilities)
 
-The current payments under Article 101[bis] of the Federal Act of 20 December 1946*[]* on the Old-Age and Survivors’ Insurance for assistance and care in the home for elderly people and people with disabilities shall continue to be paid by the Cantons until cantonal regulations on the financing of assistance and care in the home come into force.
+The current payments under Article 101[bis] of the Federal Act of 20 December 1946 on the Old-Age and Survivors’ Insurance for assistance and care in the home for elderly people and people with disabilities shall continue to be paid by the Cantons until cantonal regulations on the financing of assistance and care in the home come into force.
 
-7.*[]* Transitional Provision to Art. 120 (Non-human gene technology)
+7. Transitional Provision to Art. 120 (Non-human gene technology)
 
 Swiss agriculture shall remain free of gene technology for a period of five years following the adoption of this constitutional provision. In particular, the following may neither be imported nor placed on the market:
 
@@ -2149,46 +2149,46 @@ Swiss agriculture shall remain free of gene technology for a period of five year
 a. genetically modified plants that are capable of propagation, parts of plants and seeds that are intended for agricultural, horticultural or forestry use in the environment;  
 b. genetically modified animals that are intended for the production of foodstuffs and other agricultural products.
 
-8.*[]* Transitional provision to Art. 121 (Residence and Permanent Settlement of Foreign Nationals)
+8. Transitional provision to Art. 121 (Residence and Permanent Settlement of Foreign Nationals)
 
 The legislature must define and add to the offences covered by Article 121 paragraph 3 and issue the criminal provisions relating to illegal entry in accordance with Article 121 paragraph 6 within five years of the adoption of Article 121 paragraphs 3–6 by the People and the Cantons.
 
-9.*[]* Transitional provision to Art. 75b (Second homes)
+9. Transitional provision to Art. 75b (Second homes)
 
 [1] If the relevant legislation does not come into force within two years of the adoption of Article 75*b*, the Federal Council shall issue the required implementing provisions on construction, sale and recording in the land register by ordinance.
 
 [2] Building permits for second homes granted between 1 January of the year following the adoption of Article 75*b* and the date on which the implementing provisions come into force shall be null and void.
 
-10.*[]* Transitional provision to Art. 95 para. 3
+10. Transitional provision to Art. 95 para. 3
 
 Until the statutory provisions come into force, the Federal Council shall issue the required implementing provisions within one year of the adoption of Article 95 paragraph 3 by the People and the Cantons.
 
-11.*[]* Transitional provision to Art. 121a (Control of immigration)
+11. Transitional provision to Art. 121a (Control of immigration)
 
-[1] International agreements that contradict Article 121*a* must be renegotiated and amended within three years of its adoption by the People and the Cantons.
+ International agreements that contradict Article 121*a* must be renegotiated and amended within three years of its adoption by the People and the Cantons.
 
-[2] If the implementing legislation for Article 121*a* has not come into force within three years of its adoption by the People and the Cantons, the Federal Council shall issue temporary implementing provisions in the form of an ordinance.
+ If the implementing legislation for Article 121*a* has not come into force within three years of its adoption by the People and the Cantons, the Federal Council shall issue temporary implementing provisions in the form of an ordinance.
 
-12.*[]* Transitional provision to Art. 10a   
+12. Transitional provision to Art. 10a   
 (Ban on covering the face)
 
 The implementing legislation for Article 10*a* must be drawn up within two years of its adoption by the People and the Cantons.
 
-Commencement Date: 1 January 2000[]
+Commencement Date: 1 January 2000
 
 # [Final Provisions of the Federal Decree of 18 December 1998](https://www.fedlex.admin.ch/eli/cc/1999/404/en#disp_1)
 
 II
 
-[1] The Federal Constitution of the Swiss Confederation of 29 May 1874[] is repealed.
+[1] The Federal Constitution of the Swiss Confederation of 29 May 1874 is repealed.
 
 [2] The following provisions of the Federal Constitution, which must be re-enacted as statute law, continue to apply until the corresponding statutory provisions come into force:
 
-a. Art. 32[quater] para. 6*[]*
+a. Art. 32[quater] para. 6
 
 Hawking and other forms of itinerant sale of spirits are prohibited.
 
-b. Art. 36[quinquies] para. 1 first sentence, 2 second–last sentence and 4 second sentence*[]*
+b. Art. 36[quinquies] para. 1 first sentence, 2 second–last sentence and 4 second sentence
 
 [1] For the use of first and second class national highways, the Confederation shall levy an annual charge of 40 francs on each Swiss and foreign motor vehicle and trailer with a total weight not exceeding 3.5 tonnes. ...
 
@@ -2196,7 +2196,7 @@ b. Art. 36[quinquies] para. 1 first sentence, 2 second–last sentence and 4 sec
 
 [4] ... The charge may be extended by federal act to further categories of vehicle that are not liable to pay the heavy vehicle charge.
 
-c. Art. 121[bis] para. 1, 2 and para. 3 first and second sentence*[]*
+c. Art. 121[bis] para. 1, 2 and para. 3 first and second sentence
 
 [1] If the Federal Assembly decides to submit a counter-proposal, voters shall be asked three questions on the same ballot paper. Each voter has the unrestricted right to state:
 

@@ -10,8 +10,8 @@ of 19 December 2008 (Status as of 1 January 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Article 122 paragraph 1 of the Federal Constitution[],  
-and having considered the Federal Council Dispatch of 28 June 2006[],
+based on Article 122 paragraph 1 of the Federal Constitution,  
+and having considered the Federal Council Dispatch of 28 June 2006,
 
 decrees:
 
@@ -31,7 +31,7 @@ d. arbitration.
 
 ###### [**Art. 2** International matters](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_2)
 
- The provisions of international treaties and of the Federal Act of 18 December 1987[] on Private International Law (PILA) are reserved.
+ The provisions of international treaties and of the Federal Act of 18 December 1987 on Private International Law (PILA) are reserved.
 
 ###### [**Art. 3** Organisation of the courts and the conciliation authorities](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_3)
 
@@ -55,12 +55,12 @@ d. arbitration.
 a. disputes in connection with intellectual property rights, including disputes concerning the nullity, ownership, licensing, transfer and violation of such rights;  
 b. cartel law disputes;  
 c. disputes on the use of a business name;  
-d. disputes under the Unfair Competition Act of 19 December 1986[] if the amount in dispute exceeds 30,000 francs or if the Confederation exercises its right to file an action;  
-e. disputes under the Nuclear Energy Public Liability Act of 18 March 1983[];  
+d. disputes under the Unfair Competition Act of 19 December 1986 if the amount in dispute exceeds 30,000 francs or if the Confederation exercises its right to file an action;  
+e. disputes under the Nuclear Energy Public Liability Act of 18 March 1983;  
 f. claims against the Confederation;  
-g. the designation of a special comptroller by virtue of Article 697*b* of the Code of Obligations (CO)[];  
-h.[] disputes under the Collective Investment Schemes Act of 23 June 2006[], the Financial Market Infrastructure Act of 19 June 2015[] and the Financial Institutions Act of 15 June 2018[];  
-i.[] disputes under the Coat of Arms Protection Act of 21 June 2013[], the Federal Act of 25 March 1954[] on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961[] on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
+g. the designation of a special comptroller by virtue of Article 697*b* of the Code of Obligations (CO);  
+h. disputes under the Collective Investment Schemes Act of 23 June 2006, the Financial Market Infrastructure Act of 19 June 2015 and the Financial Institutions Act of 15 June 2018;  
+i. disputes under the Coat of Arms Protection Act of 21 June 2013, the Federal Act of 25 March 1954 on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961 on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
 
 [2] This court is also competent to order interim measures before an action is pending.
 
@@ -87,7 +87,7 @@ b. the disputes relating to the law of commercial companies and cooperatives.
 
 ###### [**Art. 7** Disputes concerning insurance supplementary to social health insurance](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_7)
 
- The cantons may designate a court that has jurisdiction as sole cantonal instance for disputes relating to insurance supplementary to social health insurance under the Federal Act of 18 March 1994[] on Health Insurance.
+ The cantons may designate a court that has jurisdiction as sole cantonal instance for disputes relating to insurance supplementary to social health insurance under the Federal Act of 18 March 1994 on Health Insurance.
 
 ###### [**Art. 8** Direct action before the higher court](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_8)
 
@@ -115,7 +115,7 @@ b. for actions against legal entities, public corporations and institutions as w
 c. for actions against the Confederation: the Supreme Court of the Canton of Bern or the supreme court of the canton where the plaintiff's domicile, registered office or habitual residence is located;  
 d. for actions against a canton: a court in the canton's capital.
 
-[2] Domicile is determined in accordance with the Civil Code (CC)[]. Article 24 CC does not apply.
+[2] Domicile is determined in accordance with the Civil Code (CC). Article 24 CC does not apply.
 
 ###### [**Art. 11** Residence](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_11)
 
@@ -177,11 +177,11 @@ b. the court at the place where the measure is to be enforced.
 a. actions based on an invasion of the personal privacy;  
 b. requests for a right of reply;  
 c. actions for name protection and actions challenging a name change;  
-d. actions and requests based on Article 15 of the Federal Act of 19 June 1992[] on Data Protection.
+d. actions and requests based on Article 15 of the Federal Act of 19 June 1992 on Data Protection.
 
 ###### [**Art. 21** Declaration of death and declaration of presumed death](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_21)
 
- The court at the last known domicile of the missing person has mandatory jurisdiction over applications relating to a declaration of death or declaration of presumed death (Art. 34 to 38 CC[]).
+ The court at the last known domicile of the missing person has mandatory jurisdiction over applications relating to a declaration of death or declaration of presumed death (Art. 34 to 38 CC).
 
 ###### [**Art. 22** Modification of the civil register](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_22)
 
@@ -268,7 +268,7 @@ b. for actions brought by the supplier: the court at the domicile of the defenda
 
  [1] The court at the domicile or registered office of the defendant or where the employee normally carries out his or her work has jurisdiction to decide actions relating to employment law.
 
-[2] If a job applicant or an employee brings an action based on the Recruitment Act of 6 October 1989[], the court at the place of the business establishment of the recruitment or hiring agent with whom the contract was concluded also has jurisdiction.
+[2] If a job applicant or an employee brings an action based on the Recruitment Act of 6 October 1989, the court at the place of the business establishment of the recruitment or hiring agent with whom the contract was concluded also has jurisdiction.
 
 ###### [**Art. 35** Waiver of statutory jurisdiction](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_35)
 
@@ -296,7 +296,7 @@ d. the person seeking employment or the employee.
 
  [1] The court at the domicile or registered office of the defendant or at the place of the accident has jurisdiction to decide actions resulting from motor vehicle and bicycle accidents.
 
-[2] Actions against the Swiss National Bureau of Insurance (Art. 74 of the Road Traffic Act of 19 December 1958[]; RTA) or against the Swiss National Guarantee Fund (Art. 76 RTA) may also be brought before the court at the place of any branch of such institutions.
+[2] Actions against the Swiss National Bureau of Insurance (Art. 74 of the Road Traffic Act of 19 December 1958; RTA) or against the Swiss National Guarantee Fund (Art. 76 RTA) may also be brought before the court at the place of any branch of such institutions.
 
 ###### [**Art. 39** Incidental civil claim](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_39)
 
@@ -304,17 +304,17 @@ d. the person seeking employment or the employee.
 
 #### [Section 8 Commercial Law](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_1/tit_2/chap_2/sec_8)
 
- ###### [**Art. 40** Company law and the commercial register](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_40)[]
+ ###### [**Art. 40** Company law and the commercial register](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_40)
 
  [1] The court at the domicile or registered office of the defendant or the court at the registered office of the company has jurisdiction to decide actions concerning liability in company law.
 
-[2] The court at the last registered office of the deleted legal entity has mandatory jurisdiction over the reinstatement of a deleted legal entity in the commercial register.[]
+[2] The court at the last registered office of the deleted legal entity has mandatory jurisdiction over the reinstatement of a deleted legal entity in the commercial register.
 
-###### [**Art. 41**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_41)[]
+###### [**Art. 41**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_41)
 
 ###### [**Art. 42** Mergers, demergers, transformations, transfers of assets and liabilities](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_42)
 
- The court at the registered office of one of the involved entities has jurisdiction to decide actions relating to the Mergers Act of 3 October 2003[].
+ The court at the registered office of one of the involved entities has jurisdiction to decide actions relating to the Mergers Act of 3 October 2003.
 
 ###### [**Art. 43** Cancellation of securities and insurance policies, injunction against payment](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_43)
 
@@ -328,7 +328,7 @@ d. the person seeking employment or the employee.
 
 ###### [**Art. 44** Bonds](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_44)
 
- The place of jurisdiction for the authorisation to convene a creditors' meeting is governed by Article 1165 CO[].
+ The place of jurisdiction for the authorisation to convene a creditors' meeting is governed by Article 1165 CO.
 
 ###### [**Art. 45** Collective investment schemes](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_45)
 
@@ -338,7 +338,7 @@ d. the person seeking employment or the employee.
 
  ###### [**Art. 46**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_46)
 
-The place of jurisdiction for actions under the Federal Act of 11 April 1889[] on Debt Enforcement and Bankruptcy (DEBA) is determined by this chapter unless the DEBA provides for a place of jurisdiction.
+The place of jurisdiction for actions under the Federal Act of 11 April 1889 on Debt Enforcement and Bankruptcy (DEBA) is determined by this chapter unless the DEBA provides for a place of jurisdiction.
 
 ### [Chapter 3 Recusal](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_1/tit_2/chap_3)
 
@@ -359,7 +359,7 @@ f. they may not be impartial for other reasons, notably due to friendship or enm
   
 a. the decision on legal aid;  
 b. the conciliation proceedings;  
-c. the setting aside of an objection under Articles 80 to 84 DEBA[];  
+c. the setting aside of an objection under Articles 80 to 84 DEBA;  
 d. the ordering of interim measures;  
 e. proceedings for protection of the marital union.
 
@@ -474,7 +474,7 @@ c. the arbitral tribunal cannot be constituted for reasons that are manifestly a
 
 [2] The same applies if the claim was not filed under the proper procedure.
 
-[3] The special statutory deadlines for filing actions under the DEBA[] are reserved.
+[3] The special statutory deadlines for filing actions under the DEBA are reserved.
 
 ###### [**Art. 64** Effects of pendency](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_64)
 
@@ -519,9 +519,9 @@ b. temporarily take the acts necessary in cases of imminent danger.
 [2] The following persons are allowed to act as professional representatives:
 
   
-a. in all proceedings: lawyers admitted to represent parties before Swiss courts under the Lawyers Act of 23 June 2000[];  
+a. in all proceedings: lawyers admitted to represent parties before Swiss courts under the Lawyers Act of 23 June 2000;  
 b. before the conciliation authorities, in financial disputes under the simplified procedure and in cases under the summary procedure: licensed administrators and legal agents if provided for by cantonal law;  
-c. in cases under the summary procedure in accordance with Article 251 of this Code: professional representatives under Article 27 DEBA[];  
+c. in cases under the summary procedure in accordance with Article 251 of this Code: professional representatives under Article 27 DEBA;  
 d. before the special courts for tenancy matters and for employment matters: professionally qualified representatives if provided for by cantonal law.
 
 [3] The representative must prove his or her authority by power of attorney.
@@ -532,7 +532,7 @@ d. before the special courts for tenancy matters and for employment matters: pro
 
  [1] If a party is manifestly unable to appear, the court may invite that party to appoint a representative. If the party does not comply within the set deadline, a representative shall be appointed by the court.
 
-[2] The court shall notify the Adult and Child Protection Authority if protective measures are deemed necessary.[]
+[2] The court shall notify the Adult and Child Protection Authority if protective measures are deemed necessary.
 
 ### [Chapter 3 Joinder of Parties](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_1/tit_5/chap_3)
 
@@ -841,7 +841,7 @@ c. in family law proceedings;
 d. in proceedings relating to a registered partnership;  
 e. if the proceedings are dismissed as groundless and the law does not provide otherwise;  
 f. if there are other extraordinary circumstances that would result in an allocation according to the outcome of the case being inequitable.  
-[1bis] In the event of the dismissal of actions under company law for performance to the company, the court may at its discretion apportion the procedural costs between the company and the plaintiff.[] 
+[1bis] In the event of the dismissal of actions under company law for performance to the company, the court may at its discretion apportion the procedural costs between the company and the plaintiff. 
 
 [2] Court costs that are not attributable to any party or third party may be charged to the canton if equitable.
 
@@ -888,30 +888,30 @@ b. if, in terms of the settlement, the costs are charged solely to a party that 
 [2] No court costs are charged in disputes:
 
   
-a. relating to the Gender Equality Act of 24 March 1995[];  
-b. relating to the Disability Discrimination Act of 13 December 2002[];  
+a. relating to the Gender Equality Act of 24 March 1995;  
+b. relating to the Disability Discrimination Act of 13 December 2002;  
 c. relating to the rental and lease of residential and business property or the lease of agricultural property;  
-d. relating to an employment contract or the Recruitment Act of 6 October 1989[] up to an amount in dispute of 30,000 francs;  
-e. relating to the Participation Act of 17 December 1993[];  
-f. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[] on Health Insurance.
+d. relating to an employment contract or the Recruitment Act of 6 October 1989 up to an amount in dispute of 30,000 francs;  
+e. relating to the Participation Act of 17 December 1993;  
+f. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994 on Health Insurance.
 
 ###### [**Art. 114** Litigation proceedings](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_114)
 
  In litigation proceedings, no court costs are charged in disputes:
 
   
-a. relating to the Gender Equality Act of 24 March 1995[];  
-b. relating to the Disability Discrimination Act of 13 December 2002[];  
-c. relating to an employment contract or the Recruitment Act of 6 October 1989[] up to an amount in dispute of 30,000 francs;  
-d. relating to the Participation Act of 17 December 1993[];  
-e. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[] on Health Insurance;  
-f.[] because of violence, threats or harassment under Article 28*b* SCC[] or relating to electronic surveillance under Article 28*c* SCC.
+a. relating to the Gender Equality Act of 24 March 1995;  
+b. relating to the Disability Discrimination Act of 13 December 2002;  
+c. relating to an employment contract or the Recruitment Act of 6 October 1989 up to an amount in dispute of 30,000 francs;  
+d. relating to the Participation Act of 17 December 1993;  
+e. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994 on Health Insurance;  
+f. because of violence, threats or harassment under Article 28*b* SCC or relating to electronic surveillance under Article 28*c* SCC.
 
 ###### [**Art. 115** Obligation to bear costs](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_115)
 
  [1] Court costs may also be charged in cost-free proceedings to a party who proceeds in a vexatious manner or in bad faith.
 
-[2] In the case of litigation relating to Article 114 letter f, court costs may also be charged to the unsuccessful party if a prohibition pursuant to Article 28*b* SCC[] or electronic surveillance pursuant to Article 28*c* SCC is ordered against them.[]
+[2] In the case of litigation relating to Article 114 letter f, court costs may also be charged to the unsuccessful party if a prohibition pursuant to Article 28*b* SCC or electronic surveillance pursuant to Article 28*c* SCC is ordered against them.
 
 ###### [**Art. 116** Exemption under cantonal law](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_116)
 
@@ -1036,11 +1036,11 @@ The proceedings shall be held in the official language of the canton in which th
 
 #### [Section 2 Party Submissions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_1/tit_9/chap_2/sec_2)
 
- ###### [**Art. 130**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_130)[] [Form](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_130)
+ ###### [**Art. 130**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_130) [Form](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_130)
 
  [1] Submissions must be filed with the court in the form of paper documents or electronically. They must be signed.
 
-[2] In the case of electronic submission, the submission and its enclosures must bear a qualified electronic signature in accordance with the Federal Act of 18 March 2016[[]] on Electronic Signatures. The Federal Council shall regulate:
+[2] In the case of electronic submission, the submission and its enclosures must bear a qualified electronic signature in accordance with the Federal Act of 18 March 2016 on Electronic Signatures. The Federal Council shall regulate:
 
   
 a. the format for submissions and their attachments;  
@@ -1115,9 +1115,9 @@ b. in the case of personal service if the addressee refuses to accept service an
 
 [4] Other documents may be served by regular mail.
 
-###### [**Art. 139**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_139)[] [Electronic service](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_139)
+###### [**Art. 139**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_139) [Electronic service](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_139)
 
- [1] With the consent of the person concerned, summonses, rulings and decisions may be served electronically. They must bear an electronic signature in accordance with the Federal Act of 18 March 2016[] on Electronic Signatures.
+ [1] With the consent of the person concerned, summonses, rulings and decisions may be served electronically. They must bear an electronic signature in accordance with the Federal Act of 18 March 2016 on Electronic Signatures.
 
 [2] The Federal Council regulates:
 
@@ -1161,7 +1161,7 @@ c. if a party with domicile or registered office abroad has not provided a domic
 
  [1] Submissions must be filed no later than the last day of the limitation period, either by filing with the court or by handing over to Swiss Post or a diplomatic mission or consular office of Switzerland for forwarding on to the court.
 
-[2] In case of electronic submission, the relevant time for compliance with a deadline is that at which the receipt is issued that confirms that all the steps have been completed that the party must carry out for transmission.[]
+[2] In case of electronic submission, the relevant time for compliance with a deadline is that at which the receipt is issued that confirms that all the steps have been completed that the party must carry out for transmission.
 
 [3] Payment to the court is made within the deadline if the funds are handed over to Swiss Post in favour of the court or debited from a postal or bank account in Switzerland no later than on the last day of the limitation period.
 
@@ -1188,7 +1188,7 @@ b. in summary proceedings.
 
 [3] Parties must be made aware of the exceptions provided in paragraph 2 above.
 
-[4] The provisions of the DEBA[] on debt enforcement holidays and suspension are reserved.
+[4] The provisions of the DEBA on debt enforcement holidays and suspension are reserved.
 
 ###### [**Art. 146** Effects of suspension](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_146)
 
@@ -1288,10 +1288,10 @@ b. the applicant shows credibly that the evidence is at risk or that it has a le
 
   
 a. to make a truthful deposition as a party or a witness;  
-b.[] to produce the physical records, with the exception of documents forming correspondence between a party or a third party and a lawyer who is entitled to act as a professional representative, or with a patent attorney as defined in Article 2 of the Patent Attorney Act of 20 March 2009[];  
+b. to produce the physical records, with the exception of documents forming correspondence between a party or a third party and a lawyer who is entitled to act as a professional representative, or with a patent attorney as defined in Article 2 of the Patent Attorney Act of 20 March 2009;  
 c. to allow an examination of their person or property by an expert.
 
-[2] The court has free discretion to decide on the duty of minors to cooperate.[] It shall take account of the child's welfare.
+[2] The court has free discretion to decide on the duty of minors to cooperate. It shall take account of the child's welfare.
 
 [3] Third parties that are under a duty to cooperate are entitled to reasonable compensation.
 
@@ -1313,7 +1313,7 @@ c. to allow an examination of their person or property by an expert.
 
   
 a. the taking of evidence would expose a close associate as defined in Article 165 to criminal prosecution or civil liability;  
-b. the disclosure of a secret would be an offence under Article 321 of the Swiss Criminal Code (SCC)[]; the foregoing does not apply to auditors; Article 166 paragraph 1 letter b third subset applies by analogy.
+b. the disclosure of a secret would be an offence under Article 321 of the Swiss Criminal Code (SCC); the foregoing does not apply to auditors; Article 166 paragraph 1 letter b third subset applies by analogy.
 
 [2] Other confidants entrusted with legally protected secrets may refuse to cooperate if they credibly demonstrate that the interest in keeping the secret outweighs the interest in finding the truth.
 
@@ -1332,7 +1332,7 @@ a. any person who is or was married to or cohabits with a party;
 b. any person who has a child with a party;  
 c. any person who is related to a party by birth or marriage in direct line or collaterally up to the third degree;  
 d. the foster parents, foster children and foster siblings of a party;  
-e.[] the person appointed guardian or deputy for a party.
+e. the person appointed guardian or deputy for a party.
 
 [2] A registered partnership is deemed equivalent to marriage.
 
@@ -1344,9 +1344,9 @@ e.[] the person appointed guardian or deputy for a party.
 
   
 a. in establishing facts that would expose him or her or a close associate as defined in Article 165 to criminal prosecution or civil liability;  
-b. to the extent that the revelation of a secret would be punishable by virtue of Article 321 SCC[]; auditors excepted; however, with the exception of lawyers and clerics, third parties must cooperate if they are subject to a disclosure duty or if they have been released from duty of secrecy, unless they show credibly that the interest in keeping the secret takes precedence over the interest in finding the truth;  
-c. in establishing facts that have been confided in him or her in his or her official capacity as public official as defined in Article 110 paragraph 3[] SCC or as a member of a public authority, or facts that have come to his or her attention in exercising his or her office; he or she must cooperate if he or she is subject to a disclosure duty or if he or she has been authorised to testify by his or her superior authority;  
-d.[] when asked to testify as an ombudsperson, marriage or family counsellor or mediator on facts that have come to his or her attention in the course of his or her activities;  
+b. to the extent that the revelation of a secret would be punishable by virtue of Article 321 SCC; auditors excepted; however, with the exception of lawyers and clerics, third parties must cooperate if they are subject to a disclosure duty or if they have been released from duty of secrecy, unless they show credibly that the interest in keeping the secret takes precedence over the interest in finding the truth;  
+c. in establishing facts that have been confided in him or her in his or her official capacity as public official as defined in Article 110 paragraph 3 SCC or as a member of a public authority, or facts that have come to his or her attention in exercising his or her office; he or she must cooperate if he or she is subject to a disclosure duty or if he or she has been authorised to testify by his or her superior authority;  
+d. when asked to testify as an ombudsperson, marriage or family counsellor or mediator on facts that have come to his or her attention in the course of his or her activities;  
 e. when asked in his or her capacity as professional or auxiliary person engaged in the publication of information in the editorial part of a periodical to reveal the identity of the author or the content or source of his or her information.
 
 [2] The confidants of other legally protected secrets may refuse to cooperate if they show credibly that the interest in keeping the secret outweighs the interest in establishing the truth.
@@ -1359,7 +1359,7 @@ e. when asked in his or her capacity as professional or auxiliary person engaged
 
   
 a. impose a disciplinary fine up to 1,000 francs;  
-b. threaten sanctions under Article 292 SCC[];  
+b. threaten sanctions under Article 292 SCC;  
 c. order the use of compulsory measures;  
 d. charge the third party the costs caused by the refusal.
 
@@ -1401,7 +1401,7 @@ f. questioning and statements of the parties.
 
 ###### [**Art. 171** Form of statement](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_171)
 
- [1] A witness shall be cautioned as to the requirement to tell the truth before being questioned; if at least 14 years of age, the witness shall also advised of the criminal consequences of perjury (Art. 307 SCC[]).
+ [1] A witness shall be cautioned as to the requirement to tell the truth before being questioned; if at least 14 years of age, the witness shall also advised of the criminal consequences of perjury (Art. 307 SCC).
 
 [2] The court shall question each witness individually with no other witnesses present; the foregoing is subject to the provisions on confrontation.
 
@@ -1432,11 +1432,11 @@ c. to state the facts of the case as they have observed them.
 
 ###### [**Art. 176** Transcript](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_176)
 
- [1] The essential details of the statement shall be placed on record, which is then read out or given to the witness to read and thereafter signed by the witness. Additional questions requested by the parties that have been rejected are also recorded if a party so requests.[]
+ [1] The essential details of the statement shall be placed on record, which is then read out or given to the witness to read and thereafter signed by the witness. Additional questions requested by the parties that have been rejected are also recorded if a party so requests.
 
 [2] In addition, the statement may be recorded on tape, by video or by other appropriate technical aids.
 
-[3] If statements are recorded during a hearing using technical aids in accordance with 2, the court or the examining member of the court may dispense with reading the transcript back to the person examined and or giving that person the transcript to read and sign. The recordings are placed in the case files together with the transcript.[]
+[3] If statements are recorded during a hearing using technical aids in accordance with 2, the court or the examining member of the court may dispense with reading the transcript back to the person examined and or giving that person the transcript to read and sign. The recordings are placed in the case files together with the transcript.
 
 #### [Section 3 Physical Records](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_1/tit_10/chap_3/sec_3)
 
@@ -1486,7 +1486,7 @@ c. to state the facts of the case as they have observed them.
 
  [1] The expert must tell the truth and must submit his or her opinion within the set deadline.
 
-[2] The court shall caution the expert as to the criminal consequences of perjury by an expert witness in terms of Article 307 SCC[] and of a breach of official secrecy under Article 320 SCC as well as the consequences of default or failure to perform the mandate adequately.
+[2] The court shall caution the expert as to the criminal consequences of perjury by an expert witness in terms of Article 307 SCC and of a breach of official secrecy under Article 320 SCC as well as the consequences of default or failure to perform the mandate adequately.
 
 [3] The expert is entitled to a fee. The decision of the court on the fee may be challenged by way of objection.
 
@@ -1553,7 +1553,7 @@ c. the opinion has been stated in an impartial manner and is not manifestly inco
 
  [1] The court may *ex officio* order one or both parties to give evidence subject to criminal penalties for failure to do so.
 
-[2] Before giving evidence, the parties shall be cautioned that they must tell the truth and advised of the criminal consequences of perjury (Art. 306 SCC[]).
+[2] Before giving evidence, the parties shall be cautioned that they must tell the truth and advised of the criminal consequences of perjury (Art. 306 SCC).
 
 ###### [**Art. 193** Record](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_193)
 
@@ -1565,7 +1565,7 @@ c. the opinion has been stated in an impartial manner and is not manifestly inco
 
  [1] Courts are obliged to provide mutual assistance.
 
-[2] They shall correspond directly with each other[].
+[2] They shall correspond directly with each other.
 
 ###### [**Art. 195** Procedural acts in another canton](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_195)
 
@@ -1595,12 +1595,12 @@ c. the opinion has been stated in an impartial manner and is not manifestly inco
 
   
 in summary proceedings;   
-a[bis].[] in proceedings on violence, threats or harassment relating to Arti­cle 28*b* SCC[] or on electronic surveillance relating to Article 28*c* SCC;  
+a[bis]. in proceedings on violence, threats or harassment relating to Arti­cle 28*b* SCC or on electronic surveillance relating to Article 28*c* SCC;  
 b. in proceedings on civil status;  
-b[bis].[] in proceedings on child maintenance and other child-related issues if a parent has requested the child protection authority to intervene before the proceedings (Art. 298*b*and 298*d*CC[]);  
+b[bis]. in proceedings on child maintenance and other child-related issues if a parent has requested the child protection authority to intervene before the proceedings (Art. 298*b*and 298*d*CC);  
 c. in divorce proceedings;  
-d.[] in proceedings for the dissolution or annulment of a registered partnership;  
-e. for the following actions arising from the DEBA[]:  
+d. in proceedings for the dissolution or annulment of a registered partnership;  
+e. for the following actions arising from the DEBA:  
 1. action for release from a debt (Art. 83 para. 2 DEBA),  
 2. action for a declaratory judgment (Art. 85*a* DEBA),  
 3. third party action (Art. 106-109 DEBA),  
@@ -1624,13 +1624,13 @@ h. if the court has set a deadline for filing the action.
   
 a. if the defendant's registered office or domicile is abroad;  
 b. if the defendant's residence is unknown;  
-c. in disputes under the Gender Equality Act of 24 March 1995[].
+c. in disputes under the Gender Equality Act of 24 March 1995.
 
 ###### [**Art. 200** Joint conciliation authorities](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_200)
 
  [1] In disputes relating to the tenancy and lease of residential and business property, the conciliation authority shall comprise a chairperson and an equal number of representatives of each of the parties.
 
-[2] In disputes under the Gender Equality Act of 24 March 1995[], the conciliation authority shall comprise a chairperson and an equal number of representatives of the employer and employee and of the public and private sectors; the genders must be equally represented. 
+[2] In disputes under the Gender Equality Act of 24 March 1995, the conciliation authority shall comprise a chairperson and an equal number of representatives of the employer and employee and of the public and private sectors; the genders must be equally represented. 
 
 ###### [**Art. 201** Tasks of the conciliation authority](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_201)
 
@@ -1737,7 +1737,7 @@ f. the seal of the conciliation authority.
  [1] The conciliation authority may submit a proposed judgment to the parties:
 
   
-a. in disputes under the Gender Equality Act of 24 March 1995[];  
+a. in disputes under the Gender Equality Act of 24 March 1995;  
 b. in disputes relating to the tenancy and lease of residential and business property or the lease of agricultural property if they concern the deposit of rent, protection against abusive rent, protection against termination, or the extension of the rental relationship;  
 c. in other financial disputes, if the value in dispute does not exceed 5,000 francs.
 
@@ -1799,7 +1799,7 @@ b. to the plaintiff in all other cases.
 
  [1] The parties shall bear the costs of mediation.
 
-[2] In matters of child law, the parties are entitled to cost-free mediation if:[]
+[2] In matters of child law, the parties are entitled to cost-free mediation if:
 
   
 a. they do not have the necessary financial resources; and  
@@ -1905,7 +1905,7 @@ b. if the opposing party consents to the amendment of the statement of claim.
  [1] New facts and new evidence are admissible at the main hearings only if presented immediately and:
 
   
-a.[] if they occurred after the exchange of written submissions or after the last instruction hearing (*proper nova*); or  
+a. if they occurred after the exchange of written submissions or after the last instruction hearing (*proper nova*); or  
 b. if they existed before the close of the exchange of written submissions or before the last instruction hearing but could not have been submitted despite reasonable diligence (*improper nova*).
 
 [2] If there was neither a second round of written submissions nor an instruction hearing, new facts and new evidence may be submitted without limitation at the beginning of the main hearing.
@@ -1918,7 +1918,7 @@ b. if they existed before the close of the exchange of written submissions or be
 
   
 a. the conditions under Article 227 paragraph 1 are fulfilled; and  
-b.[] the amendment is based on new facts or new evidence.
+b. the amendment is based on new facts or new evidence.
 
 [2] Article 227 paragraphs 2 and 3 apply.
 
@@ -2000,7 +2000,7 @@ b. by serving the parties with the conclusions.
 
 [2] A written statement of the grounds must be provided if one of the parties so requests within 10 days of the notice being given of the decision. If no statement of grounds is requested, the parties are deemed to have waived their right to challenge the decision by appeal or objection.
 
-[3] The above is subject to the provisions of the Federal Supreme Court Act of 17 June 2005[] on notice of decisions that may be referred to the Federal Supreme Court.
+[3] The above is subject to the provisions of the Federal Supreme Court Act of 17 June 2005 on notice of decisions that may be referred to the Federal Supreme Court.
 
 ###### [**Art. 240** Notice and publication of the decision](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_240)
 
@@ -2026,15 +2026,15 @@ b. by serving the parties with the conclusions.
 
  [1] Simplified proceedings apply in financial disputes with a value in dispute not exceeding 30,000 francs.
 
-[2] They apply regardless of the amount in dispute in the case of:[]
+[2] They apply regardless of the amount in dispute in the case of:
 
   
-a. disputes under the Gender Equality Act of 24 March 1995[];  
-b.[] disputes concerning violence, threats or stalking under Article 28*b* SCC[] or concerning electronic surveillance in relation to Article 28*c* SCC;  
+a. disputes under the Gender Equality Act of 24 March 1995;  
+b. disputes concerning violence, threats or stalking under Article 28*b* SCC or concerning electronic surveillance in relation to Article 28*c* SCC;  
 c. disputes concerning the tenancy and lease of residential and business property or the lease of agricultural property if they concern the deposit of rent, protection against abusive rent, protection against termination, or the extension of the rental relationship;  
-d. disputes concerning the right of access to personal data provided by the Federal Act of 19 June 1992[] on Data Protection;  
-e. disputes concerning the Participation Act of 17 December 1993[];  
-f. disputes concerning insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[] on Health Insurance.
+d. disputes concerning the right of access to personal data provided by the Federal Act of 19 June 1992 on Data Protection;  
+e. disputes concerning the Participation Act of 17 December 1993;  
+f. disputes concerning insurance supplementary to the social health insurance under the Federal Act of 18 March 1994 on Health Insurance.
 
 [3] The simplified proceedings do not apply to disputes before the court of sole cantonal instance in accordance with Articles 5 and 8 and before the Commercial Court in accordance with Article 6.
 
@@ -2104,14 +2104,14 @@ e. for non-contentious matters.
  Summary proceedings may be brought in particular in the following cases:
 
   
-a.[] Law of persons:  
-1. fixing a time limit for legal transactions by minors or persons subject to a general deputyship (Art. 19*a* CC[]),  
+a. Law of persons:  
+1. fixing a time limit for legal transactions by minors or persons subject to a general deputyship (Art. 19*a* CC),  
 2. right of reply (Art. 28l CC),  
 3. declaration of presumed death (Art. 35–38 CC),  
 4. rectification of the civil status registry (Art. 42 CC);
 
   
-b.[] ...  
+b. ...  
 c. Law of succession:  
 1. acceptance of an oral will (Art. 507 CC),  
 2. provision of security when inheriting from a person presumed dead (Art. 546 CC),  
@@ -2127,8 +2127,8 @@ d. Property law:
 6. setting a deadline to provide security and order the dispossession in case of usufruct (Art. 760 and 762 CC),  
 7. ordering the liquidation of debts in a usufructuary estate (Art. 766 CC),  
 8. measures in favour of the creditor to protect the value of the real estate security interest (Art. 808 para. 1 and 2 and Art. 809–811 CC),  
-9.[] appointing an authorised agent on the issue of a mortgage certificate (Art. 850 para. 3 CC),  
-10.[] cancellation of a mortgage certificate (Art. 856 and 865 CC),  
+9. appointing an authorised agent on the issue of a mortgage certificate (Art. 850 para. 3 CC),  
+10. cancellation of a mortgage certificate (Art. 856 and 865 CC),  
 11. noting of restrictions on powers of disposal and provisional entries in disputed cases (Art. 960 para. 1 sec. 1, 961 para. 1 sec. 1 and 966 para. 2 CC).
 
 
@@ -2139,11 +2139,11 @@ d. Property law:
 
   
 a. General provisions:  
-1. deposit of an expired power of attorney with the court (Art. 36 para. 1 CO[]),  
+1. deposit of an expired power of attorney with the court (Art. 36 para. 1 CO),  
 2. setting a reasonable deadline to provide security (Art. 83 para. 2 CO),  
 3. deposit and sale of an object for the event of an obligee's default (Art. 92 para. 2 and 93 para. 2 CO),  
 4. authorisation for performance by a third party (Art. 98 CO),  
-5. setting a time limit to perform a contract (Art. 107 para. 1[] CO),  
+5. setting a time limit to perform a contract (Art. 107 para. 1 CO),  
 6. deposit of an amount in dispute (Art. 168 para. 1 CO);
 
   
@@ -2159,21 +2159,21 @@ b. Specific contracts:
 9. provision of security by the principal debtor and release from liability (Art. 506 CO);
 
   
-c. Company law and the commercial register:[]  
+c. Company law and the commercial register:  
 1. provisional withdrawal of the authority to represent (Art 565 para. 2, 603 and 767 para. 1 CO),  
 2. appointment of a joint representative (Art. 690 para. 1, 764 para. 2, 792 sec. 1 and 847 para. 4 CO),  
 3. appointment, dismissal and replacement of liquidators (Art. 583 para. 2, 619, 740, 741, 770, 826 para. 2 and 913 CO),  
 4. sale at an overall sale price and modalities of sale of immovable property (Art. 585 para. 3 and 619 CO),  
 5. appointment of an expert to verify the profit and loss account and the balance sheet of the limited partnership (Art. 600 para. 3 CO),  
-6.[] allowing a period of time in the case of insufficient number of members or lack of corporate bodies (Art. 731*b*, 819, 908 and 941*a* CO),  
-7.[] disclosure of information to shareholders and creditors of a company limited by shares, the members of a limited liability company and members of a cooperative (Art. 697 para. 4, 802 para. 4, 857 para. 3 and 958*e* CO),  
+6.[96](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5629) allowing a period of time in the case of insufficient number of members or lack of corporate bodies (Art. 731*b*, 819, 908 and 941*a* CO),  
+7.[97](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5652) disclosure of information to shareholders and creditors of a company limited by shares, the members of a limited liability company and members of a cooperative (Art. 697 para. 4, 802 para. 4, 857 para. 3 and 958*e* CO),  
 8. special audit of a company limited by shares (Art. 697*a* to 697*g* CO),  
 9. convening a general meeting of the shareholders of a company limited by shares or the members of a cooperative, putting an item on the agenda and calling the assembly of the members of a limited liability company (Art. 699 para. 4, 805 para. 5 sec. 2 and 881 para. 3 CO),  
 10. designation of a representative of the company or the cooperative in the event of a resolution of the general meeting being challenged by the management (Art. 706*a* para. 2, 808*c* and 891 para. 1 CO),  
 11. appointment and removal of the auditors (Art. 731*b* CO),  
 12. deposit of amounts of claims in case of liquidation (Art. 744, 770, 826 para. 2 and 913 CO),  
-13.[] removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO);  
-14.[] reinstatement of a deleted legal entity in the commercial register (Art. 935 CO);
+13.[98](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5702) removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO);  
+14.[99](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e5720) reinstatement of a deleted legal entity in the commercial register (Art. 935 CO);
 
   
 d. Securities law:  
@@ -2190,17 +2190,17 @@ d. Securities law:
 
   
 a. decisions made in matters of clearance to proceed, bankruptcy, attachment and composition;  
-b. admission of a belated objection (Art. 77 para. 3 DEBA[]) and of the objection in the enforcement of bills of exchange (Art. 181 DEBA);  
+b. admission of a belated objection (Art. 77 para. 3 DEBA) and of the objection in the enforcement of bills of exchange (Art. 181 DEBA);  
 c. revocation or suspension of the debt collection proceedings (Art. 85 DEBA);  
 d. decision on the existence of new assets (Art. 265*a* para. 1–3 DEBA);  
 e. ordering the separation of property (Art. 68b DEBA).
 
-###### [**Art. 251***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_251_a)[] [Federal Act of 18 December 1987 on Private International Law](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_251_a)
+###### [**Art. 251***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_251_a) [Federal Act of 18 December 1987 on Private International Law](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_251_a)
 
  Summary proceedings may be brought in particular in the following cases:
 
   
-a. appointing and replacing members of an arbitral tribunal (Art. 179 para. 2–5 PILA[]);  
+a. appointing and replacing members of an arbitral tribunal (Art. 179 para. 2–5 PILA);  
 b. challenging and removing a member of an arbitral tribunal (Art. 180*a* para. 2 and Art. 180*b* para. 2 PILA);  
 c. obtaining assistance from the state court in enforcing interim measures (Art. 183 para. 2 PILA) and in taking evidence (Art. 184 para. 2 PILA);  
 d. obtaining other forms of assistance from the state court in the arbitration proceedings (Art. 185 PILA);  
@@ -2346,15 +2346,15 @@ c. the measure does not seem disproportionate.
  The following provisions are reserved:
 
   
-a. the provisions of the DEBA[] on protective measures when enforcing monetary claims;  
-b. the provisions of the CC[] on protective measures in succession;  
-c. the provisions of the Patents Act of 25 June 1954[] on the action relating to the granting of a licence.
+a. the provisions of the DEBA on protective measures when enforcing monetary claims;  
+b. the provisions of the CC on protective measures in succession;  
+c. the provisions of the Patents Act of 25 June 1954 on the action relating to the granting of a licence.
 
 #### [Section 2 Protective Letter](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_5/chap_5/sec_2)
 
  ###### [**Art. 270**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_270)
 
-[1] Any person who has reason to believe that an ex-parte interim measure, an attachment under Articles 271–281 DEBA[] or any other measure against him or her will be applied for without prior hearing, may set out his or her position in advance by filing a protective letter.[]
+[1] Any person who has reason to believe that an ex-parte interim measure, an attachment under Articles 271–281 DEBA or any other measure against him or her will be applied for without prior hearing, may set out his or her position in advance by filing a protective letter.
 
 [2] The opposing party shall be served with the protective letter only if he or she initiates the relevant proceedings.
 
@@ -2369,7 +2369,7 @@ c. the provisions of the Patents Act of 25 June 1954[] on the action relating to
  Subject to Articles 272 and 273, summary procedure applies to measures for protection of the marital union, and in particular to:
 
   
-a. the measures under Articles 172–179 CC[];  
+a. the measures under Articles 172–179 CC;  
 b. the extension of a spouse's power to represent the marital union (Art. 166 para. 2 sec. 1 CC);  
 c. the authorisation of a spouse to dispose of the family home (Art. 169 para. 2 CC);  
 d. the duty of a spouse to provide information on his or her income, assets and debts (Art. 170 para. 2 CC);  
@@ -2431,30 +2431,30 @@ i. directions to debtors and the provision of security for post-matrimonial main
 
 ###### [**Art. 280** Agreement on occupational pension benefits](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_280)
 
- [1] The court shall approve an agreement on the equitable division of claims to the occupational pensions provided:[]
+ [1] The court shall approve an agreement on the equitable division of claims to the occupational pensions provided:
 
   
-a.[] the spouses have agreed on the equitable division and its modalities;  
-b.[] the spouses provide confirmation from the occupational pension schemes concerned on the practicability of the arrangement and of the amount of the entitlements or pensions; and  
+a. the spouses have agreed on the equitable division and its modalities;  
+b. the spouses provide confirmation from the occupational pension schemes concerned on the practicability of the arrangement and of the amount of the entitlements or pensions; and  
 c. the court is persuaded that the agreement conforms to the law.
 
 [2] The court shall inform the pension schemes concerned about the relevant parts of the final decision, including the details required in order to transfer of the agreed amounts. The decision is binding on the pension schemes.
 
-[3] If the spouses agree not to divide their pensions equally or if they decline to divide their pensions, the court shall examine *ex officio* whether appropriate financial security for age or invalidity remains guaranteed.[]
+[3] If the spouses agree not to divide their pensions equally or if they decline to divide their pensions, the court shall examine *ex officio* whether appropriate financial security for age or invalidity remains guaranteed.
 
-###### [**Art. 281** Failure to agree on an equitable division of pensions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_281)[]
+###### [**Art. 281** Failure to agree on an equitable division of pensions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_281)
 
- [1] In the absence of an agreement, and if the relevant entitlements and pensions have been determined, the court shall decide on the apportionment of the shares according to the provisions of the CC[] and the Vested Benefits Act of 17 December 1993[] (VBA) (Art. 122 and 123 CC in conjunction with Art. 22–22*f* VBA), determine the amount to be transferred and set a deadline for the pension funds concerned to confirm the practicability of the planned arrangement.[]
+ [1] In the absence of an agreement, and if the relevant entitlements and pensions have been determined, the court shall decide on the apportionment of the shares according to the provisions of the CC and the Vested Benefits Act of 17 December 1993 (VBA) (Art. 122 and 123 CC in conjunction with Art. 22–22*f* VBA), determine the amount to be transferred and set a deadline for the pension funds concerned to confirm the practicability of the planned arrangement.
 
 [2] Article 280 paragraph 2 applies by analogy.
 
-[3] In other cases in which no agreement is reached, after the final decision on the apportionment of the shares, the court shall refer the matter to the competent court under the VBA, advising it in particular of:[]
+[3] In other cases in which no agreement is reached, after the final decision on the apportionment of the shares, the court shall refer the matter to the competent court under the VBA, advising it in particular of:
 
   
 a. the decision on the apportionment of the shares;  
 b. the date of marriage and the date of divorce;  
-c.[] the pension funds against which the spouses are likely to have entitlements, and the amount of these entitlements;  
-d.[] the occupational pension funds that pay the spouses pensions, the amount of those pensions and the shares of the pensions paid.
+c. the pension funds against which the spouses are likely to have entitlements, and the amount of these entitlements;  
+d. the occupational pension funds that pay the spouses pensions, the amount of those pensions and the shares of the pensions paid.
 
 ###### [**Art. 282** Maintenance payments](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_282)
 
@@ -2474,11 +2474,11 @@ d. whether and to what extent the pension will be adjusted to changes in living 
 
 [2] Where there is good cause, the division of the marital property may be referred to separate proceedings.
 
-[3] The equitable division of claims to occupational pension assets may be referred in their entirety to separate proceedings if claims to pension assets abroad are involved and a decision can be obtained in the state concerned on their equitable division. The court may suspend the separate proceedings until the foreign decision has been taken; it may already determine the shares on division.[]
+[3] The equitable division of claims to occupational pension assets may be referred in their entirety to separate proceedings if claims to pension assets abroad are involved and a decision can be obtained in the state concerned on their equitable division. The court may suspend the separate proceedings until the foreign decision has been taken; it may already determine the shares on division.
 
 ###### [**Art. 284** Adjusting the binding effects of divorce](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_284)
 
- [1] The conditions and the material jurisdiction for adjusting a decision are governed by Articles 124*e* paragraph 2, 129 and 134 CC[].[]
+ [1] The conditions and the material jurisdiction for adjusting a decision are governed by Articles 124*e* paragraph 2, 129 and 134 CC.
 
 [2] Non-contentious modifications may be agreed in a simple written agreement, subject to the provisions of the CC concerning matters relating to children (Art. 134 para. 3 CC).
 
@@ -2506,17 +2506,17 @@ f. the date and signatures.
 
 [3] Otherwise Article 285 applies by analogy.
 
-###### [**Art. 287**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_287)[] [Hearing of the parties](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_287)
+###### [**Art. 287**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_287) [Hearing of the parties](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_287)
 
- If the submission is complete, the court shall summon the parties to a hearing. The conduct of the hearing is governed by the provisions of the CC[].
+ If the submission is complete, the court shall summon the parties to a hearing. The conduct of the hearing is governed by the provisions of the CC.
 
 ###### [**Art. 288** Continuation of the proceedings and decision](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_288)
 
  [1] If the conditions for a divorce at joint request are fulfilled, the court shall decree the divorce and approve the agreement.
 
-[2] If the effects of the divorce remain disputed, the proceedings shall be continued with regard to these effects under adversarial procedure.[] The court may assign the roles of plaintiff and defendant.
+[2] If the effects of the divorce remain disputed, the proceedings shall be continued with regard to these effects under adversarial procedure. The court may assign the roles of plaintiff and defendant.
 
-[3] If the requirements for divorce at joint request are not met, the court shall reject the joint request for divorce and at the same time set a deadline to each spouse for the filing of a divorce action.[] The proceedings remain pending during this period and any interim measures continue to apply.
+[3] If the requirements for divorce at joint request are not met, the court shall reject the joint request for divorce and at the same time set a deadline to each spouse for the filing of a divorce action. The proceedings remain pending during this period and any interim measures continue to apply.
 
 ###### [**Art. 289** Appellate remedies](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_289)
 
@@ -2530,7 +2530,7 @@ f. the date and signatures.
 
   
 a. the names and addresses of the spouses and the designation of their representatives, if any;  
-b. the prayer for relief requesting the divorce and an indication of the grounds (Art. 114 or 115 CC[]);  
+b. the prayer for relief requesting the divorce and an indication of the grounds (Art. 114 or 115 CC);  
 c. the prayers for relief concerning the financial effects of the divorce;  
 d. the prayers for relief concerning the children;  
 e. the necessary documents;  
@@ -2603,7 +2603,7 @@ b. agree to the divorce.
 [2] The court shall consider appointing a representative in particular if:
 
   
-a.[] the parents submit different applications regarding:  
+a. the parents submit different applications regarding:  
 1. allocation of parental responsibility,  
 2. allocation of residence,  
 3. important questions concerning their personal relations with the child,  
@@ -2611,16 +2611,16 @@ a.[] the parents submit different applications regarding:
 5. maintenance payments; 
 
   
-b.[] the child protection authority or one of the parents so requests;  
-c. based on hearing with the parents or the child or based on other reasons, the court:[]  
-1.[] has serious doubts about the parents' joint applications relating to the issues listed under letter a, or  
+b. the child protection authority or one of the parents so requests;  
+c. based on hearing with the parents or the child or based on other reasons, the court:  
+1.[131](https://www.fedlex.admin.ch/eli/cc/2010/262/en#fn-d151531e7094) has serious doubts about the parents' joint applications relating to the issues listed under letter a, or  
 2. is considering ordering measures for the protection of the child.
 
 
 
 [3] If the child with the capacity to consent so requests, a representative must be appointed. The child may challenge the rejection of his or her request by filing an objection.
 
-###### [**Art. 300**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_300)[] [Competence of the representative](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_300)
+###### [**Art. 300**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_300) [Competence of the representative](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_300)
 
  The child's representative may file applications and appellate remedies to the extent they concern:
 
@@ -2639,7 +2639,7 @@ f. measures for the protection of the child.
   
 a. to the parents;  
 b. to the child, if he or she is at least 14 years old;  
-c.[] to the welfare agent, if any, to the extent the decision concerns the following issues:  
+c. to the welfare agent, if any, to the extent the decision concerns the following issues:  
 1. the allocation of the parental responsibility,  
 2. the allocation of residence,  
 3. important questions of personal relations,  
@@ -2649,7 +2649,7 @@ c.[] to the welfare agent, if any, to the extent the decision concerns the follo
 
 
 
-###### [**Art. 301***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_301_a)[] [Maintenance payments](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_301_a)
+###### [**Art. 301***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_301_a) [Maintenance payments](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_301_a)
 
  If maintenance payments are agreed in a maintenance agreement or in the decision, the agreement or decision must indicate:
 
@@ -2659,20 +2659,20 @@ b. the amount determined for each child;
 c. any shortfall in the amount to cover the reasonable maintenance of each child;  
 d. whether and to what extent the maintenance payments are modified to reflect changes in living costs.
 
-### [Chapter 2 Summary Procedure: Scope of Application](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_7/chap_2)**[]**
+### [Chapter 2 Summary Procedure: Scope of Application](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_7/chap_2)
 
- ###### [**Art. 302** ...](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_302)[]
+ ###### [**Art. 302** ...](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_302)
 
  [1] Summary procedure applies in particular in the case of:
 
   
-a. decisions under the Hague Convention of 25 October 1980[] on the Civil Aspects of International Child Abduction and under the European Convention of 20 May 1980[] on Recognition and Enforcement of Decisions concerning Custody of Children and on Restoration of Custody of Children;  
-b. the payment of an special financial contribution to cover unforeseen extraordinary needs of the child (Art. 286 para. 3 CC[]);  
+a. decisions under the Hague Convention of 25 October 1980 on the Civil Aspects of International Child Abduction and under the European Convention of 20 May 1980 on Recognition and Enforcement of Decisions concerning Custody of Children and on Restoration of Custody of Children;  
+b. the payment of an special financial contribution to cover unforeseen extraordinary needs of the child (Art. 286 para. 3 CC);  
 c. notice to debtors and the provision of security for child support outside proceedings on the parents' maintenance obligations (Art. 291 and 292 CC).
 
-[2] The provisions of the Federal Act of 21 December 2007[] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults are reserved.
+[2] The provisions of the Federal Act of 21 December 2007 on International Child Abduction and the Hague Conventions on the Protection of Children and Adults are reserved.
 
-### [Chapter 3 Maintenance and Paternity Actions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_7/chap_3)**[]**
+### [Chapter 3 Maintenance and Paternity Actions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_7/chap_3)
 
  ###### [**Art. 303** Interim measures](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_303)
 
@@ -2688,7 +2688,7 @@ b. make suitable contributions towards the maintenance of the child support prov
 
  1 The court that has jurisdiction to decide the paternity action shall also decide on the deposit, the advance payment, the disbursement of deposited amounts and the refund of advances.
 
-2 In the case of an action for maintenance, the court shall also decide on parental responsibility and other child-related issues.[]
+2 In the case of an action for maintenance, the court shall also decide on parental responsibility and other child-related issues.
 
 ## [Title 8 Proceedings relating to Same-Sex Partnerships](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_8)
 
@@ -2696,10 +2696,10 @@ b. make suitable contributions towards the maintenance of the child support prov
 
  ###### [**Art. 305** Scope of application](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_305)
 
- Summary procedure applies in particular to:[]
+ Summary procedure applies in particular to:
 
   
-a. the determination of monetary contributions to the maintenance of the partnership and the notice to debtors (Art. 13 para. 2 and 3 of the Same-Sex Partnerships Act of 18 June 2004[], SSPA),  
+a. the determination of monetary contributions to the maintenance of the partnership and the notice to debtors (Art. 13 para. 2 and 3 of the Same-Sex Partnerships Act of 18 June 2004, SSPA),  
 b. the authorisation of a partner to dispose of the common home (Art. 14 para. 2 SSPA),  
 c. the expansion and revocation of a partner's power to represent the partnership (Art. 15 para. 2 lt. a and para. 4 SSPA),  
 d. the obligation of a partner to provide information on his or her income, assets and debts (Art. 16 para. 2 SSPA),  
@@ -2718,7 +2718,7 @@ h. the granting of deadlines for the repayment of debts between the partners (Ar
 
 The provisions concerning the divorce proceedings apply by analogy to the dissolution and annulment of same-sex partnerships.
 
-### [Chapter 3](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_8/chap_3)**[]** [Proceedings relating to Children in connection with Same-Sex Partnerships](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_8/chap_3)
+### [Chapter 3](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_8/chap_3) [Proceedings relating to Children in connection with Same-Sex Partnerships](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_2/tit_8/chap_3)
 
   
 ###### [**Art. 307***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_307_a)
@@ -2747,14 +2747,14 @@ b. decisions of first instance on interim measures.
 
   
 a. against decisions of the enforcement court;  
-b. in the following matters under the DEBA[]:  
+b. in the following matters under the DEBA:  
 1. revocation of the stay of enforcement (Art. 57*d* DEBA),  
 2. admission of a time-barred objection (Art. 77 para. 3 DEBA),  
 3. clearance to proceed (Art. 80–84 DEBA),  
 4. revocation or suspension of the debt enforcement proceedings (Art. 85 DEBA),  
 5. admission of the objection in the collection of bills of exchange (Art. 181 DEBA),  
-6.[] attachment (Art. 272 and 278 DEBA);  
-7.[] decisions falling under the jurisdiction of the bankruptcy or composition court under the DEBA.
+6. attachment (Art. 272 and 278 DEBA);  
+7. decisions falling under the jurisdiction of the bankruptcy or composition court under the DEBA.
 
 
 
@@ -2835,7 +2835,7 @@ b. they could not have been submitted in the first instance despite reasonable d
 
   
 a. the conditions under Article 227 paragraph 1 are fulfilled; and   
-b.[] the amendment is based on new facts or new evidence.
+b. the amendment is based on new facts or new evidence.
 
 ###### [**Art. 318** Decision](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_318)
 
@@ -2929,11 +2929,11 @@ b. make a new decision provided the appellate court is in the position to make a
 
 [5] The appellate court shall give notice of its decision to the parties together with a written statement of grounds.
 
-###### [**Art. 327***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_327_a)[] [Enforcement declaration under the Lugano Convention](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_327_a)
+###### [**Art. 327***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_327_a) [Enforcement declaration under the Lugano Convention](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_327_a)
 
- [1] If the objection is against a decision of the enforcement court under Articles 38 to 52 of the Lugano Convention of 30 October 2007[[]] on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, the appellate court shall freely examine the grounds for refusal provided in the Convention.
+ [1] If the objection is against a decision of the enforcement court under Articles 38 to 52 of the Lugano Convention of 30 October 2007 on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, the appellate court shall freely examine the grounds for refusal provided in the Convention.
 
-[2] The objection has suspensive effect. Protective measures, in particular attachments under Article 271 paragraph 1 number 6 DEBA[[]], are reserved.
+[2] The objection has suspensive effect. Protective measures, in particular attachments under Article 271 paragraph 1 number 6 DEBA, are reserved.
 
 [3] The deadline for filing the objection against the enforcement declaration is governed by Article 43 paragraph 5 of the Convention.
 
@@ -2948,7 +2948,7 @@ a. the party subsequently discovers significant facts or decisive evidence that 
 b. criminal proceedings have established that the decision was influenced to the detriment of the party concerned by a felony or misdemeanour, even if no one has been convicted by the criminal court; if criminal proceedings are not possible, proof may be provided in some other manner;  
 c. it is claimed that the acceptance, withdrawal or settlement of the claim is invalid.
 
-[2] A review on the grounds of a violation of the European Convention on Human Rights of 4 November 1950[] (ECHR) may be requested if:
+[2] A review on the grounds of a violation of the European Convention on Human Rights of 4 November 1950 (ECHR) may be requested if:
 
   
 a. the European Court of Human Rights has determined in a final judgment that the ECHR or its protocols have been violated;  
@@ -3003,9 +3003,9 @@ c. the review is necessary to remedy the violation.
 
  [1] Decisions are enforced according to the provisions of this chapter.
 
-[2] If a decision relates to the payment of money or provision of security, it is enforced according to the provisions of the DEBA[].
+[2] If a decision relates to the payment of money or provision of security, it is enforced according to the provisions of the DEBA.
 
-[3] The recognition, the declaration of enforceability and the enforcement of foreign decisions are governed by this chapter, unless an international treaty or the PILA[] provides otherwise.
+[3] The recognition, the declaration of enforceability and the enforcement of foreign decisions are governed by this chapter, unless an international treaty or the PILA provides otherwise.
 
 ###### [**Art. 336** Enforceability](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_336)
 
@@ -3040,7 +3040,7 @@ c. at the place where the decision to be enforced was made.
 
 [2] The court decides in summary proceedings.
 
-###### [**Art. 340**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_340)[] [Protective measures](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_340)
+###### [**Art. 340**](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_340) [Protective measures](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_340)
 
  The enforcement court may order protective measures, if necessary without hearing the opposing party beforehand.
 
@@ -3061,7 +3061,7 @@ c. at the place where the decision to be enforced was made.
  [1] If the decision provides for an obligation to act, refrain from acting or to tolerate something, the enforcement court may:
 
   
-a. issue a threat of criminal penalty under Article 292 SCC[];  
+a. issue a threat of criminal penalty under Article 292 SCC;  
 b. impose a disciplinary fine not exceeding 5,000 francs;  
 c. impose a disciplinary fine not exceeding 1,000 francs for each day of non-compliance;  
 d. order a compulsory measure such as taking away a movable item or vacating immovable property; or   
@@ -3112,15 +3112,15 @@ c. the performance due is:
  Official records are not directly enforceable if they concern performance:
 
   
-a. under the Gender Equality Act of 24 March 1995[];  
+a. under the Gender Equality Act of 24 March 1995;  
 b. arising from the tenancy and lease of residential and business property or the lease of agricultural property;  
-c. under the Participation Act of 17 December 1993[];  
-d. arising from employment relations or under the Recruitment Act of 6 October 1989[];  
+c. under the Participation Act of 17 December 1993;  
+d. arising from employment relations or under the Recruitment Act of 6 October 1989;  
 e. arising from consumer contracts (Art. 32).
 
 ###### [**Art. 349** Records relating to performance in money](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_349)
 
- An enforceable record relating to performance in money is deemed to be a title setting aside an objection under Articles 80 and 81 DEBA[].
+ An enforceable record relating to performance in money is deemed to be a title setting aside an objection under Articles 80 and 81 DEBA.
 
 ###### [**Art. 350** Records relating to other forms of performance](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_350)
 
@@ -3144,9 +3144,9 @@ e. arising from consumer contracts (Art. 32).
 
  ###### [**Art. 353** Scope of application](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_353)
 
- [1] The provisions of this Part apply to the proceedings before arbitral tribunals based in Switzerland, unless the provisions of the Twelfth Chapter of the PILA[] apply.
+ [1] The provisions of this Part apply to the proceedings before arbitral tribunals based in Switzerland, unless the provisions of the Twelfth Chapter of the PILA apply.
 
-[2] The parties may exclude the application of this Part by making a declaration to this effect in the arbitration agreement or a subsequent agreement, and instead agree that the provisions of the Twelfth Chapter of the PILA apply. The declaration must be in the form specified in Article 358.[]
+[2] The parties may exclude the application of this Part by making a declaration to this effect in the arbitration agreement or a subsequent agreement, and instead agree that the provisions of the Twelfth Chapter of the PILA apply. The declaration must be in the form specified in Article 358.
 
 ###### [**Art. 354** Arbitrability](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_354)
 
@@ -3176,9 +3176,9 @@ b. to receive the arbitral award on deposit and to certify its enforceability.
 a. the appointment, challenge, removal and replacement of the arbitrators;  
 b. the extension of the arbitral tribunal's term of office;  
 c. supporting the arbitral tribunal in all its procedural acts.  
-[3] The competent ordinary court decides in summary proceedings other than in cases under paragraph 1 letter a.[] 
+[3] The competent ordinary court decides in summary proceedings other than in cases under paragraph 1 letter a. 
 
-## [Title 2 Arbitration Agreement and Arbitration Clause](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_3/tit_2)**[]**
+## [Title 2 Arbitration Agreement and Arbitration Clause](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_3/tit_2)
 
  ###### [**Art. 357** Arbitration agreement](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_357)
 
@@ -3190,7 +3190,7 @@ c. supporting the arbitral tribunal in all its procedural acts.
 
  [1] The arbitration agreement must be done in writing or in any other form allowing it to be evidenced by text.
 
-[2] The provisions of this Part apply by analogy to arbitration clauses in unilateral transactions or in articles of association.[]
+[2] The provisions of this Part apply by analogy to arbitration clauses in unilateral transactions or in articles of association.
 
 ###### [**Art. 359** Challenging the arbitral tribunal's jurisdiction](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_359)
 
@@ -3268,7 +3268,7 @@ a. if he or she lacks the qualifications required by the parties;
 b. if there is a ground for challenge in accordance with the rules of arbitration adopted by the parties; or  
 c. if there is reasonable doubt as to his or her independence or impartiality.
 
-[2] A party may challenge an arbitrator whom that party has appointed or in whose appointment that party has participated only if the grounds for the challenge came to the attention of the party concerned after the appointment despite exercising due diligence.[] Notice of the reason for the challenge must be given to the arbitral tribunal and the opposing party immediately.
+[2] A party may challenge an arbitrator whom that party has appointed or in whose appointment that party has participated only if the grounds for the challenge came to the attention of the party concerned after the appointment despite exercising due diligence. Notice of the reason for the challenge must be given to the arbitral tribunal and the opposing party immediately.
 
 ###### [**Art. 368** Challenging the arbitral tribunal](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_368)
 
@@ -3282,9 +3282,9 @@ c. if there is reasonable doubt as to his or her independence or impartiality.
 
  [1] The parties may freely agree on the challenge procedure.
 
-[2] Unless the parties have agreed otherwise and if the arbitration proceedings have not yet been concluded, written notice of the challenge stating the grounds must be given to the challenged member of the arbitral tribunal and the other members of the arbitral tribunal within 30 days of the date on which the challenging party becomes aware of the grounds for the challenge or could have become aware thereof had it exercised due diligence.[]
+[2] Unless the parties have agreed otherwise and if the arbitration proceedings have not yet been concluded, written notice of the challenge stating the grounds must be given to the challenged member of the arbitral tribunal and the other members of the arbitral tribunal within 30 days of the date on which the challenging party becomes aware of the grounds for the challenge or could have become aware thereof had it exercised due diligence.
 
-[3] The challenging party may within 30 days of filing the challenge request a decision by the body designated by the parties or, if no such body has been designated, by the state court that has jurisdiction under Article 356 paragraph 2.[]
+[3] The challenging party may within 30 days of filing the challenge request a decision by the body designated by the parties or, if no such body has been designated, by the state court that has jurisdiction under Article 356 paragraph 2.
 
 [4] Unless the parties have agreed otherwise, the arbitral tribunal may continue with the arbitration during the challenge procedure and make an award without excluding the challenged arbitrator.
 
@@ -3294,7 +3294,7 @@ c. if there is reasonable doubt as to his or her independence or impartiality.
 
  [1] Any member of the arbitral tribunal may be removed by a written agreement of the parties.
 
-[2] If a member of the arbitral tribunal is unable to fulfil his or her duties within due time or with due care, unless the parties have agreed otherwise, he or she may be removed at a party's request by the body designated by the parties or, if no such body has been designated, by the ordinary court that has jurisdiction under Article 356 paragraph 2.[]
+[2] If a member of the arbitral tribunal is unable to fulfil his or her duties within due time or with due care, unless the parties have agreed otherwise, he or she may be removed at a party's request by the body designated by the parties or, if no such body has been designated, by the ordinary court that has jurisdiction under Article 356 paragraph 2.
 
 [3] Article 369 paragraph 5 applies to the challenge of the removal.
 
@@ -3337,7 +3337,7 @@ c. according to a procedural law of their choice.
 
 [5] Each party may act through a representative.
 
-[6] An objection to a breach of the rules of procedure must be filed immediately after it has been recognised or would have been recognisable had due diligence been exercised, otherwise it may not subsequently be claimed that the rules were breached.[]
+[6] An objection to a breach of the rules of procedure must be filed immediately after it has been recognised or would have been recognisable had due diligence been exercised, otherwise it may not subsequently be claimed that the rules were breached.
 
 ###### [**Art. 374** Interim measures, security and damages](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_374)
 
@@ -3459,7 +3459,7 @@ c. or issue a supplementary award in relation to claims made in the arbitration 
 
 [2] The application must be made to the arbitral tribunal within 30 days from the discovery of the error or the parts of the award that need to be explained or amended, but no later than one year from receiving notice of the award.
 
-[3] The application does not affect the deadlines for filing appeals. A new period for filing an appeal in relation to the corrected, explained or supplemented part of the award begins from the date on which notice of the correction, explanation or supplement is given.[]
+[3] The application does not affect the deadlines for filing appeals. A new period for filing an appeal in relation to the corrected, explained or supplemented part of the award begins from the date on which notice of the correction, explanation or supplement is given.
 
 ## [Title 7 Appellate Remedies](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_3/tit_7)
 
@@ -3469,7 +3469,7 @@ c. or issue a supplementary award in relation to claims made in the arbitration 
 
  [1] An arbitral award is subject to objection to the Federal Supreme Court.
 
-[2] The procedure is governed by the Federal Supreme Court Act of 17 June 2005[], unless otherwise provided in this Chapter.
+[2] The procedure is governed by the Federal Supreme Court Act of 17 June 2005, unless otherwise provided in this Chapter.
 
 ###### [**Art. 390** Objection to the cantonal court](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_390)
 
@@ -3509,7 +3509,7 @@ f. the costs and compensation fixed by the arbitral tribunal are obviously exces
 
  [1] If the award is not remitted to the arbitral tribunal or if it is not rectified or amended by the tribunal within the set deadline, the appellate court shall decide and, if the objection is approved, shall set aside the award.
 
-[2] If the award is set aside, the arbitral tribunal shall make a new award consistent with the considerations taken into account in the decision to remit the case. If the tribunal is no longer complete, Article 371 applies.[]
+[2] If the award is set aside, the arbitral tribunal shall make a new award consistent with the considerations taken into account in the decision to remit the case. If the tribunal is no longer complete, Article 371 applies.
 
 [3] Setting aside may be limited to certain parts of the award if the other parts do not depend on them.
 
@@ -3525,9 +3525,9 @@ f. the costs and compensation fixed by the arbitral tribunal are obviously exces
 a. the party subsequently discovers significant facts or decisive evidence that could not have been submitted in the earlier proceedings, excluding facts and evidence that arose after the arbitral award was made;  
 b. criminal proceedings have established that the arbitral award was influenced to the detriment of the party concerned by a felony or misdemeanour, even if no one is convicted by a criminal court; if criminal proceedings are not possible, proof may be provided in some other manner;  
 c. it is claimed that the acceptance, withdrawal or settlement of the claim is invalid;  
-d.[] a ground for challenge under Article 367 paragraph 1 letter c only came to light after conclusion of the arbitration proceedings despite exercising due diligence and no other legal remedy is available.
+d. a ground for challenge under Article 367 paragraph 1 letter c only came to light after conclusion of the arbitration proceedings despite exercising due diligence and no other legal remedy is available.
 
-[2] The review on the grounds of a violation of the ECHR[] may be requested if: 
+[2] The review on the grounds of a violation of the ECHR may be requested if: 
 
   
 a. the European Court of Human Rights has determined in a final judgment that the ECHR or its protocols have been violated;  
@@ -3580,7 +3580,7 @@ c. the review is necessary to remedy the violation.
 
 ## [Title 3 Transitional Provisions](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3)
 
- ### [Chapter 1 Transitional Provisions of 19 December 2008](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_1)**[]**
+ ### [Chapter 1 Transitional Provisions of 19 December 2008](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_1)
 
  ###### [**Art. 404** Continued application of the previous law](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_404)
 
@@ -3608,14 +3608,14 @@ c. the review is necessary to remedy the violation.
 
 [4] Judicial proceedings under Article 356 that are pending on the commencement of this Code are governed by the previous law.
 
-### [Chapter 2](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_2)**[]** [Transitional Provision to the Amendment of 28 September 2012](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_2)
+### [Chapter 2](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_2) [Transitional Provision to the Amendment of 28 September 2012](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_2)
 
   
 ###### [**Art. 407***a*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_407_a)
 
 In proceedings that are pending when the Amendment of 28 September 2012 to this Code comes into force, the new law applies to procedural acts from the date on which the Amendment comes into force
 
-### [Chapter 3](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_3)**[]** [Transitional Provision to the Amendment of 20 March 2015](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_3)
+### [Chapter 3](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_3) [Transitional Provision to the Amendment of 20 March 2015](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_3)
 
   
 ###### [**Art. 407***b*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_407_b)
@@ -3624,7 +3624,7 @@ In proceedings that are pending when the Amendment of 28 September 2012 to this 
 
 [2] New prayers for relief that are filed as a result of the change in the law applicable are permitted; uncontested parts of a decision remain binding unless they are so closely materially connected with prayers for relief that have yet to be judged that it is reasonable to judge the entire matter.
 
-### [Chapter 4](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_4)**[]** [Transitional Provision to the Amendment of 19 June 2015](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_4)
+### [Chapter 4](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_4) [Transitional Provision to the Amendment of 19 June 2015](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_4)
 
 ###### [**Art. 407***c*](https://www.fedlex.admin.ch/eli/cc/2010/262/en#art_407_c)
 
@@ -3632,7 +3632,7 @@ In proceedings that are pending when the Amendment of 28 September 2012 to this 
 
 [2] New prayers for relief that are filed as a result of the change in the law applicable are permitted; uncontested parts of a decision remain binding unless they are so closely materially connected with prayers for relief that have yet to be judged that it is reasonable to judge the entire matter.
 
-### [Chapter 5](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_5)**[]** [Transitional Provision to the Amendment of 14 December 2018](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_5)
+### [Chapter 5](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_5) [Transitional Provision to the Amendment of 14 December 2018](https://www.fedlex.admin.ch/eli/cc/2010/262/en#part_4/tit_3/chap_5)
 
   
 **Art. 407**d
@@ -3647,7 +3647,7 @@ The new law applies to proceedings pending at the date of commencement of the am
 
 [2] The Federal Council shall determine the commencement date.
 
-Commencement Date: 1 January 2011[]
+Commencement Date: 1 January 2011
 
 # [Annex 1](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1)
 
@@ -3657,13 +3657,13 @@ Commencement Date: 1 January 2011[]
 
 ### [I. Repeal of current legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4067e599/lvl_I)
 
-The Civil Jurisdiction Act of 24 March 2000[] is repealed.
+The Civil Jurisdiction Act of 24 March 2000 is repealed.
 
 ### [II. Amendment of current legislation](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_1/lvl_d4067e599/lvl_I_I)
 
 The federal acts below are amended as follows:
 
-...*[]*
+...
 
 # [Annex 2](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2)
 
@@ -3673,14 +3673,14 @@ The federal acts below are amended as follows:
 
 ### [1. Coordination of the Civil Procedure Code with the new Nuclear Energy Public Liability Act](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4067e604/lvl_1)
 
-*Irrespective of whether the Nuclear Energy Public Liability Act of 13 June 2008*[] *(new NEPLA) or the Civil Procedure Code of 19 December 2008 (CPC) comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as fo**l**lows:* 
+*Irrespective of whether the Nuclear Energy Public Liability Act of 13 June 2008* *(new NEPLA) or the Civil Procedure Code of 19 December 2008 (CPC) comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as fo**l**lows:* 
 
 Art. 5 para. 1 let. e
 
 [1] Cantonal law shall designate the court that has jurisdiction as sole cantonal instance for:
 
   
-e. disputes under the Nuclear Energy Public Liability Act of 13 June 2008[];
+e. disputes under the Nuclear Energy Public Liability Act of 13 June 2008;
 
 Art. 38a Nuclear damage
 
@@ -3692,13 +3692,13 @@ Art. 38a Nuclear damage
 
 ### [2. Coordination of Number 19 of Annex 1 with the new NEPLA](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4067e604/lvl_2)
 
-*Irrespective of whether the new NEPLA*[]*or the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, Number 19 of Annex 1 of the CPC ceases to apply and the new NEPLA shall be amended in accordance with Number 20 of A**n**nex 1 of the CPC.*
+*Irrespective of whether the new NEPLA**or the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, Number 19 of Annex 1 of the CPC ceases to apply and the new NEPLA shall be amended in accordance with Number 20 of A**n**nex 1 of the CPC.*
 
 ### [3. Coordination with the Amendment of the Civil Code (CC) of 19 December 2008 (Protection of Adults, Law of Persons and Law on Children)](https://www.fedlex.admin.ch/eli/cc/2010/262/en#annex_2/lvl_d4067e604/lvl_3)
 
-*Irrespective of whether the amendment of the CC of 19 December 2008*[] *(prote**c**tion of adults, law of persons and law on children) of the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as follows:*
+*Irrespective of whether the amendment of the CC of 19 December 2008* *(prote**c**tion of adults, law of persons and law on children) of the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, the CPC shall be amended as follows:*
 
-...[]
+...
 
 Table of Contents
 

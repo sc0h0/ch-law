@@ -10,7 +10,7 @@ of 30 March 1911 (Status as of 1 July 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
-having considered the Dispatches of the Federal Council dated 3 March 1905 and 1 June 1909[]
+having considered the Dispatches of the Federal Council dated 3 March 1905 and 1 June 1909
 
 decrees:
 
@@ -80,7 +80,7 @@ Where the particular nature of the transaction or the circumstances are such tha
 
 ## [3*a*. Unsolicited goods](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_3_a)
 
-###### [**Art. 6***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_6_a)[]
+###### [**Art. 6***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_6_a)
 
 [1] The sending of unsolicited goods does not constitute an offer.
 
@@ -148,7 +148,7 @@ Where the law requires that a contract be done in writing, the requirement also 
 
 [1] A contract required by law to be in writing must be signed by all persons on whom it imposes obligations.
 
-[2] ...[]
+[2] ...
 
 ## [c. Signature](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_1/lvl_c)
 
@@ -158,7 +158,7 @@ Where the law requires that a contract be done in writing, the requirement also 
 
 [2] A signature reproduced by mechanical means is recognised as sufficient only where such reproduction is customarily permitted, and in particular in the case of signatures on large numbers of issued securities.
 
-[2bis] An authenticated electronic signature combined with an authenticated time stamp within the meaning of the Federal Act of 18 March 2016[] on Electronic Signatures is deemed equivalent to a handwritten signature, subject to any statutory or contractual provision to the contrary.[]
+[2bis] An authenticated electronic signature combined with an authenticated time stamp within the meaning of the Federal Act of 18 March 2016 on Electronic Signatures is deemed equivalent to a handwritten signature, subject to any statutory or contractual provision to the contrary.
 
 [3] The signature of a blind person is binding only if it has been duly certified or if it is proved that he was aware of the terms of the document at the time of signing.
 
@@ -340,7 +340,7 @@ Where an offer to enter into a contract or the acceptance of that offer has been
 
 ###### [**Art. 34**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_34)
 
-[1] A principal authorising another to act on his behalf by means of a transaction may restrict or revoke such authority at any time without prejudice to any rights acquired by those involved under existing legal relationships, such as an individual contract of employment, a partnership agreement or an agency agreement.[] 
+[1] A principal authorising another to act on his behalf by means of a transaction may restrict or revoke such authority at any time without prejudice to any rights acquired by those involved under existing legal relationships, such as an individual contract of employment, a partnership agreement or an agency agreement. 
 
 [2] Any advance waiver of this right by the principal is void.
 
@@ -350,7 +350,7 @@ Where an offer to enter into a contract or the acceptance of that offer has been
 
 ###### [**Art. 35**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_35)
 
-[1] The authority conferred by means of a transaction is extinguished on the loss of capacity to act, bankruptcy, death, or declaration of presumed death of the principal or the agent, unless the contrary has been agreed or is implied by the nature of the transaction.[]
+[1] The authority conferred by means of a transaction is extinguished on the loss of capacity to act, bankruptcy, death, or declaration of presumed death of the principal or the agent, unless the contrary has been agreed or is implied by the nature of the transaction.
 
 [2] The same applies on the dissolution of a legal entity or a company or partnership entered in the commercial register.
 
@@ -402,7 +402,7 @@ The special provisions governing the authority of agents and governing bodies of
 
 ## [I. Scope of application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_H/lvl_I)
 
-###### [**Art. 40***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_a)[]
+###### [**Art. 40***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_a)
 
 [1] The following provisions apply to contracts relating to goods and services intended for the customer’s personal or family use where:
 
@@ -410,25 +410,25 @@ The special provisions governing the authority of agents and governing bodies of
 a. the supplier of the goods or services acted in a professional or commercial capacity; and  
 b. the consideration from the buyer exceeds 100 francs.
 
-[2] These provisions do not apply to insurance policies and to legal transactions that are entered into by financial institutions and banks within the framework of existing financial services contracts in accordance with the Federal Act of 15 June 2018[].[]
+[2] These provisions do not apply to insurance policies and to legal transactions that are entered into by financial institutions and banks within the framework of existing financial services contracts in accordance with the Federal Act of 15 June 2018.
 
 [3] In the event of significant change to the purchasing power of the national currency, the Federal Council shall adjust the sum indicated in para. 1 let. b accordingly.
 
 ## [II. General principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_H/lvl_I_I)
 
-###### [**Art. 40***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_b)[]
+###### [**Art. 40***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_b)
 
 A customer may revoke his offer to enter into a contract or his acceptance of such an offer if the transaction was proposed:
 
   
-a.[] at his place of work, on residential premises or in their immediate vicinity;  
+a. at his place of work, on residential premises or in their immediate vicinity;  
 b. on public transport or on a public thoroughfare;  
 c. during a promotional event held in connection with an excursion or similar event;  
-d.[] by telephone or by a comparable means of simultaneous verbal communication.
+d. by telephone or by a comparable means of simultaneous verbal communication.
 
 ## [III. Exceptions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_H/lvl_II_I)
 
-###### [**Art. 40***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_c)[]
+###### [**Art. 40***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_c)
 
 The customer has no right of revocation:
 
@@ -438,23 +438,23 @@ b. if he declared his offer or acceptance at a stand at a market or trade fair.
 
 ## [IV. Duty to inform](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_H/lvl_I_V)
 
-###### [**Art. 40***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_d)[]
+###### [**Art. 40***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_d)
 
-[1] The supplier must inform the customer in writing or in another form that may be evidenced by text of the latter’s right of revocation and of the form and time limit to be observed when exercising such right, and must provide his address.[]
+[1] The supplier must inform the customer in writing or in another form that may be evidenced by text of the latter’s right of revocation and of the form and time limit to be observed when exercising such right, and must provide his address.
 
 [2] Such information must be dated and permit identification of the contract in question.
 
-[3] The information must be transmitted in such a manner that the customer is aware of it when he proposes or accepts the contract.[]
+[3] The information must be transmitted in such a manner that the customer is aware of it when he proposes or accepts the contract.
 
 ## [V. Revocation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_H/lvl_V)
 
 ## [1. Form and time limit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_H/lvl_V/lvl_1)
 
-###### [**Art. 40***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_e)[]
+###### [**Art. 40***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_e)
 
-[1] Revocation need not be in any particular form. The onus is on the customer to prove that he has revoked the contract within the time limit.[]
+[1] Revocation need not be in any particular form. The onus is on the customer to prove that he has revoked the contract within the time limit.
 
-[2] The prescriptive period for revocation is 14 days and commences as soon as the customer:[]
+[2] The prescriptive period for revocation is 14 days and commences as soon as the customer:
 
   
 a. has proposed or accepted the contract; and  
@@ -462,11 +462,11 @@ b. has become aware of the information stipulated in Art. 40*d*.
 
 [3] The onus is on the supplier to prove when the customer received the information stipulated in Art. 40*d*.
 
-[4] The time limit is observed if, on the last day of the prescriptive period, the customer informs the supplier of revocation or posts his written notice of revocation.[]
+[4] The time limit is observed if, on the last day of the prescriptive period, the customer informs the supplier of revocation or posts his written notice of revocation.
 
 ## [2. Consequences](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_1/lvl_H/lvl_V/lvl_2)
 
-###### [**Art. 40***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_f)[]
+###### [**Art. 40***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_f)
 
 [1] Where the customer has revoked the contract, the parties must provide restitution for any performance already made.
 
@@ -476,7 +476,7 @@ b. has become aware of the information stipulated in Art. 40*d*.
 
 [4] The customer does not owe the supplier any further compensation.
 
-###### [**Art. 40***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_g)[]
+###### [**Art. 40***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_40_g)
 
 ### [Section Two: Obligations in Tort](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2)
 
@@ -498,7 +498,7 @@ b. has become aware of the information stipulated in Art. 40*d*.
 
 [2] Where the exact value of the damage cannot be quantified, the court shall estimate the value at its discretion in the light of the normal course of events and the steps taken by the person suffering damage.
 
-[3] The costs of treating animals kept as pets rather than for investment or commercial purposes may be claimed within appropriate limits as a loss even if they exceed the value of the animal.[]
+[3] The costs of treating animals kept as pets rather than for investment or commercial purposes may be claimed within appropriate limits as a loss even if they exceed the value of the animal.
 
 ## [III. Determining compensation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_A/lvl_II_I)
 
@@ -506,7 +506,7 @@ b. has become aware of the information stipulated in Art. 40*d*.
 
 [1] The court determines the form and extent of the compensation provided for damage incurred, with due regard to the circumstances and the degree of culpability.
 
-[1bis] Where an animal kept as a pet rather than for investment or commercial purposes has been injured or killed, the court may take appropriate account of its sentimental value to its owner or his dependants.[]
+[1bis] Where an animal kept as a pet rather than for investment or commercial purposes has been injured or killed, the court may take appropriate account of its sentimental value to its owner or his dependants.
 
 [2] Where damages are awarded in the form of periodic payments, the debtor must at the same time post security.
 
@@ -548,11 +548,11 @@ In cases of homicide or personal injury, the court may award the victim of perso
 
 ## [2. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_2)
 
-###### [**Art. 48**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_48)[]
+###### [**Art. 48**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_48)
 
 ## [3. Injury to personality rights](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_A/lvl_V/lvl_3)
 
-###### [**Art. 49**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_49)[]
+###### [**Art. 49**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_49)
 
 [1] Any person whose personality rights are unlawfully infringed is entitled to a sum of money by way of satisfaction provided this is justified by the seriousness of the infringement and no other amends have been made.
 
@@ -608,7 +608,7 @@ In cases of homicide or personal injury, the court may award the victim of perso
 
 ###### [**Art. 55**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_55)
 
-[1] An employer is liable for the damage caused by his employees or ancillary staff in the performance of their work unless he proves that he took all due care to avoid a damage of this type or that the damage would have occurred even if all due care had been taken.[]
+[1] An employer is liable for the damage caused by his employees or ancillary staff in the performance of their work unless he proves that he took all due care to avoid a damage of this type or that the damage would have occurred even if all due care had been taken.
 
 [2] The employer has a right of recourse against the person who caused the damage to the extent that such person is liable in damages.
 
@@ -622,7 +622,7 @@ In cases of homicide or personal injury, the court may award the victim of perso
 
 [2] He has a right of recourse if the animal was provoked either by another person or by an animal belonging to another person.
 
-[3] ...[]
+[3] ...
 
 ## [II. Seizure of animals](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_D/lvl_I_I)
 
@@ -652,27 +652,27 @@ In cases of homicide or personal injury, the court may award the victim of perso
 
 ## [F. Liability in respect of cryptographic keys](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_F)
 
-###### [**Art. 59***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_59_a)[]
+###### [**Art. 59***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_59_a)
 
-[1] The owner of a cryptographic key used to generate electronic signatures or seals is liable to third parties for any damage they have suffered as a result of relying on a valid certificate issued by a provider of certification services within the meaning of the Federal Act of 18 March 2016[] on Electronic Signatures.
+[1] The owner of a cryptographic key used to generate electronic signatures or seals is liable to third parties for any damage they have suffered as a result of relying on a valid certificate issued by a provider of certification services within the meaning of the Federal Act of 18 March 2016 on Electronic Signatures.
 
 [2] The owner is absolved of liability if he can satisfy the court that he took all the security precautions that could reasonably be expected in the circumstances to prevent misuse of the cryptographic key.
 
 [3] The Federal Council defines the security precautions to be taken pursuant to paragraph 2.
 
-## [G. Prescription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_G)[[]]
+## [G. Prescription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_G)
 
 ###### [**Art. 60**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_60)
 
-[1] The right to claim damages or satisfaction prescribes three years from the date on which the person suffering damage became aware of the loss, damage or injury and of the identity of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased.[]
+[1] The right to claim damages or satisfaction prescribes three years from the date on which the person suffering damage became aware of the loss, damage or injury and of the identity of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased.
 
-[1bis] In cases death or injury, the right to claim damages or satisfaction prescribes three years from the date on which the person suffering damage became aware of the damage and of the identity of person liable for it, but in any event twenty years after the date on which the harmful conduct took place or ceased.[]
+[1bis] In cases death or injury, the right to claim damages or satisfaction prescribes three years from the date on which the person suffering damage became aware of the damage and of the identity of person liable for it, but in any event twenty years after the date on which the harmful conduct took place or ceased.
 
-[2] If the person liable has committed a criminal offence through his or her harmful conduct, then notwithstanding the foregoing paragraphs the right to damages or satisfaction prescribes at the earliest when the right to prosecute the offence becomes time-barred. If the right to prosecute is no longer liable to become time-barred because a first instance criminal judgment has been issued, the right to claim damages or satisfaction prescribes at the earliest three years after notice of the judgment is given.[]
+[2] If the person liable has committed a criminal offence through his or her harmful conduct, then notwithstanding the foregoing paragraphs the right to damages or satisfaction prescribes at the earliest when the right to prosecute the offence becomes time-barred. If the right to prosecute is no longer liable to become time-barred because a first instance criminal judgment has been issued, the right to claim damages or satisfaction prescribes at the earliest three years after notice of the judgment is given.
 
 [3] Where the tort has given rise to a claim against the person suffering damage, he may refuse to satisfy the claim even if his own claim in tort is time-barred.
 
-## [H. Liability of civil servants and public officials](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_H)[[]]
+## [H. Liability of civil servants and public officials](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_1/chap_2/lvl_H)
 
 ###### [**Art. 61**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_61)
 
@@ -729,7 +729,7 @@ No right to restitution exists in respect of anything given with a view to produ
 
 ###### [**Art. 67**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_67)
 
-[1] The right to claim restitution for unjust enrichment prescribes three years after the date on which the person suffering damage learned of his or her claim and in any event ten years after the date on which the claim first arose.[]
+[1] The right to claim restitution for unjust enrichment prescribes three years after the date on which the person suffering damage learned of his or her claim and in any event ten years after the date on which the claim first arose.
 
 [2] Where the unjust enrichment consists of a claim against the person suffering damage, he or she may refuse to satisfy the claim even if his or her own claim for restitution has prescribed.
 
@@ -841,7 +841,7 @@ The term ‘half-month’ has the same meaning as a time limit of fifteen days; 
 
 ###### [**Art. 78**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_78)
 
-[1] Where the time of performance or the last day of a time limit falls on a Sunday or on a day officially recognised as a public holiday[] at the place of performance, the time of performance or the last day of a time limit is deemed to be the next working day.
+[1] Where the time of performance or the last day of a time limit falls on a Sunday or on a day officially recognised as a public holiday at the place of performance, the time of performance or the last day of a time limit is deemed to be the next working day.
 
 [2] Any agreement to the contrary is unaffected.
 
@@ -885,7 +885,7 @@ A party to a bilateral contract may not demand performance until he has discharg
 
 ## [I. National currency](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_2/chap_1/lvl_D/lvl_I)
 
-###### [**Art. 84**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_84)[]
+###### [**Art. 84**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_84)
 
 [1] Pecuniary debts must be discharged in legal tender of the currency in which the debt was incurred.
 
@@ -967,7 +967,7 @@ The obligee is in default if he refuses without good cause to accept performance
 
 [1] Where the obligee is in default, the obligor is entitled to deposit the object at the expense and risk of the obligee, thereby discharging his obligation.
 
-[2]The court decides which place should serve as depositary; however, merchandise may be deposited in a warehouse without need for a court decision.[]
+[2]The court decides which place should serve as depositary; however, merchandise may be deposited in a warehouse without need for a court decision.
 
 ## [b. Right to sell](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_2/chap_1/lvl_E/lvl_I_I/lvl_1/lvl_b)
 
@@ -1010,7 +1010,7 @@ The obligor is entitled to deposit his performance or to withdraw from the contr
 
 [1] An obligor who fails to discharge an obligation at all or as required must make amends for the resulting damage unless he can prove that he was not at fault.
 
-[2] The procedure for debt enforcement is governed by the provisions of the Federal Act of 11 April 1889[] on Debt Collection and Bankruptcy and the Civil Procedure Code of 19 December 2008[] (CPC).[]
+[2] The procedure for debt enforcement is governed by the provisions of the Federal Act of 11 April 1889 on Debt Collection and Bankruptcy and the Civil Procedure Code of 19 December 2008 (CPC).
 
 ## [2. Obligation to act or refrain from action](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_2/chap_2/lvl_A/lvl_I/lvl_2)
 
@@ -1048,7 +1048,7 @@ The obligor is entitled to deposit his performance or to withdraw from the contr
 
 ###### [**Art. 101**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_101)
 
-[1] A person who delegates the performance of an obligation or the exercise of a right arising from a contractual obligation to an associate, such as a member of his household or an employee is liable to the other party for any damage the associate causes in carrying out such tasks, even if their delegation was entirely authorised.[]
+[1] A person who delegates the performance of an obligation or the exercise of a right arising from a contractual obligation to an associate, such as a member of his household or an employee is liable to the other party for any damage the associate causes in carrying out such tasks, even if their delegation was entirely authorised.
 
 [2] This liability may be limited or excluded by prior agreement.
 
@@ -1307,11 +1307,11 @@ The following prescribe after five years:
   
 1. claims for agricultural and commercial rent and other rent, interest on capital and all other periodic payments;  
 2. claims in connection with delivery of foodstuffs, payments for board and lodging and hotel expenses;  
-3.[] claims in connection with work carried out by tradesmen and craftsmen, purchases of retail goods, medical treatment, professional services provided by advocates, solicitors, legal representatives and notaries, and work performed by employees for their employers.
+3. claims in connection with work carried out by tradesmen and craftsmen, purchases of retail goods, medical treatment, professional services provided by advocates, solicitors, legal representatives and notaries, and work performed by employees for their employers.
 
 ## [2*a*. Twenty years](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_3/lvl_G/lvl_I/lvl_2_a)
 
-###### [**Art. 128***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_128_a)[]
+###### [**Art. 128***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_128_a)
 
   
 Claims for damages or satisfaction arising from an injury or death in breach of contract prescribe three years from the date on which the person suffering damage became aware of the damage, but in any event twenty years after the date on which the harmful conduct took place or ceased. 
@@ -1361,15 +1361,15 @@ When the principal claim prescribes, so too do all claims for interest and other
 [1] The prescriptive period does not commence and, if it has begun, is suspended:
 
   
-1.[] in respect of the claims of children against their parents, until the children reach the age of majority;  
-2.[] in respect of the claim of person lacking capacity of judgement against his or her carer, for the duration of the advance care directive;  
+1. in respect of the claims of children against their parents, until the children reach the age of majority;  
+2. in respect of the claim of person lacking capacity of judgement against his or her carer, for the duration of the advance care directive;  
 3. in respect of the claims of spouses against each other, for the duration of the marriage;  
-3[bis].[][ ] []in respect of the claims of registered partners against each other, for the duration of the registered partnership;  
-4.[] in respect of the claim of an employee against his employer with whom he shares a household, for the duration of the employment relationship;  
+3[bis]. []in respect of the claims of registered partners against each other, for the duration of the registered partnership;  
+4. in respect of the claim of an employee against his employer with whom he shares a household, for the duration of the employment relationship;  
 5. for as long as the debtor has the usufruct of the claim;  
-6.[] for as long as the claim cannot be brought before a court for objective reasons;  
-7.[] for claims made by or against a testator, for the duration of the public inventory procedure;  
-8.[] for the duration of settlement talks, mediation proceedings or any other extra-judicial dispute resolution procedure, provided the parties agree thereon in writing.
+6. for as long as the claim cannot be brought before a court for objective reasons;  
+7. for claims made by or against a testator, for the duration of the public inventory procedure;  
+8. for the duration of settlement talks, mediation proceedings or any other extra-judicial dispute resolution procedure, provided the parties agree thereon in writing.
 
 [2] The prescriptive period begins or resumes at the end of the day on which the cause of prevention or suspension ceases to apply.
 
@@ -1385,11 +1385,11 @@ The prescriptive period is interrupted:
 
   
 1. if the debtor acknowledges the claim and in particular if he makes interest payments or part payments, gives an item in pledge or provides surety;  
-2.[] by debt enforcement proceedings, an application for conciliation, submission of a statement of claim or defence to a court or arbitral tribunal, or a petition for bankruptcy.
+2. by debt enforcement proceedings, an application for conciliation, submission of a statement of claim or defence to a court or arbitral tribunal, or a petition for bankruptcy.
 
 ## [2. Effect of interruption on co-obligors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_3/lvl_G/lvl_I_V/lvl_2)
 
-###### [**Art. 136**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_136)[]
+###### [**Art. 136**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_136)
 
 [1] Where the prescriptive period for one person who is jointly and severally liable for a debt or jointly liable for indivisible performance is interrupted, it is likewise interrupted for all other co-obligors, provided the interruption is due to an act by the creditor.
 
@@ -1413,7 +1413,7 @@ The prescriptive period is interrupted:
 
 ###### [**Art. 138**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_138)
 
-[1] Where the prescriptive period has been interrupted by an application for conciliation, or the submission of a statement of claim or defence, a new prescriptive period commences when the dispute is settled before the relevant court.[]
+[1] Where the prescriptive period has been interrupted by an application for conciliation, or the submission of a statement of claim or defence, a new prescriptive period commences when the dispute is settled before the relevant court.
 
 [2] Where the prescriptive period has been interrupted by debt enforcement proceedings, a new prescriptive period commences as of each step taken in the proceedings.
 
@@ -1421,7 +1421,7 @@ The prescriptive period is interrupted:
 
 ## [V. Prescription of the right of recourse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_3/lvl_G/lvl_V)
 
-###### [**Art. 139**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_139)[]
+###### [**Art. 139**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_139)
 
 Where two or more debtors are jointly and severally liable, the right of recourse of each debtor who has satisfied the creditor prescribes three years from date on which he satisfies the creditor and is aware of his co-debtors.
 
@@ -1431,19 +1431,19 @@ Where two or more debtors are jointly and severally liable, the right of recours
 
 The existence of a charge on chattels does not prevent the prescription of a claim, although the fact of its prescription does not prevent the creditor from asserting his right under the charge.
 
-## [VII. Waiver of the prescription defence](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_3/lvl_G/lvl_VI_I)[]
+## [VII. Waiver of the prescription defence](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_3/lvl_G/lvl_VI_I)
 
 ###### [**Art. 141**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_141)
 
-[1] The debtor may waive the right to object on the grounds of prescription, in each case for a maximum of ten years from the start of the prescriptive period.[]
+[1] The debtor may waive the right to object on the grounds of prescription, in each case for a maximum of ten years from the start of the prescriptive period.
 
-[1bis] The waiver must be made in writing. Only the user of general terms and conditions of business may waive the defence of prescription in such terms and conditions.[]
+[1bis] The waiver must be made in writing. Only the user of general terms and conditions of business may waive the defence of prescription in such terms and conditions.
 
 [2] A waiver granted by a joint and several debtor does not bind the other joint and several debtors.
 
 [3] The same applies to co-obligors of an indivisible debt and to the surety in the event of waiver by the principal debtor.
 
-[4] A waiver granted by a debtor shall bind the debtor’s insurers and vice-versa, provided a direct claim exists against the insurer.[]
+[4] A waiver granted by a debtor shall bind the debtor’s insurers and vice-versa, provided a direct claim exists against the insurer.
 
 ## [VIII. Application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_3/lvl_G/lvl_VII_I)
 
@@ -1602,7 +1602,7 @@ Where a condition is attached with the intention of encouraging an unlawful or i
 
 ## [B. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_4/chap_3/lvl_B)
 
-###### [**Art. 159**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_159)[]
+###### [**Art. 159**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_159)
 
 ## [C. Contractual penalty](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_4/chap_3/lvl_C)
 
@@ -1632,7 +1632,7 @@ Where a condition is attached with the intention of encouraging an unlawful or i
 
 [1] Any agreement that part payments are forfeited to the creditor in the event the contract is terminated shall be determined in accordance with the provisions governing contractual penalties.
 
-[2] ...[]
+[2] ...
 
 ## [II. Amount, nullity and reduction of the penalty](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_4/chap_3/lvl_C/lvl_I_I)
 
@@ -1810,15 +1810,15 @@ Where the law envisages special provisions governing the assignment of claims, t
 
 [1] A person to whom assets or a business with assets and liabilities are assigned automatically becomes liable to the creditors of the debts encumbering such assets or business on notification of the assignment to the creditors by him or by publication in official journals.
 
-[2] However, the previous debtor remains jointly and severally liable with the new debtor for three years, commencing on the date of notification or publication in the case of claims already due and on the maturity date in the case of claims falling due subsequently.[]
+[2] However, the previous debtor remains jointly and severally liable with the new debtor for three years, commencing on the date of notification or publication in the case of claims already due and on the maturity date in the case of claims falling due subsequently.
 
 [3] In other respects, an assumption of debt of this kind has the same effect as the assumption of an individual debt.
 
-[4] The takeover by assignment of assets or businesses of commercial enterprises, cooperatives, associations, foundations or sole proprietorships registered in the commercial register is governed by the provisions of the Mergers Act of 3 October 2003[].[]
+[4] The takeover by assignment of assets or businesses of commercial enterprises, cooperatives, associations, foundations or sole proprietorships registered in the commercial register is governed by the provisions of the Mergers Act of 3 October 2003.
 
 ## [VI. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_5/lvl_B/lvl_V_I)
 
-###### [**Art. 182**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_182)[]
+###### [**Art. 182**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_182)
 
 ## [VII. In relation to division of estate and land purchase](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_1/tit_5/lvl_B/lvl_VI_I)
 
@@ -1924,9 +1924,9 @@ Unless otherwise provided by agreement or custom, the seller bears the costs of 
 
 ## [a. Third-party notice](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_2/lvl_a)
 
-###### [**Art. 193**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_193)[]
+###### [**Art. 193**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_193)
 
-[1] The requirements for and effects of the third-party notice are governed by the CPC[].
+[1] The requirements for and effects of the third-party notice are governed by the CPC.
 
 [2] In the event of failure to serve the third-party notice for reasons not attributable to the seller, he is released from his warranty obligation to the extent that he can prove that the outcome would have been more favourable had the third-party notice been served promptly.
 
@@ -1966,9 +1966,9 @@ Unless otherwise provided by agreement or custom, the seller bears the costs of 
 
 ## [c. Objects of cultural heritage](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_2/lvl_B/lvl_I_I/lvl_3/lvl_c)
 
-###### [**Art. 196***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_196_a)[]
+###### [**Art. 196***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_196_a)
 
-In the case of objects of cultural heritage within the meaning of Article 2 paragraph 1 of the Cultural Property Transfer Act of 20 June 2003[], actions for breach of warranty of title prescribe one year after the buyer discovered the defect of title but in any event 30 years after the contract was concluded.
+In the case of objects of cultural heritage within the meaning of Article 2 paragraph 1 of the Cultural Property Transfer Act of 20 June 2003, actions for breach of warranty of title prescribe one year after the buyer discovered the defect of title but in any event 30 years after the contract was concluded.
 
 ## [III. Warranty of quality and fitness](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_2/lvl_B/lvl_II_I)
 
@@ -2094,13 +2094,13 @@ Where the seller has wilfully misled the buyer, liability for breach of warranty
 
 ## [9. Prescription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_2/lvl_B/lvl_II_I/lvl_9)
 
-###### [**Art. 210**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_210)[]
+###### [**Art. 210**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_210)
 
 [1] An action for breach of warranty of quality and fitness prescribes two years after delivery of the object to the buyer, even if he does not discover the defects until later, unless the seller has assumed liability under warranty for a longer period.
 
 [2] The period amounts to five years where defects in an object that has been incorporated in an immovable work in a manner consistent with its nature and purpose have caused the work to be defective.
 
-[3] In the case of cultural property within the meaning of Article 2 paragraph 1 of the Cultural Property Transfer Act of 20 June 2003[], actions for breach of warranty of quality and fitness prescribe one year after the buyer discovered the defect but in any event 30 years after the contract was concluded.
+[3] In the case of cultural property within the meaning of Article 2 paragraph 1 of the Cultural Property Transfer Act of 20 June 2003, actions for breach of warranty of quality and fitness prescribe one year after the buyer discovered the defect but in any event 30 years after the contract was concluded.
 
 [4] An agreement to reduce the prescriptive period is null and void if:
 
@@ -2169,19 +2169,19 @@ c. the seller is acting in the course of his or her professional or commercial a
 
 [1] A contract for the sale of immovable property is valid only if done as a public deed.
 
-[2] A preliminary contract and an agreement conferring a right of pre-emption, purchase or repurchase in relation to immovable property is valid only if done as a public deed.[]
+[2] A preliminary contract and an agreement conferring a right of pre-emption, purchase or repurchase in relation to immovable property is valid only if done as a public deed.
 
-[3] An agreement conferring a right of pre-emption without fixing a price is valid if done in writing.[]
+[3] An agreement conferring a right of pre-emption without fixing a price is valid if done in writing.
 
 ## [A[bis]. Duration and priority notice](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_3/lvl_A_bis)
 
-###### [**Art. 216***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_a)[]
+###### [**Art. 216***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_a)
 
 Rights of pre-emption or repurchase may be agreed for a maximum duration of 25 years and rights of purchase for a maximum of 10 years, and they may be entered under priority notice in the land register.
 
 ## [A[ter]. Inheritance and assignment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_3/lvl_A_ter)
 
-###### [**Art. 216***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_b)[]
+###### [**Art. 216***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_b)
 
 [1] Unless otherwise agreed, contractual rights of pre-emption, purchase and repurchase may be inherited but not assigned.
 
@@ -2191,7 +2191,7 @@ Rights of pre-emption or repurchase may be agreed for a maximum duration of 25 y
 
 ## [I. Pre-emption events](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_3/lvl_A_quater/lvl_I)
 
-###### [**Art. 216***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_c)[]
+###### [**Art. 216***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_c)
 
 [1] A right of pre-emption may be exercised on the sale of the immovable property or any other legal transaction economically equivalent to a sale (pre-emption event).
 
@@ -2199,7 +2199,7 @@ Rights of pre-emption or repurchase may be agreed for a maximum duration of 25 y
 
 ## [II. Effect of pre-emption, conditions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_3/lvl_A_quater/lvl_I_I)
 
-###### [**Art. 216***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_d)[]
+###### [**Art. 216***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_d)
 
 [1] The seller must inform persons with a right of pre-emption of the conclusion and content of any contract of sale entered into.
 
@@ -2209,7 +2209,7 @@ Rights of pre-emption or repurchase may be agreed for a maximum duration of 25 y
 
 ## [III. Exercise, forfeiture](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_3/lvl_A_quater/lvl_II_I)
 
-###### [**Art. 216***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_e)[]
+###### [**Art. 216***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_216_e)
 
 A person wishing to exercise his right of pre-emption must give notice of his intention within three months to the seller or, if it is entered in the land register, to the owner. This time limit commences on the day on which the person with the right of pre-emption became aware of the conclusion and content of the contract of sale.
 
@@ -2223,9 +2223,9 @@ A person wishing to exercise his right of pre-emption must give notice of his in
 
 ## [C. Agricultural properties](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_3/lvl_C)
 
-###### [**Art. 218**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_218)[]
+###### [**Art. 218**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_218)
 
-The Federal Act of 4 October 1991[] on Rural Land Rights applies to the sale of agricultural properties.
+The Federal Act of 4 October 1991 on Rural Land Rights applies to the sale of agricultural properties.
 
 ## [D. Warranty](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_3/lvl_D)
 
@@ -2287,25 +2287,25 @@ In other respects the provisions governing chattel sale apply *mutatis mutandis*
 
 [2] The sale is similarly treated as completed, if the buyer pays the whole or part of the price without reservation or if he deals with the property otherwise than was necessary for its inspection.
 
-###### [**Art. 226**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226)[]
+###### [**Art. 226**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226)
 
 ## [C. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_4/lvl_C)
 
-###### [**Art. 226***a*–**226***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226)[]
+###### [**Art. 226***a*–**226***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226)
 
-###### [**Art. 226***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226_e)[]
+###### [**Art. 226***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226_e)
 
-###### [**Art. 226***f–***226***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226)[]
+###### [**Art. 226***f–***226***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226)
 
-###### [**Art. 226***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226_l)[]
+###### [**Art. 226***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226_l)
 
-###### [**Art. 226***m*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226_m)[]
+###### [**Art. 226***m*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_226_m)
 
-###### [**Art. 227**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_227)[]
+###### [**Art. 227**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_227)
 
-###### [**Art. 227***a–***227***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_227)[]
+###### [**Art. 227***a–***227***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_227)
 
-###### [**Art. 228**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_228)[]
+###### [**Art. 228**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_228)
 
 ## [D. Auctions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_6/chap_4/lvl_D)
 
@@ -2413,9 +2413,9 @@ A party to the exchange who is dispossessed of the object received or has return
 
 [1] A person with capacity to act may make gifts of his assets within the bounds imposed by matrimonial property law and inheritance law.
 
-[2] The assets of a person who lacks capacity to act may be used only to make customary occasional gifts. The liability of the legal representative is reserved.[]
+[2] The assets of a person who lacks capacity to act may be used only to make customary occasional gifts. The liability of the legal representative is reserved.
 
-[3] ...[]
+[3] ...
 
 ## [II. Of the recipient](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_7/lvl_B/lvl_I_I)
 
@@ -2498,7 +2498,7 @@ A person who bestows an object on another person by way of a gift may reverse th
 Where a gift has been made from hand to hand or a promise to give has been fulfilled, the donor may revoke the gift and claim return of the object given, provided the recipient is still enriched thereby:
 
   
-1.[] if the recipient has committed a serious criminal offence against the donor or a person close to him;  
+1. if the recipient has committed a serious criminal offence against the donor or a person close to him;  
 2. if the recipient has grossly neglected his duties under family law towards the donor or any of the latter’s dependants;  
 3. if the recipient has failed without good cause to fulfil the provisos attached to the gift. 
 
@@ -2531,7 +2531,7 @@ Where a gift has been made from hand to hand or a promise to give has been fulfi
 
 Unless otherwise provided, where the donor has undertaken to make periodic payments or performance, his obligation is extinguished on his death.
 
-## [Title Eight:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8)**[]** [The Lease](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8)
+## [Title Eight:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8) [The Lease](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8)
 
 ### [Section One: General Provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_1)
 
@@ -2787,9 +2787,9 @@ Where a third party claims a right over the object that is incompatible with the
 
 ## [c. Procedure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_1/lvl_G/lvl_I_I/lvl_6/lvl_c)
 
-###### [**Art. 259***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_259_i)[]
+###### [**Art. 259***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_259_i)
 
-The procedure is governed by the CPO[].
+The procedure is governed by the CPO.
 
 ## [H. Renovations and modifications](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_1/lvl_H)
 
@@ -2990,11 +2990,11 @@ A lessee of a chattel hired for his own private use and leased to him on a comme
 
 [2] If the spouse cannot obtain such consent or it is withheld without good cause, he or she may apply to the court.
 
-[3] The same provisions apply *mutatis mutandis* to registered partners.[]
+[3] The same provisions apply *mutatis mutandis* to registered partners.
 
 ## [b. Notice given by the landlord](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_1/lvl_O/lvl_I_V/lvl_2/lvl_b)
 
-###### [**Art. 266***n*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_266_n)[]
+###### [**Art. 266***n*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_266_n)
 
 Notice of termination given by the landlord and any notification of a time limit for payment accompanied by a warning of termination in the event of non-payment (Art. 257*d*) must be served separately on the tenant and on his spouse or registered partner.
 
@@ -3198,7 +3198,7 @@ e. within three years of the conclusion of conciliation or court proceedings in 
   
 f. because of changes in the tenant’s family circumstances which do not give rise to any significant disadvantage to the landlord.
 
-[2 ]Paragraph 1 let. e. is also applicable where the tenant can produce documents showing that he reached a settlement with the landlord concerning a claim in connection with the lease outside conciliation or court proceedings.
+[2]Paragraph 1 let. e. is also applicable where the tenant can produce documents showing that he reached a settlement with the landlord concerning a claim in connection with the lease outside conciliation or court proceedings.
 
 [3] Paragraph 1 let. d. and e. are not applicable where notice of termination is given:
 
@@ -3269,7 +3269,7 @@ Unless the decision on extension or the extension agreement stipulates otherwise
 a. by giving one month’s notice expiring at the end of a calendar month in cases where the extension does not exceed one year;  
 b. by giving three months’ notice expiring on an admissible termination date in cases where the extension exceeds one year.
 
-## [C. Time limits and procedure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_3/lvl_C)[]
+## [C. Time limits and procedure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_3/lvl_C)
 
 ###### [**Art. 273**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_273)
 
@@ -3283,9 +3283,9 @@ b. not later than 60 days before expiry of the lease, where it is of limited dur
 
 [3] A tenant requesting a second extension must submit his request to the conciliation authority not later than 60 days before expiry of the first extension.
 
-[4] The procedure before the conciliation authority is governed by the CPO[].[]
+[4] The procedure before the conciliation authority is governed by the CPO.
 
-[5] Where the competent authority rejects a request made by the tenant relating to challenging termination, it must examine ex officio whether the lease may be extended.[]
+[5] Where the competent authority rejects a request made by the tenant relating to challenging termination, it must examine ex officio whether the lease may be extended.
 
 ## [D. Family residence](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_3/lvl_D)
 
@@ -3295,7 +3295,7 @@ b. not later than 60 days before expiry of the lease, where it is of limited dur
 
 [2] Agreements providing for an extension of the lease are valid only if concluded with both spouses.
 
-[3] The same provisions apply *mutatis mutandis* to registered partners.[]
+[3] The same provisions apply *mutatis mutandis* to registered partners.
 
 ## [E. Sub-letting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_3/lvl_E)
 
@@ -3313,11 +3313,11 @@ b. not later than 60 days before expiry of the lease, where it is of limited dur
 
 [2] All agreements to the contrary are void.
 
-### [Section Four:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_4)**[]** [...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_4)
+### [Section Four:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_4) [...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8/chap_4)
 
 ###### [**Art. 274–274*****g***](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_274__274_)
 
-## [Title Eight[bis]:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis)**[]** [The Usufructuary Lease](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis)
+## [Title Eight[bis]:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis) [The Usufructuary Lease](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis)
 
 ## [A. Definition and scope of application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis/lvl_A)
 
@@ -3339,9 +3339,9 @@ The provisions governing usufructuary leases of residential and commercial premi
 
 ###### [**Art. 276***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_276_a)
 
-[1] Usufructuary leases relating to agricultural enterprises or to agricultural land and buildings are governed by the Federal Act of 4 October 1985[] on Agricultural Leases, insofar as it contains special provisions.
+[1] Usufructuary leases relating to agricultural enterprises or to agricultural land and buildings are governed by the Federal Act of 4 October 1985 on Agricultural Leases, insofar as it contains special provisions.
 
-[2] In other respects the Code of Obligations applies with the exception of the provisions governing leases of residential and commercial premises.[]
+[2] In other respects the Code of Obligations applies with the exception of the provisions governing leases of residential and commercial premises.
 
 ## [B. Inventory](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis/lvl_B)
 
@@ -3639,9 +3639,9 @@ The lessor of commercial premises has the same right of lien in respect of the r
 
 ## [Q. Procedure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis/lvl_Q)
 
-###### [**Art. 301**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_301)[]
+###### [**Art. 301**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_301)
 
-The procedure is governed by the CPO[].
+The procedure is governed by the CPO.
 
 ## [R. Livestock lease](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_8_bis/lvl_R)
 
@@ -3787,7 +3787,7 @@ The borrower’s claim for delivery and the lender’s claim for acceptance of t
 
 Where a fixed-term loan contract does not stipulate the repayment date or the period of notice to terminate the contract or the expiry of the contract at any time on first request, the borrower must repay the loan within six weeks of the first request by the lender.
 
-## [Title Ten:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10)**[]** [The Employment Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10)
+## [Title Ten:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10) [The Employment Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10)
 
 ### [Section One: The Individual Employment Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1)
 
@@ -3885,7 +3885,7 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 [2] The employer must furnish all the necessary information to the employee or, in his stead, to an expert designated by both employer and employee or appointed by the court and must grant the employee or the expert such access to the accounts as is required for verification of the business results. 
 
-[3] In addition, where a share in the profits of the business has been agreed, a copy of the profit and loss account must be made available to the employee on request.[]
+[3] In addition, where a share in the profits of the business has been agreed, a copy of the profit and loss account must be made available to the employee on request.
 
 ## [3. Commission](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_I/lvl_3)
 
@@ -3969,7 +3969,7 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 [2] Subject to longer periods being fixed by individual agreement, standard employment contract or collective employment contract, the employer must pay three weeks’ salary during the first year of service and thereafter the salary for appropriately longer periods depending on the duration of the employment relationship and the particular circumstances.
 
-[3] The employer has the same obligation in the event that an employee becomes pregnant.[]
+[3] The employer has the same obligation in the event that an employee becomes pregnant.
 
 [4] A written agreement, standard employment contract or collective employment contract may derogate from the above provisions provided it gives the employee terms of at least equivalent benefit.
 
@@ -3981,13 +3981,13 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 [2] Where the insurance benefits are less, the employer must pay the difference between them and four-fifths of the salary.
 
-[3] Where the insurance benefits are paid only after a waiting period, the employer must pay at least four-fifths of the salary during that period.[] 
+[3] Where the insurance benefits are paid only after a waiting period, the employer must pay at least four-fifths of the salary during that period. 
 
 ## [IV. Assignment and pledge of salary claims](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_I_V)
 
-###### [**Art. 325**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_325)[]
+###### [**Art. 325**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_325)
 
-[1] The employee may assign or pledge his future salary claims as security for maintenance or support obligations under family law only to the extent that such claims are subject to attachment; at the request of an interested party the debt collection office at the employee’s domicile determines the amount that is not subject to attachment in accordance with Article 93 of the Federal Act of 11 April 1889[] on Debt Collection and Bankruptcy.
+[1] The employee may assign or pledge his future salary claims as security for maintenance or support obligations under family law only to the extent that such claims are subject to attachment; at the request of an interested party the debt collection office at the employee’s domicile determines the amount that is not subject to attachment in accordance with Article 93 of the Federal Act of 11 April 1889 on Debt Collection and Bankruptcy.
 
 [2] Any assignment or pledge of future salary claims as security for other obligations is void.
 
@@ -4043,7 +4043,7 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 [2] Where with the employer’s consent the employee uses his own motor vehicle for work purposes, the employee is also entitled to reimbursement of the tax on the vehicle and the premiums for third-party liability insurance as well as appropriate compensation for wear and tear, to the extent that the vehicle is used for business purposes.
 
-[3] ...[]
+[3] ...
 
 ## [c. Payment dates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_V_I/lvl_2/lvl_c)
 
@@ -4059,9 +4059,9 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 ###### [**Art. 328**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_328)
 
-[1] Within the employment relationship, the employer must acknowledge and safeguard the employee’s personality rights, have due regard for his health and ensure that proper moral standards are maintained. In particular, he must ensure that employees are not sexually harassed and that any victim of sexual harassment suffers no further adverse consequences.[]
+[1] Within the employment relationship, the employer must acknowledge and safeguard the employee’s personality rights, have due regard for his health and ensure that proper moral standards are maintained. In particular, he must ensure that employees are not sexually harassed and that any victim of sexual harassment suffers no further adverse consequences.
 
-[2] In order to safeguard the personal safety, health and integrity of his employees he must take all measures that are shown by experience to be necessary, that are feasible using the latest technology and that are appropriate to the particular circumstances of the workplace or the household, provided such measures may equitably be expected of him in the light of each specific employment relationship and the nature of the work. [] [] 
+[2] In order to safeguard the personal safety, health and integrity of his employees he must take all measures that are shown by experience to be necessary, that are feasible using the latest technology and that are appropriate to the particular circumstances of the workplace or the household, provided such measures may equitably be expected of him in the light of each specific employment relationship and the nature of the work. 
 
 ## [2. Shared household](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VI_I/lvl_2)
 
@@ -4075,13 +4075,13 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 ## [3. When handling personal data](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VI_I/lvl_3)
 
-###### [**Art. 328***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_328_b)[]
+###### [**Art. 328***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_328_b)
 
-The employer may handle data concerning the employee only to the extent that such data concern the employee’s suitability for his job or are necessary for the performance of the employment contract. In all other respects, the provisions of the Federal Act of 19 June 1992[] on Data Protection apply. 
+The employer may handle data concerning the employee only to the extent that such data concern the employee’s suitability for his job or are necessary for the performance of the employment contract. In all other respects, the provisions of the Federal Act of 19 June 1992 on Data Protection apply. 
 
 ## [VIII. Days off work, holidays, and leave](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I)
 
-## [1. Days off work](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_1)[[]]
+## [1. Days off work](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_1)
 
 ###### [**Art. 329**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329)
 
@@ -4099,9 +4099,9 @@ The employer may handle data concerning the employee only to the extent that suc
 
 ###### [**Art. 329***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_a)
 
-[1] The employer must allow the employee during each year of service at least four weeks’ holiday and five weeks’ holiday for employees under the age of 20.[]
+[1] The employer must allow the employee during each year of service at least four weeks’ holiday and five weeks’ holiday for employees under the age of 20.
 
-[2] ...[]
+[2] ...
 
 [3] Where an employee has not yet completed one year’s service, his holiday entitlement is fixed pro rata.
 
@@ -4109,9 +4109,9 @@ The employer may handle data concerning the employee only to the extent that suc
 
 ###### [**Art. 329***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_b)
 
-[1] Where in a given year of service the employee through his own fault is prevented from working for more than a month in total, the employer may reduce his holiday entitlement by one-twelfth for each full month of absence.[]
+[1] Where in a given year of service the employee through his own fault is prevented from working for more than a month in total, the employer may reduce his holiday entitlement by one-twelfth for each full month of absence.
 
-[2] Where the total absence does not exceed one month in a given year of service and is the result of personal circumstances for which the employee is not at fault, such as illness, accident, legal obligations, public duties or leave for youth work, the employer is not entitled to reduce his holiday entitlement.[]
+[2] Where the total absence does not exceed one month in a given year of service and is the result of personal circumstances for which the employee is not at fault, such as illness, accident, legal obligations, public duties or leave for youth work, the employer is not entitled to reduce his holiday entitlement.
 
 [3] The employer may not reduce the holiday entitlement of:
 
@@ -4119,15 +4119,15 @@ The employer may handle data concerning the employee only to the extent that suc
 a. a female employee who is prevented from working by pregnancy for up to two months;  
 b. a female employee who has taken maternity leave in accordance with Article 329*f*;  
 c. a male employee who has taken paternity leave in accordance with Article 329*g*; or  
-d. an employee who has taken carer’s leave in accordance with Article 329*i*.[]
+d. an employee who has taken carer’s leave in accordance with Article 329*i*.
 
-[4] A standard employment contract or collective employment contract may derogate from paragraphs 2 and 3 provided that, taken as a whole, it gives employees terms of at least equal benefit.[]
+[4] A standard employment contract or collective employment contract may derogate from paragraphs 2 and 3 provided that, taken as a whole, it gives employees terms of at least equal benefit.
 
 ## [c. Consecutive weeks, timing](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_2/lvl_c)
 
 ###### [**Art. 329***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_c)
 
-[1] The holiday entitlement for a given year of service is generally granted during that year; at least two weeks of holiday must be taken consecutively.[]
+[1] The holiday entitlement for a given year of service is generally granted during that year; at least two weeks of holiday must be taken consecutively.
 
 [2] The employer determines the timing of holidays taking due account of the employee’s wishes to the extent these are compatible with the interests of the business or household.
 
@@ -4143,7 +4143,7 @@ d. an employee who has taken carer’s leave in accordance with Article 329*i*.[
 
 ## [3. Leave for extracurricular youth work](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_3)
 
-###### [**Art. 329***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_e)[]
+###### [**Art. 329***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_e)
 
 [1] During each year of service the employer must grant employees under the age of 30 leave of up to one working week for the purpose of carrying out unpaid leadership, care or advisory activities in connection with extracurricular youth work for cultural or social organisations and for related initial and ongoing training. 
 
@@ -4155,17 +4155,17 @@ d. an employee who has taken carer’s leave in accordance with Article 329*i*.[
 
 ## [4. Maternity leave](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_4)
 
-###### [**Art. 329***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_f)[]
+###### [**Art. 329***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_f)
 
 [1] After having given birth, a female employee is entitled to maternity leave of at least 14 weeks.
 
-[2] In the event of the hospitalisation of the new-born child, the maternity leave shall be extended by the extended period of payment of the maternity allowance.[]
+[2] In the event of the hospitalisation of the new-born child, the maternity leave shall be extended by the extended period of payment of the maternity allowance.
 
 ## [5. Paternity leave](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_5)
 
 ## [4. Paternity leave](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_6)
 
-###### [**Art. 329***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_g)[]
+###### [**Art. 329***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_g)
 
 [1] An employee who is legally the father at the time of the birth of a child or who becomes the legal father within the following six months is entitled to paternity leave of two weeks.
 
@@ -4175,15 +4175,15 @@ d. an employee who has taken carer’s leave in accordance with Article 329*i*.[
 
 ## [6. Leave to care for family members](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_7)
 
-###### [**Art. 329***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_h)[]
+###### [**Art. 329***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_h)
 
 An employee is entitled to paid leave for the time he or she spends caring for a family member or life partner with health problems; however the leave is limited to no more than three days per event and no more than ten days per year.
 
 ## [7. Leave to care for a child whose health is seriously impaired by illness or accident](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_VII_I/lvl_7)
 
-###### [**Art. 329***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_i)[]
+###### [**Art. 329***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_329_i)
 
-[1] If an employee is entitled to carer’s allowance under Articles 16*n*–16*s* of the Loss of Earning Compensation Act (LECA) of 25 September 1952[] because his or her child’s health has been seriously impaired by illness or accident, he or she is entitled to carer’s leave of a maximum of 14 weeks. 
+[1] If an employee is entitled to carer’s allowance under Articles 16*n*–16*s* of the Loss of Earning Compensation Act (LECA) of 25 September 1952 because his or her child’s health has been seriously impaired by illness or accident, he or she is entitled to carer’s leave of a maximum of 14 weeks. 
 
 [2] The carer’s leave must be taken within a period of 18 months. The period begins on the day for which the first daily allowance is claimed. 
 
@@ -4217,7 +4217,7 @@ An employee is entitled to paid leave for the time he or she spends caring for a
 
 ## [3. Duty of information](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_C/lvl_I_X/lvl_3)
 
-###### [**Art. 330***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_330_b)[]
+###### [**Art. 330***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_330_b)
 
 [1] Where the employment contract has been concluded for an indefinite duration or for longer than one month, within one month of the beginning of the employment relationship, the employer must inform the employee in writing of:
 
@@ -4232,23 +4232,23 @@ e. the length of the working week.
 
 ## [D. Employee benefits provision](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D)
 
-## [I. Obligations of the employer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_I)[[]]
+## [I. Obligations of the employer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_I)
 
 ###### [**Art. 331**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331)
 
-[1] Where the employer contributes to a employee benefits scheme[] or the employees make their own contributions, the employer must transfer these contributions to a foundation, a cooperative or a public law institution.
+[1] Where the employer contributes to a employee benefits scheme or the employees make their own contributions, the employer must transfer these contributions to a foundation, a cooperative or a public law institution.
 
 [2] Where the employer’s contributions and any made by the employee are used to take out health insurance, personal accident insurance, life assurance, disability insurance or whole life assurance in favour of the employee with a regulated insurance company or a recognised health insurance fund, the employer is not obliged to transfer the contributions as stipulated in the previous paragraph if an independent claim against the insurer would accrue to the employee on the occurrence of the event insured against.
 
-[3] Where the employee is obliged to make contributions to a benefits scheme, the employer must simultaneously contribute an amount at least equal to the total contributions of all his employees; he must finance his contributions from his own funds or from contribution reserves held by the fund which have previously been accumulated by the employer for this purpose and are shown separately in the fund’s accounts. The employer must transfer the contribution deducted from the employee’s salary together with his own contribution to the benefits scheme not later than at the end of the first month following the calendar year or insurance year for which the contributions are due.[]
+[3] Where the employee is obliged to make contributions to a benefits scheme, the employer must simultaneously contribute an amount at least equal to the total contributions of all his employees; he must finance his contributions from his own funds or from contribution reserves held by the fund which have previously been accumulated by the employer for this purpose and are shown separately in the fund’s accounts. The employer must transfer the contribution deducted from the employee’s salary together with his own contribution to the benefits scheme not later than at the end of the first month following the calendar year or insurance year for which the contributions are due.
 
-[4] The employer must furnish the employee with the necessary information regarding his rights and entitlements against a benefits scheme or an insurer.[]
+[4] The employer must furnish the employee with the necessary information regarding his rights and entitlements against a benefits scheme or an insurer.
 
-[5] At the request of the central office for ‘Pillar 2’ (occupational pension) insurance, the employer must supply any information available to him that might facilitate the location of persons entitled to dormant assets or of the institutions that manage such assets.[]
+[5] At the request of the central office for ‘Pillar 2’ (occupational pension) insurance, the employer must supply any information available to him that might facilitate the location of persons entitled to dormant assets or of the institutions that manage such assets.
 
 ## [II. Beginning and end of insurance cover](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_I_I)
 
-###### [**Art. 331***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_a)[]
+###### [**Art. 331***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_a)
 
 [1] Benefits cover commences on the date on which the employment relationship begins and ends on the date on which the employee leaves the benefits scheme.
 
@@ -4258,13 +4258,13 @@ e. the length of the working week.
 
 ## [III. Assignment and pledge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_II_I)
 
-###### [**Art. 331***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_b)[]
+###### [**Art. 331***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_b)
 
 Claims for future benefits may not be validly assigned or pledged before they fall due.
 
 ## [IV. Reservations on medical grounds](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_I_V)
 
-###### [**Art. 331***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_c)[]
+###### [**Art. 331***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_c)
 
 Occupational benefits schemes may make reservations on medical grounds in relation to invalidity and life policies. Such reservations may be made for a maximum of five years.
 
@@ -4272,7 +4272,7 @@ Occupational benefits schemes may make reservations on medical grounds in relati
 
 ## [1. Pledge](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_V/lvl_1)
 
-###### [**Art. 331***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_d)[]
+###### [**Art. 331***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_d)
 
 [1] At any time up to three years before becoming entitled to draw retirement benefits, the employee may pledge his entitlement to occupational benefits or an amount up to the limit of his transferable benefits for the purpose of acquiring a property for his own personal use.
 
@@ -4282,9 +4282,9 @@ Occupational benefits schemes may make reservations on medical grounds in relati
 
 [4] The amount pledged by employees aged 50 or older must not exceed the transferable benefit entitlement they would have had at 50 or one-half of their transferable benefit entitlement at the time the pledge is given.
 
-[5] Married employees may pledge benefits only with the written consent of their spouse. Where the employee cannot obtain such consent or if it is withheld, the employee may apply to the civil courts.[] The same applies to registered partnerships.[]
+[5] Married employees may pledge benefits only with the written consent of their spouse. Where the employee cannot obtain such consent or if it is withheld, the employee may apply to the civil courts. The same applies to registered partnerships.
 
-[6] Where the pledge is realised before the benefits fall due or the cash payment is made, Articles 30*d*, 30*e*, 30*g* and Article 83*a* of the Federal Act of 25 June 1982[] on Occupational Old Age, Survivors' and Invalidity Pension Provision are applicable.[] 
+[6] Where the pledge is realised before the benefits fall due or the cash payment is made, Articles 30*d*, 30*e*, 30*g* and Article 83*a* of the Federal Act of 25 June 1982 on Occupational Old Age, Survivors' and Invalidity Pension Provision are applicable. 
 
 [7] The Federal Council determines:
 
@@ -4294,7 +4294,7 @@ b. the conditions to be fulfilled for the pledging of entitlements to acquire sh
 
 ## [2. Early withdrawal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_V/lvl_2)
 
-###### [**Art. 331***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_e)[]
+###### [**Art. 331***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_e)
 
 [1] At any time up to three years before becoming entitled to draw retirement benefits, the employee may claim an amount from his benefits scheme for the purpose of acquiring a property for his own personal use.
 
@@ -4304,17 +4304,17 @@ b. the conditions to be fulfilled for the pledging of entitlements to acquire sh
 
 [4] The early withdrawal brings about an immediate reduction in occupational benefit entitlements in accordance with the benefits scheme regulations and the actuarial basis employed by the benefits scheme. In order to avoid a shortfall in benefits cover resulting from this reduction in benefits in the event of death or disability, the benefits scheme offers supplementary insurance either directly or as broker for a third-party insurer.
 
-[5] Married employees may make such an early withdrawal and any subsequent establishment of a charge on immovable property only with the written consent of their spouse. Where the employee cannot obtain such consent or if it is withheld, the employee may apply to the civil courts. The same applies to registered partnerships.[]
+[5] Married employees may make such an early withdrawal and any subsequent establishment of a charge on immovable property only with the written consent of their spouse. Where the employee cannot obtain such consent or if it is withheld, the employee may apply to the civil courts. The same applies to registered partnerships.
 
-[6] Where married persons divorce before the benefits fall due, the early withdrawal is deemed a transferable benefit and is divided in accordance with Article 123 of the Civil Code[], Articles 280 and 281 CPO[] and Articles 22–22*b* of the Vested Benefits Act of 17 December 1993[]. The same applies in the event of judicial dissolution of a registered partnership.[]
+[6] Where married persons divorce before the benefits fall due, the early withdrawal is deemed a transferable benefit and is divided in accordance with Article 123 of the Civil Code, Articles 280 and 281 CPO and Articles 22–22*b* of the Vested Benefits Act of 17 December 1993. The same applies in the event of judicial dissolution of a registered partnership.
 
 [7] If the early withdrawal or pledge of entitlements jeopardises the liquidity of the benefits scheme, the fund may defer execution of the requests concerned. The benefits scheme must lay down in its regulations the order of priority in which early withdrawals or pledges of entitlements will be deferred in such an event. The Federal Council regulates the details.
 
-[8] In other respects Articles 30*d*, 30*e*, 30*g* and Article 83*a* of the Federal Act of 25 June 1982[] on Occupational Old Age, Survivors' and Invalidity Pension Provision are applicable.[] 
+[8] In other respects Articles 30*d*, 30*e*, 30*g* and Article 83*a* of the Federal Act of 25 June 1982 on Occupational Old Age, Survivors' and Invalidity Pension Provision are applicable. 
 
 ## [3. Restrictions if the benefits scheme has a cover deficit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_D/lvl_V/lvl_3)
 
-###### [**Art. 331***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_f)[]
+###### [**Art. 331***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_331_f)
 
 [1] The benefits scheme may provide in its regulations that the pledges of assignments, early withdrawals and repayments may be subject to time or volume restrictions or even refused while the fund has a cover deficit.
 
@@ -4322,7 +4322,7 @@ b. the conditions to be fulfilled for the pledging of entitlements to acquire sh
 
 ## [E. Right to inventions and designs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_E)
 
-###### [**Art. 332**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_332)[]
+###### [**Art. 332**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_332)
 
 [1] Inventions and designs produced by the employee alone or in collaboration with others in the course of his work for the employer and in performance of his contractual obligations belong to the employer, whether or not they may be protected.
 
@@ -4332,17 +4332,17 @@ b. the conditions to be fulfilled for the pledging of entitlements to acquire sh
 
 [4] Where it is not released to the employee, the employer must pay him separate, appropriate remuneration to be determined with due regard to all pertinent circumstances and in particular the economic value of the invention or design, the degree to which the employer contributed, any reliance on other staff and on the employer’s facilities, the expenses incurred by the employee and his position in the company.
 
-###### [**Art. 332***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_332_a)[]
+###### [**Art. 332***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_332_a)
 
 ## [F. Transfer of employment relationship](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_F)
 
-## [1. Effects](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_F/lvl_1)[[]]
+## [1. Effects](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_F/lvl_1)
 
 ###### [**Art. 333**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_333)
 
-[1] Where the employer transfers the company or a part thereof to a third party, the employment relationship and all attendant rights and obligations pass to the acquirer as of the day of the transfer, unless the employee refuses such transfer.[] 
+[1] Where the employer transfers the company or a part thereof to a third party, the employment relationship and all attendant rights and obligations pass to the acquirer as of the day of the transfer, unless the employee refuses such transfer. 
 
-[1bis] Where the transferred relationship is governed by a collective employment contract, the acquirer is obliged to abide by it for one year unless it expires or is terminated sooner.[] 
+[1bis] Where the transferred relationship is governed by a collective employment contract, the acquirer is obliged to abide by it for one year unless it expires or is terminated sooner. 
 
 [2] In the event that the employee refuses the transfer, the employment relationship ends on expiry of the statutory notice period; until then, the acquirer and the employee are obliged to perform the contract.
 
@@ -4352,7 +4352,7 @@ b. the conditions to be fulfilled for the pledging of entitlements to acquire sh
 
 ## [2. Consultation of employees’ organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_F/lvl_2)
 
-###### [**Art. 333***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_333_a)[]
+###### [**Art. 333***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_333_a)
 
 [1] Where the employer transfers the company or a part thereof to a third party, he must inform the organisation that represents the employees or, where there is none, the employees themselves in good time before the transfer takes place of:
 
@@ -4364,7 +4364,7 @@ b. its legal, economic and social consequences for the employees.
 
 ## [3. Transfer of the company on insolvency](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_F/lvl_3)
 
-###### [**Art. 333***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_333_b)[]
+###### [**Art. 333***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_333_b)
 
 If the company or part thereof is transferred during a debt restructuring moratorium, in the course of bankruptcy proceedings or under a composition agreement with assignment of assets, the employment relationship with all rights and obligations is transferred to the acquirer if this has been agreed with the acquirer and the employee does not object to the transfer. In addition, Article 333, with the exception of its paragraph 3, and 333*a* apply *mutatis mutandis*.
 
@@ -4372,7 +4372,7 @@ If the company or part thereof is transferred during a debt restructuring morato
 
 ## [I. Fixed-term employment relationship](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_I)
 
-###### [**Art. 334**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_334)[]
+###### [**Art. 334**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_334)
 
 [1] A fixed-term employment relationship ends without notice.
 
@@ -4384,7 +4384,7 @@ If the company or part thereof is transferred during a debt restructuring morato
 
 ## [1. Notice in general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_1)
 
-###### [**Art. 335**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335)[]
+###### [**Art. 335**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335)
 
 [1] An employment relationship for an unlimited period may be terminated by either party.
 
@@ -4394,7 +4394,7 @@ If the company or part thereof is transferred during a debt restructuring morato
 
 ## [a. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_a)
 
-###### [**Art. 335***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_a)[]
+###### [**Art. 335***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_a)
 
 [1] Notice periods must be the same for both parties; where an agreement provides for different notice periods, the longer period is applicable to both parties.
 
@@ -4402,7 +4402,7 @@ If the company or part thereof is transferred during a debt restructuring morato
 
 ## [b. During the probation period](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_b)
 
-###### [**Art. 335***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_b)[]
+###### [**Art. 335***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_b)
 
 [1] During the probation period, either party may terminate the contract at any time by giving seven days’ notice; the probation period is considered to be the first month of an employment relationship.
 
@@ -4412,19 +4412,19 @@ If the company or part thereof is transferred during a debt restructuring morato
 
 ## [c. After the probation period](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_I_I/lvl_2/lvl_c)
 
-###### [**Art. 335***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_c)[]
+###### [**Art. 335***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_c)
 
 [1] The employment relationship may be terminated at one month’s notice during the first year of service, at two months’ notice in the second to ninth years of service and at three months’ notice thereafter, all such notice to expire at the end of a calendar month.
 
 [2] These notice periods may be varied by written individual, standard or collective employment contract; however, they may be reduced to less than one month only by collective employment contract and only for the first year of service.
 
-[3] If the employer terminates the employment relationship and if the employee is entitled to paternity leave in accordance with Article 329*g* before the end of the employment relationship, the period of notice of termination shall be extended by the number of days of paternity leave not yet taken.[]
+[3] If the employer terminates the employment relationship and if the employee is entitled to paternity leave in accordance with Article 329*g* before the end of the employment relationship, the period of notice of termination shall be extended by the number of days of paternity leave not yet taken.
 
 ## [II[bis]. Mass redundancies](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis)
 
 ## [1. Definition](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_1)
 
-###### [**Art. 335***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_d)[]
+###### [**Art. 335***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_d)
 
 Mass redundancies are notices of termination given by the employer to employees of a business within 30 days of each other for reasons not pertaining personally to the employees and which affect:
 
@@ -4435,15 +4435,15 @@ Mass redundancies are notices of termination given by the employer to employees 
 
 ## [2. Scope of application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_2)
 
-###### [**Art. 335***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_e)[]
+###### [**Art. 335***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_e)
 
 [1] The provisions governing mass redundancies apply equally to fixed-term employment relationships terminated prior to expiry of their agreed duration.
 
-[2] They do not apply in the event of cessation of business operations by court order or in the case of mass redundancies due to bankruptcy or under a composition agreement with assignment of assets.[]
+[2] They do not apply in the event of cessation of business operations by court order or in the case of mass redundancies due to bankruptcy or under a composition agreement with assignment of assets.
 
 ## [3. Consultation of employees’ organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_3)
 
-###### [**Art. 335***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_f)[]
+###### [**Art. 335***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_f)
 
 [1] An employer intending to make mass redundancies must consult the organisation that represents the employees or, where there is none, the employees themselves.
 
@@ -4461,7 +4461,7 @@ d. the period in which he plans to issue the notices of termination.
 
 ## [4. Procedure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_4)
 
-###### [**Art. 335***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_g)[]
+###### [**Art. 335***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_g)
 
 [1] The employer notifies the cantonal employment office in writing of any intended mass redundancies and forwards a copy of such notification to the organisation that represents the employees or, where there is none, to the employees themselves.
 
@@ -4475,7 +4475,7 @@ d. the period in which he plans to issue the notices of termination.
 
 ## [a. Definition and principles](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_a)
 
-###### [**Art. 335***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_h)[]
+###### [**Art. 335***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_h)
 
 [1] A social plan is an agreement in which an employer and employees set out measures to avoid redundancies or to reduce their numbers and mitigate their effects.
 
@@ -4483,7 +4483,7 @@ d. the period in which he plans to issue the notices of termination.
 
 ## [b. Duty to negotiate](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_b)
 
-###### [**Art. 335***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_i)[]
+###### [**Art. 335***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_i)
 
 [1] The employer must hold negotiations with the employees with the aim of preparing a social plan if he:
 
@@ -4504,7 +4504,7 @@ c. directly with the employees if there is no organisation representing the empl
 
 ## [c. Preparation by an arbitral tribunal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_c)
 
-###### [**Art. 335***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_j)[]
+###### [**Art. 335***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_j)
 
 [1] If the parties are unable to agree on a social plan, an arbitral tribunal is appointed. 
 
@@ -4512,7 +4512,7 @@ c. directly with the employees if there is no organisation representing the empl
 
 ## [d. During bankruptcy or composition proceedings](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_bis/lvl_5/lvl_d)
 
-###### [**Art. 335***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_k)[]
+###### [**Art. 335***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_335_k)
 
 The provisions on the social plan (Art. 335*h*–335*j*) do not apply to mass redundancies that occur during bankruptcy or composition proceedings that are concluded with a composition agreement.
 
@@ -4522,7 +4522,7 @@ The provisions on the social plan (Art. 335*h*–335*j*) do not apply to mass re
 
 ## [a. General principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_1/lvl_a)
 
-###### [**Art. 336**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336)[]
+###### [**Art. 336**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336)
 
 [1] Notice of termination is unlawful where given by one party:
 
@@ -4531,30 +4531,30 @@ a. on account of an attribute pertaining to the person of the other party, unles
 b. because the other party exercises a constitutional right, unless the exercise of such right breaches an obligation arising from the employment relationship or substantially impairs cooperation within the business;  
 c. solely in order to prevent claims under the employment relationship from accruing to the other party;  
 d. because the other party asserts claims under the employment relationship in good faith;  
-e.[] because the other party is performing Swiss compulsory military or civil defence service or Swiss alternative civilian service or a non-voluntary legal obligation.
+e. because the other party is performing Swiss compulsory military or civil defence service or Swiss alternative civilian service or a non-voluntary legal obligation.
 
 [2] Further, notice of termination given by the employer is unlawful when given:
 
   
 a. because the employee is or is not a member of an employees’ organisation or because he carries out trade union activities in a lawful manner;  
 b. while the employee is an elected employee representative on the staff council for the business or on a body linked to the business and the employer cannot cite just cause to terminate his employment;  
-c.[] in the context of mass redundancies, without his having consulted the organisation that represents the employees or, where there is none, the employees themselves (Art. 335*f*).
+c. in the context of mass redundancies, without his having consulted the organisation that represents the employees or, where there is none, the employees themselves (Art. 335*f*).
 
-[3] The protection against termination of employment afforded pursuant to paragraph 2 letter b to an employee representative whose mandate has ended as a result of transfer of the employment relationship (Art. 333) continues until such time as the mandate would have expired had such transfer not taken place.[]
+[3] The protection against termination of employment afforded pursuant to paragraph 2 letter b to an employee representative whose mandate has ended as a result of transfer of the employment relationship (Art. 333) continues until such time as the mandate would have expired had such transfer not taken place.
 
 ## [b. Penalties](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_1/lvl_b)
 
-###### [**Art. 336***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_a)[]
+###### [**Art. 336***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_a)
 
 [1] A party who terminates the employment relationship unlawfully must pay compensation to the other party.
 
 [2] The court determines the compensation taking due account of all the circumstances, though it must not exceed an amount equivalent to six months’ salary for the employee. Claims for damages on other counts are unaffected.
 
-[3] Where termination is unlawful pursuant to Article 336 paragraph 2 letter c, compensation may not exceed two months’ salary for the employee.[]
+[3] Where termination is unlawful pursuant to Article 336 paragraph 2 letter c, compensation may not exceed two months’ salary for the employee.
 
 ## [c. Procedure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_1/lvl_c)
 
-###### [**Art. 336***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_b)[]
+###### [**Art. 336***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_b)
 
 [1] A party seeking compensation pursuant to Articles 336 and 336*a* must submit his objection to the notice of termination in writing to the party giving such notice not later than the end of the notice period.
 
@@ -4564,16 +4564,16 @@ c.[] in the context of mass redundancies, without his having consulted the organ
 
 ## [a. By the employer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_2/lvl_a)
 
-###### [**Art. 336***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_c)[]
+###### [**Art. 336***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_c)
 
 [1] After the probation period has expired, the employer may not terminate the employment relationship:
 
   
-a.[] while the other party is performing Swiss compulsory military or civil defence service or Swiss alternative civilian service or, where such service lasts for more than eleven[] days, during the four weeks preceding or following it;  
+a. while the other party is performing Swiss compulsory military or civil defence service or Swiss alternative civilian service or, where such service lasts for more than eleven days, during the four weeks preceding or following it;  
 b. while the employee through no fault of his own is partially or entirely prevented from working by illness or accident for up to 30 days in the first year of service, 90 days in the second to fifth years of service and 180 days in the sixth and subsequent years of service;  
 c. during the pregnancy of an employee and the sixteen weeks following birth;  
-c[bis].[] before the end of the extended period of maternity leave in accordance with Article 329*f* paragraph 2;  
-c[ter].[] for as long as the employee is entitled to carer’s leave under Article 329*i*, but for no longer than six months from the day on which the period within which to take the leave begins;  
+c[bis]. before the end of the extended period of maternity leave in accordance with Article 329*f* paragraph 2;  
+c[ter]. for as long as the employee is entitled to carer’s leave under Article 329*i*, but for no longer than six months from the day on which the period within which to take the leave begins;  
 d. while the employee is participating with the employer’s consent in an overseas aid project ordered by the competent federal authority.
 
 [2] Any notice of termination given during the proscribed periods stipulated in paragraph 1 is void; by contrast, where such notice was given prior to the commencement of a proscribed period but the notice period has not yet expired at that juncture, it is suspended and does not resume until the proscribed period has ended.
@@ -4582,7 +4582,7 @@ d. while the employee is participating with the employer’s consent in an overs
 
 ## [b. By the employee](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_II_I/lvl_2/lvl_b)
 
-###### [**Art. 336***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_d)[]
+###### [**Art. 336***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_336_d)
 
 [1] After the probation period has expired, the employee may not terminate the employment relationship if he is required to deputise for a hierarchical superior whose function the employee is capable of assuming or for the employer himself who is prevented from working by the reasons set out at Article 336*c* paragraph 1 letter a.
 
@@ -4596,7 +4596,7 @@ d. while the employee is participating with the employer’s consent in an overs
 
 ###### [**Art. 337**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_337)
 
-[1] Both employer and employee may terminate the employment relationship with immediate effect at any time for good cause; the party doing so must give his reasons in writing at the other party’s request.[]
+[1] Both employer and employee may terminate the employment relationship with immediate effect at any time for good cause; the party doing so must give his reasons in writing at the other party’s request.
 
 [2] In particular, good cause is any circumstance which renders the continuation of the employment relationship in good faith unconscionable for the party giving notice.
 
@@ -4620,7 +4620,7 @@ In the event of the employer’s insolvency, the employee may terminate the empl
 
 ## [b. Termination without just cause](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_I_V/lvl_2/lvl_b)
 
-###### [**Art. 337***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_337_c)[]
+###### [**Art. 337***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_337_c)
 
 [1] Where the employer dismisses the employee with immediate effect without good cause, the employee is entitled to damages in the amount he would have earned had the employment relationship ended after the required notice period or on expiry of its agreed duration.
 
@@ -4636,9 +4636,9 @@ In the event of the employer’s insolvency, the employee may terminate the empl
 
 [2] Where the employer has suffered no losses or lower losses than the value of the compensation stipulated in the previous paragraph, the court may reduce the compensation at its discretion.
 
-[3] Where the claim for damages is not extinguished by set-off, it must be asserted by means of legal action or debt enforcement proceedings within 30 days of the failure to take up the post or departure from it, failing which it prescribes.[]
+[3] Where the claim for damages is not extinguished by set-off, it must be asserted by means of legal action or debt enforcement proceedings within 30 days of the failure to take up the post or departure from it, failing which it prescribes.
 
-[4] ...[]
+[4] ...
 
 ## [V. Death of the employee or employer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_V)
 
@@ -4648,7 +4648,7 @@ In the event of the employer’s insolvency, the employee may terminate the empl
 
 [1] The employment relationship ends on the death of the employee.
 
-[2] However, the employer must pay the salary for a further month thereafter or, where the employee had completed more than five years of service, for a further two months, provided the employee is survived by a spouse, a registered partner, children who are minors or, in the absence of such heirs, other persons to whom he had a duty to provide support.[]
+[2] However, the employer must pay the salary for a further month thereafter or, where the employee had completed more than five years of service, for a further two months, provided the employee is survived by a spouse, a registered partner, children who are minors or, in the absence of such heirs, other persons to whom he had a duty to provide support.
 
 ## [2. Death of the employer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_V/lvl_2)
 
@@ -4688,7 +4688,7 @@ In the event of the employer’s insolvency, the employee may terminate the empl
 
 [1] Where an employment relationship with an employee of at least 50 years of age comes to an end after twenty years or more of service, the employer must pay the employee a severance allowance.
 
-[2] If the employee dies during the employment relationship, such allowance is paid to the surviving spouse, registered partner or children who are minors or, in the absence of such heirs, other persons to whom he had a duty to provide support.[]
+[2] If the employee dies during the employment relationship, such allowance is paid to the surviving spouse, registered partner or children who are minors or, in the absence of such heirs, other persons to whom he had a duty to provide support.
 
 ## [b. Amount and due date](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_1/lvl_G/lvl_V_I/lvl_3/lvl_b)
 
@@ -4706,7 +4706,7 @@ In the event of the employer’s insolvency, the employee may terminate the empl
 
 ###### [**Art. 339***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_339_d)
 
-[1] Where the employee receives benefits from an occupational benefits scheme, these may be deducted from the severance allowance to the extent that they were funded by the employer either directly or through his contributions to the occupational benefits scheme.[]
+[1] Where the employee receives benefits from an occupational benefits scheme, these may be deducted from the severance allowance to the extent that they were funded by the employer either directly or through his contributions to the occupational benefits scheme.
 
 [2] The employer is likewise released from his obligation to make a severance allowance to the extent that he gives a binding commitment to make future benefits contributions on the employee’s behalf or has a third party give such a commitment.
 
@@ -4761,16 +4761,16 @@ In the event of the employer’s insolvency, the employee may terminate the empl
 [1] The following are reserved:
 
   
-a.[] the provisions of the Confederation, cantons and communes regarding employment relationships under public law, except in respect of Article 331 paragraph 5 and Articles 331*a*–331*e*;  
+a. the provisions of the Confederation, cantons and communes regarding employment relationships under public law, except in respect of Article 331 paragraph 5 and Articles 331*a*–331*e*;  
 b. the public law provisions of the Confederation and the cantons governing work and vocational training.
 
 [2] Where federal or cantonal provisions governing work and vocational training impose an obligation under public law on the employer or employee, the other party has a claim under civil law for performance of said obligation if it is susceptible to inclusion in the individual employment contract.
 
-###### [**Art. 343**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_343)[]
+###### [**Art. 343**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_343)
 
 ### [Section Two: Special Individual Employment Contracts](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2)
 
-#### [A.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2/lvl_A)**[]** [The Apprenticeship Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2/lvl_A)
+#### [A.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2/lvl_A) [The Apprenticeship Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2/lvl_A)
 
 ## [I. Definition and conclusion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2/lvl_A/lvl_I)
 
@@ -4899,7 +4899,7 @@ d. the applicable law and the forum, where one of the parties is resident abroad
 
 [2] Where the commercial traveller is authorised to conclude transactions, his powers extend to all legal procedures normally associated with their execution; however, without special authority he may not take receipt of payments from clients nor approve payment periods.
 
-[3] Article 34 of the Federal Act of 2 April 1908[] on Insurance Policies is reserved.
+[3] Article 34 of the Federal Act of 2 April 1908 on Insurance Policies is reserved.
 
 ## [III. Special obligations of the employer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2/lvl_B/lvl_II_I)
 
@@ -4985,7 +4985,7 @@ d. the applicable law and the forum, where one of the parties is resident abroad
 
 ###### [**Art. 351**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_351)
 
-Under a homeworker’s contract, the homeworker[] undertakes to work for the employer in return for a salary, such work to be carried out alone or with members of his family and in his home or on other premises of his choosing.
+Under a homeworker’s contract, the homeworker undertakes to work for the employer in return for a salary, such work to be carried out alone or with members of his family and in his home or on other premises of his choosing.
 
 ## [2. Notification of conditions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_2/lvl_C/lvl_I/lvl_2)
 
@@ -5179,17 +5179,17 @@ The mandatory law of the Confederation and the cantons takes precedence over the
 
 ## [1. Requirements](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_1)
 
-###### [**Art. 360***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_a)[]
+###### [**Art. 360***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_a)
 
 [1] Where the wages that are customary for a geographical area, occupation or industry are repeatedly and unfairly undercut within a particular occupation or economic sector and there is no collective employment contract laying down a minimum wage that may be declared universally binding, on application by the tripartite commission as defined in Article 360*b,* the competent authority may issue a fixed-term standard employment contract providing for a minimum wage varied by region and, where applicable, by locality in order to combat or prevent abusive practices.
 
 [2] The minimum wage must not conflict with the public interest or prejudice the legitimate interests of other economic sectors or sections of the population. It must have due regard to the minority interests of the economic sectors or occupations concerned that stem from regional and business diversity.
 
-[3] In the case of repeated infringements of the provisions on the minimum wage in a standard employment contract in accordance with paragraph 1 or if there is evidence that no longer using the standard employment contract may lead to further abusive practices in terms of paragraph 1, at the request of the tripartite commission, the competent authority may extend the standard employment contract for a limited period.[]
+[3] In the case of repeated infringements of the provisions on the minimum wage in a standard employment contract in accordance with paragraph 1 or if there is evidence that no longer using the standard employment contract may lead to further abusive practices in terms of paragraph 1, at the request of the tripartite commission, the competent authority may extend the standard employment contract for a limited period.
 
 ## [2. Tripartite commissions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_2)
 
-###### [**Art. 360***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_b)[]
+###### [**Art. 360***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_b)
 
 [1] The Confederation and each canton shall establish a tripartite commission consisting of an equal number of employers’ and employees’ representatives in addition to representatives of the state.
 
@@ -5201,11 +5201,11 @@ The mandatory law of the Confederation and the cantons takes precedence over the
 
 [5] To enable them to discharge their responsibilities, the tripartite commissions have the right to obtain information and inspect any business document necessary to the conduct of their investigation. In the event of a dispute, a ruling is given by a body specially appointed for this purpose by the Confederation or the canton, as applicable.
 
-[6] Where necessary for the conduct of their investigations, on application the tripartite commissions may obtain personal data contained in corporate collective employment contracts from the Federal Statistical Office.[]
+[6] Where necessary for the conduct of their investigations, on application the tripartite commissions may obtain personal data contained in corporate collective employment contracts from the Federal Statistical Office.
 
 ## [3. Official secrecy](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_3)
 
-###### [**Art. 360***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_c)[]
+###### [**Art. 360***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_c)
 
 [1] The members of tripartite commissions are subject to official secrecy; in particular they are obliged to keep secret from third parties any information of a commercial or private nature gained in the exercise of their office.
 
@@ -5213,7 +5213,7 @@ The mandatory law of the Confederation and the cantons takes precedence over the
 
 ## [4. Effects](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_4)
 
-###### [**Art. 360***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_d)[]
+###### [**Art. 360***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_d)
 
 [1] The standard employment contract as defined in Article 360*a* also applies to employees who work only temporarily within its geographical scope and to employees whose services have been loaned out.
 
@@ -5221,15 +5221,15 @@ The mandatory law of the Confederation and the cantons takes precedence over the
 
 ## [5. Associations’ right of action](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_5)
 
-###### [**Art. 360***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_e)[]
+###### [**Art. 360***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_e)
 
 Employers’ and employees’ associations have the right to apply for a declaratory judgment as to whether an employer is in compliance with the standard employment contract as defined in Article 360*a*.
 
 ## [6. Notification](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_3/lvl_B/lvl_I_V/lvl_6)
 
-###### [**Art. 360***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_f)[]
+###### [**Art. 360***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_360_f)
 
-A canton issuing a standard employment contract pursuant to Article 360*a* must forward a copy to the competent federal office[].
+A canton issuing a standard employment contract pursuant to Article 360*a* must forward a copy to the competent federal office.
 
 ### [Section Four: Mandatory Provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_4)
 
@@ -5253,15 +5253,15 @@ Article 329*d*: paragraph 2 and 3 (holiday pay);
 
 Article 331: paragraphs 1 and 2 (employee benefits scheme contributions);
 
-Article 331*b*: (assignment and pledge of claims to occupational benefits);[]
+Article 331*b*: (assignment and pledge of claims to occupational benefits);
 
-...[]
+...
 
 Article 334: paragraph 3 (termination of long-term employment relationships);
 
 Article 335: (termination of employment relationships);
 
-Article 335*k*: (social plan during bankruptcy or composition proceedings)[]
+Article 335*k*: (social plan during bankruptcy or composition proceedings)
 
 Article 336: paragraph 1 (wrongful termination);
 
@@ -5285,7 +5285,7 @@ Article 340*b*: paragraph 1 and 2 (consequences of infringement of the prohibiti
 
 Article 342: paragraph 2 (civil law effects of public law);
 
-...[]
+...
 
 Article 346: (early termination of apprenticeship contract);
 
@@ -5293,7 +5293,7 @@ Article 349*c*: paragraph 3 (prevention from travelling);
 
 Article 350: (termination in special cases);
 
-Article 350*a*: paragraph 2 (return).[]
+Article 350*a*: paragraph 2 (return).
 
 [2] Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employer or the employee is void.
 
@@ -5301,7 +5301,7 @@ Article 350*a*: paragraph 2 (return).[]
 
 ##### [**Article 362**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_10/chap_4/lvl_B/lvl_d20417e1415)
 
-[1] It is not permissible to derogate from the following provisions to the detriment of the employee by individual agreement, standard employment contract or collective employment contract:[]
+[1] It is not permissible to derogate from the following provisions to the detriment of the employee by individual agreement, standard employment contract or collective employment contract:
 
 Article 321*e*: (employee’s liability);
 
@@ -5333,7 +5333,7 @@ Article 328: (protection of the employee’s personality rights in general);
 
 Article 328*a*: (protection of personality rights of employees living in the employer’s household);
 
-Article 328*b*: (protection when handling personal data);[]
+Article 328*b*: (protection when handling personal data);
 
 Article 329: paragraphs 1, 2 and 3 (days off work);
 
@@ -5345,15 +5345,15 @@ Article 329*c*: (consecutive weeks and timing of holidays);
 
 Article 329*d*: paragraph 1 (holiday pay);
 
-Article 329*e*: paragraphs 1 and 3 (leave for youth work);[]
+Article 329*e*: paragraphs 1 and 3 (leave for youth work);
 
-Article 329*f*: (maternity leave);[]
+Article 329*f*: (maternity leave);
 
-Article 329*g*: (paternity leave);[]
+Article 329*g*: (paternity leave);
 
-Article 329*h*: (leave to care for family members);[]
+Article 329*h*: (leave to care for family members);
 
-Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident)[]
+Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident)
 
 Article 330: paragraphs 1, 3 and 4 (security);
 
@@ -5361,19 +5361,19 @@ Article 330*a*: (reference);
 
 Article 331: paragraphs 3 and 4 (contributions and information for employee benefits);
 
-Article 331*a*: (beginning and end of insurance cover);[]
+Article 331*a*: (beginning and end of insurance cover);
 
-...[]
+...
 
 Article 332: paragraph 4 (remuneration for inventions);
 
 Article 333: paragraph 3 (liability in the event of transfer of employment relationships);
 
-Article 335*c*: (notice periods)[]
+Article 335*c*: (notice periods)
 
-Article 335*i*: (duty to negotiate in order to conclude a social plan)[]
+Article 335*i*: (duty to negotiate in order to conclude a social plan)
 
-Article 335*j*: (preparation of the social plan by an arbitral tribunal)[]
+Article 335*j*: (preparation of the social plan by an arbitral tribunal)
 
 Article 336: paragraph 2 (wrongful termination by the employer);
 
@@ -5399,7 +5399,7 @@ Article. 340*c*: (extinction of prohibition of competition);
 
 Article. 341: paragraph 1 (no right of waiver);
 
-Article. 345*a*: (obligations of the master[]);
+Article. 345*a*: (obligations of the master);
 
 Article. 346*a*: (certificate of apprenticeship);
 
@@ -5419,7 +5419,7 @@ Article. 353: (acceptance of completed work);
 
 Article. 353*a*: (payment of salary);
 
-Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).[]
+Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).
 
 [2] Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employee is void.
 
@@ -5439,7 +5439,7 @@ A contract for work and services is a contract whereby the contractor undertakes
 
 ###### [**Art. 364**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_364)
 
-[1] The contractor generally has the same duty of care as the employee in an employment relationship.[]
+[1] The contractor generally has the same duty of care as the employee in an employment relationship.
 
 [2] The contractor is obliged to carry out the work in person or to have it carried out under his personal supervision, unless the nature of the work is such that his personal involvement is not required.
 
@@ -5501,7 +5501,7 @@ The rights accruing to the customer in respect of defects in the work are forfei
 
 ## [e. Prescription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_11/lvl_B/lvl_I/lvl_4/lvl_e)
 
-###### [**Art. 371**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_371)[]
+###### [**Art. 371**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_371)
 
 [1] The right of the customer to bring claims due to defects in the work prescribe two years from acceptance of the work. However, the prescriptive period amounts to five years where defects in a movable object that has been incorporated in an immovable work in a manner consistent with its nature and purpose have caused the work to be defective.
 
@@ -5739,7 +5739,7 @@ An agency contract is deemed to have been accepted where it has not been decline
 
 [2] In particular, it includes the authority to carry out such transactions as are required for performance of the contract.
 
-[3] The agent requires special authority to agree a settlement, accept an arbitration award, contract bill liabilities, alienate or encumber land or make gifts.[]
+[3] The agent requires special authority to agree a settlement, accept an arbitration award, contract bill liabilities, alienate or encumber land or make gifts.
 
 ## [II. Obligations of the agent](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1/lvl_C/lvl_I_I)
 
@@ -5753,7 +5753,7 @@ An agency contract is deemed to have been accepted where it has not been decline
 
 ## [1[bis]. Duty to notify](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1/lvl_C/lvl_I_I/lvl_1_bis)
 
-###### [**Art. 397***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_397_a)[]
+###### [**Art. 397***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_397_a)
 
 If it is anticipated that the principal will become permanently incapable of judgement, the agent must notify the adult protection authority at the principal's domicile if such notification appears appropriate in order to safeguard the interests concerned.
 
@@ -5763,7 +5763,7 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 ###### [**Art. 398**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_398)
 
-[1] The agent generally has the same duty of care as the employee in an employment relationship.[]
+[1] The agent generally has the same duty of care as the employee in an employment relationship.
 
 [2] The agent is liable to the principal for the diligent and faithful performance of the business entrusted to him.
 
@@ -5829,7 +5829,7 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 ###### [**Art. 405**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_405)
 
-[1] Unless otherwise agreed or implied by the nature of the agency business, the agency contract ends on loss of capacity to act, bankruptcy, death or declaration of presumed death of the principal or the agent.[]
+[1] Unless otherwise agreed or implied by the nature of the agency business, the agency contract ends on loss of capacity to act, bankruptcy, death or declaration of presumed death of the principal or the agent.
 
 [2] However, where termination of the agency contract jeopardises the principal’s interests, the agent, his heir or his representative is obliged to continue conducting the agency business until such time as the principal, his heir or his representative is able to conduct it himself.
 
@@ -5839,14 +5839,14 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 Actions taken by the agent before he became aware of the termination of the agency contract are binding on the principal or his heir as if the contract had still been in force.
 
-### [[Section One][bis][:]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis)**[]**[[] []The Marriage or Partnership Brokerage Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis)
+### [[Section One][bis][:]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis)[[] []The Marriage or Partnership Brokerage Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis)
 
   
 ## [A. Definition and applicable law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis/lvl_A)
 
 ###### [**Art. 406***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_406_a)
 
-[1 ]A person assuming the role of agent under a marriage or partnership brokerage contract undertakes, in exchange for remuneration, to introduce the principal to persons who are potential spouses or long-term partners.
+[1]A person assuming the role of agent under a marriage or partnership brokerage contract undertakes, in exchange for remuneration, to introduce the principal to persons who are potential spouses or long-term partners.
 
 [2] The provisions governing simple agency contracts are applicable by way of supplement to marriage or partnership brokerage contracts.
 
@@ -5886,13 +5886,13 @@ The contract must be done in writing and contain the following information:
 2. the number and nature of the services that the agent undertakes and the amount of the remuneration and costs, in particular registration fees, corresponding to each service;  
 3. the maximum amount owed to the agent by way of reimbursement for his defraying the costs of return journeys of persons travelling to or from foreign countries (Art. 406*b*);  
 4. the terms of payment;  
-5.[] the right of the principal to give written notice of the revocation of his offer to enter into the contract or of his acceptance of the offer without compensation within 14 days;  
-6.[] the stipulation that the agent is prohibited from accepting any payment before the 14-day period has expired;   
+5. the right of the principal to give written notice of the revocation of his offer to enter into the contract or of his acceptance of the offer without compensation within 14 days;  
+6. the stipulation that the agent is prohibited from accepting any payment before the 14-day period has expired;   
 7. the right of the principal to terminate the contract at any time, subject to any liability in damages arising from termination at an inopportune juncture.
 
 ## [D. Entry into force, revocation, notice of termination](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis/lvl_D)
 
-###### [**Art. 406***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_406_e)[]
+###### [**Art. 406***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_406_e)
 
 [1] The contract does not become binding on the principal until 14 days after he receives a duplicate signed by both parties. The agent must not accept any payment from the principal before the 14-day period has expired. 
 
@@ -5902,7 +5902,7 @@ The contract must be done in writing and contain the following information:
 
 ## [E. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis/lvl_E)
 
-###### [**Art. 406***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_406_f)[]
+###### [**Art. 406***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_406_f)
 
 ## [F. Information and data protection](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis/lvl_F)
 
@@ -5910,7 +5910,7 @@ The contract must be done in writing and contain the following information:
 
 [1] Before the contract is signed and throughout its duration, the agent must inform the principal of any particular difficulties pertaining to the latter’s personal circumstances that might arise in the performance of the obligations thereunder.
 
-[2] When processing the principal’s personal data, the agent is bound by a duty of discretion; the provisions of the Federal Act of 19 June 1992[] on Data Protection are reserved.
+[2] When processing the principal’s personal data, the agent is bound by a duty of discretion; the provisions of the Federal Act of 19 June 1992 on Data Protection are reserved.
 
 ## [G. Reduction](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_1_bis/lvl_G)
 
@@ -5995,11 +5995,11 @@ Where the broker acts in the interests of a third party in breach of the contrac
 
 ## [IV. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_3/lvl_B/lvl_I_V)
 
-###### [**Art. 416**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_416)[]
+###### [**Art. 416**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_416)
 
 ## [V. Excessive fees](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_3/lvl_B/lvl_V)
 
-###### [**Art. 417**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_417)[]
+###### [**Art. 417**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_417)
 
 Where an excessive fee has been agreed for identifying an opportunity to enter into or facilitating the conclusion of an individual employment contract or a purchase of land or buildings, on application by the debtor the court may reduce the fee to an appropriate amount.
 
@@ -6009,7 +6009,7 @@ Where an excessive fee has been agreed for identifying an opportunity to enter i
 
 The cantons reserve the right to enact special regulations governing stockbrokers, official brokers and employment agencies.
 
-### [Section Four:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_4)**[]** [The Commercial Agency Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_4)
+### [Section Four:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_4) [The Commercial Agency Contract](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_4)
 
 ## [A. General](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_4/lvl_A)
 
@@ -6017,7 +6017,7 @@ The cantons reserve the right to enact special regulations governing stockbroker
 
 ###### [**Art. 418***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_418_a)
 
-[1] An agent is a person who undertakes to act on a continuous basis as an intermediary for one or more principals in facilitating or concluding transactions on their behalf and for their account without entering into an employment relationship with them.[]
+[1] An agent is a person who undertakes to act on a continuous basis as an intermediary for one or more principals in facilitating or concluding transactions on their behalf and for their account without entering into an employment relationship with them.
 
 [2] Unless otherwise agreed in writing, the provisions of this Section also apply to persons acting as agents by way of secondary occupation. The provisions governing del credere, prohibition of competition and termination of contracts for good cause may not be excluded to the detriment of the agent.
 
@@ -6027,7 +6027,7 @@ The cantons reserve the right to enact special regulations governing stockbroker
 
 [1] The provisions governing brokerage contracts apply by way of supplement to agents acting as intermediaries and those governing commissions apply by way of supplement to agents acting as proxies.
 
-[2] ...[]
+[2] ...
 
 ## [B. Obligations of the agent](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_4/lvl_B)
 
@@ -6057,7 +6057,7 @@ The cantons reserve the right to enact special regulations governing stockbroker
 
 [2] By contrast, the agent is not considered to be authorised to accept payments, to grant time limits for payments or to agree other modifications of the contract with clients.
 
-[3] Articles 34 and 44 paragraph 3 of the Federal Act of 2 April 1908 on Insurance Policies[] are reserved.
+[3] Articles 34 and 44 paragraph 3 of the Federal Act of 2 April 1908 on Insurance Policies are reserved.
 
 ## [D. Obligations of the principal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_13/chap_4/lvl_D)
 
@@ -6167,7 +6167,7 @@ Unless otherwise provided by agreement or custom, the commission falls due at th
 
 ###### [**Art. 418***r*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_418_r)
 
-[1 ]The principal and the agent may at any time terminate the contract with immediate effect for good cause.
+[1]The principal and the agent may at any time terminate the contract with immediate effect for good cause.
 
 [2] The provisions governing service contracts are applicable *mutatis mutandis*.
 
@@ -6309,7 +6309,7 @@ Where the agent’s actions are subsequently approved by the principal, the prov
 
 [1] A commission agent who makes cash advances or extends credit to a third party without the consent of the principal does so at his own risk.
 
-[2 ]However, where sale on credit is the customary commercial practice at the place of sale, the commission agent is entitled to sell on credit unless the principal has instructed otherwise.
+[2]However, where sale on credit is the customary commercial practice at the place of sale, the commission agent is entitled to sell on credit unless the principal has instructed otherwise.
 
 ## [5. Del credere](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_15/lvl_A/lvl_I_I/lvl_5)
 
@@ -6541,7 +6541,7 @@ The carrier must notify the consignee immediately on arrival of the goods.
 
 [2] However, the parties may derogate contractually from said provisions to the extent permitted by this Title.
 
-[3] The special provisions governing contracts for the carriage of goods by providers of postal services, the railways and steamers are unaffected.[]
+[3] The special provisions governing contracts for the carriage of goods by providers of postal services, the railways and steamers are unaffected.
 
 ## [D. Use of state transport facilities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_16/lvl_D)
 
@@ -6610,13 +6610,13 @@ A forwarding agent who uses a state transport facility in order to perform oblig
 
 ## [C. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_17/lvl_C)
 
-###### [**Art. 463**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_463)[]
+###### [**Art. 463**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_463)
 
 ## [D. Prohibition of competition](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_17/lvl_D)
 
 ###### [**Art. 464**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_464)
 
-[1] A registered attorney or commercial agent appointed to manage the affairs of the business as a whole or employed by the owner of the business may not without the owner’s consent engage in transactions for his own account or that of a third party in the economic sectors in which the owner himself is active.[]
+[1] A registered attorney or commercial agent appointed to manage the affairs of the business as a whole or employed by the owner of the business may not without the owner’s consent engage in transactions for his own account or that of a third party in the economic sectors in which the owner himself is active.
 
 [2] In the event of any violation of this provision, the owner of the business may seek compensation for the resultant damage and appropriate the relevant transactions for his own account.
 
@@ -6624,7 +6624,7 @@ A forwarding agent who uses a state transport facility in order to perform oblig
 
 ###### [**Art. 465**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_465)
 
-[1] The registered power of attorney and authority to act as commercial agent may be revoked at any time without prejudice to rights accruing to the parties concerned under any existing individual contract of employment, partnership agreement, agency agreement or the like.[]
+[1] The registered power of attorney and authority to act as commercial agent may be revoked at any time without prejudice to rights accruing to the parties concerned under any existing individual contract of employment, partnership agreement, agency agreement or the like.
 
 [2] The death or incapacity of the owner of the business does not extinguish the registered power of attorney or authority to act as commercial agent.
 
@@ -6672,7 +6672,7 @@ Where the agent refuses to make the payment called for by the payee or declares 
 
 [2] He may revoke it as against the agent provided the agent has not notified the payee of his acceptance.
 
-[2bis] Unless the regulations of a payment system provide otherwise, a payment instruction in a cashless transaction becomes irrevocable as soon as the transfer amount is debited from the principal's account.[]
+[2bis] Unless the regulations of a payment system provide otherwise, a payment instruction in a cashless transaction becomes irrevocable as soon as the transfer amount is debited from the principal's account.
 
 [3] In the event of bankruptcy proceedings against the principal, payment instructions that have not yet been accepted are deemed revoked.
 
@@ -6864,7 +6864,7 @@ Where two or more persons, with a view to protecting their rights, deposit an ob
 
 [2] The provisions governing the landlord’s or lessor’s right of lien apply *mutatis mutandis*.
 
-## [Title Twenty:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20)**[]** [The Contract of Surety](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20)
+## [Title Twenty:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20) [The Contract of Surety](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20)
 
 ## [A. Requirements](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20/lvl_A)
 
@@ -6904,11 +6904,11 @@ Where two or more persons, with a view to protecting their rights, deposit an ob
 
 [1] A married person may validly stand as surety only with the written consent of his spouse given in advance or at the latest simultaneously, unless the spouses are separated by court judgment.
 
-[2] ... []
+[2] ... 
 
 [3] The spouse’s consent to subsequent amendments of a contract of surety is required only where the total liability is to be increased or a simple surety is to be transformed into a joint and several surety, or where the effect of the amendment is to diminish the level of security substantially.
 
-[4] The same applies *mutatis mutandis* to registered partners.[]
+[4] The same applies *mutatis mutandis* to registered partners.
 
 ## [B. Substance](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_20/lvl_B)
 
@@ -7011,7 +7011,7 @@ Where two or more persons, with a view to protecting their rights, deposit an ob
 
 [1] Where the liens and other securities and preferential rights furnished when the contract of surety is concluded or subsequently obtained from the principal debtor for the specific purpose of securing the claim under surety are reduced by the creditor to the detriment of the surety, the latter’s liability is decreased by an equal amount unless it can be proven that the damage is less. Claims for restitution of the over-paid amount are unaffected.
 
-[2] Moreover, in the case of contracts of surety for the performance of official and civil service obligations, the creditor is liable to the surety if, as a result of his failure to supervise the employee as required or to act with the diligence that could reasonably be expected of him, the obligation arose or increased to an extent that it would not have otherwise reached.[]
+[2] Moreover, in the case of contracts of surety for the performance of official and civil service obligations, the creditor is liable to the surety if, as a result of his failure to supervise the employee as required or to act with the diligence that could reasonably be expected of him, the obligation arose or increased to an extent that it would not have otherwise reached.
 
 [3] On being satisfied by the surety, the creditor is required to furnish him with such documents and information as are required to exercise his rights. The creditor must also release to him the liens and other securities furnished when the contract of surety was concluded or subsequently obtained from the principal debtor for the specific purpose of securing the claim under surety or must take the requisite measures to facilitate their transfer. This does not apply to liens and rights of pledge held by the creditor in relation to other claims where they take precedence over those of the surety.
 
@@ -7162,7 +7162,7 @@ The surety may require that the principal debtor furnish security and demand his
 
 ## [D. Gambling in casinos, loans from casinos](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_21/lvl_D)
 
-###### [**Art. 515***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_515_a)[]
+###### [**Art. 515***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_515_a)
 
 Games of chance in casinos give rise to claims where they take place in a casino licensed by the competent authority.
 
@@ -7199,19 +7199,19 @@ The life annuity agreement is valid only if done in writing.
 
 [3] If the grantor is declared bankrupt, the annuitant may assert his entitlements by bringing a capital claim for the amount that would be required at the time the grantor is declared bankrupt to establish an equivalent contract of annuity with a reputable annuity institution.
 
-## [2. Assignment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_22/lvl_A/lvl_II_I/lvl_2)[[]]
+## [2. Assignment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_22/lvl_A/lvl_II_I/lvl_2)
 
 ###### [**Art. 519**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_519)
 
 [1] Unless otherwise agreed, the life annuitant may assign his rights.
 
-[2] ...[]
+[2] ...
 
 ## [IV. Life annuities under the law governing insurance policies](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_22/lvl_A/lvl_I_V)
 
 ###### [**Art. 520**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_520)
 
-The provisions of this Code governing life annuity agreements do not apply to life annuity agreements subject to the Federal Act of 2 April 1908[] on Insurance Policies, with the exception of the provision governing withdrawal of annuity entitlements.
+The provisions of this Code governing life annuity agreements do not apply to life annuity agreements subject to the Federal Act of 2 April 1908 on Insurance Policies, with the exception of the provision governing withdrawal of annuity entitlements.
 
 ## [B. Lifetime maintenance agreement](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_22/lvl_B)
 
@@ -7456,13 +7456,13 @@ No partner may carry out transactions for his own benefit which thwart or obstru
   
 1. where the purpose of the partnership has been achieved or become impossible to achieve;  
 2. on the death of one of the partners, unless it was previously agreed that the partnership would continue with his heirs;  
-3.[] where the share in the proceeds of liquidation of a partner is subject to compulsory sale or one of the partners is declared bankrupt or made subject to a general deputyship;  
+3. where the share in the proceeds of liquidation of a partner is subject to compulsory sale or one of the partners is declared bankrupt or made subject to a general deputyship;  
 4. by unanimous decision of the partners;  
 5. on expiry of the period for which the partnership was established;  
 6. by notice of termination served by one of the partners, where such right was reserved in the partnership agreement or the partnership was established for an indefinite duration or for the lifetime of one of the partners;  
-7. by court[] judgment in cases of dissolution for good cause.
+7. by court judgment in cases of dissolution for good cause.
 
-[2 ]The dissolution of the partnership may be requested for good cause before the duration of the partnership agreement expires or, where it was established for an indefinite duration, with immediate effect.
+[2]The dissolution of the partnership may be requested for good cause before the duration of the partnership agreement expires or, where it was established for an indefinite duration, with immediate effect.
 
 ## [2. Partnership of indefinite duration](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_23/lvl_D/lvl_I/lvl_2)
 
@@ -7482,7 +7482,7 @@ No partner may carry out transactions for his own benefit which thwart or obstru
 
 [2] Where the partnership is dissolved on the death of a partner, the heir of the deceased must inform the other partners of his death without delay and continue in good faith to attend to the partnership affairs of the deceased until the requisite arrangements have been made.
 
-[3 ]The other partners must likewise continue to manage the partnership’s business in the interim.
+[3]The other partners must likewise continue to manage the partnership’s business in the interim.
 
 ## [III. Liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_23/lvl_D/lvl_II_I)
 
@@ -7494,7 +7494,7 @@ No partner may carry out transactions for his own benefit which thwart or obstru
 
 [2] However, each partner is entitled to the value for which his contribution was accepted.
 
-[3 ]Where no such value was determined, his claim is for the value of the contribution at the time it was made.
+[3]Where no such value was determined, his claim is for the value of the contribution at the time it was made.
 
 ## [2. Division of surplus and deficit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_2/tit_23/lvl_D/lvl_II_I/lvl_2)
 
@@ -7518,7 +7518,7 @@ No partner may carry out transactions for his own benefit which thwart or obstru
 
 The dissolution of the partnership does not affect obligations entered into with third parties.
 
-# [Division Three: Commercial Enterprises and the Cooperative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3)**[]**
+# [Division Three: Commercial Enterprises and the Cooperative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3)
 
   
 ## [Title Twenty-Four: The General Partnership](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_24)
@@ -7543,7 +7543,7 @@ Where a partnership does not operate a commercial business, it does not exist as
 
 ## [I. Place of registration](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_24/chap_1/lvl_C/lvl_I)
 
-###### [**Art. 554**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_554)[]
+###### [**Art. 554**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_554)
 
 The partnership must be registered in the commercial register for the place where its seat is located.
 
@@ -7571,11 +7571,11 @@ The only details concerning arrangements for representation that are admissible 
 
 [2] Unless otherwise agreed, the provisions governing simple partnerships apply subject to the modifications set out in the following provisions.
 
-## [B. Financial reporting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_24/chap_2/lvl_B)[]
+## [B. Financial reporting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_24/chap_2/lvl_B)
 
 ###### [**Art. 558**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_558)
 
-[1] For each financial year, the profit or loss and each partner’s share thereof are determined on the basis of the annual accounts.[]
+[1] For each financial year, the profit or loss and each partner’s share thereof are determined on the basis of the annual accounts.
 
 [2] The interest on each partner’s share of the capital may be credited to that partner as provided in the agreement even if that share has been reduced by the loss for that financial year. Unless otherwise agreed, the interest rate is four per cent.
 
@@ -7587,9 +7587,9 @@ The only details concerning arrangements for representation that are admissible 
 
 [1] Each partner has the right to draw profit, interest and fees for the previous financial year from the partnership’s funds.
 
-[2] Where so provided under the agreement, interest and fees may be drawn during the financial year, whereas profit may not be drawn until the annual report has been approved.[]
+[2] Where so provided under the agreement, interest and fees may be drawn during the financial year, whereas profit may not be drawn until the annual report has been approved.
 
-[3] Any profit, interest and fees not drawn by the partner are added to his share of the partnership’s capital once the annual report has been approved, provided that none of the other partners objects.[]
+[3] Any profit, interest and fees not drawn by the partner are added to his share of the partnership’s capital once the annual report has been approved, provided that none of the other partners objects.
 
 ## [D. Losses](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_24/chap_2/lvl_D)
 
@@ -7690,7 +7690,7 @@ A registered attorney or commercial agent may be appointed to manage the busines
 
 [2] Likewise, the bankruptcy of one of the partners does not result in the insolvency of the partnership.
 
-[3] The rights of partnership creditors in the event of the bankruptcy of a partner are governed by the Debt Collection and Bankruptcy Act of 11 April 1889[].
+[3] The rights of partnership creditors in the event of the bankruptcy of a partner are governed by the Debt Collection and Bankruptcy Act of 11 April 1889.
 
 ## [D. Position of personal creditors of partners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_24/chap_3/lvl_D)
 
@@ -7776,7 +7776,7 @@ The departure of a partner and the continuation of the partnership’s affairs b
 
 ## [D. Defects in the organisation of the partnership](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_24/chap_4/lvl_D)
 
-###### [**Art. 581***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_581_a)[]
+###### [**Art. 581***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_581_a)
 
 In the case of defects in the required organisation of the general partnership the provision of company law apply accordingly.
 
@@ -7904,13 +7904,13 @@ Where a limited partnership does not operate a commercial business, it does not 
 
 ## [C. Entry in the commercial register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_25/chap_1/lvl_C)
 
-## [I. Place and contributions in kind](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_25/chap_1/lvl_C/lvl_I)[[]]
+## [I. Place and contributions in kind](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_25/chap_1/lvl_C/lvl_I)
 
 ###### [**Art. 596**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_596)
 
-[1] The partnership must be registered in the commercial register for the place where its seat is located.[]
+[1] The partnership must be registered in the commercial register for the place where its seat is located.
 
-[2] ...[]
+[2] ...
 
 [3] Where the specific contributions of limited partners are made wholly or partly in kind, the contribution in kind must be expressly referred to as such and its precise value specified in the registration application and in the entry in the commercial register.
 
@@ -7946,7 +7946,7 @@ The partnership’s affairs are managed by the partner or partners with unlimite
 
 [2] Nor is he entitled to object to actions taken by managing partners, providing these fall within the scope of the ordinary business activities of the partnership.
 
-[3] He has the right to request a copy of the profit and loss account and the balance sheet and to verify their accuracy by inspecting the partnership’s ledgers and other documents or have them verified by an impartial expert; in the event of dispute, the expert is appointed by the court.[]
+[3] He has the right to request a copy of the profit and loss account and the balance sheet and to verify their accuracy by inspecting the partnership’s ledgers and other documents or have them verified by an impartial expert; in the event of dispute, the expert is appointed by the court.
 
 ## [D. Share in profit and loss](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_25/chap_2/lvl_D)
 
@@ -7995,7 +7995,7 @@ Where the partnership has engaged in business prior to being entered in the comm
 
 ## [III. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_25/chap_3/lvl_D/lvl_II_I)
 
-###### [**Art. 607**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_607)[]
+###### [**Art. 607**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_607)
 
 ## [IV. Scope of liability](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_25/chap_3/lvl_D/lvl_I_V)
 
@@ -8029,7 +8029,7 @@ Where the partnership has engaged in business prior to being entered in the comm
 
 [1] Limited partners are entitled to interest and profit only where and to the extent that payment thereof does not result in a reduction of their specific contribution.
 
-[2] However, limited partners are required to repay interest and profit unlawfully received. Article 64 applies.[]
+[2] However, limited partners are required to repay interest and profit unlawfully received. Article 64 applies.
 
 ## [VIII. Joining limited partnerships](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_25/chap_3/lvl_D/lvl_VII_I)
 
@@ -8091,9 +8091,9 @@ In the event of the bankruptcy of a limited partner, neither the partnership’s
 
 [1] The provisions governing general partnerships also apply to the dissolution and liquidation of limited partnerships and to the prescriptive periods applicable to claims against the partners.
 
-[2] Where a limited partner is declared bankrupt or his share in the proceeds of liquidation is attached, the provisions governing partners in general partnerships apply *mutatis mutandis*. However, the partnership is not dissolved by the death of a limited partner or his being made subject to a general deputyship.[]
+[2] Where a limited partner is declared bankrupt or his share in the proceeds of liquidation is attached, the provisions governing partners in general partnerships apply *mutatis mutandis*. However, the partnership is not dissolved by the death of a limited partner or his being made subject to a general deputyship.
 
-## [Title Twenty-Six](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26)**[]**[: The Company Limited by Shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26)
+## [Title Twenty-Six](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26)[: The Company Limited by Shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26)
 
 ### [Section One: General Provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1)
 
@@ -8101,7 +8101,7 @@ In the event of the bankruptcy of a limited partner, neither the partnership’s
 
 ###### [**Art. 620**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_620)
 
-[1] A company limited by shares is a company with its own business name whose pre-determined capital (share capital)[] is divided into specific amounts (shares) and whose liabilities are payable only from the company assets.
+[1] A company limited by shares is a company with its own business name whose pre-determined capital (share capital) is divided into specific amounts (shares) and whose liabilities are payable only from the company assets.
 
 2 The shareholders are required only to fulfil the duties specified in the articles of association and are not personally liable for the company’s obligations. 
 
@@ -8109,7 +8109,7 @@ In the event of the bankruptcy of a limited partner, neither the partnership’s
 
 ## [B. Minimum share capital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_B)
 
-###### [**Art. 621**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_621)[]
+###### [**Art. 621**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_621)
 
 The share capital must amount to at least 100,000 francs.
 
@@ -8119,21 +8119,21 @@ The share capital must amount to at least 100,000 francs.
 
 ###### [**Art. 622**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_622)
 
-[1] The shares may be either registered or bearer shares. They may be issued in the form of negotiable securities. The articles of association may stipulate that they may be issued as uncertificated or ledger-based securities in accordance with Article 973*c* or 973*d*, or as intermediated securities in accordance with the Intermediated Securities Act (FISA) of 3 October 2008[].[]
+[1] The shares may be either registered or bearer shares. They may be issued in the form of negotiable securities. The articles of association may stipulate that they may be issued as uncertificated or ledger-based securities in accordance with Article 973*c* or 973*d*, or as intermediated securities in accordance with the Intermediated Securities Act (FISA) of 3 October 2008.
 
-[1bis] Bearer shares are permitted only if the company has equity securities listed on a stock exchange or if the bearer shares are organised as intermediated securities in accordance with the FISA and are deposited with a custodian in Switzerland designated by the company or entered in the main register.[]
+[1bis] Bearer shares are permitted only if the company has equity securities listed on a stock exchange or if the bearer shares are organised as intermediated securities in accordance with the FISA and are deposited with a custodian in Switzerland designated by the company or entered in the main register.
 
 2 Shares of both types may exist at the same time in a ratio fixed by the articles of association.
 
-[2bis] A company with bearer shares must arrange for an entry to be made in the Commercial Register as to whether it has equity securities listed on a stock exchange or its bearer shares are organised as intermediated securities.[]
+[2bis] A company with bearer shares must arrange for an entry to be made in the Commercial Register as to whether it has equity securities listed on a stock exchange or its bearer shares are organised as intermediated securities.
 
-[2ter] If all the equity securities are delisted, the company must within six months either convert the existing bearer shares into registered shares or organise them as intermediated securities.[]
+[2ter] If all the equity securities are delisted, the company must within six months either convert the existing bearer shares into registered shares or organise them as intermediated securities.
 
 3 The articles of association may provide that registered shares should or may subsequently be converted into bearer shares or vice versa.
 
-4 The nominal value of a share must be at least 1 centime.[]
+4 The nominal value of a share must be at least 1 centime.
 
-5 The share certificate must be signed by at least one member of the board of directors[]. The company may decide that even shares issued in large numbers must bear a handwritten signature.
+5 The share certificate must be signed by at least one member of the board of directors. The company may decide that even shares issued in large numbers must bear a handwritten signature.
 
 ## [II. Splitting and consolidating shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_C/lvl_I_I)
 
@@ -8149,11 +8149,11 @@ The share capital must amount to at least 100,000 francs.
 
 [1] The shares may be issued only at their nominal value or at a price that is higher. This does not apply to the issue of new shares to replace cancelled shares.
 
-[2–3] ...[]
+[2–3] ...
 
 ## [D. Shareholders](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_D)
 
-###### [**Art. 625**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_625)[]
+###### [**Art. 625**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_625)
 
 [1] A company limited by shares may be established by one or more natural persons or legal entities or other commercial enterprises.
 
@@ -8161,7 +8161,7 @@ The share capital must amount to at least 100,000 francs.
 
 ## [I. Content prescribed by law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_E/lvl_I)
 
-###### [**Art. 626**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_626)[]
+###### [**Art. 626**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_626)
 
 The articles of association must contain provisions concerning:
 
@@ -8178,7 +8178,7 @@ The articles of association must contain provisions concerning:
 
 ## [1. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_E/lvl_I_I/lvl_1)
 
-###### [**Art. 627**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_627)[]
+###### [**Art. 627**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_627)
 
 In order to be binding, provisions on the following matters must be included in the articles of association:
 
@@ -8189,26 +8189,26 @@ In order to be binding, provisions on the following matters must be included in 
 4. limitation of the company’s duration;  
 5. contractual penalties for failure to pay up share capital on time;  
 6. capital increases from authorised capital and contingent capital increases;  
-7.[] ...  
+7. ...  
 8. restrictions on the transferability of registered shares;  
 9. the preferential rights of individual share classes, participation certificates, dividend rights certificates and the granting of special privileges;  
 10. restrictions on the voting rights of shareholders and their rights to appoint representatives;  
 11. cases not envisaged in law in which the general meeting may make resolutions only by qualified majority;  
 12. authority to delegate management responsibilities to individual members of the board of directors or to third parties;  
 13. the organisation and duties of the external auditors, where these go beyond those prescribed by law;  
-14.[] the possibility of converting shares issued in a specific form into another form, together with an allocation of resultant costs, where this derogates from the regulations in the Uncertificated Securities Act of 3 October 2008[].
+14. the possibility of converting shares issued in a specific form into another form, together with an allocation of resultant costs, where this derogates from the regulations in the Uncertificated Securities Act of 3 October 2008.
 
-## [2. Relating specifically to contributions in kind, acquisitions in kind, special privileges](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_E/lvl_I_I/lvl_2)[[]]
+## [2. Relating specifically to contributions in kind, acquisitions in kind, special privileges](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_E/lvl_I_I/lvl_2)
 
 ###### [**Art. 628**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_628)
 
-[1] Where a shareholder makes a contribution in kind, the articles of association must indicate its nature and value, the name of the contributor and the shares allocated to him.[]
+[1] Where a shareholder makes a contribution in kind, the articles of association must indicate its nature and value, the name of the contributor and the shares allocated to him.
 
-[2] Where the company acquires or intends to acquire tangible fixed assets from shareholders or close associates, the articles of association must indicate their nature, the name of the person providing them and the consideration given by the company.[]
+[2] Where the company acquires or intends to acquire tangible fixed assets from shareholders or close associates, the articles of association must indicate their nature, the name of the person providing them and the consideration given by the company.
 
 [3] Where special privileges are accorded to founder members or other persons on establishment of the company, the persons thus privileged must be named and each privilege precisely described and valued in the articles of association.
 
-[4] After ten years the general meeting may annul provisions of the articles of association concerning contributions in kind or acquisitions in kind. Provisions on acquisitions in kind may also be annulled if the company makes a final decision not to make the acquisition in kind. [] []
+[4] After ten years the general meeting may annul provisions of the articles of association concerning contributions in kind or acquisitions in kind. Provisions on acquisitions in kind may also be annulled if the company makes a final decision not to make the acquisition in kind. 
 
 ## [F. Establishment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F)
 
@@ -8216,7 +8216,7 @@ In order to be binding, provisions on the following matters must be included in 
 
 ## [1. Content](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_I/lvl_1)
 
-###### [**Art. 629**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_629)[]
+###### [**Art. 629**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_629)
 
 [1] The company is established when the founder members declare by public deed that they are forming a company limited by shares, lay down the articles of association therein and appoint the governing bodies.
 
@@ -8226,11 +8226,11 @@ In order to be binding, provisions on the following matters must be included in 
 1. that all the shares are validly subscribed for;  
 2. that the promised capital contributions correspond to the full issue price;  
 3. that the requirements for payment of capital contributions prescribed by law and the articles of association are met;  
-4.[] that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
+4. that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
 
 ## [2. Share subscription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_I/lvl_2)
 
-###### [**Art. 630**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_630)[]
+###### [**Art. 630**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_630)
 
 The share subscription is valid only where:
 
@@ -8240,7 +8240,7 @@ The share subscription is valid only where:
 
 ## [II. Supporting documents](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_I_I)
 
-###### [**Art. 631**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_631)[]
+###### [**Art. 631**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_631)
 
 [1] In the deed of incorporation, the notary must cite each of the documents supporting the establishment of the company individually and confirm that they were presented to the founder members.
 
@@ -8258,7 +8258,7 @@ The share subscription is valid only where:
 
 ## [1. Minimum contribution](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_1)
 
-###### [**Art. 632**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_632)[]
+###### [**Art. 632**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_632)
 
 [1] When the company is established, capital equivalent to at least 20 per cent of the nominal value of each share must be paid up.
 
@@ -8268,15 +8268,15 @@ The share subscription is valid only where:
 
 ## [a. Money contributions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_2/lvl_a)
 
-###### [**Art. 633**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_633)[]
+###### [**Art. 633**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_633)
 
-[1] Money contributions must be deposited with an institution subject to the Federal Act of 8 November 1934[] on Banks and Savings Banks for the exclusive use of the company.
+[1] Money contributions must be deposited with an institution subject to the Federal Act of 8 November 1934 on Banks and Savings Banks for the exclusive use of the company.
 
 [2] The institution may release the money only when the company has been entered in the commercial register.
 
 ## [b. Contributions in kind](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_2/lvl_b)
 
-###### [**Art. 634**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_634)[]
+###### [**Art. 634**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_634)
 
 Contributions in kind satisfy the contribution requirement only where:
 
@@ -8287,7 +8287,7 @@ Contributions in kind satisfy the contribution requirement only where:
 
 ## [c. Subsequent contribution](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_2/lvl_c)
 
-###### [**Art. 634***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_634_a)[]
+###### [**Art. 634***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_634_a)
 
 [1] The board of directors determines the rules governing subsequent contributions in respect of shares that are not fully paid-up.
 
@@ -8297,7 +8297,7 @@ Contributions in kind satisfy the contribution requirement only where:
 
 ## [a. Statutory report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_3/lvl_a)
 
-###### [**Art. 635**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_635)[]
+###### [**Art. 635**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_635)
 
 The founder members draw up a written statutory report in which they give account of:
 
@@ -8308,33 +8308,33 @@ The founder members draw up a written statutory report in which they give accoun
 
 ## [b. Audit confirmation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_F/lvl_II_I/lvl_3/lvl_b)
 
-###### [**Art. 635***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_635_a)[]
+###### [**Art. 635***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_635_a)
 
 A licensed auditor verifies the incorporation report and confirms in writing that it is complete and accurate.
 
-###### [**Art. 636–639**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_636__639_)[]
+###### [**Art. 636–639**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_636__639_)
 
 ## [G. Entry in the commercial register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_G)
 
 ## [I. Company](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_G/lvl_I)
 
-###### [**Art. 640**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_640)[]
+###### [**Art. 640**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_640)
 
 The company is entered in the commercial register of the place at which it has its seat.
 
 ## [II. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_G/lvl_I_I)
 
-###### [**Art. 641**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_641)[]
+###### [**Art. 641**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_641)
 
 ## [III. Contributions and acquisitions in kind, special privileges](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_G/lvl_II_I)
 
-###### [**Art. 642**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_642)[]
+###### [**Art. 642**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_642)
 
 [1] The subject matter of contributions in kind and the shares issued in exchange, the subject matter of acquisitions in kind and the consideration provided by the company, and the nature and value of special privileges must be entered in the commercial register.
 
 ## [H. Acquisition of legal personality](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_H)
 
-## [I. Timing; entry conditions not satisfied](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_H/lvl_I)[[]]
+## [I. Timing; entry conditions not satisfied](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_H/lvl_I)
 
 ###### [**Art. 643**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_643)
 
@@ -8342,7 +8342,7 @@ The company is entered in the commercial register of the place at which it has i
 
 [2] It acquires legal personality thereby even if the conditions for such entry were in fact not satisfied.
 
-[3] However, where the law or the articles of association were contravened in the establishment of the company such that the interests of creditors or shareholders were substantially jeopardised or harmed, at the request of those creditors or shareholders the court may order that the company be dissolved.[]
+[3] However, where the law or the articles of association were contravened in the establishment of the company such that the interests of creditors or shareholders were substantially jeopardised or harmed, at the request of those creditors or shareholders the court may order that the company be dissolved.
 
 [4] The foregoing right of action prescribes if action is not brought within three months of publication in the Swiss Official Gazette of Commerce.
 
@@ -8362,15 +8362,15 @@ The company is entered in the commercial register of the place at which it has i
 
 [2] Where such obligations were incurred expressly in the name of the company to be established and are assumed by the latter within three months of its entry in the commercial register, the persons who contracted them are relieved of liability and only the company is liable.
 
-###### [**Art. 646**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_646)[]
+###### [**Art. 646**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_646)
 
 ## [J. Amending the articles of association](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_J)
 
-###### [**Art. 647**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_647)[]
+###### [**Art. 647**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_647)
 
 [1] Any resolution adopted by the general meeting or the board of directors concerning an amendment of the articles of association must be done as a public deed and entered in the commercial register. 
 
-###### [**Art. 648**–**649**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_648__649_)[]
+###### [**Art. 648**–**649**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_648__649_)
 
 ## [K. Increase in the share capital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K)
 
@@ -8378,7 +8378,7 @@ The company is entered in the commercial register of the place at which it has i
 
 ## [1. Ordinary capital increase](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_1)
 
-###### [**Art. 650**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_650)[]
+###### [**Art. 650**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_650)
 
 [1] A decision to increase the share capital is taken by means of resolution passed by the general meeting; it must be carried out by the board of directors within three months.
 
@@ -8401,7 +8401,7 @@ The company is entered in the commercial register of the place at which it has i
 
 ## [a. Basis in articles of association](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_2/lvl_a)
 
-###### [**Art. 651**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_651)[]
+###### [**Art. 651**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_651)
 
 [1] By amending the articles of association, the general meeting may authorise the board of directors to increase the share capital within a period of no more than two years.
 
@@ -8411,11 +8411,11 @@ The company is entered in the commercial register of the place at which it has i
 
 [4] Within the limits of its authority, the board of directors may carry out share capital increases. In so doing it enacts the necessary provisions where these are not already laid down in the resolution of the general meeting.
 
-[5] The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934[] on reserve capital.[]
+[5] The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934 on reserve capital.
 
 ## [b. Amendment of the articles of association](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_2/lvl_b)
 
-###### [**Art. 651***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_651_a)[]
+###### [**Art. 651***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_651_a)
 
 [1] Following every capital increase, the board of directors reduces the nominal amount of the authorised capital in the articles of association accordingly.
 
@@ -8425,7 +8425,7 @@ The company is entered in the commercial register of the place at which it has i
 
 ## [a. Share subscription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_a)
 
-###### [**Art. 652**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652)[]
+###### [**Art. 652**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652)
 
 [1] The shares are subscribed in a special document (subscription form) in accordance with the provisions governing the establishment of the company.
 
@@ -8435,11 +8435,11 @@ The company is entered in the commercial register of the place at which it has i
 
 ## [b. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_b)
 
-###### [**Art. 652***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_a)[]
+###### [**Art. 652***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_a)
 
 ## [c. Subscription right](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_c)
 
-###### [**Art. 652***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_b)[]
+###### [**Art. 652***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_b)
 
 [1] Every shareholder is entitled to the proportion of the newly issued shares that corresponds to his existing participation.
 
@@ -8449,21 +8449,21 @@ The company is entered in the commercial register of the place at which it has i
 
 ## [d. Making capital contributions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_d)
 
-###### [**Art. 652***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_c)[]
+###### [**Art. 652***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_c)
 
 Unless the law provides otherwise, capital contributions must be made in accordance with the provisions governing the establishment of the company.
 
 ## [e. Increase from equity capital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_e)
 
-###### [**Art. 652***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_d)[]
+###### [**Art. 652***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_d)
 
 [1] The share capital may also be increased through conversion of freely disposable equity capital.
 
-[2] The equity capital used to meet the amount of the increase is shown in the annual accounts as approved by the shareholders and in the audit report of a licensed auditor. If more than six months have elapsed since the accounting cut-off date, audited interim accounts are required.[]
+[2] The equity capital used to meet the amount of the increase is shown in the annual accounts as approved by the shareholders and in the audit report of a licensed auditor. If more than six months have elapsed since the accounting cut-off date, audited interim accounts are required.
 
 ## [f. Capital increase report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_f)
 
-###### [**Art. 652***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_e)[]
+###### [**Art. 652***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_e)
 
 The board of directors draws up a written report in which it gives account of:
 
@@ -8476,15 +8476,15 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [g. Audit confirmation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_g)
 
-###### [**Art. 652***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_f)[]
+###### [**Art. 652***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_f)
 
-[1] A licensed auditor verifies the capital increase report and confirms in writing that it is complete and accurate.[]
+[1] A licensed auditor verifies the capital increase report and confirms in writing that it is complete and accurate.
 
 [2] No such audit confirmation is required where the capital contribution for the new share capital is made in money, the share capital increase is not for the purpose of funding an acquisition in kind and subscription rights are not restricted or cancelled.
 
 ## [h. Amendment of articles of association and statements required](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_h)
 
-###### [**Art. 652***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_g)[]
+###### [**Art. 652***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_g)
 
 [1] Once the capital increase report and, where required, the audit confirmation are available, the board of directors amends the articles of association and declares:
 
@@ -8492,7 +8492,7 @@ The board of directors draws up a written report in which it gives account of:
 1. that all shares are validly subscribed for;  
 2. that the promised capital contributions correspond to the full issue price;  
 3. that the contributions have been made in accordance with the requirements prescribed by law, the articles of association and the resolution of the general meeting;  
-4.[] that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
+4. that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
 
 [2] The resolution and declarations must be done as public deeds. The notary must cite each of the documents supporting the capital increase individually and confirm that they were presented to the board of directors.
 
@@ -8500,7 +8500,7 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [i. Entry in the commercial register; nullity of previously issued shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I/lvl_3/lvl_i)
 
-###### [**Art. 652***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_h)[]
+###### [**Art. 652***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_652_h)
 
 [1] The board of directors notifies the amendment of the articles of association and its declarations for entry in the commercial register.
 
@@ -8516,17 +8516,17 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [1. General principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_1)
 
-###### [**Art. 653**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653)[]
+###### [**Art. 653**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653)
 
 [1] The general meeting may resolve to make a contingent capital increase by stipulating in the articles of association that creditors of new bonds and similar debt instruments issued by the company or its group companies and employees will be granted rights to subscribe to new shares (conversion or option rights).
 
 [2] The share capital automatically increases whenever and to the extent that such conversion or option rights are exercised and the contribution obligations are discharged by set-off or payment.
 
-[5] The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934[] on reserve capital.[]
+[5] The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934 on reserve capital.
 
 ## [2. Restrictions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_2)
 
-###### [**Art. 653***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_a)[]
+###### [**Art. 653***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_a)
 
 [1] The nominal amount by which the share capital may be increased in this contingent manner must not exceed one-half of the existing share capital.
 
@@ -8534,7 +8534,7 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [3. Basis in articles of association](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_3)
 
-###### [**Art. 653***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_b)[]
+###### [**Art. 653***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_b)
 
 [1] The articles of association must stipulate:
 
@@ -8556,7 +8556,7 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [4. Protection of shareholders](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_4)
 
-###### [**Art. 653***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_c)[]
+###### [**Art. 653***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_c)
 
 [1] Where bonds or similar debt instruments to which conversion or option rights attach are to be issued as part of a contingent capital increase, they must be offered first to the shareholders for subscription in proportion to the shareholders’ existing participations.
 
@@ -8566,7 +8566,7 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [5. Protection of beneficiaries of conversion or option rights](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_5)
 
-###### [**Art. 653***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_d)[]
+###### [**Art. 653***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_d)
 
 [1] A creditor or employee who holds a conversion or option right to acquire registered shares may not be barred from exercising that right on account of restrictions on the transferability of registered shares, unless this possibility is reserved in the articles of association and the issue prospectus.
 
@@ -8576,25 +8576,25 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [a. Exercise of rights; capital contribution](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_a)
 
-###### [**Art. 653***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_e)[]
+###### [**Art. 653***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_e)
 
 [1] Conversion or option rights are exercised by making a written declaration that refers to the provision of the articles of association concerning the contingent capital increase; where the law requires an issue prospectus, the declaration must refer to it.
 
-[2] A capital contribution in money or by set-off must be made through a banking institution subject to the Banking Act of 8 November 1934[].
+[2] A capital contribution in money or by set-off must be made through a banking institution subject to the Banking Act of 8 November 1934.
 
 [3] The shareholder’s rights are established when the capital contribution is made.
 
 ## [b. Audit confirmation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_b)
 
-###### [**Art. 653***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_f)[]
+###### [**Art. 653***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_f)
 
-[1] At the end of each financial year, or earlier at the request of the board of directors, a licensed audit expert verifies whether the issue of the new shares was in conformity with the law, the articles of association and, where required, the issue prospectus.[]
+[1] At the end of each financial year, or earlier at the request of the board of directors, a licensed audit expert verifies whether the issue of the new shares was in conformity with the law, the articles of association and, where required, the issue prospectus.
 
 [2] The auditor confirms this in writing.
 
 ## [c. Amendment of the articles of association](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_c)
 
-###### [**Art. 653***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_g)[]
+###### [**Art. 653***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_g)
 
 [1] On receipt of the audit confirmation, the board of directors draws up a public deed stating the number, nominal value and type of the newly issued shares, the preferential rights attaching to specific share classes and the status of the share capital as at the end of the financial year or the date of the audit. It amends the articles of association as necessary.
 
@@ -8602,13 +8602,13 @@ The board of directors draws up a written report in which it gives account of:
 
 ## [d. Entry in the commercial register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_6/lvl_d)
 
-###### [**Art. 653***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_h)[]
+###### [**Art. 653***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_h)
 
 The board of directors applies for the amendment to the articles of association to be entered in the commercial register within three months of the end of the financial year and files the public deed and the audit confirmation.
 
 ## [7. Deletion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_I_I/lvl_7)
 
-###### [**Art. 653***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_i)[]
+###### [**Art. 653***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_653_i)
 
 [1] Where the conversion or option rights are extinct and this is confirmed in a written report drawn up by a licensed audit expert, the board of directors annuls the provisions of the articles of association concerning the contingent capital increase.
 
@@ -8616,7 +8616,7 @@ The board of directors applies for the amendment to the articles of association 
 
 ## [III. Preference shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_II_I)
 
-## [1. Requirements](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_II_I/lvl_1)[[]]
+## [1. Requirements](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_II_I/lvl_1)
 
 ###### [**Art. 654**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_654)
 
@@ -8626,9 +8626,9 @@ The board of directors applies for the amendment to the articles of association 
 
 [3] The same applies to any proposal to vary or cancel preferential rights attached to the preference shares that were conferred pursuant to the articles of association.
 
-###### [**Art. 655**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_655)[]
+###### [**Art. 655**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_655)
 
-## [2. Status of preference shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_II_I/lvl_2)[[]]
+## [2. Status of preference shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_K/lvl_II_I/lvl_2)
 
 ###### [**Art. 656**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656)
 
@@ -8640,7 +8640,7 @@ The board of directors applies for the amendment to the articles of association 
 
 ## [I. Definition; applicable provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_L/lvl_I)
 
-###### [**Art. 656***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_a)[]
+###### [**Art. 656***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_a)
 
 [1] The articles of association may provide for participation capital divided into specific amounts (participation certificates). These participation certificates are issued against a capital contribution, have a nominal value and do not confer voting rights.
 
@@ -8650,7 +8650,7 @@ The board of directors applies for the amendment to the articles of association 
 
 ## [II. Participation and share capital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_L/lvl_I_I)
 
-###### [**Art. 656***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_b)[]
+###### [**Art. 656***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_b)
 
 [1] Participation capital must not exceed an amount equal to double the share capital.
 
@@ -8666,7 +8666,7 @@ The board of directors applies for the amendment to the articles of association 
 
 ## [1. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_1)
 
-###### [**Art. 656***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_c)[]
+###### [**Art. 656***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_c)
 
 [1] Participation certificate holders have no voting rights and, unless otherwise provided by the articles of association, none of the rights associated therewith.
 
@@ -8676,7 +8676,7 @@ The board of directors applies for the amendment to the articles of association 
 
 ## [2. Notice and resolutions of general meetings](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_2)
 
-###### [**Art. 656***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_d)[]
+###### [**Art. 656***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_d)
 
 [1] Whenever a general meeting is convened, notice must be given to participation certificate holders together with the agenda items and the motions tabled.
 
@@ -8684,7 +8684,7 @@ The board of directors applies for the amendment to the articles of association 
 
 ## [3. Representation on the board of directors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_3)
 
-###### [**Art. 656***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_e)[]
+###### [**Art. 656***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_e)
 
 The articles of association may grant participation certificate holders the right to have a representative on the board of directors.
 
@@ -8692,7 +8692,7 @@ The articles of association may grant participation certificate holders the righ
 
 ## [a. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_4/lvl_a)
 
-###### [**Art. 656***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_f) []
+###### [**Art. 656***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_f)
 
 [1] The articles of association must not place participation certificate holders at a disadvantage as against shareholders in respect of the distribution of the disposable profit and the proceeds of liquidation and subscription to new shares.
 
@@ -8704,7 +8704,7 @@ The articles of association may grant participation certificate holders the righ
 
 ## [b. Subscription rights](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_L/lvl_II_I/lvl_4/lvl_b)
 
-###### [**Art. 656***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_g)[]
+###### [**Art. 656***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_656_g)
 
 [1] Where participation capital is created, the shareholders have a subscription right as for the issue of new shares.
 
@@ -8714,7 +8714,7 @@ The articles of association may grant participation certificate holders the righ
 
 ## [M. Dividend rights certificates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_M)
 
-###### [**Art. 657**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_657)[]
+###### [**Art. 657**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_657)
 
 [1] The articles of association may provide for the creation of dividend rights certificates in favour of persons linked with the company by previous capital participation or by virtue of being shareholders, creditors, employees or similar. The articles of association must indicate the number of dividend rights certificates issued and the nature of the associated rights.
 
@@ -8726,13 +8726,13 @@ The articles of association may grant participation certificate holders the righ
 
 [5] Dividend rights certificates may be created in favour of the company’s founder members only by means of the original articles of association.
 
-###### [**Art. 658**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_658)[]
+###### [**Art. 658**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_658)
 
 ## [N. Own shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_N)
 
 ## [I. Restrictions on acquisition](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_N/lvl_I)
 
-###### [**Art. 659**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_659)[]
+###### [**Art. 659**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_659)
 
 [1] The company may acquire its own shares only where freely disposable equity capital is available in the required amount and the combined nominal value of all such shares does not exceed 10 per cent of the share capital.
 
@@ -8740,7 +8740,7 @@ The articles of association may grant participation certificate holders the righ
 
 ## [II. Consequences of acquisition](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_N/lvl_I_I)
 
-###### [**Art. 659***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_659_a)[]
+###### [**Art. 659***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_659_a)
 
 [1] The voting rights on the company’s own shares and the rights associated therewith are suspended.
 
@@ -8748,7 +8748,7 @@ The articles of association may grant participation certificate holders the righ
 
 ## [III. Acquisition by subsidiaries](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_1/lvl_N/lvl_II_I)
 
-###### [**Art. 659***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_659_b)[]
+###### [**Art. 659***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_659_b)
 
 [1] Where a company holds a majority interest in a subsidiary, any acquisition of its shares by such subsidiary is subject to the same restrictions and has the same consequences as the acquisition of its own shares.
 
@@ -8762,7 +8762,7 @@ The articles of association may grant participation certificate holders the righ
 
 ## [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_A/lvl_I)
 
-###### [**Art. 660**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_660)[]
+###### [**Art. 660**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_660)
 
 [1] Every shareholder is entitled to a pro rata share of the disposable profit to the extent that the distribution of such profit among the shareholders is provided for by law or the articles of association.
 
@@ -8776,21 +8776,21 @@ The articles of association may grant participation certificate holders the righ
 
 Unless the articles of association provide otherwise, the share of the profits and the proceeds of liquidation are calculated in proportion to the amounts paid up on the share capital.
 
-###### [**Art. 662**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_662)[]
+###### [**Art. 662**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_662)
 
-###### [**Art. 662***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_662_a)[]
+###### [**Art. 662***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_662_a)
 
-###### [**Art. 663**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663)[]
+###### [**Art. 663**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663)
 
-###### [**Art. 663***a* and **663***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663_a) []
+###### [**Art. 663***a* and **663***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663_a)
 
-## [B.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B) [][Annual report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B)
+## [B.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B) [Annual report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B)
 
 ## [I. Additional information on companies with listed shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B/lvl_I)
 
 ## [1. Remuneration](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B/lvl_I/lvl_1)
 
-###### [**Art. 663***b*[bis]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663_b_bis)[]
+###### [**Art. 663***b*[bis]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663_b_bis)
 
 [1] Companies whose shares are listed on a stock exchange must provide the following additional information in the notes to the balance sheet:
 
@@ -8830,35 +8830,35 @@ Unless the articles of association provide otherwise, the share of the profits a
 
 [5] Remuneration and credits to close associates must be shown separately. The names of such associates need not be given. In other respects the provisions governing information on remuneration and credit to members of the board of directors, executive board and board of advisors apply *mutatis mutandis*.
 
-## [2. Shareholdings](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B/lvl_I/lvl_2)[]
+## [2. Shareholdings](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B/lvl_I/lvl_2)
 
-###### [**Art. 663***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663_c)[]
+###### [**Art. 663***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663_c)
 
-[1] Companies whose shares[] are listed on a stock exchange must specify the significant shareholders and their shareholdings in the notes to the balance sheet, where these are known or ought to be known.
+[1] Companies whose shares are listed on a stock exchange must specify the significant shareholders and their shareholdings in the notes to the balance sheet, where these are known or ought to be known.
 
 [2] Significant shareholders are defined as shareholders and groups of shareholders linked through voting rights who own more than 5 per cent of all voting rights. Where the articles of association provide for a lower percentage threshold for registered shares (Art. 685*d* para. 1), that threshold applies for purposes of the duty of disclosure.
 
-[3] Also to be indicated are the shareholdings in the company and the conversion and option rights held by each current member of the board of directors, executive board and board of advisors including those held by their close associates, specifying the name and function of the member concerned.[]
+[3] Also to be indicated are the shareholdings in the company and the conversion and option rights held by each current member of the board of directors, executive board and board of advisors including those held by their close associates, specifying the name and function of the member concerned.
 
-###### [**Art. 663***d–***663***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663)[]
+###### [**Art. 663***d–***663***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_663)
 
-###### [**Art. 664** and **665**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_664)[]
+###### [**Art. 664** and **665**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_664)
 
-###### [**Art. 665***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_665_a)[]
+###### [**Art. 665***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_665_a)
 
-###### [**Art. 666** and **667**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_666)[]
+###### [**Art. 666** and **667**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_666)
 
-###### [**Art. 668**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_668)[]
+###### [**Art. 668**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_668)
 
-###### [**Art. 669**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_669)[]
+###### [**Art. 669**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_669)
 
-## [II. Valuation, revaluation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B/lvl_I_I)[]
+## [II. Valuation, revaluation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_B/lvl_I_I)
 
-###### [**Art. 670**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_670)[]
+###### [**Art. 670**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_670)
 
 [1] Where as a result of a net loss for the year the company’s capital cover falls below one-half of the share capital and the legal reserves, in order to rectify the negative net worth, the company may revalue land, buildings or equity participations whose real value has risen above their value stated at cost up to a maximum equal to one-half of the share capital and the legal reserves. The revaluation amount is stated separately as a revaluation reserve. 
 
-[2] The revaluation is permitted only where a licensed auditor issues written confirmation for the attention of the general meeting that the revaluation complies with the relevant statutory provisions.[]
+[2] The revaluation is permitted only where a licensed auditor issues written confirmation for the attention of the general meeting that the revaluation complies with the relevant statutory provisions.
 
 ## [C. Reserves](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_C)
 
@@ -8866,7 +8866,7 @@ Unless the articles of association provide otherwise, the share of the profits a
 
 ## [1. General reserve](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_C/lvl_I/lvl_1)
 
-###### [**Art. 671**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_671)[]
+###### [**Art. 671**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_671)
 
 [1] Five per cent of the annual profit must be allocated to the general reserve until this equals 20 per cent of the paid-up share capital.
 
@@ -8881,19 +8881,19 @@ Unless the articles of association provide otherwise, the share of the profits a
 
 [4] The provisions in para. 2 number 3 and paragraph 3 do not apply to companies whose primary purpose is to hold equity participations in other companies (holding companies).
 
-[5] ...[]
+[5] ...
 
-[6] ...[]
+[6] ...
 
 ## [2. Reserve for own shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_C/lvl_I/lvl_2)
 
-###### [**Art. 671***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_671_a)[]
+###### [**Art. 671***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_671_a)
 
 The reserve for the company's own shares may be written back in the amount of any sold or destroyed shares valued at cost.
 
 ## [3. Revaluation reserve](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_C/lvl_I/lvl_3)
 
-###### [**Art. 671***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_671_b)[]
+###### [**Art. 671***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_671_b)
 
 The revaluation reserve may be written back only by means of conversion into share capital, fresh write-down or disposal of the revalued assets.
 
@@ -8901,7 +8901,7 @@ The revaluation reserve may be written back only by means of conversion into sha
 
 ## [1. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_C/lvl_I_I/lvl_1)
 
-###### [**Art. 672**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_672)[]
+###### [**Art. 672**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_672)
 
 [1] The articles of association may stipulate that amounts greater than 5 per cent of the annual profit are to be allocated to reserves and that the reserve must contain more than the 20 per cent of paid-up share capital required by law.
 
@@ -8909,13 +8909,13 @@ The revaluation reserve may be written back only by means of conversion into sha
 
 ## [2. For staff welfare purposes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_C/lvl_I_I/lvl_2)
 
-###### [**Art. 673**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_673)[]
+###### [**Art. 673**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_673)
 
 In particular, the articles of association may provide for reserves earmarked for the foundation and funding of welfare schemes for the company’s employees.
 
 ## [III. Ratio of the share in the profit to the reserves](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_C/lvl_II_I)
 
-###### [**Art. 674**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_674)[]
+###### [**Art. 674**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_674)
 
 [1] The dividend may be determined only after the allocations to reserves required by the law and the articles of association have been deducted.
 
@@ -8935,7 +8935,7 @@ In particular, the articles of association may provide for reserves earmarked fo
 
 [1] No interest may be paid on the share capital.
 
-[2] Dividends may be paid only from the disposable profit and from reserves formed for this purpose.[]
+[2] Dividends may be paid only from the disposable profit and from reserves formed for this purpose.
 
 ## [II. Interest before commencement of operations](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_D/lvl_I_I)
 
@@ -8947,7 +8947,7 @@ In particular, the articles of association may provide for reserves earmarked fo
 
 ## [III. Shares of profits paid to board members](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_D/lvl_II_I)
 
-###### [**Art. 677**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_677)[]
+###### [**Art. 677**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_677)
 
 Shares of the profit may be paid to members of the board of directors only out of the disposable profit and only after the allocation to the legal reserve has been made and a dividend of 5 per cent or a higher percentage laid down by the articles of association has been paid to the shareholders.
 
@@ -8955,7 +8955,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_E/lvl_I)
 
-###### [**Art. 678**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_678)[]
+###### [**Art. 678**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_678)
 
 [1] Shareholders and members of the board of directors and their close associates who have unduly and in bad faith received dividends, shares of profits paid to board members, other shares of profits or interest before commencement of operations are obliged to return such benefits.
 
@@ -8967,11 +8967,11 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [II. Shares of profits paid to board members on insolvency](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_E/lvl_I_I)
 
-###### [**Art. 679**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_679)[]
+###### [**Art. 679**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_679)
 
 [1] Where the company is declared insolvent, the members of the board of directors must return all shares of profits paid to board members received in the three years prior to commencement of insolvency proceedings, unless they can show that the conditions for payment of such shares of profits paid to board members set out in law and the articles of association were met; in particular, they must show that the payment was based on prudent accounting.
 
-[2] ...[]
+[2] ...
 
 ## [F. Shareholder’s duty to contribute](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_F)
 
@@ -9017,7 +9017,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [II. Registered shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_G/lvl_I_I)
 
-###### [**Art. 684**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_684)[]
+###### [**Art. 684**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_684)
 
 [1] Unless otherwise provided by law or the articles of association, the company’s registered shares are transferable without restriction.
 
@@ -9027,7 +9027,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [I. Statutory restriction](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I)
 
-###### [**Art. 685**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685)[]
+###### [**Art. 685**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685)
 
 [1] Registered shares that have not yet been fully paid up may be transferred only with the consent of the company, unless they are acquired by inheritance, division of estate, matrimonial property law or compulsory execution.
 
@@ -9037,7 +9037,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [1. General principles](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_1)
 
-###### [**Art. 685***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_a)[]
+###### [**Art. 685***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_a)
 
 [1] The articles of association may stipulate that registered shares may be transferred only with the consent of the company.
 
@@ -9049,7 +9049,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [a. Requirements for refusal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_2/lvl_a)
 
-###### [**Art. 685***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_b)[]
+###### [**Art. 685***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_b)
 
 [1] The company may refuse to give such consent providing it states good cause cited in the articles of association or offers to acquire the shares from the party alienating them for the company’s own account, for the account of other shareholders or for the account of third parties at their real value at the time the request was made.
 
@@ -9067,7 +9067,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [b. Effect](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_2/lvl_b)
 
-###### [**Art. 685***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_c)[]
+###### [**Art. 685***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_c)
 
 [1] Where the consent required for transfer of shares is not given, the ownership of the shares and all attendant rights remain with the alienator.
 
@@ -9079,23 +9079,23 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 ## [a. Requirements for refusal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_a)
 
-###### [**Art. 685***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_d)[]
+###### [**Art. 685***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_d)
 
 [1] In the case of listed registered shares, the company may refuse to accept the acquirer as a shareholder only where the articles of association envisage a percentage limit on the registered shares for which an acquirer must be recognised as shareholder and such limit is exceeded.
 
 [2] Further, the company may refuse entry in the share register where at the company’s request the acquirer fails to declare expressly that he has acquired the shares in his own name and for his own account.
 
-[3] Where listed[] registered shares were acquired by inheritance, division of estate or matrimonial property law, entry of the acquirer may not be refused.
+[3] Where listed registered shares were acquired by inheritance, division of estate or matrimonial property law, entry of the acquirer may not be refused.
 
 ## [b. Duty of notification](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_b)
 
-###### [**Art. 685***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_e)[]
+###### [**Art. 685***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_e)
 
 Where listed registered shares are sold on a stock exchange, the selling bank must without delay notify the company of the name of the seller and the number of shares sold.
 
 ## [c. Transfer of rights](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_c)
 
-###### [**Art. 685***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_f) []
+###### [**Art. 685***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_f)
 
 [1] Where listed registered shares are acquired on a stock exchange, the attendant rights pass to the acquirer on transfer. Where listed registered shares are acquired off-exchange, the attendant rights pass to the acquirer as soon as he has submitted a request for recognition as shareholder to the company.
 
@@ -9107,7 +9107,7 @@ Where listed registered shares are sold on a stock exchange, the selling bank mu
 
 ## [d. Time limit for refusal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_3/lvl_d)
 
-###### [**Art. 685***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_g)[]
+###### [**Art. 685***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_685_g)
 
 Where the company fails to refuse the request for recognition within 20 days, the shareholder is deemed to have been recognised.
 
@@ -9115,9 +9115,9 @@ Where the company fails to refuse the request for recognition within 20 days, th
 
 ## [a. Entry](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_4/lvl_a)
 
-###### [**Art. 686**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_686)[]
+###### [**Art. 686**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_686)
 
-[1] The company keeps a share register of registered shares in which the names and addresses of the owners and usufructuaries are recorded. It must be kept in such a manner that it can be accessed at any time in Switzerland.[]
+[1] The company keeps a share register of registered shares in which the names and addresses of the owners and usufructuaries are recorded. It must be kept in such a manner that it can be accessed at any time in Switzerland.
 
 [2] Entry in the share register requires documentary proof that the share was acquired for ownership or of the reasons for the usufruct thereof.
 
@@ -9125,15 +9125,15 @@ Where the company fails to refuse the request for recognition within 20 days, th
 
 [4] In relation to the company the shareholder or usufructuary is the person entered in the share register.
 
-[5] The documents on which an entry is based must be retained for ten years following the deletion of the owner or usufructuary from the share register.[]
+[5] The documents on which an entry is based must be retained for ten years following the deletion of the owner or usufructuary from the share register.
 
 ## [b. Deletion](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_4/lvl_b)
 
-###### [**Art. 686***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_686_a)[]
+###### [**Art. 686***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_686_a)
 
 After hearing the parties involved the company may delete entries in the share register that resulted from false information supplied by the acquirer. The latter must be informed of the deletion immediately.
 
-## [5. Registered shares not fully paid in](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_5)[[]]
+## [5. Registered shares not fully paid in](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_H/lvl_I_I/lvl_5)
 
 ###### [**Art. 687**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_687)
 
@@ -9161,7 +9161,7 @@ After hearing the parties involved the company may delete entries in the share r
 
 ## [1. General principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_1)
 
-###### [**Art. 689**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689)[]
+###### [**Art. 689**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689)
 
 [1] The shareholder exercises his rights in the company’s affairs, such as the appointment of the governing officers, approval of the annual report and resolutions concerning allocation of the profit, at the general meeting.
 
@@ -9169,7 +9169,7 @@ After hearing the parties involved the company may delete entries in the share r
 
 ## [2. Entitlement as against the company](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_2)
 
-###### [**Art. 689***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_a)[]
+###### [**Art. 689***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_a)
 
 [1] The membership rights conferred by registered shares may be exercised by any person authorised so to do by entry in the share register or a written power of attorney issued by the shareholder.
 
@@ -9179,7 +9179,7 @@ After hearing the parties involved the company may delete entries in the share r
 
 ## [a. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_a)
 
-###### [**Art. 689***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_b)[]
+###### [**Art. 689***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_b)
 
 [1] A person exercising participation rights as a representative must comply with the instructions of the represented party.
 
@@ -9187,29 +9187,29 @@ After hearing the parties involved the company may delete entries in the share r
 
 ## [b. Governing officer as representative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_b)
 
-###### [**Art. 689***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_c)[]
+###### [**Art. 689***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_c)
 
 Where the company proposes a member of its governing bodies or some other associate of the company to the shareholders to represent their voting rights at a general meeting, it must simultaneously designate an independent person who may be entrusted by the shareholders with the task of representing them.
 
 ## [c. Custodian as representative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_c)
 
-###### [**Art. 689***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_d)[]
+###### [**Art. 689***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_d)
 
 [1] Where a custodian wishes to act as representative in exercising the participation rights attaching to shares deposited with him, he asks the depositors for voting instructions prior to every general meeting.
 
 [2] Where the depositors’ instructions cannot be obtained in good time, the custodian exercises their voting rights in accordance with their general instructions; in the absence of general instructions, he votes in favour of the motions proposed by the board of directors.
 
-[3] Institutions subject to the Federal Act of 8 November 1934[] on Banks and Savings Banks and financial institutions in accordance with the Financial Institutions Act of 15 June 2018[] are deemed to be custodians acting as representatives.[]
+[3] Institutions subject to the Federal Act of 8 November 1934 on Banks and Savings Banks and financial institutions in accordance with the Financial Institutions Act of 15 June 2018 are deemed to be custodians acting as representatives.
 
 ## [d. Disclosure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_3/lvl_d)
 
-###### [**Art. 689***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_e)[]
+###### [**Art. 689***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_689_e)
 
 [1] Governing officers, independent representatives of voting rights and custodians acting as representatives inform the company of the number, type, nominal value and class of the shares they represent. Failure to disclose such information renders the resolutions of the general meeting subject to challenge on the same conditions as apply to unauthorised participation in the general meeting.
 
 [2] The chairman gives the general meeting the information as aggregates for each form of representation. If he fails to do so even though a shareholder has requested it, any shareholder may challenge the resolutions of the general meeting by bringing action against the company.
 
-## [4. Multiple beneficiaries](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_4)[[]]
+## [4. Multiple beneficiaries](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I/lvl_4)
 
 ###### [**Art. 690**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_690)
 
@@ -9245,7 +9245,7 @@ Where the company proposes a member of its governing bodies or some other associ
 
 [1] The articles of association may stipulate that voting rights are determined regardless of nominal value by the number of shares belonging to each shareholder such that each share confers one vote.
 
-[2] In this case, shares with a lower nominal value than other shares of the same company may be issued only as registered shares and must be fully paid up. The nominal value of these other shares must not exceed ten times the nominal value of the voting shares.[]
+[2] In this case, shares with a lower nominal value than other shares of the same company may be issued only as registered shares and must be fully paid up. The nominal value of these other shares must not exceed ten times the nominal value of the voting shares.
 
 [3] The allocation of voting rights according to number of shares is not applicable for:
 
@@ -9253,7 +9253,7 @@ Where the company proposes a member of its governing bodies or some other associ
 1. the election of external auditors;  
 2. the appointment of experts to audit the company’s business management or parts thereof;  
 3. any resolution concerning the instigation of a special audit;  
-4. any resolution concerning the initiation of a liability action.[]
+4. any resolution concerning the initiation of a liability action.
 
 ## [3. Entitlement to exercise voting right](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_II_I/lvl_3)
 
@@ -9267,13 +9267,13 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [1] In the case of resolutions concerning the discharge of the board of directors, persons who have participated in any manner in the management of the company’s business have no voting rights.
 
-[2] ...[]
+[2] ...
 
 ## [IV. Shareholders’ rights of control](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I_V)
 
 ## [1. Availability of the annual report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I_V/lvl_1)
 
-###### [**Art. 696**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_696)[]
+###### [**Art. 696**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_696)
 
 [1] No later than 20 days prior to the ordinary general meeting, the annual report and audit report must be made available for inspection by the shareholders at the seat of the company. Any shareholder may request that a copy of these reports be sent to him without delay.
 
@@ -9283,7 +9283,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [2. Information and inspection](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I_V/lvl_2)
 
-###### [**Art. 697**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697)[]
+###### [**Art. 697**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697)
 
 [1] At the general meeting, any shareholder is entitled to information from the board of directors on the affairs of the company and from the external auditors on the methods and results of their audit.
 
@@ -9291,13 +9291,13 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [3] The company ledgers and business correspondence may be inspected only with the express authorisation of the general meeting or by resolution of the board of directors and only if measures are taken to safeguard trade secrets.
 
-[4] Where information or inspection is refused without just cause, the court may order it on application.[]
+[4] Where information or inspection is refused without just cause, the court may order it on application.
 
 ## [V. Right to instigate a special audit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V)
 
 ## [1. With approval of the general meeting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_1)
 
-###### [**Art. 697***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_a)[]
+###### [**Art. 697***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_a)
 
 [1] Any shareholder may request the general meeting to have specific matters clarified by means of a special audit, where this is necessary for the proper exercise of shareholders’ rights and he has already exercised his right to information and inspection.
 
@@ -9305,7 +9305,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [2. If motion rejected by the general meeting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_2)
 
-###### [**Art. 697***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_b)[]
+###### [**Art. 697***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_b)
 
 [1] Where the general meeting rejects the motion, shareholders together representing at least 10 per cent of the share capital or shares with a nominal value of 2 million francs may apply to the court within three months for the appointment of a special auditor.
 
@@ -9313,7 +9313,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [3. Appointment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_3)
 
-###### [**Art. 697***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_c)[]
+###### [**Art. 697***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_c)
 
 [1] The court decides after hearing the company and the applicant.
 
@@ -9323,7 +9323,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [4. Audit activities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_4)
 
-###### [**Art. 697***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_d)[]
+###### [**Art. 697***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_d)
 
 [1] The special audit must be carried out within a reasonable period and without unnecessary disruption to the company’s business.
 
@@ -9335,7 +9335,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [5. Report](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_5)
 
-###### [**Art. 697***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_e)[]
+###### [**Art. 697***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_e)
 
 [1] The special auditor draws up a detailed report on the results of his audit, although he must safeguard trade secrets. He submits his report to the court.
 
@@ -9345,7 +9345,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [6. Procedure and publication](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_6)
 
-###### [**Art. 697***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_f) []
+###### [**Art. 697***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_f)
 
 [1] The board of directors makes the report and the responses to it available to the next general meeting.
 
@@ -9353,15 +9353,15 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [7. Costs](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_V/lvl_7)
 
-###### [**Art. 697***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_g)[]
+###### [**Art. 697***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_g)
 
 [1] Where the court grants the request for the appointment of a special auditor, it orders the company to make an advance payment and bear the costs. Where justified by special circumstances, it may order the applicants to bear some or all of the costs.
 
 [2] Where the general meeting has approved the special audit, the company bears the costs.
 
-###### [**Art. 697***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_h)[]
+###### [**Art. 697***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_h)
 
-###### [**Art. 697***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_i)[]
+###### [**Art. 697***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_i)
 
 ## [K. Obligation of shareholder to give notice](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_K)
 
@@ -9369,7 +9369,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## 
 
-###### [**Art. 697***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_j)[]
+###### [**Art. 697***j*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_j)
 
 [1] Any person who alone or by agreement with third parties acquires shares in a company whose participation rights are not listed on a stock exchange, and thus reaches or exceeds the threshold of 25 per cent of the share capital or voting rights must within one month give notice to the company of the first name and surname and the address of the natural person for whom it is ultimately acting (the beneficial owner).
 
@@ -9381,11 +9381,11 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [5] The obligation to give notice does not apply if the bearer shares are organised as intermediated securities and deposited with a custodian in Switzerland or entered in the main register. The company shall designate the custodian.
 
-###### [**Art. 697***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_k)[]
+###### [**Art. 697***k*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_k)
 
 ## [II. Register of beneficial owners](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_I_I)
 
-###### [**Art. 697***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_l)[]
+###### [**Art. 697***l*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_l)
 
 [1] The company shall keep a register of its beneficial owners that have been notified to the company.
 
@@ -9395,9 +9395,9 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [4] The register must be kept in such a manner that it can be accessed in Switzerland at any time.
 
-## [III. Failure to comply with obligations to give notice](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_II_I)[]
+## [III. Failure to comply with obligations to give notice](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_2/lvl_J/lvl_II_I)
 
-###### [**Art. 697***m*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_m)[]
+###### [**Art. 697***m*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_697_m)
 
 [1] For as long as the shareholder fails to comply with their obligations to give notice, the membership rights conferred by the shares in respect of which notice of acquisition must be given are suspended.
 
@@ -9423,34 +9423,34 @@ Voting right take effect as soon as the amount determined by law or the articles
   
 1. to determine and amend the articles of association;  
 2. to elect the members of the board of directors and the external auditors;  
-3.[] to approve the management report and the consolidated accounts;  
+3. to approve the management report and the consolidated accounts;  
 4. to approve the annual accounts and resolutions on the allocation of the disposable profit, and in particular to set the dividend and the shares of profits paid to board members;  
 5. to discharge the members of the board of directors;  
-6. to pass resolutions concerning the matters reserved to the general meeting by law or the articles of association.[]
+6. to pass resolutions concerning the matters reserved to the general meeting by law or the articles of association.
 
 ## [II. Convocation and agenda items](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_I_I)
 
-## [1. Right and duty](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_I_I/lvl_1)[[]]
+## [1. Right and duty](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_I_I/lvl_1)
 
 ###### [**Art. 699**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_699)
 
-[1] The general meeting is convened by the board of directors or, where necessary, by the external auditors.[] The liquidators and the representatives of bond creditors also have the right to convene general meetings.
+[1] The general meeting is convened by the board of directors or, where necessary, by the external auditors. The liquidators and the representatives of bond creditors also have the right to convene general meetings.
 
 [2] The ordinary general meeting takes place every year within six months of the end of the financial year, and extraordinary general meetings are convened as and when required.
 
-[3] A general meeting may also be convened by one or more shareholders together representing at least 10 per cent of the share capital. Shareholders together representing shares with a nominal value of 1 million francs may demand that an item be placed on the agenda. Meetings are convened and items placed on the agenda by written request, including details of agenda items and motions.[]
+[3] A general meeting may also be convened by one or more shareholders together representing at least 10 per cent of the share capital. Shareholders together representing shares with a nominal value of 1 million francs may demand that an item be placed on the agenda. Meetings are convened and items placed on the agenda by written request, including details of agenda items and motions.
 
 [4] Where the board of directors fails to grant such a request within a reasonable time, the court must at the request of the applicant order that a general meeting be convened.
 
 ## [2. Form](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_I_I/lvl_2)
 
-###### [**Art. 700**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_700)[]
+###### [**Art. 700**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_700)
 
 [1] Notice convening the general meeting must be given no later than 20 days before the date for which it is scheduled in the form prescribed by the articles of association.
 
 [2] The notice convening the meeting must include the agenda items and the motions of the board of directors and the shareholders who have requested that a general meeting be called or an item be placed on the agenda.
 
-[3] No resolutions may be made on motions relating to agenda items that were not duly notified; exceptions to this are motions to convene an extraordinary general meeting or to carry out a special audit and to appoint an auditor at the request of a shareholder.[].
+[3] No resolutions may be made on motions relating to agenda items that were not duly notified; exceptions to this are motions to convene an extraordinary general meeting or to carry out a special audit and to appoint an auditor at the request of a shareholder..
 
 [4] No advance notice is required to propose motions on duly notified agenda items and to debate items without passing resolutions.
 
@@ -9464,7 +9464,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [III. Preparatory measures; minutes](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_II_I)
 
-###### [**Art. 702**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_702)[]
+###### [**Art. 702**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_702)
 
 [1] The board of directors takes the necessary measures to determine voting rights.
 
@@ -9480,13 +9480,13 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 ## [IV. Participation of members of the board of directors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_I_V)
 
-###### [**Art. 702***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_702_a)[]
+###### [**Art. 702***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_702_a)
 
 The members of the board of directors are entitled to participate in the general meeting. They may table motions.
 
 ## [V. Resolutions and elections](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_V)
 
-## [1. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_V/lvl_1)[[]]
+## [1. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_V/lvl_1)
 
 ###### [**Art. 703**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_703)
 
@@ -9494,7 +9494,7 @@ Unless otherwise provided by law or the articles of association, the general mee
 
 ## [2. Important resolutions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_V/lvl_2)
 
-###### [**Art. 704**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_704)[]
+###### [**Art. 704**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_704)
 
 [1] A resolution by the general meeting requires at least two-thirds of the voting rights represented and an absolute majority of the nominal value of shares represented for:
 
@@ -9502,11 +9502,11 @@ Unless otherwise provided by law or the articles of association, the general mee
 1. any amendment of the company’s objects;  
 2. the introduction of shares with preferential voting rights;  
 3. any restriction on the transferability of registered shares;  
-4.[] an authorised or contingent capital increase or the creation of reserve capital in accordance with Article 12 of the Banking Act of 8 November 1934[];  
+4. an authorised or contingent capital increase or the creation of reserve capital in accordance with Article 12 of the Banking Act of 8 November 1934;  
 5. a capital increase funded by equity capital, against contributions in kind or to fund acquisitions in kind and the granting of special privileges;  
 6. any restriction or cancellation of the subscription right;  
 7. a relocation of the seat of the company;  
-8.[] the dissolution of the company
+8. the dissolution of the company
 
 [2] Provisions of the articles of association which stipulate that larger majorities than those prescribed by law are required in order to make certain resolutions may themselves be introduced only with the planned majority.
 
@@ -9514,11 +9514,11 @@ Unless otherwise provided by law or the articles of association, the general mee
 
 ## [3. Conversion of bearer shares into registered shares](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_V/lvl_3)
 
-###### [**Art. 704***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_704_a)[]
+###### [**Art. 704***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_704_a)
 
 The resolution of the general meeting on the conversion of bearer shares into registered shares may be passed by a majority of votes cast. The articles of association must not impede the conversion.
 
-## [VI. Dismissal of the board of directors and the auditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_V_I)[[]]
+## [VI. Dismissal of the board of directors and the auditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_V_I)
 
 ###### [**Art. 705**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_705)
 
@@ -9528,7 +9528,7 @@ The resolution of the general meeting on the conversion of bearer shares into re
 
 ## [VII. Challenging resolutions of the general meeting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_VI_I)
 
-## [1. Right of action and grounds](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_VI_I/lvl_1)[[]]
+## [1. Right of action and grounds](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_VI_I/lvl_1)
 
 ###### [**Art. 706**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_706)
 
@@ -9540,25 +9540,25 @@ The resolution of the general meeting on the conversion of bearer shares into re
 1. remove or restrict the rights of shareholders in breach of the law or the articles of association;  
 2. remove or restrict the rights of shareholders in an improper manner;  
 3. give rise to the unequal treatment or disadvantaging of the shareholders in a manner not justified by the company’s objects;  
-4. transform the company into a non-profit organisation without the consent of all the shareholders.[]
+4. transform the company into a non-profit organisation without the consent of all the shareholders.
 
-[3–4] ...[]
+[3–4] ...
 
 [5] A court judgment that annuls a resolution made by the general meeting is effective for and against all the shareholders.
 
 ## [2. Procedure](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_VI_I/lvl_2)
 
-###### [**Art. 706***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_706_a)[]
+###### [**Art. 706***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_706_a)
 
 [1] The right to challenge lapses if the action is not brought within two months of the general meeting.
 
 [2] Where the board of directors is the claimant, the court appoints a representative for the company.
 
-[3] ...[]
+[3] ...
 
-## [VIII. Nullity](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_VII_I)[[]]
+## [VIII. Nullity](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_A/lvl_VII_I)
 
-###### [**Art. 706***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_706_b)[]
+###### [**Art. 706***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_706_b)
 
 In particular, resolutions of the general meeting are void if they:
 
@@ -9567,47 +9567,47 @@ In particular, resolutions of the general meeting are void if they:
 2. restrict the shareholders’ rights of control beyond the legally permissible degree, or  
 3. disregard the basic structures of the company limited by shares or the provisions on capital protection.
 
-#### [B. The Board of Directors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B)**[]**
+#### [B. The Board of Directors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B)
 
 ## [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I)
 
-## [1. Eligibility](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_1)[[]]
+## [1. Eligibility](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_1)
 
 ###### [**Art. 707**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_707)
 
-[1] The company’s board of directors comprises one or more members.[]
+[1] The company’s board of directors comprises one or more members.
 
-[2] ...[]
+[2] ...
 
 [3] Where a legal entity or commercial company holds an equity participation in the company, it is not eligible as such to serve as a member of the board of directors; however, its representative may be elected in its stead.
 
 ## [2. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_2)
 
-###### [**Art. 708**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_708)[]
+###### [**Art. 708**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_708)
 
-## [3. Representation of shareholder classes and groups](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_3)[[]]
+## [3. Representation of shareholder classes and groups](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_3)
 
-###### [**Art. 709**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_709)[]
+###### [**Art. 709**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_709)
 
 [1] Where two or more different share classes exist with regard to voting or property rights, the articles of association must stipulate that the shareholders of each different share class are entitled to elect at least one representative to the board of directors.
 
 [2] The articles of association may contain special provisions to protect minorities or specific groups of shareholders.
 
-## [4. Term of office](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_4)[[]]
+## [4. Term of office](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I/lvl_4)
 
-###### [**Art. 710**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_710)[]
+###### [**Art. 710**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_710)
 
 [1] The members of the board of directors are elected for a three-year term of office unless the articles of association provide otherwise. However, the term of office must not exceed six years.
 
 [2] Re-election is possible.
 
-###### [**Art. 711**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_711)[]
+###### [**Art. 711**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_711)
 
 ## [II. Organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I_I)
 
 ## [1. Chairman and secretary](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_1)
 
-###### [**Art. 712**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_712)[]
+###### [**Art. 712**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_712)
 
 [1] The board of directors appoints a chairman and a secretary. The latter need not be a member of the board of directors.
 
@@ -9615,7 +9615,7 @@ In particular, resolutions of the general meeting are void if they:
 
 ## [2. Resolutions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_2)
 
-###### [**Art. 713**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_713)[]
+###### [**Art. 713**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_713)
 
 [1] The resolutions of the board of directors are made by majority of votes cast. The chairman has a casting vote, unless the articles of association provide otherwise.
 
@@ -9625,19 +9625,19 @@ In particular, resolutions of the general meeting are void if they:
 
 ## [3. Void resolutions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_3)
 
-###### [**Art. 714**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_714)[]
+###### [**Art. 714**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_714)
 
 The grounds for the nullity of resolutions by the general meeting apply *mutatis mutandis* to resolutions by the board of directors.
 
 ## [4. Right to convene meetings](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_4)
 
-###### [**Art. 715**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_715)[]
+###### [**Art. 715**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_715)
 
 Any member of the board of directors may request that the chairman convene a meeting without delay, but must state the reasons for his request. 
 
 ## [5. Right to information and inspection](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I_I/lvl_5)
 
-###### [**Art. 715***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_715_a)[]
+###### [**Art. 715***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_715_a)
 
 [1] Any member of the board of directors may request information on any company business.
 
@@ -9655,7 +9655,7 @@ Any member of the board of directors may request that the chairman convene a mee
 
 ## [1. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_II_I/lvl_1)
 
-###### [**Art. 716**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_716)[]
+###### [**Art. 716**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_716)
 
 [1] The board of directors may pass resolutions on all matters not reserved to the general meeting by law or the articles of association.
 
@@ -9663,7 +9663,7 @@ Any member of the board of directors may request that the chairman convene a mee
 
 ## [2. Non-transferable duties](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_II_I/lvl_2)
 
-###### [**Art. 716***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_716_a)[]
+###### [**Art. 716***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_716_a)
 
 [1] The board of directors has the following non-transferable and inalienable duties:
 
@@ -9673,14 +9673,14 @@ Any member of the board of directors may request that the chairman convene a mee
 3. the organisation of the accounting, financial control and financial planning systems as required for management of the company;  
 4. the appointment and dismissal of persons entrusted with managing and representing the company;  
 5. overall supervision of the persons entrusted with managing the company, in particular with regard to compliance with the law, articles of association, operational regulations and directives;  
-6. compilation of the annual report[], preparation for the general meeting and implementation of its resolutions;  
+6. compilation of the annual report, preparation for the general meeting and implementation of its resolutions;  
 7. notification of the court in the event that the company is overindebted.
 
 [2] The board of directors may assign responsibility for preparing and implementing its resolutions or monitoring transactions to committees or individual members. It must ensure appropriate reporting to its members.
 
 ## [3. Delegation of business management](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_II_I/lvl_3)
 
-###### [**Art. 716***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_716_b)[]
+###### [**Art. 716***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_716_b)
 
 [1] The articles of association may authorise the board of directors to delegate the management of all or part of the company’s business to individual members or third parties in accordance with its organisational regulations.
 
@@ -9690,7 +9690,7 @@ Any member of the board of directors may request that the chairman convene a mee
 
 ## [IV. Duty of care and loyalty](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_I_V)
 
-###### [**Art. 717**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_717)[]
+###### [**Art. 717**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_717)
 
 [1] The members of the board of directors and third parties engaged in managing the company’s business must perform their duties with all due diligence and safeguard the interests of the company in good faith.
 
@@ -9700,7 +9700,7 @@ Any member of the board of directors may request that the chairman convene a mee
 
 ## [1. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_1)
 
-###### [**Art. 718**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_718)[]
+###### [**Art. 718**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_718)
 
 [1] The board of directors represents the company externally. Unless the articles of association or the organisational regulations stipulate otherwise, every member has authority to represent the company.
 
@@ -9708,11 +9708,11 @@ Any member of the board of directors may request that the chairman convene a mee
 
 [3] At least one member of the board of directors must be authorised to represent the company.
 
-[4]The company must be able to be represented by one person who is resident in Switzerland. This person must be a member of the board of directors or an executive officer. They must have access to the share register and to the register under Article 697*l*, unless this register is kept by a financial intermediary.[]
+[4]The company must be able to be represented by one person who is resident in Switzerland. This person must be a member of the board of directors or an executive officer. They must have access to the share register and to the register under Article 697*l*, unless this register is kept by a financial intermediary.
 
 ## [2. Scope and restriction](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_2)
 
-###### [**Art. 718***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_718_a)[]
+###### [**Art. 718***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_718_a)
 
 [1] The persons with authority to represent the company may carry out any legal acts on behalf of the company that are consistent with the company’s objects.
 
@@ -9720,51 +9720,51 @@ Any member of the board of directors may request that the chairman convene a mee
 
 ## [3. Contracts between the company and its representative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_3)
 
-###### [**Art. 718***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_718_b)[]
+###### [**Art. 718***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_718_b)
 
 If the company is represented in the conclusion of a contract by the person with whom it is concluding the contract, the contract must be done in writing. This requirement does not apply to contract relating to everyday business where the value of the company's goods or services does not exceed 1,000 francs.
 
-## [3. Signatures](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_4)[[]]
+## [3. Signatures](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_4)
 
 ###### [**Art. 719**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_719)
 
 The persons with authority to represent the company must sign by appending their signature to the business name of the company.
 
-## [4. Registration](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_5)[[]]
+## [4. Registration](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_5)
 
 ###### [**Art. 720**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_720)
 
 The board of directors must apply to have the persons with authority to represent the company entered in the commercial register and submit an authenticated copy of the relevant resolution. They must enter their own signatures in person at the commercial registry or submit these in a duly authenticated form.
 
-## [5. Registered attorneys and commercial agents](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_6)[[]]
+## [5. Registered attorneys and commercial agents](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V/lvl_6)
 
-###### [**Art. 721**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_721)[]
+###### [**Art. 721**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_721)
 
 The board of directors may appoint registered attorneys and other commercial agents.
 
-## [VI. Directors’ and officers’ liability](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V_I)[[]]
+## [VI. Directors’ and officers’ liability](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_V_I)
 
-###### [**Art. 722**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_722)[]
+###### [**Art. 722**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_722)
 
 The company is liable for any damage caused by unauthorised acts carried out in the exercise of his company function by a person with authority to represent the company or manage its business.
 
-###### [**Art. 723–724**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_723__724_)[]
+###### [**Art. 723–724**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_723__724_)
 
 ## [VII. Capital loss and overindebtedness](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_VI_I)
 
 ## [1. Duty to notify](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_VI_I/lvl_1)
 
-###### [**Art. 725**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_725)[]
+###### [**Art. 725**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_725)
 
 [1] Where the last annual balance sheet shows that one-half of the share capital and the legal reserves are no longer covered, the board of directors must without delay convene a general meeting and propose financial restructuring measures.
 
-[2] Where there is good cause to suspect overindebtedness, an interim balance sheet must be drawn up and submitted to a licensed auditor for examination.[] If the interim balance sheet shows that the claims of the company’s creditors are not covered, whether the assets are appraised at going concern or liquidation values, the board of directors must notify the court unless certain company creditors subordinate their claims to those of all other company creditors to the extent of the capital deficit.
+[2] Where there is good cause to suspect overindebtedness, an interim balance sheet must be drawn up and submitted to a licensed auditor for examination. If the interim balance sheet shows that the claims of the company’s creditors are not covered, whether the assets are appraised at going concern or liquidation values, the board of directors must notify the court unless certain company creditors subordinate their claims to those of all other company creditors to the extent of the capital deficit.
 
-[3]If the company does not have an auditor, the licensed auditor must comply with the reporting duties of the auditor conducting a limited audit.[]
+[3]If the company does not have an auditor, the licensed auditor must comply with the reporting duties of the auditor conducting a limited audit.
 
 ## [2. Commencement or stay of insolvency proceedings](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_VI_I/lvl_2)
 
-###### [**Art. 725***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_725_a)[]
+###### [**Art. 725***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_725_a)
 
 [1] On receiving notification, the court commences insolvency proceedings. On application by the board of directors or by a creditor it may grant a stay of insolvency proceedings where there is a prospect of financial restructuring; in this case the court orders measures to preserve the company’s assets.
 
@@ -9772,7 +9772,7 @@ The company is liable for any damage caused by unauthorised acts carried out in 
 
 [3] Public notice of the stay of insolvency proceedings is required only where necessary to protect third parties.
 
-## [VIII. Dismissal and suspension](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_VII_I)[[]][[ ]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_VII_I)
+## [VIII. Dismissal and suspension](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_B/lvl_VII_I)
 
 ###### [**Art. 726**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_726)
 
@@ -9782,7 +9782,7 @@ The company is liable for any damage caused by unauthorised acts carried out in 
 
 [3] Claims for compensation by persons dismissed or suspended are reserved.
 
-#### [C.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_C) **[]** [The External Auditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_C)
+#### [C.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_C)  [The External Auditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_C)
 
 ## [I. Audit requirement](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_C/lvl_I)
 
@@ -9799,7 +9799,7 @@ b. have bonds outstanding,
 c. contribute at least 20 per cent of the assets or of the turnover to the consolidated accounts of a company in terms of letter a or b;
 
   
-2.[] companies that exceed two of the following thresholds in two successive financial years:  
+2. companies that exceed two of the following thresholds in two successive financial years:  
 a. a balance sheet total of 20 million francs,  
 b. sales revenue of 40 million francs,  
 c. 250 full-time positions on annual average;
@@ -9831,7 +9831,7 @@ c. 250 full-time positions on annual average;
 
 ###### [**Art. 727***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_727_b)
 
-[1] Publicly traded companies must appoint as an auditor an audit firm under state oversight in terms of the Auditor Oversight Act of 16 December 2005[]. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor or a licensed audit expert to be carried out by a state supervised audit company.
+[1] Publicly traded companies must appoint as an auditor an audit firm under state oversight in terms of the Auditor Oversight Act of 16 December 2005. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor or a licensed audit expert to be carried out by a state supervised audit company.
 
 [2] Other companies that are required to have an ordinary audit must appoint as auditor a licensed audit expert in terms of the Auditor Oversight Act of 16 December 2005. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor to be carried out by a licensed audit expert.
 
@@ -9839,7 +9839,7 @@ c. 250 full-time positions on annual average;
 
 ###### [**Art. 727***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_727_c)
 
-Companies that are required to have a limited audit must appoint as auditor a licensed auditor in terms of the Auditor Oversight Act of 16 December 2005[].
+Companies that are required to have a limited audit must appoint as auditor a licensed auditor in terms of the Auditor Oversight Act of 16 December 2005.
 
 ## [III. Ordinary audit](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_C/lvl_II_I)
 
@@ -10023,7 +10023,7 @@ If the company is obviously overindebted and the board of directors fails to not
 
 [3] The general meeting may appoint experts to audit the management or individual aspects thereof.
 
-#### [D.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_D)**[]** [Defects in the Organisation of the Company](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_D)
+#### [D.](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_D) [Defects in the Organisation of the Company](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/lvl_D)
 
 ###### [**Art. 731***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_731_b)
 
@@ -10034,20 +10034,20 @@ If the company is obviously overindebted and the board of directors fails to not
 2. A required corporate body of the company is not composed correctly.  
 3. The company is not keeping the share register or the register of its reported beneficial owners in accordance with the regulations.  
 4. The company has issued bearer shares without having equity securities listed on a stock exchange or organising the bearer shares as intermediated securities   
-5. The company is no longer legally domiciled at its seat.[]
+5. The company is no longer legally domiciled at its seat.
 
-[1bis ]The court may in particular:
+[1bis]The court may in particular:
 
   
 1. allow the company a period of time, under threat of its dissolution, within which to re-establish the lawful situation;  
 2. appoint the required corporate body or an administrator;  
-3. dissolve the company and order its liquidation according to the regulations on insolvency proceedings.[[]]
+3. dissolve the company and order its liquidation according to the regulations on insolvency proceedings.
 
 [2] If the court appoints the required corporate body or an administrator, it determines the duration for which the appointment is valid. It requires the company to bear the costs and to make an advance payment to the appointed persons.
 
 [3] If there is good cause, the company may request the court to remove the persons the court has appointed.
 
-[4] The liquidators appointed to liquidate the company under the bankruptcy provisions shall notify the court as soon as they establish overindebtedness; the court opens the bankruptcy proceedings.[]
+[4] The liquidators appointed to liquidate the company under the bankruptcy provisions shall notify the court as soon as they establish overindebtedness; the court opens the bankruptcy proceedings.
 
 ### [Section Four: Reduction of the Share Capital](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4)
 
@@ -10057,39 +10057,39 @@ If the company is obviously overindebted and the board of directors fails to not
 
 [1] Where a company limited by shares intends to reduce its share capital without simultaneously replacing the decrease with new, fully paid-up capital, the general meeting must pass a resolution to amend the articles of association accordingly.
 
-[2] The resolution may be adopted only where it has been ascertained by means of a special audit report that the claims of the company’s creditors are fully covered despite the reduction in the share capital. The audit report must be prepared by a licensed audit expert. The licensed audit expert must be present at the general meeting which adopts the resolution.[]
+[2] The resolution may be adopted only where it has been ascertained by means of a special audit report that the claims of the company’s creditors are fully covered despite the reduction in the share capital. The audit report must be prepared by a licensed audit expert. The licensed audit expert must be present at the general meeting which adopts the resolution.
 
-[3] The resolution must contain the results of the audit report and the method by which the capital reduction is to be carried out.[]
+[3] The resolution must contain the results of the audit report and the method by which the capital reduction is to be carried out.
 
 [4] Any book profit arising from the capital reduction must be used solely for write-downs.
 
-[5] The share capital may be reduced below 100,000 francs only if it is at the same time replaced by new fully paid-up capital of at least 100,000 francs.[]
+[5] The share capital may be reduced below 100,000 francs only if it is at the same time replaced by new fully paid-up capital of at least 100,000 francs.
 
 ## [B. Cancellation of shares in the event of restructuring](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_B)
 
-###### [**Art. 732***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_732_a)[]
+###### [**Art. 732***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_732_a)
 
 [1] If the share capital is reduced to zero for the purpose of restructuring measures and then increased again, the current membership rights of the shareholders lapse at the time of the reduction. Issued shares must be cancelled.
 
 [2] When the share capital is increased again, the former shareholders have subscription rights that may not be withdrawn from them.
 
-## [B. Call on creditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_C)[[]]
+## [B. Call on creditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_C)
 
 ###### [**Art. 733**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_733)
 
 If the general meeting passes a resolution to reduce the share capital, the board of directors must give public notice of the resolution three times in the Swiss Official Gazette of Commerce as well as in the form envisaged in the articles of association and announce to the creditors that within two months commencing with the third publication in the Swiss Official Gazette of Commerce that they may register their claims to be satisfied or secured.
 
-## [C. Implementation of the reduction](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_D)[[]]
+## [C. Implementation of the reduction](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_D)
 
 ###### [**Art. 734**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_734)
 
-The reduction of the share capital may be carried out only after the time limit set for the creditors has expired and the registered claims have been satisfied or secured and may be entered in the commercial register only when it has been verified by public deed that the provisions of this Section are fulfilled. The deed must be enclosed with the special audit report.[]
+The reduction of the share capital may be carried out only after the time limit set for the creditors has expired and the registered claims have been satisfied or secured and may be entered in the commercial register only when it has been verified by public deed that the provisions of this Section are fulfilled. The deed must be enclosed with the special audit report.
 
-###### [**Art. 734***a–***734***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_734)[]
+###### [**Art. 734***a–***734***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_734)
 
 ## [VII. Gender representation of on the board of directors and in the executive board](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_D/lvl_VI_I)
 
-###### [**Art. 734***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_734_f)[]
+###### [**Art. 734***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_734_f)
 
 Unless each gender makes up at least 30 per cent of the board of directors and 20 per cent of the executive board, the following must be indicated in the remuneration report of companies that exceed the thresholds in Article 727 paragraph 1 number 2:
 
@@ -10097,7 +10097,7 @@ Unless each gender makes up at least 30 per cent of the board of directors and 2
 1. the reasons why genders are not represented as required; and  
 2. the measures being taken to increase representation of the less well represented gender.
 
-## [D. Reduction in the case of negative net worth](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_E)[[]]
+## [D. Reduction in the case of negative net worth](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_4/lvl_E)
 
 ###### [**Art. 735**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_735)
 
@@ -10117,18 +10117,18 @@ The company is dissolved:
 1. in accordance with the articles of association;  
 2. by resolution of the general meeting, to be recorded in a public deed;  
 3. by the commencement of insolvency proceedings;  
-4.[] by court judgment if shareholders together representing at least ten per cent of the share capital request its dissolution for good cause. The court may order a different solution if appropriate and conscionable for the interested parties;  
+4. by court judgment if shareholders together representing at least ten per cent of the share capital request its dissolution for good cause. The court may order a different solution if appropriate and conscionable for the interested parties;  
 5. in the other cases envisaged by law.
 
 ## [II. Notification for entry in the commercial register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_A/lvl_I_I)
 
-###### [**Art. 737**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_737)[]
+###### [**Art. 737**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_737)
 
 Where the company is dissolved for reasons other than insolvency or a court judgment, the board of directors notifies the dissolution for entry in the commercial register.
 
 ## [III. Consequences](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_A/lvl_II_I)
 
-###### [**Art. 738**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_738)[]
+###### [**Art. 738**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_738)
 
 The dissolved company enters into liquidation, with the exception of cases involving a merger, a split or the transfer of its assets to a public sector corporation.
 
@@ -10144,7 +10144,7 @@ The dissolved company enters into liquidation, with the exception of cases invol
 
 ## [II. Appointment and dismissal of the liquidators](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_B/lvl_I_I)
 
-## [1. Appointment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_B/lvl_I_I/lvl_1)[[]][[ ]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_B/lvl_I_I/lvl_1)
+## [1. Appointment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_B/lvl_I_I/lvl_1)
 
 ###### [**Art. 740**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_740)
 
@@ -10152,15 +10152,15 @@ The dissolved company enters into liquidation, with the exception of cases invol
 
 [2] The board of directors notifies the liquidators for entry in the commercial register, even where the liquidation is carried out by the board of directors.
 
-[3] At least one of the liquidators must be resident in Switzerland and authorised to represent the company.[]
+[3] At least one of the liquidators must be resident in Switzerland and authorised to represent the company.
 
-[4] Where the company is dissolved by court judgment, the court appoints the liquidators.[] 
+[4] Where the company is dissolved by court judgment, the court appoints the liquidators. 
 
 [5] In the event of insolvency, the insolvency administrators carry out the liquidation in accordance with the provisions of insolvency law. The governing officers of the company retain their authority to represent the company only to the extent such representation is still necessary.
 
 ## [2. Dismissal](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_B/lvl_I_I/lvl_2)
 
-###### [**Art. 741**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_741)[]
+###### [**Art. 741**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_741)
 
 [1] The general meeting may dismiss the liquidators it appointed at any time.
 
@@ -10204,11 +10204,11 @@ The dissolved company enters into liquidation, with the exception of cases invol
 
 ###### [**Art. 745**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_745)
 
-[1] Unless the articles of association provide otherwise, once the debts of the dissolved company have been discharged, its assets are distributed among the shareholders in proportion to the amounts they contributed and with due regard to the preferential rights attaching to specific share classes.[]
+[1] Unless the articles of association provide otherwise, once the debts of the dissolved company have been discharged, its assets are distributed among the shareholders in proportion to the amounts they contributed and with due regard to the preferential rights attaching to specific share classes.
 
 [2] The distribution may take place no sooner than one year after the day on which the call to creditors was made for the third time.
 
-[3] Such distribution may take place after only three months where a licensed audit expert confirms that the debts have been redeemed and that in the circumstances it may safely be assumed that no third party interests will be harmed.[] 
+[3] Such distribution may take place after only three months where a licensed audit expert confirms that the debts have been redeemed and that in the circumstances it may safely be assumed that no third party interests will be harmed. 
 
 ## [IV. Deletion from the commercial register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_B/lvl_I_V)
 
@@ -10218,7 +10218,7 @@ On completion of the liquidation process, the liquidators apply to the commercia
 
 ## [V. Retention of the share register, accounting records and register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_B/lvl_V)
 
-###### [**Art. 747**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_747)[]
+###### [**Art. 747**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_747)
 
 [1] The share register, the accounting records and the register under Article 697*l* and the underlying documents must be kept in a safe place for ten years following the deletion of the company. This place shall be decided by the liquidators or if they are unable to agree, by the commercial registry.
 
@@ -10228,7 +10228,7 @@ On completion of the liquidation process, the liquidators apply to the commercia
 
 ## [I. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I)
 
-###### [**Art. 748**─**750**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I/lvl_d20417e2680)[]
+###### [**Art. 748**─**750**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I/lvl_d20417e2680)
 
 ## [II. Takeover by a public sector corporation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_5/lvl_C/lvl_I_I)
 
@@ -10246,11 +10246,11 @@ On completion of the liquidation process, the liquidators apply to the commercia
 
 ## [I. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_A/lvl_I)
 
-###### [**Art. 752**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_752)[]
+###### [**Art. 752**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_752)
 
 ## [II. Founder members’ liability](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_A/lvl_I_I)
 
-###### [**Art. 753**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_753)[]
+###### [**Art. 753**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_753)
 
 Founder members, members of the board of directors and all persons involved in establishing the company are liable both to the company and to the individual shareholders and creditors for the losses arising where they:
 
@@ -10261,7 +10261,7 @@ Founder members, members of the board of directors and all persons involved in e
 
 ## [III. Liability for administration, business management and liquidation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_A/lvl_II_I)
 
-###### [**Art. 754**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_754)[]
+###### [**Art. 754**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_754)
 
 [1] The members of the board of directors and all persons engaged in the business management or liquidation of the company are liable both to the company and to the individual shareholders and creditors for any losses or damage arising from any intentional or negligent breach of their duties.
 
@@ -10269,35 +10269,35 @@ Founder members, members of the board of directors and all persons involved in e
 
 ## [IV. Auditors’ liability](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_A/lvl_I_V)
 
-###### [**Art. 755**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_755)[]
+###### [**Art. 755**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_755)
 
 All persons engaged in auditing the annual and consolidated accounts, the company’s establishment, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
 
-[2] If the audit is conducted by a public audit office or by one of its employees, the relevant public authority is liable. Legal action against persons involved in the audit is governed by public law.[]
+[2] If the audit is conducted by a public audit office or by one of its employees, the relevant public authority is liable. Legal action against persons involved in the audit is governed by public law.
 
 ## [B. Damage to the company](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_B)
 
 ## [I. Claims outside insolvency](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_B/lvl_I)
 
-###### [**Art. 756**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_756)[]
+###### [**Art. 756**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_756)
 
 [1] In addition to the company, the individual shareholders are also entitled to sue for any losses caused to the company. The shareholder’s claim is for performance to the company.
 
-[2] ...[]
+[2] ...
 
 ## [II. Claims in insolvency](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_B/lvl_I_I)
 
-###### [**Art. 757**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_757)[]
+###### [**Art. 757**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_757)
 
 [1] In the event of the insolvency of the damaged company, its creditors are entitled to request that the company be compensated for the losses suffered. However, in the first instance the insolvency administrators may assert the claims of the shareholders and the company’s creditors.
 
-[2] Where the insolvency administrators waive their right to assert such claims, any shareholder or creditor is entitled to bring them. The proceeds are first used to satisfy the claims of the litigant creditors in accordance with the provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[]. Any surplus is divided among the litigant shareholders in proportion to their equity participation in the company; the remainder is added to the insolvent’s estate.
+[2] Where the insolvency administrators waive their right to assert such claims, any shareholder or creditor is entitled to bring them. The proceeds are first used to satisfy the claims of the litigant creditors in accordance with the provisions of the Debt Collection and Bankruptcy Act of 11 April 1889. Any surplus is divided among the litigant shareholders in proportion to their equity participation in the company; the remainder is added to the insolvent’s estate.
 
 [3] The assignment of claims held by the company in accordance with Article 260 of the Debt Collection and Bankruptcy Act of 11 April 1889 is reserved.
 
 ## [III. Effect of the resolution of release](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_B/lvl_II_I)
 
-###### [**Art. 758**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_758)[]
+###### [**Art. 758**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_758)
 
 [1] The resolution of release adopted by the general meeting is effective only for disclosed facts and only as against the company and those shareholders who approved the resolution or who have since acquired their shares in full knowledge of the resolution.
 
@@ -10305,7 +10305,7 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 ## [C. Joint and several liability and recourse](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_C)
 
-###### [**Art. 759**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_759)[]
+###### [**Art. 759**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_759)
 
 [1] Where two or more persons are liable for the losses, each is jointly and severally liable with the others to the extent that the damage is personally attributable to him on account of his own fault and the circumstances.
 
@@ -10315,23 +10315,23 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 ## [Prescription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_6/lvl_D)
 
-###### [**Art. 760**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_760)[]
+###### [**Art. 760**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_760)
 
 [1] The claim for damages against any person held liable pursuant to the above provisions prescribes five years after the date on which the person suffering damage learned of the damage and of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased.
 
 [2] If the person liable has committed a criminal offence through his or her harmful conduct, then the right to damages or satisfaction prescribes at the earliest when the right to prosecute the offence becomes time-barred. If the right to prosecute is no longer liable to become time-barred because a first instance criminal judgment has been issued, the right to claim damages or satisfaction prescribes at the earliest three years after notice of the judgment is given.
 
-###### [**Art. 761**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_761)[]
+###### [**Art. 761**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_761)
 
 ### [Section Seven: Involvement of Public Sector Corporations](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_7)
 
 ###### [**Art. 762**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_762)
 
-[1] Where public sector corporations such as the Confederation, or a canton, district or commune have a public interest in a company limited by shares, the articles of association of the company may grant that corporation the right to appoint representatives to the board of directors or the external auditors, even if it is not a shareholder.[]
+[1] Where public sector corporations such as the Confederation, or a canton, district or commune have a public interest in a company limited by shares, the articles of association of the company may grant that corporation the right to appoint representatives to the board of directors or the external auditors, even if it is not a shareholder.
 
 [2] In such companies and in public-private enterprises in which a public sector corporation participates as a shareholder, only the public sector corporation has the right to dismiss the representatives it appointed to the board of directors and the external auditors.
 
-[3] The members of the board of directors and external auditors appointed by a public sector corporation have the same rights and duties as those elected by the general meeting.[] 
+[3] The members of the board of directors and external auditors appointed by a public sector corporation have the same rights and duties as those elected by the general meeting. 
 
 [4] The public sector corporation is liable to the company, shareholders and creditors for the actions of the members of the board of directors and external auditors it appoints, subject to rights of recourse under federal and cantonal law.
 
@@ -10364,7 +10364,7 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 [1] The partners with unlimited liability constitute the directors of the partnership limited by shares. They are responsible for business management and representation. They must be named in the articles of association.
 
-[2] The names of the directors and persons authorised to represent the partnership and their addresses, places of origin and function must be entered in the commercial register.[]
+[2] The names of the directors and persons authorised to represent the partnership and their addresses, places of origin and function must be entered in the commercial register.
 
 [3] Any changes to the body of partners with unlimited liability require the consent of the existing partners and the amendment of the articles of association.
 
@@ -10410,7 +10410,7 @@ Resolutions of the general meeting concerning modification of the partnership’
 
 [2] In other respects, dissolution of the partnership limited by shares is governed by the same provisions as apply to the dissolution of companies limited by shares; however, it may be dissolved by resolution of the general meeting before the date set in the articles of association only with the consent of the directors.
 
-[3] ...[]
+[3] ...
 
 ## [E. Resignation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_27/lvl_E)
 
@@ -10420,7 +10420,7 @@ Resolutions of the general meeting concerning modification of the partnership’
 
 [2] Where one of two or more partners with unlimited liability exercises his right to resign, unless the articles of association provide otherwise the partnership is continued by the others.
 
-## [Title Twenty-Eight:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28)**[]** [The Limited Liability Company](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28)
+## [Title Twenty-Eight:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28) [The Limited Liability Company](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28)
 
 ### [Section One: General Provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28/chap_1)
 
@@ -10526,7 +10526,7 @@ In order to be binding, provisions on the following matters must be included in 
 2. the capital contributions correspond to their total issue price;  
 3. the statutory requirements and requirements of the articles of association for the payment of the capital contributions are fulfilled;  
 4. they accept the obligations in terms of the articles of association to make additional financial or material contributions;  
-5.[] there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
+5. there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
 
 ## [II. Subscription for capital contributions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28/chap_1/lvl_G/lvl_I_I)
 
@@ -10582,7 +10582,7 @@ The company must be entered in the commercial register at the place where it has
 
 ## [II. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28/chap_1/lvl_H/lvl_I_I)
 
-###### [**Art. 778***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_778_a)[]
+###### [**Art. 778***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_778_a)
 
 ## [J. Acquisition of legal personality](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28/chap_1/lvl_J)
 
@@ -10620,7 +10620,7 @@ A resolution of the members’ general meeting on an amendment to the articles o
 
 [2] The implementation of the resolution is the responsibility of the managing directors.
 
-[3] Subscription and the capital contributions are governed by the regulations on the establishment of the company. The reference to rights and obligations under the articles of association is not required if the subscriber is already a member. The relevant regulations on increasing the capital of a company limited by shares also apply to the subscription form. A public invitation to subscribe to the capital contributions is not permitted.[]
+[3] Subscription and the capital contributions are governed by the regulations on the establishment of the company. The reference to rights and obligations under the articles of association is not required if the subscriber is already a member. The relevant regulations on increasing the capital of a company limited by shares also apply to the subscription form. A public invitation to subscribe to the capital contributions is not permitted.
 
 [4] An application to register the increase in the nominal capital must be filed with the commercial register within three months of the resolution of the members’ general meeting, otherwise the resolution becomes invalid.
 
@@ -10680,7 +10680,7 @@ A resolution of the members’ general meeting on an amendment to the articles o
 
 [1] The assignment of a capital contribution as well as an obligation to assign must be done in writing.
 
-[2] The contract of assignment must contain the same information on rights and obligations under the articles of association as the document on subscription to the capital contribution, unless the acquirer is already a member.[]
+[2] The contract of assignment must contain the same information on rights and obligations under the articles of association as the document on subscription to the capital contribution, unless the acquirer is already a member.
 
 ## [b. Consent requirements](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28/chap_2/lvl_A/lvl_I_I/lvl_1/lvl_b)
 
@@ -10749,7 +10749,7 @@ A resolution of the members’ general meeting on an amendment to the articles o
 
 ###### [**Art. 790**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_790)
 
-[1] The company keeps a register of capital contributions. It must be kept in such a manner that it can be accessed at any time in Switzerland.[]
+[1] The company keeps a register of capital contributions. It must be kept in such a manner that it can be accessed at any time in Switzerland.
 
 [2] The following information must be entered in the register of contributions:
 
@@ -10763,11 +10763,11 @@ A resolution of the members’ general meeting on an amendment to the articles o
 
 [4] Company members have the right to inspect the register of contributions.
 
-[5] The documents on which an entry is based must be retained for ten years following the deletion of the person concerned from the register of capital contributions.[]
+[5] The documents on which an entry is based must be retained for ten years following the deletion of the person concerned from the register of capital contributions.
 
 ## [III[bis]. Notice of the beneficial owner of the capital contributions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28/chap_2/lvl_A/lvl_III_bis)
 
-###### [**Art. 790***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_790_a)[]
+###### [**Art. 790***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_790_a)
 
 [1] Any person who alone or by agreement with third parties acquires capital contributions and thus reaches or exceeds the threshold of 25 per cent of the nominal capital or voting rights must within one month give notice to the company of the first name and surname and the address of the natural person for whom it is ultimately acting (the beneficial owner).
 
@@ -10924,7 +10924,7 @@ The corresponding provisions of the law on companies limited by shares apply to 
 
 ## [H. Reserves](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_28/chap_2/lvl_H)
 
-###### [**Art. 801**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_801)[]
+###### [**Art. 801**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_801)
 
 The relevant provisions of the law on companies limited by shares apply to the reserves.
 
@@ -10976,7 +10976,7 @@ The relevant provisions of the law on companies limited by shares apply to the r
 1. to amend the articles of association;  
 2. to appoint and the remove the managing directors;  
 3. to appoint and remove the members of the auditor;  
-4.[] to approve the management report and the consolidated accounts;  
+4. to approve the management report and the consolidated accounts;  
 5. to approve the annual accounts and the resolution on the allocation of the balance sheet profit, and in particular to set the dividend and the shares of profits paid to managing directors;  
 6. to determine the fees paid to managing directors;  
 7. to discharge the managing directors;  
@@ -11177,7 +11177,7 @@ The managing directors and third parties who are involved in management must tre
 
 [2] The articles of association may adopt alternative provisions on representation, but at least one managing director must be authorised to represent the company. The articles of association may refer to regulations that set out the details.
 
-[3] The company must be able to be represented by a person who is resident in Switzerland. This person must be a managing director or a manager. They must have access to the register of capital contributions and to the register of beneficial owners under Article 697*l*.[]
+[3] The company must be able to be represented by a person who is resident in Switzerland. This person must be a managing director or a manager. They must have access to the register of capital contributions and to the register of beneficial owners under Article 697*l*.
 
 [4] The relevant provisions on companies limited by shares apply to the extent of and restrictions on the right to act as a representative and to contracts between the company and the person that is representing it.
 
@@ -11344,7 +11344,7 @@ The relevant provisions on companies limited by shares apply to the liability of
 
 ###### [**Art. 828**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_828)
 
-[1] A cooperative is a corporate entity consisting of an unlimited number of persons or commercial enterprises which primarily aims to promote or safeguard the economic interests of the society’s members by way of collective self-help or which is established for charitable purposes.[]
+[1] A cooperative is a corporate entity consisting of an unlimited number of persons or commercial enterprises which primarily aims to promote or safeguard the economic interests of the society’s members by way of collective self-help or which is established for charitable purposes.
 
 [2] Cooperatives with a predetermined nominal capital are not permitted.
 
@@ -11370,7 +11370,7 @@ The cooperative is established by entry in the commercial register once the arti
 
 [1] At least seven members must be involved in the establishment of a cooperative.
 
-[2] Where the number of members subsequently drops below the minimum number, the provisions of the law on companies limited by shares on defects in the organisation of a company apply.[]
+[2] Where the number of members subsequently drops below the minimum number, the provisions of the law on companies limited by shares on defects in the organisation of a company apply.
 
 ## [II. Articles of association](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_1/lvl_C/lvl_I_I)
 
@@ -11384,7 +11384,7 @@ The articles of association must contain provisions concerning:
 1. the name (business name) and seat of the cooperative;  
 2. the objects of the cooperative;  
 3. any obligation on members to make cash or other contributions and the nature and amount thereof;  
-4.[] the governing bodies for the administration and for auditing and the manner in which it is to be represented;  
+4. the governing bodies for the administration and for auditing and the manner in which it is to be represented;  
 5. the form of the cooperative’s external communications.
 
 ## [2. Further provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_1/lvl_C/lvl_I_I/lvl_2)
@@ -11409,7 +11409,7 @@ In order to be binding, provisions on the following matters must be included in 
 
 [1] The articles of association are drawn up in writing and submitted to an assembly convened by the founder members for consultation and approval.
 
-[2] Further, a written report by the founder members on any contributions in kind and assets to be taken over is made available to the assembly for consultation. The founder members must confirm that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.[]
+[2] Further, a written report by the founder members on any contributions in kind and assets to be taken over is made available to the assembly for consultation. The founder members must confirm that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
 
 [3] This assembly also appoints the necessary governing bodies.
 
@@ -11419,17 +11419,17 @@ In order to be binding, provisions on the following matters must be included in 
 
 ## [1. Cooperative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_1/lvl_C/lvl_I_V/lvl_1)
 
-###### [**Art. 835**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_835)[]
+###### [**Art. 835**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_835)
 
 The cooperative is entered in the commercial register of the place at which it has its seat.
 
 ## [2. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_1/lvl_C/lvl_I_V/lvl_2)
 
-###### [**Art. 836**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_836)[]
+###### [**Art. 836**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_836)
 
 ## [3. Register of members](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_1/lvl_C/lvl_I_V/lvl_3)
 
-###### [**Art. 837**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_837)[]
+###### [**Art. 837**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_837)
 
 [1] The cooperative shall keep a register in which the first name and surname or the business name of the members and their addresses are recorded. It must keep the register in such a manner that it can be accessed at any time in Switzerland.
 
@@ -11471,7 +11471,7 @@ The cooperative is entered in the commercial register of the place at which it h
 
 [1] Where membership of the cooperative is linked with taking out an insurance policy with such society, membership is acquired on acceptance of the insurance application by the competent governing body.
 
-[2] Insurance policies concluded by a licensed insurance cooperative with its members are subject to the Federal Act of 2 April 1908[] on Insurance Policies in the same manner as insurance policies concluded with third parties.
+[2] Insurance policies concluded by a licensed insurance cooperative with its members are subject to the Federal Act of 2 April 1908 on Insurance Policies in the same manner as insurance policies concluded with third parties.
 
 ### [Section Three: Loss of Membership](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_3)
 
@@ -11607,7 +11607,7 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 ###### [**Art. 856**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_856)
 
-[1] No later than ten days prior to the general assembly of members or the ballot to decide on approval of the management report, the consolidated accounts and the annual accounts, these documents together with the audit report must be made available at the seat of the cooperative for inspection by its members.[]
+[1] No later than ten days prior to the general assembly of members or the ballot to decide on approval of the management report, the consolidated accounts and the annual accounts, these documents together with the audit report must be made available at the seat of the cooperative for inspection by its members.
 
 [2] The articles of association may stipulate that each member is entitled, at his own expense, to request a copy of the profit and loss account and the balance sheet from the cooperative.
 
@@ -11615,7 +11615,7 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 ###### [**Art. 857**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_857)
 
-[1] The members may draw the attention of the auditor to dubious procedures and request the necessary information.[]
+[1] The members may draw the attention of the auditor to dubious procedures and request the necessary information.
 
 [2] The society’s ledgers and business correspondence may be inspected only with the express authorisation of the general assembly of members or by resolution of the directors and if measures are taken to safeguard trade secrets. 
 
@@ -11627,7 +11627,7 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 ## [1. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_1)
 
-###### [**Art. 858**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_858)[]
+###### [**Art. 858**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_858)
 
 ## [2. Profit distribution principles](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_2)
 
@@ -11649,7 +11649,7 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 [3] To the extent that the reserve fund does not exceed one-half of the society’s other assets or, where share certificates exist, one-half of the society’s capital, it may be used only to cover losses or for measures designed to sustain the society’s pursuit of its objects in difficult times.
 
-[4] ...[]
+[4] ...
 
 ## [4. Net profit at credit cooperatives](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_4)
 
@@ -11667,7 +11667,7 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 [1] The articles of association may also provide for allocations to establish and finance other funds, in particular funds dedicated to the welfare of employees of the company and related workers and for members of the cooperative.
 
-[2–4] ...[]
+[2–4] ...
 
 ## [6. Further allocations to reserves](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_4/lvl_D/lvl_II_I/lvl_6)
 
@@ -11777,9 +11777,9 @@ Any provisions made in the articles of association which limit liability to a sp
 
 [2] Irrecoverable amounts must be spread equally among the other members, and surpluses repaid once the final distribution plan has been formulated. The members’ right of recourse against each other is reserved.
 
-[3] The provisional determination of members’ obligations and the distribution plan are subject to challenge by appeal on procedural grounds pursuant to the Debt Collection and Bankruptcy Act of 11 April 1889[].
+[3] The provisional determination of members’ obligations and the distribution plan are subject to challenge by appeal on procedural grounds pursuant to the Debt Collection and Bankruptcy Act of 11 April 1889.
 
-[4] The procedure is determined by Federal Council ordinance.[]
+[4] The procedure is determined by Federal Council ordinance.
 
 ## [f. Amendment of liability provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_4/lvl_E/lvl_II_I/lvl_2/lvl_f)
 
@@ -11827,7 +11827,7 @@ Any provisions made in the articles of association which limit liability to a sp
 
 [1] Creditors’ claims in respect of the personal liability of individual members may be brought by any creditor at any time up to one year after completion of insolvency proceedings, unless the law provides for their extinction at an earlier juncture.
 
-[2] The members’ right of recourse against each other likewise prescribes three years after the date of the payment to which the claim relates.[]
+[2] The members’ right of recourse against each other likewise prescribes three years after the date of the payment to which the claim relates.
 
 ### [Section Five: Organisation of the Cooperative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5)
 
@@ -11843,8 +11843,8 @@ Any provisions made in the articles of association which limit liability to a sp
 
   
 1. to determine and amend the articles of association;  
-2.[] to elect the directors and the auditor;  
-3.[] to approve the management report and the consolidated accounts;  
+2. to elect the directors and the auditor;  
+3. to approve the management report and the consolidated accounts;  
 4. to discharge the directors;  
 5. to make resolutions concerning the matters reserved to the general assembly of members by law or the articles of association.
 
@@ -11860,7 +11860,7 @@ In the case of cooperatives with more than 300 members or in which the majority 
 
 ###### [**Art. 881**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_881)
 
-[1] The general assembly of members is convened by the board of directors or any other governing body on which the articles of association confer such authority, and where necessary by the auditor.[] The liquidators and the representatives of bond creditors also have the right to convene a general assembly. 
+[1] The general assembly of members is convened by the board of directors or any other governing body on which the articles of association confer such authority, and where necessary by the auditor. The liquidators and the representatives of bond creditors also have the right to convene a general assembly. 
 
 [2] The general assembly of members must be convened at the request of at least one-tenth of the members or, in the case of cooperatives with fewer than 30 members, at least three members.
 
@@ -11912,7 +11912,7 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 [1] In the case of resolutions concerning the discharge of the board of directors, persons who have participated in any manner in the management of the society’s business have no voting right.
 
-[2] ...[]
+[2] ...
 
 ## [VII. Resolutions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_A/lvl_VI_I)
 
@@ -11922,7 +11922,7 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 [1] Unless otherwise provided by law or the articles of association, the general assembly of members passes resolutions and decides elections by absolute majority of the votes cast. The same applies to resolutions and elections by ballot.
 
-[2] The dissolution of the cooperative and any amendment of the articles of association require a majority of two-thirds of the votes cast. The articles of association may stipulate more restrictive conditions for such resolutions.[]
+[2] The dissolution of the cooperative and any amendment of the articles of association require a majority of two-thirds of the votes cast. The articles of association may stipulate more restrictive conditions for such resolutions.
 
 ## [2. Increase of members’ obligations](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_A/lvl_VI_I/lvl_2)
 
@@ -11934,11 +11934,11 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 [3] In such cases, departure may not be made conditional on payment of a severance penalty.
 
-## [VIII. Dismissal of the directors and the auditor](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_A/lvl_VII_I)[[]]
+## [VIII. Dismissal of the directors and the auditor](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_A/lvl_VII_I)
 
 ###### [**Art. 890**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_890)
 
-[1] The general assembly of members is entitled to dismiss the members of the board of directors and the auditor and any registered attorneys or commercial agents appointed by them.[]
+[1] The general assembly of members is entitled to dismiss the members of the board of directors and the auditor and any registered attorneys or commercial agents appointed by them.
 
 [2] On application by at least one-tenth of the members, the court may order such dismissals where good cause exists and, in particular, where the persons in question neglected their duties or were unable to fulfil them. In such cases the court must, where necessary, order that fresh elections be held by the competent body of the cooperative and take appropriate measures for the interim.
 
@@ -11972,7 +11972,7 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 [1] Licensed insurance cooperatives with more than 1,000 members may delegate all or some of the powers of the general assembly of members to the board of directors by means of the articles of association.
 
-[2] The powers of the general assembly of members to introduce or increase the members’ liability to make additional contributions and to dissolve, merge, split and modify the legal form of the cooperative are not transferable.[]
+[2] The powers of the general assembly of members to introduce or increase the members’ liability to make additional contributions and to dissolve, merge, split and modify the legal form of the cooperative are not transferable.
 
 ## [B. Directors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B)
 
@@ -11988,7 +11988,7 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 ## [2....](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I/lvl_2)
 
-###### [**Art. 895**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_895)[]
+###### [**Art. 895**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_895)
 
 ## [II. Term of office](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_I)
 
@@ -12008,11 +12008,11 @@ The articles of association may delegate some of the duties and powers of the bo
 
 ## [1. Delegation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_1)
 
-###### [**Art. 898**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_898)[]
+###### [**Art. 898**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_898)
 
 [1] The articles of association may authorise the general assembly of members or the directors to delegate responsibility for managing the society’s business or parts thereof and for representing the society to one or more persons, business managers or executive officers, who need not be members of the cooperative.
 
-[2] A cooperative must be able to be represented by a person who is resident in Switzerland. This person must be a director, a business manager or an executive officer. This person must have access to the register under Article 837.[]
+[2] A cooperative must be able to be represented by a person who is resident in Switzerland. This person must be a director, a business manager or an executive officer. This person must have access to the register under Article 837.
 
 ## [2. Scope and restriction](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_2)
 
@@ -12026,17 +12026,17 @@ The articles of association may delegate some of the duties and powers of the bo
 
 ## [3. Contracts between the cooperative and its representatives](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_3)
 
-###### [**Art. 899***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_899_a)[]
+###### [**Art. 899***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_899_a)
 
 If the cooperative is represented in the conclusion of a contract by the same person with whom it is concluding the contract, the contract must be done in writing. This requirement does not apply to contract relating to everyday business where the value of the cooperative's goods or services does not exceed 1,000 francs.
 
-## [4. Signatures](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_4)[[]]
+## [4. Signatures](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_4)
 
 ###### [**Art. 900**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_900)
 
 The persons with authority to represent the cooperative must sign by appending their signature to the society’s business name. 
 
-## [5. Entry](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_5)[[]]
+## [5. Entry](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_I_V/lvl_5)
 
 ###### [**Art. 901**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_901)
 
@@ -12056,7 +12056,7 @@ The board of directors must apply to have persons with authority to represent th
 1. to prepare the business of the general assembly of members and implement its resolutions;  
 2. to supervise the persons entrusted with the cooperative’s business management and representation with regard to compliance with the law, the articles of association and any applicable regulations and to keep themselves regularly informed of the society’s business performance.
 
-[3] The directors are responsible for ensuring that the minutes of their meetings, the minutes of the general assembly, the necessary accounting records and the membership list are kept properly, that the profit and loss account and the annual balance sheet are drawn up and submitted to the auditor for examination in accordance with the statutory provisions and that the prescribed notifications concerning accessions and departures of members are made to the commercial registry.[]
+[3] The directors are responsible for ensuring that the minutes of their meetings, the minutes of the general assembly, the necessary accounting records and the membership list are kept properly, that the profit and loss account and the annual balance sheet are drawn up and submitted to the auditor for examination in accordance with the statutory provisions and that the prescribed notifications concerning accessions and departures of members are made to the commercial registry.
 
 ## [2. Duty to notify capital loss and overindebtedness](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_B/lvl_V/lvl_2)
 
@@ -12098,7 +12098,7 @@ The board of directors must apply to have persons with authority to represent th
 
 ## [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_C/lvl_I)
 
-###### [**Art. 906**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_906)[]
+###### [**Art. 906**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_906)
 
 [1] The auditor is governed by the corresponding provisions on companies limited by shares.
 
@@ -12111,17 +12111,17 @@ The board of directors must apply to have persons with authority to represent th
 
 ## [II. Verification of the membership list](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_C/lvl_I_I)
 
-###### [**Art. 907**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_907)[]
+###### [**Art. 907**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_907)
 
-[1] In the case of cooperatives in which the members are personally liable or liable to make additional capital contributions, the auditor must verify that the membership list[] has been kept correctly. If the cooperative has no auditor, the directors must arrange for the membership list[] to be verified by a licensed auditor.
+[1] In the case of cooperatives in which the members are personally liable or liable to make additional capital contributions, the auditor must verify that the membership list has been kept correctly. If the cooperative has no auditor, the directors must arrange for the membership list to be verified by a licensed auditor.
 
 ## [D. Defects in organisation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_5/lvl_D)
 
-###### [**Art. 908**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_908)[]
+###### [**Art. 908**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_908)
 
 In the case of defects in the organisation of a cooperative, the corresponding provisions on companies limited by shares apply.
 
-###### [**Art. 909** and **910**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_909)[]
+###### [**Art. 909** and **910**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_909)
 
 ### [Section Six: Dissolution of the Cooperative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_6)
 
@@ -12159,7 +12159,7 @@ Where the company is dissolved for reasons other than insolvency, the board of d
 
 ## [D. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_6/lvl_D)
 
-###### [**Art. 914**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_914)[]
+###### [**Art. 914**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_914)
 
 ## [E. Takeover by a public sector corporation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_6/lvl_E)
 
@@ -12175,7 +12175,7 @@ Where the company is dissolved for reasons other than insolvency, the board of d
 
 ## [A. Liability to the cooperative](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_7/lvl_A)
 
-###### [**Art. 916**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_916)[]
+###### [**Art. 916**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_916)
 
 All persons engaged in the administration, business management or auditing or liquidation of the cooperative are liable to the cooperative for the losses arising from any wilful or negligent breach of their duties.
 
@@ -12197,7 +12197,7 @@ All persons engaged in the administration, business management or auditing or li
 
 ## [D. Prescription](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_29/chap_7/lvl_D)
 
-###### [**Art. 919**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_919)[]
+###### [**Art. 919**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_919)
 
 [1] The claim for damages against any person held liable under the above provisions prescribes five years after the date on which the person suffering damage learned of the damage and of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased.
 
@@ -12253,16 +12253,16 @@ Accession to a cooperative union may not bring with it any obligations for the m
 
 ###### [**Art. 926**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_926)
 
-[1] Where public sector corporations such as the Confederation or a canton, district or commune have a public interest in a cooperative, the cooperative’s articles of association may grant that corporation the right to appoint representatives to the board of directors or the auditor.[]
+[1] Where public sector corporations such as the Confederation or a canton, district or commune have a public interest in a cooperative, the cooperative’s articles of association may grant that corporation the right to appoint representatives to the board of directors or the auditor.
 
 [2] These directors and auditors appointed by a public sector corporation have the same rights and duties as those elected by the cooperative. 
 
-[3] Only the public sector corporation has the right to dismiss the representatives it appointed to the board of directors and the auditor.[] The public sector corporation is liable to the cooperative, its members and creditors for the actions of these representatives, subject to rights of recourse under federal and cantonal law.
+[3] Only the public sector corporation has the right to dismiss the representatives it appointed to the board of directors and the auditor. The public sector corporation is liable to the cooperative, its members and creditors for the actions of these representatives, subject to rights of recourse under federal and cantonal law.
 
-# [Division Four:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4)**[]** [The Commercial Register, Business Names and Commercial Accounting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4)
+# [Division Four:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4) [The Commercial Register, Business Names and Commercial Accounting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4)
 
   
-## [Title Thirty:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30)**[]** [The Commercial Register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30)
+## [Title Thirty:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30) [The Commercial Register](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30)
 
 ## [A. Definition and purpose](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30/lvl_A)
 
@@ -12346,7 +12346,7 @@ Accession to a cooperative union may not bring with it any obligations for the m
 
 ###### [**Art. 930**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_930)
 
-The legal entities recorded in the commercial register registered are assigned a business identification number in accordance with the Federal Act of 18 June 2010[] on the Business Identification Number.
+The legal entities recorded in the commercial register registered are assigned a business identification number in accordance with the Federal Act of 18 June 2010 on the Business Identification Number.
 
 ## [III. Obligation to register and voluntary registration](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30/lvl_E/lvl_II_I)
 
@@ -12468,7 +12468,7 @@ The commercial register authorities shall verify whether the legal requirements 
 
 [2] If the defect is not rectified not within the deadline, the office shall refer the matter to the court. The court shall take the required measures.
 
-[3] In the case of foundations and legal entities that are subject to supervision under the Collective Investment Schemes Act of 23 June 2006[], the matter shall be referred to the supervisory authority.
+[3] In the case of foundations and legal entities that are subject to supervision under the Collective Investment Schemes Act of 23 June 2006, the matter shall be referred to the supervisory authority.
 
 ## [H.Fixed penalties](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_30/lvl_H)
 
@@ -12537,13 +12537,13 @@ The Federal Council shall issue regulations on:
 
 ## [II. Names of sole proprietorships](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_I_I)
 
-## [1. Essential content](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_I_I/lvl_1)[[]]
+## [1. Essential content](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_I_I/lvl_1)
 
 ###### [**Art. 945**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_945)
 
 [1] A person operating a business as sole proprietor must use his family name, with or without first name, as the essential content of his business name.
 
-[2] If the business name contains other family names, it must indicate which one is the proprietor’s family name.[]
+[2] If the business name contains other family names, it must indicate which one is the proprietor’s family name.
 
 [3] The business name must not have any kind of suffix or ending which suggests constitution as a company or partnership.
 
@@ -12551,21 +12551,21 @@ The Federal Council shall issue regulations on:
 
 ###### [**Art. 946**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_946)
 
-[1] The name of a sole proprietorship[] entered in the commercial register may not be used by another business proprietor in the same location even if he has the same first name and family name from which the older business name is formed.
+[1] The name of a sole proprietorship entered in the commercial register may not be used by another business proprietor in the same location even if he has the same first name and family name from which the older business name is formed.
 
 [2] In such a case, the owner of the newer business must add a suffix or ending to his own name to produce a business name which is clearly distinct from the older business name.
 
-[3] Claims in respect of unfair competition against sole proprietorships[] registered in other locations are reserved.
+[3] Claims in respect of unfair competition against sole proprietorships registered in other locations are reserved.
 
-###### [**Art. 947** and **948**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_947)[]
+###### [**Art. 947** and **948**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_947)
 
-###### [**Art. 949**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_949)[]
+###### [**Art. 949**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_949)
 
 ## [III. Company names](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_II_I)
 
 ## [1. Composition of the business name](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_II_I/lvl_1)
 
-###### [**Art. 950**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_950)[]
+###### [**Art. 950**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_950)
 
 [1] Commercial enterprises and cooperatives are free to choose their business name subject to the general principles on the composition of business names. The business name must indicate the legal form.
 
@@ -12573,7 +12573,7 @@ The Federal Council shall issue regulations on:
 
 ## [2. Exclusivity of the registered business name](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_II_I/lvl_2)
 
-###### [**Art. 951**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_951)[]
+###### [**Art. 951**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_951)
 
 The business names of a commercial enterprise or a cooperatives must be clearly distinct from every other business name of businesses in any of these legal forms already registered in Switzerland.
 
@@ -12587,7 +12587,7 @@ The business names of a commercial enterprise or a cooperatives must be clearly 
 
 ## [V. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_V)
 
-###### [**Art. 953**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_953)[]
+###### [**Art. 953**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_953)
 
 ## [VI. Change of name](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_A/lvl_V_I)
 
@@ -12597,13 +12597,13 @@ The previous business name may be retained where the name of the business owner 
 
 ## [B. Obligation to use business and other names](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_B)
 
-###### [**Art. 954***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_954_a)[]
+###### [**Art. 954***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_954_a)
 
 [1] In correspondence, on order forms and invoices and in official communications, the business or other name entered in the commercial register must be given in full and unamended.
 
 [2] Shortened names, logos, trade names, brand names and similar may also be used.
 
-## [C. Monitoring](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_C)[[]]
+## [C. Monitoring](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_C)
 
 ###### [**Art. 955**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_955)
 
@@ -12611,11 +12611,11 @@ The registrar is obliged ex officio to ensure that the interested parties comply
 
 ## [D. Reservation of other provisions of federal law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_D)
 
-###### [**Art. 955***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_955_a)[]
+###### [**Art. 955***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_955_a)
 
 The registration of a business name does not relieve the persons entitled to use the same of the obligation to comply with other provisions of federal law, in particular on protection against deceit in business. 
 
-## [E. Protection of business names](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_E)[[]]
+## [E. Protection of business names](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_31/lvl_E)
 
 ###### [**Art. 956**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_956)
 
@@ -12623,7 +12623,7 @@ The registration of a business name does not relieve the persons entitled to use
 
 [2] A party whose interests are injured by the unauthorised use of a business name may apply for an injunction banning further abuse of the business name and sue for damages if the unauthorised user is at fault.
 
-## [Title Thirty-Two:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32)**[]** [Commercial Accounting and Financial Reporting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32)
+## [Title Thirty-Two:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32) [Commercial Accounting and Financial Reporting](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32)
 
   
 ### [Section One: General Provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_1)
@@ -12643,7 +12643,7 @@ The registration of a business name does not relieve the persons entitled to use
   
 1. sole proprietorships and partnerships with less than 500,000 francs sales revenue in the last financial year;  
 2. associations and foundations which are not required to be entered in the commercial Register;  
-3. foundations that are exempt from the requirement to appoint an auditor under Article 83*b* paragraph 2 Swiss Civil Code[].
+3. foundations that are exempt from the requirement to appoint an auditor under Article 83*b* paragraph 2 Swiss Civil Code.
 
 [3] For undertakings in accordance with paragraph 2, recognised accounting principles apply *mutatis mutandis*.
 
@@ -13022,7 +13022,7 @@ The cash flow statement presents separately changes in cash and cash equivalents
 
 ###### [**Art. 961***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_961_d)
 
-[1] The additional information in the notes to the annual accounts, the cash flow statement and the management report may be dispensed with if the undertaking itself or a legal entity controlling the undertaking prepares consolidated accounts in accordance with a recognised financial reporting standard.[ ]
+[1] The additional information in the notes to the annual accounts, the cash flow statement and the management report may be dispensed with if the undertaking itself or a legal entity controlling the undertaking prepares consolidated accounts in accordance with a recognised financial reporting standard.[]
 
 [2] The following persons may request financial reports in accordance with the regulations in this Section:
 
@@ -13136,9 +13136,9 @@ c. 250 full-time positions on annual average;
 2. a company member or an association member subject to personal liability or a duty to pay in further capital so requires; or  
 3. the foundation supervisory authority so requires.
 
-###### [**Art. 964**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964)[]
+###### [**Art. 964**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_964)
 
-### [Section Six](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6)**[]** [Transparency in Raw Material Companies](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6)
+### [Section Six](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6) [Transparency in Raw Material Companies](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6)
 
   
 ## [A. Principle](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_4/tit_32/chap_6/lvl_A)
@@ -13206,7 +13206,7 @@ Article 958*f* applies to keeping and retaining the report on payments made to s
 
 The Federal Council may stipulate as part of an internationally coordinated procedure that that the obligations in Articles 964*a*–964*e* shall also apply to companies trading in raw materials.
 
-# [Division Five:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5)**[]** [Negotiable Securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5)
+# [Division Five:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5) [Negotiable Securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5)
 
 ## [Title Thirty-Three: Registered Securities, Bearer Securities and Instruments to Order](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33)
 
@@ -13288,9 +13288,9 @@ The special provisions governing negotiable securities, such as bills of exchang
 
 ## [I. Collective custody of negotiable securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_I)
 
-###### [**Art. 973***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_a)[]
+###### [**Art. 973***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_a)
 
-G. Collective custody, global certificate and uncertificated securities[]
+G. Collective custody, global certificate and uncertificated securities
 
 [1] A bailee has the power to hold fungible negotiable securities from two or more bailors together in safe custody unless a bailor expressly requests that his securities be held separately.
 
@@ -13300,17 +13300,17 @@ G. Collective custody, global certificate and uncertificated securities[]
 
 ## [II. Global certificate](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_I_I)
 
-###### [**Art. 973***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_b)[]
+###### [**Art. 973***b*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_b)
 
 [1] The obligor may issue global certificates or to replace two or more fungible negotiable securities entrusted to a single bailee with a global certificate, provided the conditions for issue or the articles of association of the company provide therefor or the bailors have consented thereto.
 
 [2] The global certificate is a negotiable security in the same form as the individual rights that it represents. It is jointly owned by the participant bailors, in proportion to their shares. The status and rights of the joint owners in relation to the global certificate are governed by Article 973*a* paragraph 2 *mutatis mutandis*.
 
-## [III. Uncertificated securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_II_I)[]
+## [III. Uncertificated securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_II_I)
 
-###### [**Art. 973***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_c)[]
+###### [**Art. 973***c*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_c)
 
-[1] The obligor may issue uncertificated securities or replace fungible negotiable securities or global certificates that have been entrusted to a single bailee with uncertificated securities provided the conditions for issue or the articles of association provide therefor or the bailors have consented thereto.[]
+[1] The obligor may issue uncertificated securities or replace fungible negotiable securities or global certificates that have been entrusted to a single bailee with uncertificated securities provided the conditions for issue or the articles of association provide therefor or the bailors have consented thereto.
 
 [2] The obligor shall keep a book on the uncertificated securities that he has issued in which details of the number and denomination of the uncertificated securities issued and of the creditors are recorded. The book is not open for public inspection.
 
@@ -13320,7 +13320,7 @@ G. Collective custody, global certificate and uncertificated securities[]
 
 ## [I. Establishment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_I)
 
-###### [**Art. 973***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_d)[]
+###### [**Art. 973***d*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_d)
 
 H. Ledger-based securities
 
@@ -13342,7 +13342,7 @@ H. Ledger-based securities
 
 ## [II. Effects](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_I_I)
 
-###### [**Art. 973***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_e)[]
+###### [**Art. 973***e*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_e)
 
 [1] The obligor under a ledger-based security is entitled and obliged to render performance only to the creditor indicated in the securities ledger and subject to appropriate modification of the ledger.
 
@@ -13359,7 +13359,7 @@ H. Ledger-based securities
 
 ## [III. Transfer](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_II_I)
 
-###### [**Art. 973***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_f)[]
+###### [**Art. 973***f*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_f)
 
 [The transfer of the ledger-based security is subject to the provisions of the registration agreement.]
 
@@ -13374,7 +13374,7 @@ H. Ledger-based securities
 
 ## [IV. Collateral](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_I_V)
 
-###### [**Art. 973***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_g)[]
+###### [**Art. 973***g*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_g)
 
 [1] Collateral may be posted even without the transfer of the ledger-based security, if:
 
@@ -13385,12 +13385,12 @@ H. Ledger-based securities
 [2] In other respects:
 
   
-1. the special lien on ledger-based securities is governed by the provisions on special liens that apply to certificated securities (Arts. 895–898 of the CC[]).  
+1. the special lien on ledger-based securities is governed by the provisions on special liens that apply to certificated securities (Arts. 895–898 of the CC).  
 2. the pledging of ledger-based securities is governed by the provisions on liens on debts and other rights as applicable for certificated securities (Arts. 899–906 of the CC).
 
 ## [V. Cancellation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_V)
 
-###### [**Art. 973***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_h)[]
+###### [**Art. 973***h*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_h)
 
 [1] The beneficiary of a ledger-based security may demand that the court cancel the security, provided that he or she furnishes credible evidence of his or her original power of disposal and of the loss thereof. Following cancellation of the instrument, the beneficiary may also exercise his or her right outside the ledger or, at his or her own expense, demand that the obligor allocate a new ledger-based security. In addition, Articles 982-986 apply mutatis mutandis to the procedure for and effect of cancellation.
 
@@ -13398,7 +13398,7 @@ H. Ledger-based securities
 
 ## [VI. Information and liability](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_1/lvl_F/lvl_V_I)
 
-###### [**Art. 973***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_i)[]
+###### [**Art. 973***i*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_973_i)
 
 The obligor under a ledger-based security or a right that is offered as such must inform each acquirer of:
 
@@ -13476,13 +13476,13 @@ Where the obligor under the registered security has reserved the right to render
 
 ## [I. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_3/lvl_C/lvl_I)
 
-## [1. Application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_1)[[]]
+## [1. Application](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_3/lvl_C/lvl_I/lvl_1)
 
 ###### [**Art. 981**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_981)
 
 [1] Bearer securities, such as shares, bonds, dividend rights certificates, coupon sheets, subscription warrants for coupon sheets, but not individual coupons, are cancelled by the court at the request of the beneficiary.
 
-[2] ...[]
+[2] ...
 
 [3] The applicant must satisfy the court that he possessed and lost the instrument.
 
@@ -13546,7 +13546,7 @@ Banknotes and other bearer securities issued in large numbers and payable on sig
 
 ## [D. Mortgage certificates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_3/lvl_D)
 
-###### [**Art. 989**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_989)[]
+###### [**Art. 989**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_989)
 
 The special provisions governing mortgage certificates made out to the bearer are reserved.
 
@@ -13923,7 +13923,7 @@ on a specified date.
 
 [1] The holder of a bill of exchange payable on a specific date or a specified time after it was drawn or after sight must present the bill for payment on the payment date or one of the two subsequent working days.
 
-[2] Delivery of the bill to a clearing house recognised by the Swiss National Bank is equivalent to presentation for payment.[]
+[2] Delivery of the bill to a clearing house recognised by the Swiss National Bank is equivalent to presentation for payment.
 
 ## [2. Right to receipt, part payment](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_4/lvl_V_I/lvl_2)
 
@@ -13967,7 +13967,7 @@ Where the bill of exchange is not presented for payment within the time limit la
 
 ## [1. Recourse of the holder](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_4/lvl_VI_I/lvl_1)
 
-###### [**Art. 1033**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1033)[]
+###### [**Art. 1033**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1033)
 
 [1] In the event of non-payment of a bill at maturity, the holder has right of recourse against the endorser, the drawer and the other parties liable on the bill.
 
@@ -14390,7 +14390,7 @@ The prescriptive period is interrupted by commencement of action on the bill, su
 
 ###### [**Art. 1072**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1072)
 
-[1] A person who has lost a bill of exchange may request the court to prohibit the drawee from paying the bill.[]
+[1] A person who has lost a bill of exchange may request the court to prohibit the drawee from paying the bill.
 
 [2] In serving the attachment order, the court authorises the drawee to deposit the bill amount on the maturity date and designates the place where it is to be deposited.
 
@@ -14472,7 +14472,7 @@ Where the court is satisfied that the applicant was in possession of the bill of
 
 [1] Where the maturity date of a bill of exchange falls on a Sunday or a public holiday, payment may not be demanded until the following working day. Likewise, all other actions relating to the bill of exchange, and in particular presentation for acceptance and protest, may take place only on a working day.
 
-[2] Where the last day of a time limit within which such an action must be taken falls on a Sunday or a public holiday[], the time limit is extended to include the next working day. Holidays falling within the time limit are included when computing it.
+[2] Where the last day of a time limit within which such an action must be taken falls on a Sunday or a public holiday, the time limit is extended to include the next working day. Holidays falling within the time limit are included when computing it.
 
 ## [b. Computing time limits](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_4/lvl_XI_V/lvl_1/lvl_b)
 
@@ -14821,7 +14821,7 @@ Where a cheque is payable at a place where the calendar is different from that o
 
 ###### [**Art. 1118**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1118)
 
-Delivery of the cheque to a clearing house recognised by the Swiss National Bank is equivalent to presentation for payment.[]
+Delivery of the cheque to a clearing house recognised by the Swiss National Bank is equivalent to presentation for payment.
 
 ## [5. Revocation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_5/lvl_I_V/lvl_5)
 
@@ -14911,7 +14911,7 @@ A drawee honouring a cheque transferred by endorsement is obliged to check that 
 
 [1] However, where the drawee has been declared insolvent or has suspended its payments or debt enforcement proceedings have been brought against it without success, the bearer of an account-payee-only cheque has the right to demand cash payment of the cheque by the drawee and has a right of recourse. 
 
-[2] The same applies in the event that the bearer cannot obtain the account credit from the drawee as a result of measures taken pursuant to the Federal Act of 8 November 1934 on Banks and Savings Banks[].
+[2] The same applies in the event that the bearer cannot obtain the account credit from the drawee as a result of measures taken pursuant to the Federal Act of 8 November 1934 on Banks and Savings Banks.
 
 ## [c. Bearer’s rights in the event of refusal of account credit or settlement](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_5/lvl_V/lvl_2/lvl_c)
 
@@ -14992,7 +14992,7 @@ Cheques may be issued in several identical duplicates if they are not made out t
 
 ###### [**Art. 1135**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1135)
 
-For the purposes of this Section, the term ‘banker’ is understood to mean any institution subject to the Federal Act of 8 November 1934[] on Banks and Savings Banks.
+For the purposes of this Section, the term ‘banker’ is understood to mean any institution subject to the Federal Act of 8 November 1934 on Banks and Savings Banks.
 
 ## [2. Setting time limits](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_5/lvl_X/lvl_2)
 
@@ -15002,7 +15002,7 @@ For the purposes of this Section, the term ‘banker’ is understood to mean an
 
 [1] The presentation and protest of a cheque must take place on a working day.
 
-[2] Where the last day of a time limit within which an action in connection with the cheque must be taken, in particular presentation, protest or an equivalent declaration, falls on a Sunday or a public holiday[], the time limit is extended to include the next working day.
+[2] Where the last day of a time limit within which an action in connection with the cheque must be taken, in particular presentation, protest or an equivalent declaration, falls on a Sunday or a public holiday, the time limit is extended to include the next working day.
 
 Holidays falling within the time limit are included when computing it.
 
@@ -15153,7 +15153,7 @@ Where a payment instruction is not designated as a bill of exchange in the text 
 
 ###### [**Art. 1150**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1150)
 
-The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[] governing the enforcement of bills of exchange do not apply to payment instructions to order.
+The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889 governing the enforcement of bills of exchange do not apply to payment instructions to order.
 
 ## [II. Promise to pay to order](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_6/lvl_B/lvl_I_I)
 
@@ -15163,7 +15163,7 @@ The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[] gove
 
 [2] However, the provisions governing payment for honour do not apply to promises to pay to order.
 
-[3] The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[] governing the enforcement of bills of exchange do not apply to promises to pay to order.
+[3] The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889 governing the enforcement of bills of exchange do not apply to promises to pay to order.
 
 ## [C. Other endorsable securities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_6/lvl_C)
 
@@ -15179,7 +15179,7 @@ The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[] gove
 
 ## [A. Requirements](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_7/lvl_A)
 
-## [. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_7/lvl_B)[]
+## [. In general](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_7/lvl_B)
 
 ###### [**Art. 1153**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1153)
 
@@ -15197,7 +15197,7 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 ## [II. Equivalent instruments in security ledgers](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_33/chap_7/lvl_B/lvl_I_I)
 
-###### [**Art. 1153***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1153_a)[]
+###### [**Art. 1153***a*](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1153_a)
 
 [1] The parties may issue documents of title to goods in the form of ledger-based securities. Articles 1154 and 1155 apply mutatis mutandis.
 
@@ -15223,9 +15223,9 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 ### [Section One: ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_1)
 
-###### [**Art. 1156**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1156)[]
+###### [**Art. 1156**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1156)
 
-### [Section Two:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_2)**[]** [Community of Bond Creditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_2)
+### [Section Two:](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_2) [Community of Bond Creditors](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_2)
 
 ## [A. Requirements](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_2/lvl_A)
 
@@ -15323,9 +15323,9 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 [2] The borrower is obliged to convene it within 20 days if so requested by bond creditors together holding at least one-twentieth of the bond capital in circulation or by the bond representative in writing with an indication of the purpose of and reasons for the meeting.
 
-[3] In the event that the borrower fails to comply with such request, the court may authorise the applicant to convene a creditors’ meeting of his own accord. The court at the current or last seat of the debtor in Switzerland has mandatory jurisdiction.[]
+[3] In the event that the borrower fails to comply with such request, the court may authorise the applicant to convene a creditors’ meeting of his own accord. The court at the current or last seat of the debtor in Switzerland has mandatory jurisdiction.
 
-[4] If the debtor has or had only a branch office in Switzerland, the court at the location of this branch office has mandatory jurisdiction.[]
+[4] If the debtor has or had only a branch office in Switzerland, the court at the location of this branch office has mandatory jurisdiction.
 
 ## [2. Moratorium](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_2/lvl_C/lvl_I_I/lvl_2)
 
@@ -15333,7 +15333,7 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 [1] From the date on which the invitation to the creditors’ meeting is duly published until the final outcome of the composition proceedings, all due claims of the bond creditors are subject to a stay of enforcement.
 
-[2] Such stay is not a suspension of payments within the meaning of the Debt Collection and Bankruptcy Act of 11 April 1889[]; the creditors may not apply for the commencement of insolvency proceedings without prior debt enforcement.
+[2] Such stay is not a suspension of payments within the meaning of the Debt Collection and Bankruptcy Act of 11 April 1889; the creditors may not apply for the commencement of insolvency proceedings without prior debt enforcement.
 
 [3] For the duration of the stay, such prescriptive and forfeiture periods as can be interrupted by debt enforcement are suspended for the due claims of the bond creditors.
 
@@ -15428,7 +15428,7 @@ The Federal Council enacts provisions governing convocation of the creditors’ 
 
 ## [c. Statement and balance sheet](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_34/chap_2/lvl_D/lvl_I/lvl_2/lvl_c)
 
-###### [**Art. 1175**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1175)[]
+###### [**Art. 1175**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1175)
 
 An application to take the measures described in Article 1170 may be made by the borrower and considered by the creditors’ meeting only on the basis of status report drawn up as at the date of the creditors’ meeting or a balance sheet drawn up as at a date no more than six months prior to the meeting in accordance with standard practice and, where applicable, certified by the auditor as true and fair. 
 
@@ -15514,7 +15514,7 @@ Any resolution within the meaning of Articles 1180 and 1181 which contravenes th
 
 ###### [**Art. 1184**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#art_1184)
 
-[1] In composition proceedings, subject to the provisions governing bonds secured by a charge, no special resolution is made by the bond creditors on their position towards the composition agreement, and their consent is governed exclusively by the provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[].
+[1] In composition proceedings, subject to the provisions governing bonds secured by a charge, no special resolution is made by the bond creditors on their position towards the composition agreement, and their consent is governed exclusively by the provisions of the Debt Collection and Bankruptcy Act of 11 April 1889.
 
 [2] The provisions governing the community of creditors apply to creditors holding bonds secured by a charge, to the extent that any restriction of their creditors’ rights is to be imposed above and beyond the effects of the composition proceedings.
 
@@ -15540,33 +15540,33 @@ Any resolution within the meaning of Articles 1180 and 1181 which contravenes th
 
 # [Transitional Provisions to the Federal Act of 30 March 1911](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_1)
 
-I. The Final Title of the Civil Code[] is amended as follows:
+I. The Final Title of the Civil Code is amended as follows:
 
-...[]
+...
 
 II. This Act enters into force on 1 January 1912.
 
-The Federal Council is charged with making arrangements to publicise this Code on the basis of the provisions of the Federal Act of 17 June 1874[] on Referendums on Federal Acts and Federal Council Decrees.
+The Federal Council is charged with making arrangements to publicise this Code on the basis of the provisions of the Federal Act of 17 June 1874 on Referendums on Federal Acts and Federal Council Decrees.
 
-# [Final Provisions to the Amendment of 23 March 1962](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2)**[]**
+# [Final Provisions to the Amendment of 23 March 1962](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2)
 
 ## [A. Preferential payments on bankruptcy](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2/art_1)
 
-...[]
+...
 
 ## [B. Unfair competition](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2/lvl_B)
 
 ###### [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2/art_2)
 
-...[]
+...
 
 ## [C. Transitional law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2/lvl_C)
 
 ###### [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_2/art_3)
 
-[1] Articles 226*f*, 226*g*, 226*h*, 226*i* and 226*k*[] also apply to hire purchase agreements entered into prior to the commencement of this Act.
+[1] Articles 226*f*, 226*g*, 226*h*, 226*i* and 226*k* also apply to hire purchase agreements entered into prior to the commencement of this Act.
 
 [2] Only Article 226*k* applies to advance payment agreements entered into prior to the commencement of this Act. These agreements must however be adapted to the provisions of the Article 227*b* within one year, failing which they lapse and the purchaser must be paid his entire credit balance with all the interest and benefits credited to him.
 
@@ -15576,7 +15576,7 @@ The Federal Council is charged with making arrangements to publicise this Code o
 
 The Federal Council determines the date on which this Act enters into force.
 
-# [Transitional Provisions to the Amendment of 16 December 2005](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_3)**[]**
+# [Transitional Provisions to the Amendment of 16 December 2005](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_3)
 
 ## [A. General rule](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_3/lvl_A)
 
@@ -15604,7 +15604,7 @@ The Federal Council determines the date on which this Act enters into force.
 
 [1] Where in limited liability companies that are entered in the commercial register when this Act comes into force, allocations have not been made corresponding to the issue price of all capital contributions, these allocations must be made within two years.
 
-[2] Until the full payment of the allocation to the level of the capital contributions, the company members are liable in accordance with Article 802 of the Code of Obligations in its version of 18 December 1936[].
+[2] Until the full payment of the allocation to the level of the capital contributions, the company members are liable in accordance with Article 802 of the Code of Obligations in its version of 18 December 1936.
 
 ## [D. Participation certificates and dividend rights certificates](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_3/lvl_D)
 
@@ -15660,19 +15660,19 @@ If, before this Act comes into force, the share capital or the nominal capital i
 
 ###### [**Art. 11**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_3/art_11)
 
-The exclusivity of business names that were entered in the commercial register before this Act comes into force is assessed in accordance with Article 951 of the Code of Obligations in its version of 18 December 1936[].
+The exclusivity of business names that were entered in the commercial register before this Act comes into force is assessed in accordance with Article 951 of the Code of Obligations in its version of 18 December 1936.
 
-# [Transitional Provision to the Amendment of 17 June 2011](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_4)**[]**
+# [Transitional Provision to the Amendment of 17 June 2011](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_4)
 
 The provision in this amendment applies from the first financial year beginning on or after the date on which this amendment comes into force.
 
-# [Transitional Provision to the Amendment of 23 December 2011](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_5)**[]**
+# [Transitional Provision to the Amendment of 23 December 2011](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_5)
 
 ## [A. General rule](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_5/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_5/art_1)
 
-[1] The provisions of the Final Title of the Civil Code[] apply to this Code unless the following provisions provide otherwise.
+[1] The provisions of the Final Title of the Civil Code apply to this Code unless the following provisions provide otherwise.
 
 [2] The provisions of the Amendment of 23 December 2011 apply to existing undertakings from the date on which it comes into force.
 
@@ -15688,13 +15688,13 @@ The provision in this amendment applies from the first financial year beginning 
 
 [4] When applying the regulations on financial reporting for the first time, it is not required to specify the figures from previous years. When applying the regulations for the second time, only the figures from the previous year need be specified. If figures from previous financial years are specified, consistency of presentation and structure are not required. Reference must be made to this in the notes to the accounts.
 
-# [Transitional Provisions to the Amendment of 12 December 2014](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_6)**[]**
+# [Transitional Provisions to the Amendment of 12 December 2014](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_6)
 
 ## [A. General rule](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_6/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_6/art_1)
 
-[1] Articles 1–4 of the Final Title of the Civil Code[] apply to this Code unless the following provisions provide otherwise.
+[1] Articles 1–4 of the Final Title of the Civil Code apply to this Code unless the following provisions provide otherwise.
 
 [2] The provisions of the Amendment of 12 December 2014 apply to existing companies on coming into force.
 
@@ -15714,13 +15714,13 @@ The provision in this amendment applies from the first financial year beginning 
 
 [2] The deadline for the lapse of property rights (Art. 697*m* para. 3) in this case is six months after the Amendment of 12 December 2014 comes into force.
 
-# [Transitional Provisions to the Amendment of 25 September 2015](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_7)**[]**
+# [Transitional Provisions to the Amendment of 25 September 2015](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_7)
 
 ## [A. General rule](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_7/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_7/art_1)
 
-[1] Articles 1–4 of the Final Title of the Civil Code[] apply to this Code unless the following provisions provide otherwise.
+[1] Articles 1–4 of the Final Title of the Civil Code apply to this Code unless the following provisions provide otherwise.
 
 [2] The provisions of the Amendment of 25. September 2015 apply to existing legal entities on coming into force.
 
@@ -15736,14 +15736,14 @@ General and limited partnerships and partnerships limited by shares that are ent
 
 If the business name of a general or limited partnership or partnership limited by shares was entered in the commercial register before the Amendment of 25 September 2015 comes into force, its exclusivity is assessed in accordance with Article 946 of the current law and Article 951 of the previous law.
 
-# [Transitional Provisions to the Amendment of 17 March 2017](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_8)**[]**
+# [Transitional Provisions to the Amendment of 17 March 2017](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_8)
 
   
 ## [A. General rules](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_8/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_8/art_1)
 
-[1] Articles 1–4 of the Final Title of the Civil Code[] apply to the Amendment of 17 March 2017, unless the following provisions provide otherwise.
+[1] Articles 1–4 of the Final Title of the Civil Code apply to the Amendment of 17 March 2017, unless the following provisions provide otherwise.
 
 [2] The new law shall apply to existing legal entities on its coming into force.
 
@@ -15753,14 +15753,14 @@ If the business name of a general or limited partnership or partnership limited 
 
 Public institutions established before the new law comes into force and which primarily carry on a private gainful economic activity must be recorded in the commercial register within two years.
 
-# [Transitional provisions to the Amendment of 21 June 2019](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_9)**[]**
+# [Transitional provisions to the Amendment of 21 June 2019](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_9)
 
   
 ## [A. General provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_9/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_9/art_1)
 
-[1] Articles 1–4 of the Final Title of the Civil Code[] apply to this Code unless the following provisions provide otherwise.
+[1] Articles 1–4 of the Final Title of the Civil Code apply to this Code unless the following provisions provide otherwise.
 
 [2] The provisions of the Amendment of 21 June 2019 apply on its commencement to existing companies.
 
@@ -15818,7 +15818,7 @@ b. the company requests registration in accordance with Article 622 paragraph 2[
 
 ###### [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_9/art_7)
 
-[1] Shareholders who have failed to comply with their obligation to give notice in accordance with Article 697*i* of the previous law and whose bearer shares have been converted into registered shares in accordance with Article 4 may with the prior consent of the company apply to the court within five years of Article 622 paragraph 1[bis ]coming into force to be entered in the share register. The court shall grant the application if the shareholder proves his or her shareholder status.
+[1] Shareholders who have failed to comply with their obligation to give notice in accordance with Article 697*i* of the previous law and whose bearer shares have been converted into registered shares in accordance with Article 4 may with the prior consent of the company apply to the court within five years of Article 622 paragraph 1[bis]coming into force to be entered in the share register. The court shall grant the application if the shareholder proves his or her shareholder status.
 
 [2] The court decides under the summary procedure. The shareholder bears the court costs.
 
@@ -15832,11 +15832,11 @@ b. the company requests registration in accordance with Article 622 paragraph 2[
 
 [2] Shareholders whose shares have become null and void through no fault of their own and who can prove that they were shareholders on the date that the shares became null and void, may within ten years of this date claim compensation from the company. The compensation corresponds to the true value of the shares at the time of their conversion in accordance with Article 4. If the true value of the shares on pursuing the claim is lower than that at the time of their conversion, the company need only pay the lower value. Compensation is excluded if the company does not have the required freely disposable shareholders’ equity.
 
-# [Transitional Provision to the Amendment of 19 June 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10)**[]**
+# [Transitional Provision to the Amendment of 19 June 2020](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10)
 
 ## [A.–C. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/lvl_d20417e4038)
 
-###### [**Art. 1–3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/art_1__3_)[]
+###### [**Art. 1–3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/art_1__3_)
 
 ## [D. Gender representation](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/lvl_D)
 
@@ -15848,7 +15848,7 @@ b. the company requests registration in accordance with Article 622 paragraph 2[
 
 ## [E. und F. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/lvl_E)
 
-###### [**Art. 5** und **6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/art_5)[]
+###### [**Art. 5** und **6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/art_5)
 
 ## [G. Transparency in raw material companies](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_10/lvl_G)
 
@@ -15856,15 +15856,15 @@ b. the company requests registration in accordance with Article 622 paragraph 2[
 
 Articles 964*a*–964*e* apply for the first time to the financial year that begins one year after the new law comes into force.
 
-# [Final Provisions on Title Eight and Title Eight[bis ]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11)**[]**
+# [Final Provisions on Title Eight and Title Eight[bis]](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11/art_1)
 
-The Federal Decree of 30 June 1972[] on Measures against Abuses in Tenancy Law is repealed.
+The Federal Decree of 30 June 1972 on Measures against Abuses in Tenancy Law is repealed.
 
 ###### [**Art. 2–4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11/art_2__4_)
 
-...[]
+...
 
 ###### [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_11/art_5)
 
@@ -15878,37 +15878,37 @@ The Federal Decree of 30 June 1972[] on Measures against Abuses in Tenancy Law i
 
 [2] The Federal Council determines the commencement date.
 
-# [Final and Transitional Provisions on Title X](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12)**[]**
+# [Final and Transitional Provisions on Title X](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12)
 
 ## [Amendment of the CO](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4053)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_1)
 
-...[]
+...
 
 ## [Amendment of the CC](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4055)
 
 ###### [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_2)
 
-...[]
+...
 
 ## [Amendment of the Insurance Contracts Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4057)
 
 ###### [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_3)
 
-...[]
+...
 
 ## [Amendment of the Agriculture Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4060)
 
 ###### [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_4)
 
-...[]
+...
 
 ## [Amendment of the Employment Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4062)
 
 ###### [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/art_5)
 
-...[]
+...
 
 ## [Repeal of federal law provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4064)
 
@@ -15918,17 +15918,17 @@ The following provisions are repealed on the commencement of this Act:
 
   
 1. Article 159 and 463 of the Code of Obligations,  
-2. Article 130 of the Federal Act of 13 June 1911[] on Health and Accident Insurance,  
-3. Article 20 to 26, 28, 29 and 69 paragraphs 2 and 5 of the Federal Act of 18 June 1914[] on Factory Employment,  
-4. Article 4, 8 paragraphs 1, 2 and 5, 9 and 19 of the Federal Act of 12 December 1940[] on Homeworking,  
-5. the Federal Act of 13 June 1941[] on Employment Terms for Commercial Travellers,  
-6. the Federal Act of 1 April 1949[] on Restrictions on the Termination of Employment Contracts while on Military Service,  
-7. Articles 96 and 97 of the Agriculture Act of 3 October 1951[],  
-8. Article 32 of the Federal Act of 25 September 1952[] on the System of Compensation for Loss of Earnings for Persons on Military Service or Civil Protection Duty,  
-9. Article 19 of the Federal Act of 28. September 1956[] on the Declaration of the General Application of Collective Employment Agreements,  
-10. Article 49 of the Civil Defence Act[],  
-11. Art. 20 paragraph 2 and 59 of the Federal Act of 20 September 1963[] on Vocational Education and Training,  
-12. Art. 64[] and 72 paragraph 2 letter *a* of the Employment Act of 13 March 1964[].
+2. Article 130 of the Federal Act of 13 June 1911 on Health and Accident Insurance,  
+3. Article 20 to 26, 28, 29 and 69 paragraphs 2 and 5 of the Federal Act of 18 June 1914 on Factory Employment,  
+4. Article 4, 8 paragraphs 1, 2 and 5, 9 and 19 of the Federal Act of 12 December 1940 on Homeworking,  
+5. the Federal Act of 13 June 1941 on Employment Terms for Commercial Travellers,  
+6. the Federal Act of 1 April 1949 on Restrictions on the Termination of Employment Contracts while on Military Service,  
+7. Articles 96 and 97 of the Agriculture Act of 3 October 1951,  
+8. Article 32 of the Federal Act of 25 September 1952 on the System of Compensation for Loss of Earnings for Persons on Military Service or Civil Protection Duty,  
+9. Article 19 of the Federal Act of 28. September 1956 on the Declaration of the General Application of Collective Employment Agreements,  
+10. Article 49 of the Civil Defence Act,  
+11. Art. 20 paragraph 2 and 59 of the Federal Act of 20 September 1963 on Vocational Education and Training,  
+12. Art. 64 and 72 paragraph 2 letter *a* of the Employment Act of 13 March 1964.
 
 ## [Amendment of legal relations governed by the old law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4066)
 
@@ -15936,7 +15936,7 @@ The following provisions are repealed on the commencement of this Act:
 
 Contracts of employment in existence when this Act comes into force (individual contracts of employment, standard employment contracts and collective employment contracts) must be amended in accordance with the provisions hereof within one year; on expiry of this time limit, the provisions hereof apply to all contracts of employment.
 
-[2] Occupational benefits schemes in existence when this Act comes into force[] must amend their articles of association or regulations by 1 January 1977 at the latest taking account of the formal requirements of Articles 331 *a*, 331 *b* and 331*c* applicable to the amendment; from 1 January 1977, these provisions apply to all occupational benefits schemes.[]
+[2] Occupational benefits schemes in existence when this Act comes into force must amend their articles of association or regulations by 1 January 1977 at the latest taking account of the formal requirements of Articles 331 *a*, 331 *b* and 331*c* applicable to the amendment; from 1 January 1977, these provisions apply to all occupational benefits schemes.
 
 ## [Commencement of the Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_12/lvl_d20417e4068)
 
@@ -15944,7 +15944,7 @@ Contracts of employment in existence when this Act comes into force (individual 
 
 The Federal Council shall determine the commencement date of this Act.
 
-# [Final Provisions on the Fourth Section of Title XIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13)**[]**
+# [Final Provisions on the Fourth Section of Title XIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13)
 
 ## [A. Transitional law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_A)
 
@@ -15960,7 +15960,7 @@ The Federal Council shall determine the commencement date of this Act.
 
 ###### [**Art. 2**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/art_2)
 
-...[]
+...
 
 ## [C. Entry into force](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_13/lvl_C)
 
@@ -15968,7 +15968,7 @@ The Federal Council shall determine the commencement date of this Act.
 
 The Federal Council determines the commencement date of this Act.
 
-# [Transitional provisions on Title XX](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14)**[]**
+# [Transitional provisions on Title XX](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_14)
 
 [1] The provisions of the new law apply to all contracts of surety entered into after this Act comes into force.
 
@@ -15982,17 +15982,17 @@ The Federal Council determines the commencement date of this Act.
 5. Article 505 paragraph 2 applies only to bankruptcy proceedings commenced at least three months after this Act comes into force, and to debt restructuring moratoriums approved at least three months after this Act comes into force.  
 6. The time limit mentioned in Article 509 paragraph 3 begins to run for contracts of surety under the old law when this Act comes into force.
 
-[3] Articles 77–80 of the Customs Act of 18 March 2005[] are reserved.[]
+[3] Articles 77–80 of the Customs Act of 18 March 2005 are reserved.
 
 [4] The Federal Council determines the commencement date of this Act.
 
-# [Final and Transitional Provisions on Titles XXIV‑XXXIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15)**[]**
+# [Final and Transitional Provisions on Titles XXIV‑XXXIII](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15)
 
 ## [A. Scope of application of the Final Title](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_1)
 
-The provisions of the Final Title of the Civil Code[] also apply to this Act.
+The provisions of the Final Title of the Civil Code also apply to this Act.
 
 ## [B. Adaptation of existing companies to the new law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_B)
 
@@ -16012,9 +16012,9 @@ The provisions of the Final Title of the Civil Code[] also apply to this Act.
 
 ###### [**Art. 3**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_3)
 
-Where companies limited by shares, partnerships limited by shares and cooperatives have prior to the entry into force of this Act clearly provided funds to establish and support welfare schemes for employees and for members, they must adapt these schemes within five years to the provisions of Articles 673[] and 862[].
+Where companies limited by shares, partnerships limited by shares and cooperatives have prior to the entry into force of this Act clearly provided funds to establish and support welfare schemes for employees and for members, they must adapt these schemes within five years to the provisions of Articles 673 and 862.
 
-###### [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_4)[]
+###### [**Art. 4**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_4)
 
 ## [C. Balance sheet provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_C)
 
@@ -16028,7 +16028,7 @@ Where companies limited by shares, partnerships limited by shares and cooperativ
 
 ## [II. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_C/lvl_I_I)
 
-###### [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_6)[]
+###### [**Art. 6**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_6)
 
 ## [D. Conditions for liability of members](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_D)
 
@@ -16036,7 +16036,7 @@ Where companies limited by shares, partnerships limited by shares and cooperativ
 
 [1] The rights of creditors existing when this Act comes into force are not adversely affected by changes to the provisions of this law relating to the conditions for liability of members.
 
-[2] Cooperatives, whose members are personally liable for the obligations of the cooperative only by virtue of Article 689 of the previous Code of Obligations[], remain subject to the provisions of the previous law for five years.
+[2] Cooperatives, whose members are personally liable for the obligations of the cooperative only by virtue of Article 689 of the previous Code of Obligations, remain subject to the provisions of the previous law for five years.
 
 [3] During this period, resolutions on the full or partial exclusion of personal liability or an express finding of liability may be passed in the general meeting by an absolute majority of the votes cast. Article 889 paragraph 2 on departure does not apply.
 
@@ -16086,17 +16086,17 @@ Bills of exchange and cheques issued before this Act comes into force are govern
 
 ###### [**Art. 13**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_13)
 
-The Ordinance of 20 February 1918[] relating to the community of bond creditors and the provisions of the supplementary Federal Council Decrees[] continue to apply to the cases to which they applied previously.
+The Ordinance of 20 February 1918 relating to the community of bond creditors and the provisions of the supplementary Federal Council Decrees continue to apply to the cases to which they applied previously.
 
 ## [H. ...](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_H)
 
-###### [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_14)[]
+###### [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_14)
 
 ## [J. Amendment of the Debt Collection and Bankruptcy Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_J)
 
 ###### [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_15)
 
-...[]
+...
 
 ## [K. Relationship to the Banking Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_K)
 
@@ -16104,19 +16104,19 @@ The Ordinance of 20 February 1918[] relating to the community of bond creditors 
 
 ###### [**Art. 16**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_16)
 
-The provisions of the Banking Act of 8 November 1934[] are reserved.
+The provisions of the Banking Act of 8 November 1934 are reserved.
 
 ## [II. Amendment of individual provisions](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_K/lvl_I_I)
 
 ###### [**Art. 17**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_17)
 
-...[]
+...
 
 ## [L. Repeal of federal private law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_L)
 
 ###### [**Art. 18**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/art_18)
 
-On the entry into force of this Act, the federal private law provisions that are inconsistent herewith, and in particular, the Third Division of the Code of Obligations entitled "Commercial Enterprises, Securities and Business Names" (Federal Act of 14 June 1881[] on the Code of Obligations, Art. 552–715 and 720–880) are repealed.
+On the entry into force of this Act, the federal private law provisions that are inconsistent herewith, and in particular, the Third Division of the Code of Obligations entitled "Commercial Enterprises, Securities and Business Names" (Federal Act of 14 June 1881 on the Code of Obligations, Art. 552–715 and 720–880) are repealed.
 
 ## [M. Commencement of this Act](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_15/lvl_M)
 
@@ -16124,17 +16124,17 @@ On the entry into force of this Act, the federal private law provisions that are
 
 [1] This Act comes into force on 1 July 1937.
 
-[2] Excepted from the foregoing is the Section on the community of bond creditors (Art. 1157–1182), the commencement date for which will be determined by the Federal Council.[]
+[2] Excepted from the foregoing is the Section on the community of bond creditors (Art. 1157–1182), the commencement date for which will be determined by the Federal Council.
 
 [3] The Federal Council is responsible for the implementation of this Act.
 
-# [Final Provisions to the XXVI Title](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16)**[]**
+# [Final Provisions to the XXVI Title](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16)
 
 ## [A. Final Title of the Civil Code](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_A)
 
 ###### [**Art. 1**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_1)
 
-The Final Title of the Civil Code[] applies to this Act.
+The Final Title of the Civil Code applies to this Act.
 
 ## [B. Amendment in accordance with the new law](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B)
 
@@ -16170,7 +16170,7 @@ Further to Article 685*d* paragraph 1, the company may, on the basis of a provis
 
 ###### [**Art. 5**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_5)
 
-Companies that retain shares with preferential voting rights with a nominal value of under ten francs, in application of Article 10 of the Final and Transitional provisions of the Federal Act of 18 December 1936[] on the Revision of Titles 24–33 of the Code of Obligations, as well as companies, where the nominal value the larger shares is more than ten times the nominal value of the smaller shares are not required to amend their articles of association in accordance with Article 693 paragraph 2 second sentence. However, they are not permitted to issue any new shares whose nominal value is more than ten times that of the smaller shares or less than ten per cent of the nominal value of the larger shares.
+Companies that retain shares with preferential voting rights with a nominal value of under ten francs, in application of Article 10 of the Final and Transitional provisions of the Federal Act of 18 December 1936 on the Revision of Titles 24–33 of the Code of Obligations, as well as companies, where the nominal value the larger shares is more than ten times the nominal value of the smaller shares are not required to amend their articles of association in accordance with Article 693 paragraph 2 second sentence. However, they are not permitted to issue any new shares whose nominal value is more than ten times that of the smaller shares or less than ten per cent of the nominal value of the larger shares.
 
 ## [4. Qualified majorities](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_B/lvl_I_I/lvl_4)
 
@@ -16182,7 +16182,7 @@ Where a company has adopted provisions in its articles of association governing 
 
 ###### [**Art. 7**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/art_7)
 
-...[]
+...
 
 ## [D. Referendum](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_16/lvl_D)
 
@@ -16196,16 +16196,16 @@ This Act is subject to an optional referendum.
 
 The Federal Council determines the commencement date.
 
-# [Final Provisions on the Second Section of Title XXXIV](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17)**[]**
+# [Final Provisions on the Second Section of Title XXXIV](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#disp_17)
 
   
-1. ...[]  
-2. ...[]  
+1. ...  
+2. ...  
 3. The resolutions of the community of creditors passed under the previous law remain valid under the new law.  
  For resolutions passed after this Act comes into force, the provisions of the new law apply.  
  However, if a borrower has already been granted facilitations under the previous law by resolutions of the community of creditors that are equivalent or correspond to those provided for in Article 1170, appropriate account must be taken thereof in the application of this provision.  
  In all other respects, the Final and Transitional Provisions of the Federal Act of 18 December 1936 on the Revision of Titles XXIV–XXXIII of the Code of Obligations apply.  
-4. On commencement of this Act, contradictory provisions, and in particular the Ordinance of the Federal Council of 20 February 1918[][ ]on the Community of Bond Creditors, are repealed.  
+4. On commencement of this Act, contradictory provisions, and in particular the Ordinance of the Federal Council of 20 February 1918on the Community of Bond Creditors, are repealed.  
 5. The Federal Council determines the commencement date of this Act.
 
 Table of Contents
