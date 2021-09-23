@@ -117,17 +117,25 @@ A person who has capacity to act has the capacity to create rights and obligatio
 
 ###### [2. Requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2)
 
-[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 13**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_13)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_a)
+
+###### [**Art. 13**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_13)
 
 A person who is of age and is capable of judgement has the capacity to act.
 
-[b. Majority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_b) ###### [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_14)
+###### [b. Majority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_b)
+
+###### [**Art. 14**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_14)
 
 A person is of age if he or she has reached the age of 18.
 
-[c. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_c) ###### [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_15)
+###### [c. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_c)
 
-[d. Capacity of judgement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_d) ###### [**Art. 16**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_16)
+###### [**Art. 15**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_15)
+
+###### [d. Capacity of judgement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_I_I/lvl_2/lvl_d)
+
+###### [**Art. 16**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_16)
 
 A person is capable of judgement within the meaning of the law if he or she does not lack the capacity to act rationally by virtue of being under age or because of a mental disability, mental disorder, intoxication or similar circumstances.
 
@@ -147,7 +155,9 @@ A person who is incapable of judgement cannot create legal effect by his or her 
 
 ###### [3. Persons capable of judgement but lacking the capacity to act.](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_II_I/lvl_3)
 
-[a. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_II_I/lvl_3/lvl_a)###### [**Art. 19**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_19)
+###### [a. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_II_I/lvl_3/lvl_a)
+
+###### [**Art. 19**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_19)
 
 [1] Persons who are capable of judgement but lack the capacity to act may only enter into obligations or give up rights with the consent of their legal representative.
 
@@ -155,13 +165,17 @@ A person who is incapable of judgement cannot create legal effect by his or her 
 
 [3] They are liable in damages for unpermitted acts.
 
-[b. Consent of the legal representative](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_II_I/lvl_3/lvl_b) ###### [**Art. 19***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_19_a)
+###### [b. Consent of the legal representative](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_II_I/lvl_3/lvl_b)
+
+###### [**Art. 19***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_19_a)
 
 [1] Unless the law provides otherwise, the legal representative may consent expressly or tacitly in advance or approve the transaction retrospectively.
 
 [2] The other party is relieved of any obligation if approval is not given within a reasonable period that he or she fixes or has fixed by a court.
 
-[c. Absence of consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_II_I/lvl_3/lvl_c) ###### [**Art. 19***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_19_b)
+###### [c. Absence of consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_II_I/lvl_3/lvl_c)
+
+###### [**Art. 19***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_19_b)
 
 [1] If the legal representative does not grant approval, either party may demand restitution of any performance already made. A person lacking capacity to act is however only liable to the extent that he or she has already benefited from the performance or to which he or she has been enriched at the time of the demand or has alienated the benefits in bad faith.
 
@@ -213,7 +227,9 @@ The capacity to act may be restricted by an adult protection measure.
 
 ###### [2. Domicile](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2)
 
-[a. Definition](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_a) ###### [**Art. 23**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_23)
+###### [a. Definition](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_a)
+
+###### [**Art. 23**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_23)
 
 1 A person’s domicile is the place in which he or she resides with the intention of settling; residence for the purpose of education or the accommodation of a person in an educative institution or care home, a hospital or a penal institution does not by itself establish domicile.
 
@@ -221,19 +237,25 @@ The capacity to act may be restricted by an adult protection measure.
 
 [3] This provision does not apply to places of business.
 
-[b. Change of domicile, temporary residence](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_b) ###### [**Art. 24**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_24)
+###### [b. Change of domicile, temporary residence](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_b)
+
+###### [**Art. 24**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_24)
 
 [1] A person retains his or her domicile until such time as a new one is acquired.
 
 [2] A person’s domicile is deemed to be the place in which he or she is temporarily resident if no previously established domicile may be proven or if he or she was formerly resident abroad and has not yet established a domicile in Switzerland.
 
-[c. Domicile of minors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_c)###### [**Art. 25**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_25)
+###### [c. Domicile of minors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_c)
+
+###### [**Art. 25**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_25)
 
 [1] The domicile of a child subject to parental responsibility is deemed to be that of the parents or, if the parents have different domiciles, that of the parent with whom the child is resident; in all other cases it is deemed to be the child’s temporary domicile.
 
 [2] Children under guardianship are domiciled at the seat of the child protection authority.
 
-[d. Persons in institutions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_d) ###### [**Art. 26**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_26)
+###### [d. Persons in institutions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_A/lvl_V/lvl_2/lvl_d)
+
+###### [**Art. 26**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_26)
 
 Adults subject to a general deputyship are domiciled at the location of the adult protection authority.
 
@@ -259,7 +281,9 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 
 ###### [2. Actions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2)
 
-[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2/lvl_a)###### [**Art. 28***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_a)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2/lvl_a)
+
+###### [**Art. 28***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_a)
 
 [1] The applicant may ask the court:
 
@@ -272,7 +296,9 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 
 [3] Claims for damages and satisfaction and for handing over profits in accordance with the provisions governing agency without authority are reserved.
 
-[b. Violence, threats or harassment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2/lvl_b) ###### [**Art. 28***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_b)
+###### [b. Violence, threats or harassment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_2/lvl_b)
+
+###### [**Art. 28***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_b)
 
 [1] To obtain protection from violence, threats or harassment, the applicant may request the court in particular to order the offending party to refrain from:
 
@@ -299,25 +325,33 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 
 ###### [4. Right of reply](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4)
 
-[a. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_a)###### [**Art. 28***g*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_g)
+###### [a. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_a)
+
+###### [**Art. 28***g*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_g)
 
 [1] Any person whose personality rights are directly affected by a representation of events in periodically appearing media, especially the press, radio or television, shall have a right of reply.
 
 [2] There is no right of reply in respect of accurate reports of the public dealings of an authority in which the affected person took part.
 
-[b. Form and content](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_b) ###### [**Art. 28***h*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_h)
+###### [b. Form and content](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_b)
+
+###### [**Art. 28***h*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_h)
 
 [1] The text of the reply must be succinct and confine itself to the subject matter of the contentious representation.
 
 [2] The reply may be refused if it is plainly incorrect or violates the law or public morals.
 
-[c. Procedure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_c) ###### [**Art. 28***i*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_i)
+###### [c. Procedure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_c)
+
+###### [**Art. 28***i*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_i)
 
 [1] The author of the reply must send the text to the media company within 20 days of learning of the contentious representation, but at the latest within three months of publication.
 
 [2] The media company must immediately inform the author of the reply when it will be published or why it is rejected.
 
-[d. Publication](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_d) ###### [**Art. 28***k*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_k)
+###### [d. Publication](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_d)
+
+###### [**Art. 28***k*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_k)
 
 [1] The reply must be published as soon as possible and in such a manner as to ensure that it reaches the same audience or readership as the contentious representation.
 
@@ -325,7 +359,9 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 
 [3] The reply must be published free of charge.
 
-[e. Recourse to the courts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_e) ###### [**Art. 28***l*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_l)
+###### [e. Recourse to the courts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_e)
+
+###### [**Art. 28***l*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_28_l)
 
 [1] If the media company obstructs the right of reply, rejects the reply or fails to publish it correctly, the party in question may petition the court.
 
@@ -345,7 +381,9 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 
 ###### [2. Change of name](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_II_I/lvl_2)
 
-[a. General](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_II_I/lvl_2/lvl_a)###### [**Art. 30**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_30)
+###### [a. General](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_II_I/lvl_2/lvl_a)
+
+###### [**Art. 30**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_30)
 
 [1] The government of the canton of residence may permit a person to change his or her name for good cause.
 
@@ -353,7 +391,9 @@ Adults subject to a general deputyship are domiciled at the location of the adul
 
 [3] A person adversely affected by a change of name may contest the same in court within one year of learning thereof.
 
-[b. On the death of a spouse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_II_I/lvl_2/lvl_b) ###### [**Art. 30***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_30_a)
+###### [b. On the death of a spouse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_B/lvl_II_I/lvl_2/lvl_b)
+
+###### [**Art. 30***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_30_a)
 
 A person whose spouse dies may, if that person changed his or her surname on marriage, at any time declare before the civil registrar the wish to revert to the name by which he or she was known prior to the marriage.
 
@@ -379,13 +419,17 @@ A person whose spouse dies may, if that person changed his or her surname on mar
 
 ###### [2. Evidence](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_C/lvl_I_I/lvl_2)
 
-[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 33**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_33)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_a)
+
+###### [**Art. 33**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_33)
 
 [1] Proof of the birth or death of a person is established by the records kept by the civil register.
 
 [2] If records are missing or shown to be incorrect, proof may be adduced in another form.
 
-[b. Presumption of death](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_b) ###### [**Art. 34**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_34)
+###### [b. Presumption of death](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_1/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_b)
+
+###### [**Art. 34**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_34)
 
 The death of a person is deemed proven, even if no-one has seen the corpse, if that person has disappeared in circumstances in which his death may be considered certain.
 
@@ -763,13 +807,17 @@ Associations which cannot acquire or have not yet acquired legal personality are
 
 ###### [3. Resolutions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_2/chap_2/lvl_B/lvl_I/lvl_3)
 
-[a. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_2/chap_2/lvl_B/lvl_I/lvl_3/lvl_a) ###### [**Art. 66**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_66)
+###### [a. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_2/chap_2/lvl_B/lvl_I/lvl_3/lvl_a)
+
+###### [**Art. 66**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_66)
 
 [1] Resolutions are passed by the general meeting.
 
 [2] The written consent of all members to a proposal is equivalent to a resolution of the general meeting.
 
-[b. Voting rights and majority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_2/chap_2/lvl_B/lvl_I/lvl_3/lvl_b) ###### [**Art. 67**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_67)
+###### [b. Voting rights and majority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_2/chap_2/lvl_B/lvl_I/lvl_3/lvl_b)
+
+###### [**Art. 67**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_67)
 
 [1] All members have equal voting rights at the general meeting.
 
@@ -777,7 +825,9 @@ Associations which cannot acquire or have not yet acquired legal personality are
 
 [3] Resolutions may be taken on matters for which proper notice has not been given only where this is expressly permitted by the articles of association.
 
-[c. Exclusion from voting](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_2/chap_2/lvl_B/lvl_I/lvl_3/lvl_c) ###### [**Art. 68**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_68)
+###### [c. Exclusion from voting](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_1/tit_2/chap_2/lvl_B/lvl_I/lvl_3/lvl_c)
+
+###### [**Art. 68**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_68)
 
 Each member is by law excluded from voting on any resolution concerning a transaction or dispute between him or her, his or her spouse or a lineal relative on the one hand and the association on the other.
 
@@ -1588,15 +1638,21 @@ If, having considered the pension requirements of both spouses, an equitable div
 
 ###### [III. Regular payments](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I)
 
-[1. Special terms](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_1) ###### [**Art. 127**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_127)
+###### [1. Special terms](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_1)
+
+###### [**Art. 127**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_127)
 
 The spouses may wholly or in part exclude any alteration of the regular maintenance payments stipulated in the agreement.
 
-[2. Adjustment for inflation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_2) ###### [**Art. 128**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_128)
+###### [2. Adjustment for inflation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_2)
+
+###### [**Art. 128**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_128)
 
 The court may direct that the maintenance contribution will automatically increase or decrease depending on specified changes in the cost of living.
 
-[3. Adjustment by court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_3) ###### [**Art. 129**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_129)
+###### [3. Adjustment by court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_3)
+
+###### [**Art. 129**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_129)
 
 [1] In the event of a substantial and enduring change in circumstances, the periodic maintenance payments may be reduced, cancelled or suspended for a certain time; an improvement in the circumstances of the party entitled to maintenance may be taken into account only if the payments stipulated in the divorce decree provided sufficient maintenance.
 
@@ -1604,7 +1660,9 @@ The court may direct that the maintenance contribution will automatically increa
 
 [3] Within five years of the divorce, the party entitled to maintenance may request that payments be ordered or increased provided the divorce decree states that it was not possible at that time to order sufficient maintenance payments and provided the economic circumstances of the party obliged to pay maintenance have since improved.
 
-[4. Expiry by law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_4) ###### [**Art. 130**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_130)
+###### [4. Expiry by law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_II_I/lvl_4)
+
+###### [**Art. 130**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_130)
 
 [1] The duty to pay maintenance expires on the death of either the receiving party or the paying party.
 
@@ -1612,19 +1670,25 @@ The court may direct that the maintenance contribution will automatically increa
 
 ###### [IV. Enforcement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_I_V)
 
-[1. Enforcement assistance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_I_V/lvl_1) ###### [**Art. 131**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_131)
+###### [1. Enforcement assistance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_I_V/lvl_1)
+
+###### [**Art. 131**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_131)
 
 [1] Where the liable party fails to pay maintenance, an official agency designated by cantonal law shall on request, in an appropriate way and usually without charge, assist the party entitled to maintenance to enforce his or her claims.
 
 [2] The Federal Council determines the terms of enforcement assistance.
 
-[2. Advance payments](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_I_V/lvl_2) ###### [**Art. 131***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_131_a)
+###### [2. Advance payments](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_I_V/lvl_2)
+
+###### [**Art. 131***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_131_a)
 
 [1] Public law may provide for advance payments to be made should the liable person fail to make the necessary maintenance payments.
 
 [2] If the state authority makes maintenance payments to the entitled person, the maintenance entitlement with all rights is assigned to the state authority.
 
-[3. Directions to debtors and posting security](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_I_V/lvl_3)###### [**Art. 132**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_132)
+###### [3. Directions to debtors and posting security](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_4/chap_3/lvl_E/lvl_I_V/lvl_3)
+
+###### [**Art. 132**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_132)
 
 [1] If the party obliged to pay maintenance fails to do so, the court may order his debtors to make payment in whole or in part to the party entitled to maintenance.
 
@@ -1798,7 +1862,9 @@ The cantons must ensure that spouses experiencing marital problems may seek help
 
 ###### [2. While living together](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_2)
 
-[a. Financial contributions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 173**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_173)
+###### [a. Financial contributions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_2/lvl_a)
+
+###### [**Art. 173**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_173)
 
 [1] At the request of one spouse, the court determines the amounts to be paid for the maintenance of the family.
 
@@ -1806,7 +1872,9 @@ The cantons must ensure that spouses experiencing marital problems may seek help
 
 [3] Payments may be claimed for the future and for one year preceding the request.
 
-[b. Revocation of powers of representation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_2/lvl_b) ###### [**Art. 174**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_174)
+###### [b. Revocation of powers of representation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_2/lvl_b)
+
+###### [**Art. 174**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_174)
 
 [1] If a spouse exceeds his or her power to represent the marital union or proves incapable of exercising it, at the other spouse’s request the court may revoke such power in whole or in part.
 
@@ -1816,11 +1884,15 @@ The cantons must ensure that spouses experiencing marital problems may seek help
 
 ###### [3. Suspension of joint household](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_3)
 
-[a. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 175**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_175)
+###### [a. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_3/lvl_a)
+
+###### [**Art. 175**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_175)
 
 A spouse is entitled to suspend the joint household for as long as his or her personality rights or financial security or the welfare of the family are seriously endangered by living together.
 
-[b. Arrangements for living apart](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_3/lvl_b) ###### [**Art. 176**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_176)
+###### [b. Arrangements for living apart](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_3/lvl_b)
+
+###### [**Art. 176**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_176)
 
 [1] If the suspension of the joint household is justified, at the request of one spouse the court will:
 
@@ -1835,11 +1907,15 @@ A spouse is entitled to suspend the joint household for as long as his or her pe
 
 ###### [4. Enforcement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_4)
 
-[a. Enforcement assistanceand advance payments](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_4/lvl_a) ###### [**Art. 176***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_176_a)
+###### [a. Enforcement assistanceand advance payments](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_4/lvl_a)
+
+###### [**Art. 176***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_176_a)
 
 The provisions governing enforcement assistance and advance payments on divorce and consequent to the parent-child relationship apply.
 
-[b. Directions to debtors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_4/lvl_b)###### [**Art. 177**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_177)
+###### [b. Directions to debtors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_5/lvl_K/lvl_I_I/lvl_4/lvl_b)
+
+###### [**Art. 177**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_177)
 
 If a spouse fails to fulfil his or her duty to maintain the family, the court may order his or her debtors to make payment in full or in part to the other spouse.
 
@@ -1903,7 +1979,9 @@ The marital agreement must be executed as a public deed and signed by the partie
 
 ###### [I. At the request of one spouse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I)
 
-[1. By court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_1) ###### [**Art. 185**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_185)
+###### [1. By court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_1)
+
+###### [**Art. 185**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_185)
 
 [1] At the request of one spouse, the court shall order a separation of property where there is good cause to do so.
 
@@ -1918,9 +1996,13 @@ The marital agreement must be executed as a public deed and signed by the partie
 
 [3] Where a spouse permanently lacks capacity of judgement, his or her legal representative may likewise request separation of property for this reason.
 
-[2. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_2) ###### [**Art. 186**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_186)
+###### [2. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_2)
 
-[3. Revocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_3) ###### [**Art. 187**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_187)
+###### [**Art. 186**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_186)
+
+###### [3. Revocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I/lvl_3)
+
+###### [**Art. 187**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_187)
 
 [1] The spouses may at any time reinstate their previous marital property regime or implement a new one by marital agreement.
 
@@ -1928,11 +2010,15 @@ The marital agreement must be executed as a public deed and signed by the partie
 
 ###### [II. In the event of bankruptcy or distraint](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I)
 
-[1. Bankruptcy](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_1) ###### [**Art. 188**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_188)
+###### [1. Bankruptcy](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_1)
+
+###### [**Art. 188**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_188)
 
 If a spouse living under the community of property regime is declared bankrupt, separation of property takes effect *ex officio*.
 
-[2. Distraint](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_2) [a. By court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 189**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_189)
+###### [2. Distraint](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_2)
+
+[a. By court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 189**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_189)
 
 If a spouse living under the community of property regime is pursued for a personal debt and his or her share of the common property is distrained, the debt enforcement supervisory authority may request that the court order a separation of property.
 
@@ -1942,7 +2028,9 @@ If a spouse living under the community of property regime is pursued for a perso
 
 [2] ...
 
-[3. Revocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_3) ###### [**Art. 191**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_191)
+###### [3. Revocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_1/lvl_C/lvl_I_I/lvl_3)
+
+###### [**Art. 191**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_191)
 
 [1] If the creditors have been satisfied, at the request of one spouse the court may order the restoration of the community of property regime.
 
@@ -2010,7 +2098,9 @@ The marital property regime of participation in acquired property comprises the 
 
 ###### [III. Individual property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_A/lvl_II_I)
 
-[1. By operation of law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_A/lvl_II_I/lvl_1) ###### [**Art. 198**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_198)
+###### [1. By operation of law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_A/lvl_II_I/lvl_1)
+
+###### [**Art. 198**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_198)
 
 By operation of law, a spouse’s individual property comprises:
 
@@ -2020,7 +2110,9 @@ By operation of law, a spouse’s individual property comprises:
 3. claims for satisfaction;  
 4. acquisitions that replace individual property.
 
-[2. By marital agreement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_A/lvl_II_I/lvl_2) ###### [**Art. 199**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_199)
+###### [2. By marital agreement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_A/lvl_II_I/lvl_2)
+
+###### [**Art. 199**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_199)
 
 [1] Under a marital agreement, spouses may declare acquired property to be individual property set aside for professional or business use.
 
@@ -2070,7 +2162,9 @@ Each spouse is liable for his or her debts with all his or her property.
 
 ###### [II. Taking back property and settling debts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_I/lvl_1) ###### [**Art. 205**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_205)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_I/lvl_1)
+
+###### [**Art. 205**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_205)
 
 [1] Each spouse shall take back any of his or her property that is in the other’s possession.
 
@@ -2078,7 +2172,9 @@ Each spouse is liable for his or her debts with all his or her property.
 
 [3] The spouses settle their debts to each other.
 
-[2. Participation in increased value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_I/lvl_2) ###### [**Art. 206**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_206)
+###### [2. Participation in increased value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_I/lvl_2)
+
+###### [**Art. 206**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_206)
 
 [1] Where a spouse has contributed to the acquisition, improvement or preservation of an asset belonging to the other without receiving equivalent compensation, and where at the time of the liquidation that asset has increased in value, then his or her claim corresponds to his or her proportionate contribution and is calculated according to the current value of the asset; if, conversely, the asset has decreased in value, his or her claim corresponds to the original contribution.
 
@@ -2088,13 +2184,17 @@ Each spouse is liable for his or her debts with all his or her property.
 
 ###### [III. Calculating the surplus for each spouse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I)
 
-[1. Separation of acquired property and individual property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_1) ###### [**Art. 207**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_207)
+###### [1. Separation of acquired property and individual property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_1)
+
+###### [**Art. 207**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_207)
 
 [1] The property acquired during marriage and the individual property of each spouse are separated according to their value at the time of the dissolution of the marital property regime.
 
 [2] Lump sum pension or invalidity benefits received by a spouse are added to his or her individual property in an amount equivalent to the present value of the pension or invalidity annuity to which he or she would be entitled on dissolution of the marital property regime.
 
-[2. Additions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_2) ###### [**Art. 208**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_208)
+###### [2. Additions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_2)
+
+###### [**Art. 208**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_208)
 
 [1] The following are added to the property acquired during marriage:
 
@@ -2104,7 +2204,9 @@ Each spouse is liable for his or her debts with all his or her property.
 
 [2] ...
 
-[3. Compensation operations between acquired property and individual property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_3) ###### [**Art. 209**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_209)
+###### [3. Compensation operations between acquired property and individual property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_3)
+
+###### [**Art. 209**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_209)
 
 [1] Where debts incurred in connection with acquired property have been paid out of individual property or where debts incurred in connection with individual property have been paid out of acquired property, there is a claim for compensation when the marital property regime is liquidated.
 
@@ -2112,7 +2214,9 @@ Each spouse is liable for his or her debts with all his or her property.
 
 [3] If assets belonging to one category of property have contributed to the acquisition, improvement or preservation of assets belonging to the other and if the value of the latter has increased or diminished, the claim for compensation corresponds to the proportionate contribution made and is calculated according to the value of the assets at the time of the liquidation or their disposal.
 
-[4. Surplus](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_4) ###### [**Art. 210**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_210)
+###### [4. Surplus](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_II_I/lvl_4)
+
+###### [**Art. 210**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_210)
 
 [1] The remaining total value of the acquired property, including the assets added in and claims for compensation, and after deduction of the debts encumbering the acquired property, constitutes the surplus.
 
@@ -2120,11 +2224,15 @@ Each spouse is liable for his or her debts with all his or her property.
 
 ###### [IV. Valuation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V)
 
-[1. Market value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_1) ###### [**Art. 211**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_211)
+###### [1. Market value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_1)
+
+###### [**Art. 211**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_211)
 
 For the purpose of liquidating the marital property regime, assets are stated at their market value.
 
-[2. Capitalised value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_2) [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_2/lvl_a) ###### [**Art. 212**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_212)
+###### [2. Capitalised value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_2)
+
+[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_2/lvl_a) ###### [**Art. 212**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_212)
 
 [1] An agricultural enterprise which one spouse continues to operate as owner or in respect of which the surviving spouse or one of the issue makes a justified claim for undivided allocation is stated at its capitalised value when calculating the proportionate added value and the claim for participation.
 
@@ -2138,7 +2246,9 @@ For the purpose of liquidating the marital property regime, assets are stated at
 
 [2] Special circumstances include in particular the maintenance requirements of the surviving spouse, the purchase price of the agricultural enterprise including capital investments, and the financial circumstances of the spouse to whom the agricultural enterprise belongs.
 
-[3. Defining juncture](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_3) ###### [**Art. 214**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_214)
+###### [3. Defining juncture](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_I_V/lvl_3)
+
+###### [**Art. 214**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_214)
 
 [1] For the purpose of valuing the acquired property at hand at the time of the dissolution of the marital property regime, the defining juncture is the time of the division.
 
@@ -2146,13 +2256,17 @@ For the purpose of liquidating the marital property regime, assets are stated at
 
 ###### [V. Participation in the surplus](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V)
 
-[1. By law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V/lvl_1) ###### [**Art. 215**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_215)
+###### [1. By law](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V/lvl_1)
+
+###### [**Art. 215**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_215)
 
 [1] Each spouse or his or her heirs is or are entitled to one-half of the surplus of the other spouse.
 
 [2] The claims are set off.
 
-[2. By agreement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V/lvl_2) [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V/lvl_2/lvl_a) ###### [**Art. 216**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_216)
+###### [2. By agreement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V/lvl_2)
+
+[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V/lvl_2/lvl_a) ###### [**Art. 216**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_216)
 
 [1] A different participation in the surplus may be agreed by marital agreement.
 
@@ -2164,13 +2278,17 @@ In the case of divorce, separation, annulment of marriage or separation of prope
 
 ###### [VI. Payment of the participation claim and the share of the increased value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V_I)
 
-[1. Deferred payment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V_I/lvl_1) ###### [**Art. 218**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_218)
+###### [1. Deferred payment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V_I/lvl_1)
+
+###### [**Art. 218**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_218)
 
 [1] If immediate payment of the participation claim and the share of the increased value would cause serious difficulties for the debtor, he or she may request a deferral.
 
 [2] Unless otherwise agreed by the spouses, the participation claim and the share of the increased value bear interest as of completion of the division of property and, where justified in the circumstances, security must be furnished.
 
-[2. Home and household effects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V_I/lvl_2) ###### [**Art. 219**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_219)
+###### [2. Home and household effects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V_I/lvl_2)
+
+###### [**Art. 219**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_219)
 
 [1] To ensure that the surviving spouse may maintain his or her accustomed lifestyle, at his or her request he or she will be granted a usufruct of or a right of residence in the home in which the spouses lived and which belonged to the deceased spouse, and this will be set off against his or her entitlement, subject to any contrary provision in the marital agreement.
 
@@ -2180,7 +2298,9 @@ In the case of divorce, separation, annulment of marriage or separation of prope
 
 [4] The surviving spouse may not claim such rights in respect of premises in which the deceased practised a profession or ran a business and which are required by one of his or her issue in order to continue said profession or business, subject to the provisions of agricultural inheritance law.
 
-[3. Claims against third parties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V_I/lvl_3) ###### [**Art. 220**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_220)
+###### [3. Claims against third parties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_2/lvl_E/lvl_V_I/lvl_3)
+
+###### [**Art. 220**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_220)
 
 [1] If the assets of the debtor or his or her estate are insufficient to cover the participation claim on division of the property, the entitled spouse or his or her heirs may demand from third-party beneficiaries the return of such dispositions as are to be added to the acquired property up to the amount of the shortfall.
 
@@ -2200,7 +2320,9 @@ The marital property regime of community of property comprises the common proper
 
 ###### [II. Common property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_A/lvl_I_I)
 
-[1. General community of property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_A/lvl_I_I/lvl_1) ###### [**Art. 222**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_222)
+###### [1. General community of property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 222**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_222)
 
 [1] The general community of property combines the assets and income of the spouses into common property, with the exception of those assets which by law constitute individual property.
 
@@ -2208,7 +2330,9 @@ The marital property regime of community of property comprises the common proper
 
 [3] Neither spouse is entitled to dispose of his or her share of the common property.
 
-[2. Limited community of property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2) [a. Community restricted to acquired property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 223**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_223)
+###### [2. Limited community of property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2)
+
+[a. Community restricted to acquired property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_A/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 223**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_223)
 
 [1] By marital agreement, the spouses may restrict community of property to the property acquired during marriage.
 
@@ -2240,13 +2364,17 @@ All assets are presumed to be common property unless proven to be the individual
 
 ###### [I. Common property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I)
 
-[1. Everyday housekeeping](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_1) ###### [**Art. 227**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_227)
+###### [1. Everyday housekeeping](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_1)
+
+###### [**Art. 227**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_227)
 
 [1] The spouses must manage the common property in the best interests of the marital union.
 
 [2] Within the limits of everyday housekeeping, each spouse may incur commitments on behalf of the marital union and dispose of common property.
 
-[2. Extraordinary housekeeping](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_2) ###### [**Art. 228**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_228)
+###### [2. Extraordinary housekeeping](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_2)
+
+###### [**Art. 228**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_228)
 
 [1] Outside the limits of everyday housekeeping, the spouses may incur commitments on behalf of the common property and dispose thereof only jointly or individually with the other’s consent.
 
@@ -2254,17 +2382,23 @@ All assets are presumed to be common property unless proven to be the individual
 
 [3] The provisions governing representation of the marital union are reserved.
 
-[3. Use of common property for professional or business purposes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_3) ###### [**Art. 229**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_229)
+###### [3. Use of common property for professional or business purposes](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_3)
+
+###### [**Art. 229**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_229)
 
 If a spouse practises a profession or runs a business on his or her own using common property with the other’s consent, he or she may conclude all transactions that such activities entail.
 
-[4. Renunciation and acceptance of inheritances](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_4) ###### [**Art. 230**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_230)
+###### [4. Renunciation and acceptance of inheritances](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_4)
+
+###### [**Art. 230**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_230)
 
 [1] Without the other’s consent, a spouse is not entitled to renounce an inheritance which would become common property or accept inheritance of an overindebted estate.
 
 [2] If the spouse is unable to obtain consent or if it is withheld without good cause, he or she may petition the court.
 
-[5. Liability and management costs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_5) ###### [**Art. 231**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_231)
+###### [5. Liability and management costs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_B/lvl_I/lvl_5)
+
+###### [**Art. 231**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_231)
 
 [1] In relation to dealings concerning common property, on dissolution of the marital property regime, each spouse is liable as if he or she were an agent.
 
@@ -2348,7 +2482,9 @@ For the purpose of valuing the common property at hand at the time of the dissol
 
 ###### [VI. Division](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_V_I)
 
-[1. On death or implementation of a different marital property regime](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_V_I/lvl_1) ###### [**Art. 241**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_241)
+###### [1. On death or implementation of a different marital property regime](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_V_I/lvl_1)
+
+###### [**Art. 241**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_241)
 
 [1] If the community of property regime is dissolved by the death of a spouse or the implementation of a different marital property regime, each party or his or her heirs is entitled to one-half of the common property.
 
@@ -2356,7 +2492,9 @@ For the purpose of valuing the common property at hand at the time of the dissol
 
 [3] Such agreements must not adversely affect the statutory inheritance entitlements of the spouse’s issue.
 
-[2. In other cases](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_V_I/lvl_2) ###### [**Art. 242**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_242)
+###### [2. In other cases](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_V_I/lvl_2)
+
+###### [**Art. 242**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_242)
 
 [1] On divorce, separation, annulment of the marriage or separation of property by law or court order, each spouse shall take back from the common property such property as would have been his or her individual property under the participation in acquired property regime.
 
@@ -2366,11 +2504,15 @@ For the purpose of valuing the common property at hand at the time of the dissol
 
 ###### [VII. Division of the property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I)
 
-[1. Individual property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_1) ###### [**Art. 243**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_243)
+###### [1. Individual property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_1)
+
+###### [**Art. 243**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_243)
 
 If the community of property is dissolved by the death of a spouse, the surviving spouse may request that such property as would have been his or her individual property under the participation in acquired property regime be allocated to him or her and count toward his or her share of the estate.
 
-[2. Home and household effects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_2) ###### [**Art. 244**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_244)
+###### [2. Home and household effects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_2)
+
+###### [**Art. 244**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_244)
 
 [1] If the home in which the spouses lived or any household effects belong to the common property, the surviving spouse may request that such property be allocated to him or her and count toward his or her share of the estate.
 
@@ -2378,11 +2520,15 @@ If the community of property is dissolved by the death of a spouse, the survivin
 
 [3] If the community of property is not dissolved by death, each spouse may make such requests where he or she may show an overriding interest.
 
-[3. Other assets](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_3) ###### [**Art. 245**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_245)
+###### [3. Other assets](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_3)
+
+###### [**Art. 245**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_245)
 
 If a spouse demonstrates an overriding interest, he or she may also demand that other assets be allocated to him or her and count toward his or her share.
 
-[4. Further provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_4) ###### [**Art. 246**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_246)
+###### [4. Further provisions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_1/tit_6/chap_3/lvl_E/lvl_VI_I/lvl_4)
+
+###### [**Art. 246**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_246)
 
 In other respects the provisions governing the division of property in co-ownership and the division of estates apply *mutatis mutandis*.
 
@@ -2476,13 +2622,17 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 ###### [II. Grounds for challenge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_2/lvl_B/lvl_I_I)
 
-[1. In the case of conception in wedlock](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_2/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 256***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_256_a)
+###### [1. In the case of conception in wedlock](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_2/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 256***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_256_a)
 
 [1] If a child was conceived in wedlock, the challenging party must show that the husband is not the father.
 
 [2] The child is presumed to have been conceived in wedlock if it was born no earlier than 180 days after the wedding and no later than 300 days after the marriage was dissolved as a result of death.
 
-[2. In the case of conception before marriage or while spouses were living apart](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_2/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 256***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_256_b)
+###### [2. In the case of conception before marriage or while spouses were living apart](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_2/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 256***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_256_b)
 
 [1] If a child was conceived before the marriage was concluded or at a time when the spouses were living apart, no further grounds need be given for the challenge.
 
@@ -2549,7 +2699,9 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 ###### [II. Challenge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_3/lvl_A/lvl_I_I)
 
-[1. Right to challenge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_3/lvl_A/lvl_I_I/lvl_1) ###### [**Art. 260***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_260_a)
+###### [1. Right to challenge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_3/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 260***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_260_a)
 
 [1] Recognition may be challenged before the courts by any interested party, namely the mother, the child or, after its death, its issue, and by the commune of origin or domicile of the recognising person.
 
@@ -2557,13 +2709,17 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 [3] The challenge is directed against the recognising person and the child, insofar as they themselves are not the challenging persons.
 
-[2. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_3/lvl_A/lvl_I_I/lvl_2) ###### [**Art. 260***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_260_b)
+###### [2. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_3/lvl_A/lvl_I_I/lvl_2)
+
+###### [**Art. 260***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_260_b)
 
 [1] The challenging person must prove that the recognising person is not the child’s father.
 
 [2] However, mother and child are only required to prove this if the recognising person may satisfy the court that he had sexual intercourse with the mother around the time of the child’s conception.
 
-[3. Time limits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_3/lvl_A/lvl_I_I/lvl_3) ###### [**Art. 260***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_260_c)
+###### [3. Time limits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_3/lvl_A/lvl_I_I/lvl_3)
+
+###### [**Art. 260***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_260_c)
 
 [1] The challenge must be filed within one year of the date on which the claimant learned of the recognition and the fact that the recognising person is not the father, or that another man had sexual intercourse with the mother around the time of the conception, or on which he or she learned of his or her error or on which the threat ceased, but in any event within five years of the recognition.
 
@@ -2672,7 +2828,9 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 ###### [VII. Parents’ consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I)
 
-[1. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_1) ###### [**Art. 265***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_265_a)
+###### [1. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_1)
+
+###### [**Art. 265***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_265_a)
 
 [1] Adoption requires the consent of the child’s father and mother.
 
@@ -2680,7 +2838,9 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 [3] Such consent is valid even if the persons wishing to adopt are not named or not yet determined.
 
-[2. Time of consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_2) ###### [**Art. 265***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_265_b)
+###### [2. Time of consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_2)
+
+###### [**Art. 265***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_265_b)
 
 [1] Consent to adoption may not be given until at least six weeks after the birth of the child.
 
@@ -2688,7 +2848,9 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 [3] Where consent, having been revoked, is given again, it is then final.
 
-[3. Dispensing with consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_3) [a. Requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_3/lvl_a) ###### [**Art. 265***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_265_c)
+###### [3. Dispensing with consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_3)
+
+[a. Requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_A/lvl_VI_I/lvl_3/lvl_a) ###### [**Art. 265***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_265_c)
 
 The consent of a parent may be dispensed with if the identity of that parent is unknown, or if he or she has been of unknown whereabouts for some length of time, or permanently lacks capacity of judgement.
 
@@ -2859,13 +3021,17 @@ The citizenship of a minor is determined by provisions governing the legal effec
 
 ###### [I. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_F/lvl_I)
 
-[1. Lack of consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_F/lvl_I/lvl_1) ###### [**Art. 269**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_269)
+###### [1. Lack of consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_F/lvl_I/lvl_1)
+
+###### [**Art. 269**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_269)
 
 [1] Where for no just cause consent has not been obtained, those persons whose consent is required may bring an action to challenge the adoption providing this does not seriously impair the interests of the child.
 
 [2] However, the parents are not entitled to bring such action where they may appeal against the decision to the Federal Supreme Court.
 
-[2. Other defects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_F/lvl_I/lvl_2) ###### [**Art. 269***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_269_a)
+###### [2. Other defects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_7/chap_4/lvl_F/lvl_I/lvl_2)
+
+###### [**Art. 269***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_269_a)
 
 [1] If the adoption displays other grave defects, it may be challenged by any interested party and in particular by the commune of origin or domicile.
 
@@ -2941,7 +3107,9 @@ Parents and children owe each other such support, consideration and respect as t
 
 ###### [I. Parents and children](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_1/lvl_D/lvl_I)
 
-[1. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_1/lvl_D/lvl_I/lvl_1) ###### [**Art. 273**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_273)
+###### [1. Principle](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_1/lvl_D/lvl_I/lvl_1)
+
+###### [**Art. 273**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_273)
 
 [1] Parents not granted parental responsibility or whose children are not resident with them are entitled to reasonable contact with their minor children, and their children are entitled to contact with them.
 
@@ -2949,7 +3117,9 @@ Parents and children owe each other such support, consideration and respect as t
 
 [3] Contact entitlements must be stipulated if either the father or the mother so requests.
 
-[2. Restrictions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_1/lvl_D/lvl_I/lvl_2) ###### [**Art. 274**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_274)
+###### [2. Restrictions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_1/lvl_D/lvl_I/lvl_2)
+
+###### [**Art. 274**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_274)
 
 [1] The father and the mother must refrain from any conduct that impairs the child’s relationship with the other parent or makes the task of the person with custody more difficult.
 
@@ -3039,7 +3209,9 @@ Parents and children owe each other such support, consideration and respect as t
 
 ###### [IV. Amount of child maintenance contribution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_I_V)
 
-[1. Parents’ contribution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_I_V/lvl_1) ###### [**Art. 285**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_285)
+###### [1. Parents’ contribution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_I_V/lvl_1)
+
+###### [**Art. 285**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_285)
 
 [1] The child maintenance contribution should correspond to the child’s needs and to the parents’ financial circumstances and resources; the child’s assets and income must be taken into account.
 
@@ -3047,7 +3219,9 @@ Parents and children owe each other such support, consideration and respect as t
 
 [3] The child maintenance contribution is payable in advance on the dates stipulated by the court.
 
-[2. Other payments for maintenance of the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_I_V/lvl_2) ###### [**Art. 285***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_285_a)
+###### [2. Other payments for maintenance of the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_I_V/lvl_2)
+
+###### [**Art. 285***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_285_a)
 
 [1] Family allowance credits paid to the parent required to pay maintenance must be paid in addition to the maintenance. 
 
@@ -3057,7 +3231,9 @@ Parents and children owe each other such support, consideration and respect as t
 
 ###### [V. Change of circumstances](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_V)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_V/lvl_1)###### [**Art. 286**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_286)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_V/lvl_1)
+
+###### [**Art. 286**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_286)
 
 [1] The court may order that the child maintenance contribution be automatically increased or decreased in the event of specified changes in the child’s needs, the parents’ financial resources or the cost of living.
 
@@ -3065,7 +3241,9 @@ Parents and children owe each other such support, consideration and respect as t
 
 [3] Should the child have unforeseen, extraordinary needs the court may order the parents to make a special financial contribution.
 
-[2. Shortfalls](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_V/lvl_2) ###### [**Art. 286***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_286_a)
+###### [2. Shortfalls](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_D/lvl_V/lvl_2)
+
+###### [**Art. 286***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_286_a)
 
 [1] If it was previously established in an approved maintenance agreement or a decision that no maintenance contribution could be set to provide due maintenance for the child, and should the circumstances of the parent liable to pay maintenance have since improved substantially, the child is entitled to claim payments that were not met by this parent during the previous five years in which payments were owed to provide due maintenance.
 
@@ -3121,13 +3299,17 @@ if and to what extent the maintenance contributions will be adjusted to reflect 
 
 ###### [II. Enforcement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_F/lvl_I_I)
 
-[1. Enforcement assistance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_F/lvl_I_I/lvl_1) ###### [**Art. 290**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_290)
+###### [1. Enforcement assistance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_F/lvl_I_I/lvl_1)
+
+###### [**Art. 290**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_290)
 
 [1] If a father or mother does not fulfil his or her obligation to provide maintenance, a specialist office designated by cantonal law shall, on application, help the child and the other parent to enforce the maintenance claim appropriately and free of charge. 
 
 [2] The Federal Council determines the terms of enforcement assistance.
 
-[2. Directions to debtors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_F/lvl_I_I/lvl_2) ###### [**Art. 291**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_291)
+###### [2. Directions to debtors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_2/lvl_F/lvl_I_I/lvl_2)
+
+###### [**Art. 291**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_291)
 
 If the parents neglect to take due care of the child, the court may order their debtors to make payment in whole or in part to the child’s legal representative.
 
@@ -3334,7 +3516,9 @@ b. the change of place of residence has serious consequences for the ability of 
 
 ###### [V. Representation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_B/lvl_V)
 
-[1. In relation to third parties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_B/lvl_V/lvl_1) [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_B/lvl_V/lvl_1/lvl_a)###### [**Art. 304**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_304)
+###### [1. In relation to third parties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_B/lvl_V/lvl_1)
+
+[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_B/lvl_V/lvl_1/lvl_a)###### [**Art. 304**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_304)
 
 [1] By operation of law, the parents are vested with the power to represent the child in all dealings with third parties to the extent they have parental responsibility for the child.
 
@@ -3348,7 +3532,9 @@ b. the change of place of residence has serious consequences for the ability of 
 
 [2] The child is liable with all his or her assets for any obligations entered into, without regard to the parents’ property rights.
 
-[2. Within the family community](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_B/lvl_V/lvl_2) ###### [**Art. 306**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_306)
+###### [2. Within the family community](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_B/lvl_V/lvl_2)
+
+###### [**Art. 306**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_306)
 
 [1] Children with capacity of judgement who are under parental responsibility may, with their parents’ consent, act for the family as a whole, but in so doing engage not themselves but their parents.
 
@@ -3392,7 +3578,9 @@ b. the change of place of residence has serious consequences for the ability of 
 
 ###### [IV. Withdrawal of parental responsibility](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_I_V)
 
-[1. Ex-officio](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_I_V/lvl_1)###### [**Art. 311**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_311)
+###### [1. Ex-officio](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_I_V/lvl_1)
+
+###### [**Art. 311**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_311)
 
 [1] If other child protection measures have failed or offer little prospect of proving adequate, the child protection authority shall revoke parental responsibility:
 
@@ -3404,7 +3592,9 @@ b. the change of place of residence has serious consequences for the ability of 
 
 [3] Unless expressly ordered otherwise, the withdrawal of parental responsibility is effective in respect of all the children, including those born subsequently.
 
-[2. With the parents' consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_I_V/lvl_2)###### [**Art. 312**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_312)
+###### [2. With the parents' consent](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_I_V/lvl_2)
+
+###### [**Art. 312**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_312)
 
 The child protection authority shall withdraw parental responsibility:
 
@@ -3422,7 +3612,9 @@ The child protection authority shall withdraw parental responsibility:
 
 ###### [VI. Procedure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I)
 
-[1. General](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_1) ###### [**Art. 314**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314)
+###### [1. General](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_1)
+
+###### [**Art. 314**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314)
 
 [1] The provisions on the procedure before the adult protection authority apply *mutatis mutandis*.
 
@@ -3430,7 +3622,9 @@ The child protection authority shall withdraw parental responsibility:
 
 [3] If the child protection authority appoints a deputy, it shall state the tasks of the deputy and any restrictions on parental responsibility in the decision.
 
-[2. Hearing for the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_2) ###### [**Art. 314***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_a)
+###### [2. Hearing for the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_2)
+
+###### [**Art. 314***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_a)
 
 [1]The child is heard in person in an appropriate manner by the child protection authority or by a third party appointed for this purpose, unless this is inadvisable due to the child's age or other good cause.
 
@@ -3438,7 +3632,9 @@ The child protection authority shall withdraw parental responsibility:
 
 [3] A child capable of judgement may appeal against a decision to refuse a hearing.
 
-[3. Representation for the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_3) ###### [**Art. 314***a*[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_a_bis)
+###### [3. Representation for the child](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_3)
+
+###### [**Art. 314***a*[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_a_bis)
 
 [1] If necessary, the child protection authority shall order the child to be represented and appoint a person experienced in welfare and legal matters as the child's deputy.
 
@@ -3450,19 +3646,25 @@ The child protection authority shall withdraw parental responsibility:
 
 [3] The child's deputy may file applications and appeals.
 
-[4. Committal to a secure institution or psychiatric hospital](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_4) ###### [**Art. 314***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_b)
+###### [4. Committal to a secure institution or psychiatric hospital](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_4)
+
+###### [**Art. 314***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_b)
 
 [1] If the child must be committed to a secure institution or a psychiatric hospital, the adult protection provisions on care-related hospitalisation apply *mutatis mutandis*.
 
 [2] If the child is capable of judgement, he or she may petition the court directly.
 
-[5. Right to notify](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_5) ###### [**Art. 314***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_c)
+###### [5. Right to notify](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_5)
+
+###### [**Art. 314***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_c)
 
 [1] Any person may notify the child protection authorities if a child’s physical, mental or sexual integrity appears to be at risk.
 
 [2] If a report is in the interest of the child, persons who are subject to professional confidentiality under the Swiss Criminal Code are also entitled to notify the authorities. This provision does not apply to auxiliary persons bound by professional confidentiality under the Criminal Code.
 
-[6. Duty to notify](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_6) ###### [**Art. 314***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_d)
+###### [6. Duty to notify](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_6)
+
+###### [**Art. 314***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_d)
 
 [1] The following persons, provided they are not subject to professional confidentiality under the Swiss Criminal Code, are obliged to report if there are clear indications that the physical, psychological or sexual integrity of a child is at risk and that they cannot remedy the threat as part of their professional activities:
 
@@ -3474,7 +3676,9 @@ The child protection authority shall withdraw parental responsibility:
 
 [3] The cantons may provide for further notification obligations.
 
-[7. Cooperation and administrative assistance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_7) ###### [**Art. 314***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_e)
+###### [7. Cooperation and administrative assistance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_V_I/lvl_7)
+
+###### [**Art. 314***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_314_e)
 
 [1] The persons and third parties involved in the proceedings are obliged to cooperate in ascertaining the facts of the case. The child protection authority issues the necessary orders to protect any interests worthy of protection. If necessary, it shall issue an order for the compulsory enforcement of the duty to cooperate.
 
@@ -3486,7 +3690,9 @@ The child protection authority shall withdraw parental responsibility:
 
 ###### [VII. Jurisdiction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_VI_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_VI_I/lvl_1)###### [**Art. 315**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_315)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_VI_I/lvl_1)
+
+###### [**Art. 315**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_315)
 
 [1] Child protection measures are ordered by the child protection authorities at the child’s domicile.
 
@@ -3494,7 +3700,9 @@ The child protection authority shall withdraw parental responsibility:
 
 [3] If the latter authorities implement a child protection measure, they must inform the authority at the child’s domicile.
 
-[2. In marital proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_VI_I/lvl_2) [a. Jurisdiction of the court](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_VI_I/lvl_2/lvl_a) ###### [**Art. 315***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_315_a)
+###### [2. In marital proceedings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_VI_I/lvl_2)
+
+[a. Jurisdiction of the court](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_8/chap_3/lvl_C/lvl_VI_I/lvl_2/lvl_a) ###### [**Art. 315***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_315_a)
 
 [1] If the court is called on to rule on relations between the parents and the children in accordance with the provisions governing divorce or protection of the marital union, it must also order all necessary child protection measures and instruct the child protection authority to implement them.
 
@@ -3719,13 +3927,17 @@ A child subject to guardianship has the same legal status as a child subject to 
 
 ###### [III. Claims of children and grandchildren](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_2/lvl_B/lvl_II_I)
 
-[1. Requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_2/lvl_B/lvl_II_I/lvl_1) ###### [**Art. 334**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_334)
+###### [1. Requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_2/lvl_B/lvl_II_I/lvl_1)
+
+###### [**Art. 334**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_334)
 
 [1] Adult children or grandchildren who have contributed their labour or income to parents or grandparents with whom they live in a common household are entitled to suitable compensation in return.
 
 [2] In the event of dispute the court determines the amount of compensation, the security required and the payment method.
 
-[2. Asserting claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_2/lvl_B/lvl_II_I/lvl_2) ###### [**Art. 334**[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_334_bis)
+###### [2. Asserting claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_2/lvl_B/lvl_II_I/lvl_2)
+
+###### [**Art. 334**[bis]](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_334_bis)
 
 [1] The compensation due to children or grandchildren may be claimed on the debtor’s death.
 
@@ -3747,11 +3959,15 @@ A child subject to guardianship has the same legal status as a child subject to 
 
 ###### [I. Formation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I)
 
-[1. Authority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I/lvl_1) ###### [**Art. 336**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_336)
+###### [1. Authority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I/lvl_1)
+
+###### [**Art. 336**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_336)
 
 Members of a family may tie a body of assets to the family by placing all or part of an inheritance or other property under joint ownership in undivided shares.
 
-[2. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I/lvl_2) ###### [**Art. 337**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_337)
+###### [2. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I/lvl_2)
+
+###### [**Art. 337**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_337)
 
 The agreement establishing joint ownership in undivided shares is valid only if done as a public deed signed by all co-owners or their representatives.
 
@@ -3767,7 +3983,9 @@ The agreement establishing joint ownership in undivided shares is valid only if 
 
 ###### [III. Effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I)
 
-[1. Type of ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_1) ###### [**Art. 339**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_339)
+###### [1. Type of ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_1)
+
+###### [**Art. 339**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_339)
 
 [1] Joint ownership in undivided shares binds the co-owners together in common economic activity.
 
@@ -3775,7 +3993,9 @@ The agreement establishing joint ownership in undivided shares is valid only if 
 
 [3] For the duration of their joint ownership in undivided shares, they may neither seek a division of the property nor dispose of their own share.
 
-[2. Management and representation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_2) [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 340**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_340)
+###### [2. Management and representation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_2)
+
+[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 340**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_340)
 
 [1] The affairs of the joint ownership in undivided shares are regulated by all the co-owners acting collectively.
 
@@ -3789,7 +4009,9 @@ The agreement establishing joint ownership in undivided shares is valid only if 
 
 [3] Where representation by the other co-owners is excluded, such exclusion may be invoked against third parties acting in good faith only if the sole representative is entered in the commercial register.
 
-[3. Common property and personal property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_3) ###### [**Art. 342**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_342)
+###### [3. Common property and personal property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_II_I/lvl_3)
+
+###### [**Art. 342**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_342)
 
 [1] The property under joint ownership in undivided shares is owned collectively by all the co-owners.
 
@@ -3799,7 +4021,9 @@ The agreement establishing joint ownership in undivided shares is valid only if 
 
 ###### [IV. Dissolution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V)
 
-[1. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_1) ###### [**Art. 343**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_343)
+###### [1. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_1)
+
+###### [**Art. 343**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_343)
 
 Joint ownership in undivided shares is dissolved:
 
@@ -3810,19 +4034,25 @@ Joint ownership in undivided shares is dissolved:
 4. if a co-owner is declared bankrupt;  
 5. at the request of a co-owner for good cause.
 
-[2. Notice, insolvency, marriage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_2) ###### [**Art. 344**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_344)
+###### [2. Notice, insolvency, marriage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_2)
+
+###### [**Art. 344**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_344)
 
 [1] If one co-owner gives notice to terminate joint ownership in undivided shares or is declared bankrupt, or if his share is realised after having been distrained, joint ownership in undivided shares may be maintained by the other co-owners provided they reach a settlement with him or his creditors.
 
 [2] A co-owner who marries is entitled to request such settlement without giving notice of termination.
 
-[3. Death of a co-owner](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_3) ###### [**Art. 345**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_345)
+###### [3. Death of a co-owner](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_3)
+
+###### [**Art. 345**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_345)
 
 [1] On the death of a co-owner, heirs who are not also co-owners are entitled only to settlement of his share.
 
 [2] Where he is survived by issue entitled to inherit his share, with the consent of the other co-owners such issue may accede to the joint ownership in undivided shares in his place.
 
-[4. Division](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_4) ###### [**Art. 346**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_346)
+###### [4. Division](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_I_V/lvl_4)
+
+###### [**Art. 346**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_346)
 
 [1] Division of the collectively owned property or settlement of a withdrawing co-owner’s share is based on the condition of the property when the grounds for dissolution arose.
 
@@ -3830,13 +4060,17 @@ Joint ownership in undivided shares is dissolved:
 
 ###### [V. Revenue-generating co-ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_V)
 
-[1. Nature](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_V/lvl_1) ###### [**Art. 347**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_347)
+###### [1. Nature](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_V/lvl_1)
+
+###### [**Art. 347**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_347)
 
 [1] The co-owners may entrust the exploitation and representation of the collectively owned property to one of their number on condition that he pay each co-owner a share of the net profit annually.
 
 [2] Unless otherwise agreed, such share is determined equitably on the basis of the average revenues generated by the property over a sufficiently long period and with due regard to the work done by the person managing it.
 
-[2. Special grounds for dissolution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_V/lvl_2) ###### [**Art. 348**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_348)
+###### [2. Special grounds for dissolution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_2/tit_9/chap_3/lvl_B/lvl_V/lvl_2)
+
+###### [**Art. 348**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_348)
 
 [1] If the collectively owned property is not properly managed or the managing co-owner fails to meet his obligations towards the other co-owners, the joint ownership in undivided shares may be dissolved.
 
@@ -4590,7 +4824,9 @@ The deputy must continue with transactions that cannot be postponed until a succ
 
 ###### [II. Doctors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_3/tit_11/chap_3/lvl_B/lvl_I_I)
 
-[1. Responsibility](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_3/tit_11/chap_3/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 429**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_429)
+###### [1. Responsibility](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_3/tit_11/chap_3/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 429**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_429)
 
 [1] The cantons may designate doctors who in addition to the adult protection authority are authorised to order hospitalisation for a period specified by cantonal law. The period may not exceed six weeks.
 
@@ -4598,7 +4834,9 @@ The deputy must continue with transactions that cannot be postponed until a succ
 
 [3] The institution decides on discharge.
 
-[2. Procedures](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_3/tit_11/chap_3/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 430**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_430)
+###### [2. Procedures](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_2/part_3/tit_11/chap_3/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 430**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_430)
 
 [1] The doctor shall examine and interview the patient in person.
 
@@ -5128,17 +5366,23 @@ The statutory entitlement is:
 
 ###### [V. Calculation of the disposable part](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_2/lvl_A/lvl_V)
 
-[1. Deduction of debts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_2/lvl_A/lvl_V/lvl_1) ###### [**Art. 474**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_474)
+###### [1. Deduction of debts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_2/lvl_A/lvl_V/lvl_1)
+
+###### [**Art. 474**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_474)
 
 [1] The disposable part is calculated on the basis of the value of the deceased’s assets at the time of his or her death.
 
 [2] In calculating this value, the deceased’s debts, the funeral expenses, the costs of sealing and of drawing up the inventory and the maintenance claims of members of the household for one month are deducted from value of the estate.
 
-[2. Inter vivos gifts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_2/lvl_A/lvl_V/lvl_2) ###### [**Art. 475**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_475)
+###### [2. Inter vivos gifts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_2/lvl_A/lvl_V/lvl_2)
+
+###### [**Art. 475**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_475)
 
 Inter vivos gifts are added to the estate insofar as they are subject to an action in abatement.
 
-[3. Insurance claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_2/lvl_A/lvl_V/lvl_3) ###### [**Art. 476**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_476)
+###### [3. Insurance claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_2/lvl_A/lvl_V/lvl_3)
+
+###### [**Art. 476**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_476)
 
 Where a life assurance claim maturing on the death of the deceased was established in favour of a third party by an inter vivos or testamentary disposition or mortis causa or was transferred by the deceased during his or her lifetime to a third party without valuable consideration, the redemption value of such insurance claim at the time of death is added to the estate.
 
@@ -5282,13 +5526,17 @@ In his or her disposition, the testator may designate one or more persons to who
 
 ###### [IV. Legal status](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_F/lvl_I_V)
 
-[1. Of the provisional heir](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_F/lvl_I_V/lvl_1) ###### [**Art. 491**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_491)
+###### [1. Of the provisional heir](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_F/lvl_I_V/lvl_1)
+
+###### [**Art. 491**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_491)
 
 [1] A provisional heir acquires the inheritance in the same manner as any named heir.
 
 [2] He or she becomes the owner of the inheritance with an obligation to deliver it.
 
-[2. Of the remainderman](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_F/lvl_I_V/lvl_2) ###### [**Art. 492**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_492)
+###### [2. Of the remainderman](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_F/lvl_I_V/lvl_2)
+
+###### [**Art. 492**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_492)
 
 [1] The remainderman acquires the testator’s bequest if he or she is alive at the stipulated delivery time.
 
@@ -5326,7 +5574,9 @@ In his or her disposition, the testator may designate one or more persons to who
 
 ###### [II. Renunciation of inheritance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_H/lvl_I_I)
 
-[1. Significance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_H/lvl_I_I/lvl_1) ###### [**Art. 495**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_495)
+###### [1. Significance](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_H/lvl_I_I/lvl_1)
+
+###### [**Art. 495**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_495)
 
 [1] The testator may conclude an inheritance renunciation contract with an heir with or without valuable consideration.
 
@@ -5334,13 +5584,17 @@ In his or her disposition, the testator may designate one or more persons to who
 
 [3] Unless the contract provides otherwise, the renunciation of an inheritance also applies to the issue of the renouncing party.
 
-[2. Void renunciation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_H/lvl_I_I/lvl_2) ###### [**Art. 496**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_496)
+###### [2. Void renunciation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_H/lvl_I_I/lvl_2)
+
+###### [**Art. 496**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_496)
 
 [1] Where certain persons are named in the renunciation contact as heirs in lieu of the renouncing party, the renunciation is void if such persons fail to acquire the inheritance for whatever reason.
 
 [2] Where an inheritance is renounced in favour of co-heirs, the renunciation is presumed to be effective only in respect of the heirs of the line descending from their nearest common ascendant and has no effect with regard to more distant heirs.
 
-[3. Rights of the creditors of the estate](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_H/lvl_I_I/lvl_3) ###### [**Art. 497**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_497)
+###### [3. Rights of the creditors of the estate](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_3/lvl_H/lvl_I_I/lvl_3)
+
+###### [**Art. 497**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_497)
 
 If the deceased was insolvent on commencement of the succession process and his or her creditors are not satisfied by the heirs, the renouncing party and his or her heirs may be held liable to the extent that they received valuable consideration for the renounced inheritance within the five years prior to the death of the deceased and were still enriched by such consideration on succession.
 
@@ -5350,11 +5604,15 @@ If the deceased was insolvent on commencement of the succession process and his 
 
 ###### [I. Drawing up a will](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_1) ###### [**Art. 498**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_498)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_1)
+
+###### [**Art. 498**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_498)
 
 The testator may make his or her will in the form of a public deed or in holographic or oral form.
 
-[2. By public deed](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_2) [a. Formal requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_2/lvl_a) ###### [**Art. 499**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_499)
+###### [2. By public deed](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_2)
+
+[a. Formal requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_2/lvl_a) ###### [**Art. 499**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_499)
 
 A will by public deed is made in the presence of two witnesses by a public official, notary public or other person authorised under cantonal law to conduct such business.
 
@@ -5390,13 +5648,17 @@ A will by public deed is made in the presence of two witnesses by a public offic
 
 The cantons must ensure that public officials entrusted with wills either keep the original or a copy of such deeds themselves or else forward them to an authority for safekeeping.
 
-[3. Holographic will](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_3) ###### [**Art. 505**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_505)
+###### [3. Holographic will](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_3)
+
+###### [**Art. 505**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_505)
 
 [1] A holographic will must be written in the testator’s own hand from start to finish, include an indication of the day, month and year on which it is drawn up, and be signed by the testator.
 
 [2] The cantons must ensure that such wills can be forwarded, whether open or sealed, to an authority for safekeeping.
 
-[4. Oral will](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_4) [a. Dispositions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_4/lvl_a) ###### [**Art. 506**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_506)
+###### [4. Oral will](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_4)
+
+[a. Dispositions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I/lvl_4/lvl_a) ###### [**Art. 506**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_506)
 
 [1] Where the testator is prevented from using any other form of will by extraordinary circumstances such as the imminent risk of death, breakdown in communications, epidemic or war, he or she is entitled to make a will in oral form.
 
@@ -5418,19 +5680,25 @@ If the testator subsequently has the opportunity to draw up his or her will in a
 
 ###### [II. Revocation and destruction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I_I)
 
-[1. Revocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I_I/lvl_1) ###### [**Art. 509**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_509)
+###### [1. Revocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 509**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_509)
 
 [1] The testator may revoke his or her will at any time in one of the forms envisaged for drawing it up.
 
 [2] Such revocation may apply to all or part of the will.
 
-[2. Destruction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I_I/lvl_2) ###### [**Art. 510**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_510)
+###### [2. Destruction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I_I/lvl_2)
+
+###### [**Art. 510**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_510)
 
 [1] The testator may revoke his or her will by destroying the deed.
 
 [2] If the deed is destroyed by others wilfully or by accident, the will likewise becomes void inasmuch as its content may no longer be ascertained precisely and completely; claims for damages are reserved.
 
-[3. Subsequent wills](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I_I/lvl_3) ###### [**Art. 511**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_511)
+###### [3. Subsequent wills](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_A/lvl_I_I/lvl_3)
+
+###### [**Art. 511**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_511)
 
 [1] If the testator makes a will without expressly revoking a previous will, the later will supersedes the earlier unless it is manifestly no more than a codicil thereto.
 
@@ -5448,7 +5716,9 @@ If the testator subsequently has the opportunity to draw up his or her will in a
 
 ###### [II. Revocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_B/lvl_I_I)
 
-[1. Inter vivos](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_B/lvl_I_I/lvl_1) [a. By contract and by will](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_B/lvl_I_I/lvl_1/lvl_a) ###### [**Art. 513**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_513)
+###### [1. Inter vivos](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_B/lvl_I_I/lvl_1)
+
+[a. By contract and by will](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_B/lvl_I_I/lvl_1/lvl_a) ###### [**Art. 513**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_513)
 
 [1] The contract of succession may be revoked at any time by written agreement between the parties.
 
@@ -5460,7 +5730,9 @@ If the testator subsequently has the opportunity to draw up his or her will in a
 
 A person entitled to benefits inter vivos under a contract of succession may declare his or her withdrawal from the contract in accordance with the provisions of the Code of Obligations in the event of failure to perform such benefits or to furnish security for them.
 
-[2. Predeceased heir](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 515**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_515)
+###### [2. Predeceased heir](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_4/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 515**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_515)
 
 [1] Where the heir or legatee does not survive the testator, the contract becomes void.
 
@@ -5514,7 +5786,9 @@ If a testator becomes subject to a restriction of testamentary freedom after he 
 
 ###### [II. On grounds of formal defect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_A/lvl_I_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_A/lvl_I_I/lvl_1)###### [**Art. 520**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_520)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 520**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_520)
 
 [1] If the testamentary disposition is formally defective, it is declared invalid on being contested before a court.
 
@@ -5522,7 +5796,9 @@ If a testator becomes subject to a restriction of testamentary freedom after he 
 
 [3] The right of action is governed by the same provisions as apply in the event of a lack of testamentary capacity.
 
-[2. In holographic wills](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_A/lvl_I_I/lvl_2) ###### [**Art. 520***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_520_a)
+###### [2. In holographic wills](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_A/lvl_I_I/lvl_2)
+
+###### [**Art. 520***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_520_a)
 
 If the formal defect in a holographic will consists in the day, month or year not being indicated correctly or at all, the will may be declared invalid only if the precise date cannot be ascertained in some other manner and is necessary in order to determine the testator’s testamentary capacity, the chronological order of multiple wills or any other issue affecting the validity of the will.
 
@@ -5540,17 +5816,23 @@ If the formal defect in a holographic will consists in the day, month or year no
 
 ###### [I. Requirements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I/lvl_1) ###### [**Art. 522**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_522)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I/lvl_1)
+
+###### [**Art. 522**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_522)
 
 [1] Where the testator has exceeded his or her testamentary freedom, those heirs who do not receive the full value of their statutory entitlement may sue to have the disposition abated to the permitted amount.
 
 [2] Clauses contained in testamentary dispositions relating to the entitlements of the statutory heirs are deemed merely to be instructions for dividing the estate unless it is evident from the disposition that the testator intended otherwise.
 
-[2. Bequests in favour of heirs with a statutory entitlement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I/lvl_2) ###### [**Art. 523**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_523)
+###### [2. Bequests in favour of heirs with a statutory entitlement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I/lvl_2)
+
+###### [**Art. 523**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_523)
 
 Where a testamentary disposition contains legacies in favour of several heirs with a statutory entitlement and the testator has exceeded his or her testamentary freedom, such legacies shall be abated among the co-heirs in proportion to the amounts by which they exceed each co-heir’s statutory entitlement.
 
-[3. Rights of creditors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I/lvl_3) ###### [**Art. 524**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_524)
+###### [3. Rights of creditors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I/lvl_3)
+
+###### [**Art. 524**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_524)
 
 [1] Where the testator has exceeded his or her testamentary freedom to the detriment of an heir and the latter fails to bring a action in abatement despite being instructed to do so by the bankruptcy administrators or by creditors holding unpaid debt certificates on succession, the administrators or creditors themselves may bring an action in abatement for the amount necessary to cover their claims within the same time limit that applies to the heir.
 
@@ -5558,17 +5840,23 @@ Where a testamentary disposition contains legacies in favour of several heirs wi
 
 ###### [II. Effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I)
 
-[1. Of abatement in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 525**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_525)
+###### [1. Of abatement in general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 525**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_525)
 
 [1] Abatement is applied in equal proportion in respect of all named heirs and legatees unless it is evident from the disposition that the testator intended otherwise.
 
 [2] Where the abatement applies to a legacy whose beneficiary is also the obligor of other legacies, subject to the same proviso such beneficiary may request that those other legacies be abated proportionately.
 
-[2. On specific legacies](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 526**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_526)
+###### [2. On specific legacies](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 526**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_526)
 
 Where a specific legacy that cannot be divided without loss of value is to be abated, the legatee may either claim it and pay the balance or claim the disposable amount in lieu of the object.
 
-[3. On dispositions inter vivos](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_3) [a. Cases](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 527**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_527)
+###### [3. On dispositions inter vivos](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_3)
+
+[a. Cases](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 527**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_527)
 
 The following are subject to abatement in the same manner as testamentary dispositions:
 
@@ -5584,15 +5872,21 @@ The following are subject to abatement in the same manner as testamentary dispos
 
 [2] Where benefits conferred under a contract of succession are subject to abatement, the beneficiary is entitled to reclaim a proportionate amount of the counter-performance made to the testator.
 
-[4. On assurance claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_4) ###### [**Art. 529**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_529)
+###### [4. On assurance claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_4)
+
+###### [**Art. 529**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_529)
 
 Where a life assurance claim maturing on the death of the deceased was established in favour of a third party by a disposition inter vivos or by a testamentary disposition or was transferred by the deceased during his or her lifetime to a third party without valuable consideration, such claim is subject to abatement at its redemption value.
 
-[5. On usufruct and annuities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_5) ###### [**Art. 530**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_530)
+###### [5. On usufruct and annuities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_5)
+
+###### [**Art. 530**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_530)
 
 If the testator has encumbered the estate with rights of usufruct and annuities such that their capitalised value over their probable duration exceeds the disposable part of the estate, the heirs are entitled either to seek proportionate abatement of such rights or to redeem them by surrendering the disposable part of the estate to the beneficiaries.
 
-[6. On naming of remaindermen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_6) ###### [**Art. 531**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_531)
+###### [6. On naming of remaindermen](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_1/tit_14/chap_6/lvl_B/lvl_I_I/lvl_6)
+
+###### [**Art. 531**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_531)
 
 The naming of a remainderman in respect of an heir entitled to a statutory entitlement is invalid as to that part of the estate; the provision on issue who are incapable of judgement is reserved.
 
@@ -5676,7 +5970,9 @@ If as a result of abatement a renouncing heir is obliged to reimburse the estate
 
 ###### [2. Unworthiness to inherit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_15/lvl_C/lvl_I/lvl_2)
 
-[a. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_15/lvl_C/lvl_I/lvl_2/lvl_a) ###### [**Art. 540**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_540)
+###### [a. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_15/lvl_C/lvl_I/lvl_2/lvl_a)
+
+###### [**Art. 540**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_540)
 
 [1] A person is unworthy of inheriting or acquiring anything by a testamentary disposition if:
 
@@ -5688,7 +5984,9 @@ If as a result of abatement a renouncing heir is obliged to reimburse the estate
 
 [2] Unworthiness to inherit does not apply if the person now deceased has forgiven the person concerned.
 
-[b. Effect on issue](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_15/lvl_C/lvl_I/lvl_2/lvl_b) ###### [**Art. 541**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_541)
+###### [b. Effect on issue](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_15/lvl_C/lvl_I/lvl_2/lvl_b)
+
+###### [**Art. 541**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_541)
 
 [1] Unworthiness to inherit applies only to the person concerned.
 
@@ -5900,7 +6198,9 @@ The order to seal the estate is given whenever provided for by cantonal law.
 
 ###### [III. Legatees](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I)
 
-[1. Vesting](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_1) ###### [**Art. 562**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_562)
+###### [1. Vesting](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_1)
+
+###### [**Art. 562**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_562)
 
 [1] The legatees have a personal claim against the obligors of their legacies or, where no-one is specifically named as such, against the legal or named heirs.
 
@@ -5908,19 +6208,25 @@ The order to seal the estate is given whenever provided for by cantonal law.
 
 [3] If the heirs fail to fulfil their obligation, they may be sued for release of the bequeathed property or, where the legacy pertains to performance of some action, for damages.
 
-[2. Object](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_2) ###### [**Art. 563**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_563)
+###### [2. Object](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_2)
+
+###### [**Art. 563**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_563)
 
 [1] Where the bequest to the legatee is a usufruct or annuity or other recurring benefit, unless otherwise stipulated, his or her claim is determined according to the provisions of property law and the Code of Obligations.
 
 [2] If the legacy is a life assurance claim maturing on the death of the testator, the legatee is entitled to assert that claim directly.
 
-[3. Relationship between creditors and legatees](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_3) ###### [**Art. 564**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_564)
+###### [3. Relationship between creditors and legatees](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_3)
+
+###### [**Art. 564**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_564)
 
 [1] The claims of the testator’s creditors precede those of legatees.
 
 [2] The claims of the heir’s creditors rank equally with those of the testator’s creditors, provided the heir acquired the inheritance without reservation.
 
-[4. Abatement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_4) ###### [**Art. 565**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_565)
+###### [4. Abatement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_A/lvl_II_I/lvl_4)
+
+###### [**Art. 565**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_565)
 
 [1] If, after the legacies have been distributed, the heirs pay debts of the estate that were previously unknown to them, they are entitled to reimbursement from the legatees of an amount corresponding to the proportionate abatement of such legacies that the heirs could have claimed.
 
@@ -5930,13 +6236,17 @@ The order to seal the estate is given whenever provided for by cantonal law.
 
 ###### [I. Declaration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I)
 
-[1. Right to renounce](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_1) ###### [**Art. 566**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_566)
+###### [1. Right to renounce](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_1)
+
+###### [**Art. 566**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_566)
 
 [1] The legal and named heirs are entitled to disclaim the inheritance passing to them.
 
 [2] There is a presumption of a disclaimer if at the time of his or her death the deceased had been officially declared insolvent or was manifestly insolvent.
 
-[2. Time limit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_2) [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_2/lvl_a) ###### [**Art. 567**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_567)
+###### [2. Time limit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_2)
+
+[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_2/lvl_a) ###### [**Art. 567**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_567)
 
 [1] The time limit for a disclaimer is three months.
 
@@ -5946,7 +6256,9 @@ The order to seal the estate is given whenever provided for by cantonal law.
 
 If an inventory has been drawn up as a precautionary measure, the disclaimer time limit for all heirs begins on the date on which the authority notified them that the inventory was complete.
 
-[3. Passing of right to disclaim](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_3) ###### [**Art. 569**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_569)
+###### [3. Passing of right to disclaim](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_3)
+
+###### [**Art. 569**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_569)
 
 [1] If an heir dies before disclaiming or accepting an inheritance, the right to disclaim passes to his or her heirs.
 
@@ -5954,7 +6266,9 @@ If an inventory has been drawn up as a precautionary measure, the disclaimer tim
 
 [3] Where such heirs disclaim the inheritance and it passes to other heirs who previously had no succession rights, the disclaimer time limit for the latter begins on the date on which they learned of the disclaimer.
 
-[4. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_4) ###### [**Art. 570**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_570)
+###### [4. Form](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I/lvl_4)
+
+###### [**Art. 570**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_570)
 
 [1] An heir must declare his or her disclaimer orally or in writing to the competent authority.
 
@@ -5980,17 +6294,23 @@ If an inventory has been drawn up as a precautionary measure, the disclaimer tim
 
 ###### [IV. Disclaimer by all the nearest heirs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I_V)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I_V/lvl_1) ###### [**Art. 573**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_573)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I_V/lvl_1)
+
+###### [**Art. 573**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_573)
 
 [1] Where the inheritance is disclaimed by all the nearest heirs, the estate is liquidated by the bankruptcy office.
 
 [2] If liquidation produces a surplus after payment of debts, this passes to those entitled to inherit as if they had not disclaimed it.
 
-[2. Entitlement of surviving spouse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I_V/lvl_2) ###### [**Art. 574**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_574)
+###### [2. Entitlement of surviving spouse](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I_V/lvl_2)
+
+###### [**Art. 574**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_574)
 
 If the deceased’s issue have disclaimed the inheritance, the authority notifies the disclaimer to the surviving spouse, who is entitled to declare acceptance within one month.
 
-[3. Disclaimer in favour of subsequent heirs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I_V/lvl_3) ###### [**Art. 575**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_575)
+###### [3. Disclaimer in favour of subsequent heirs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_2/lvl_B/lvl_I_V/lvl_3)
+
+###### [**Art. 575**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_575)
 
 [1] When disclaiming the inheritance, the heirs may request that it be offered to their subsequent heirs before the estate is liquidated.
 
@@ -6118,7 +6438,9 @@ Where a legatee disclaims a legacy, it becomes void in favour of the obligor, un
 
 ###### [III. Effects of acceptance subject to public inventory](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_3/lvl_D/lvl_II_I)
 
-[1. Liability as per inventory](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_3/lvl_D/lvl_II_I/lvl_1) ###### [**Art. 589**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_589)
+###### [1. Liability as per inventory](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_3/lvl_D/lvl_II_I/lvl_1)
+
+###### [**Art. 589**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_589)
 
 [1] Where an heir accepts the inheritance subject to public inventory, the debts of the deceased listed in the inventory and the assets pass to him or her.
 
@@ -6126,7 +6448,9 @@ Where a legatee disclaims a legacy, it becomes void in favour of the obligor, un
 
 [3] The heir is liable for debts listed in the inventory both with the inheritance and with his or her own assets.
 
-[2. Liability beyond the inventory](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_3/lvl_D/lvl_II_I/lvl_2) ###### [**Art. 590**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_590)
+###### [2. Liability beyond the inventory](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_16/chap_3/lvl_D/lvl_II_I/lvl_2)
+
+###### [**Art. 590**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_590)
 
 [1] The heirs are not liable either personally or with the inheritance towards creditors of the estate whose claims were not included in the inventory because the creditors failed to register them in time.
 
@@ -6388,7 +6712,9 @@ If as a result of the division an heir receives estate property that is pledged 
 
 ###### [IV. Land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_17/chap_2/lvl_D/lvl_I_V)
 
-[1. Method of allocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_17/chap_2/lvl_D/lvl_I_V/lvl_1) [a. Imputed value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_17/chap_2/lvl_D/lvl_I_V/lvl_1/lvl_a) ###### [**Art. 617**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_617)
+###### [1. Method of allocation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_17/chap_2/lvl_D/lvl_I_V/lvl_1)
+
+[a. Imputed value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_3/part_2/tit_17/chap_2/lvl_D/lvl_I_V/lvl_1/lvl_a) ###### [**Art. 617**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_617)
 
 Land is charged to the heirs’ portions at its market value as at the time of the division.
 
@@ -6640,11 +6966,15 @@ Chattels do not qualify as accessories if they are intended for temporary use or
 
 ###### [5. Construction work](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_5)
 
-[a. Necessary work](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_5/lvl_a) ###### [**Art. 647***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_647_c)
+###### [a. Necessary work](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_5/lvl_a)
+
+###### [**Art. 647***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_647_c)
 
 Maintenance, reconstruction and renovation work necessary to preserve the object’s value and serviceability may be carried out with the consent of the majority of co-owners where such work does not fall under the authority of each individual co-owner to take ordinary administrative steps.
 
-[b. Useful work](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_5/lvl_b) ###### [**Art. 647***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_647_d)
+###### [b. Useful work](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_5/lvl_b)
+
+###### [**Art. 647***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_647_d)
 
 [1] Renovations and refurbishments aimed at enhancing the value or improving the object’s profitability or serviceability require the approval of a majority of the co-owners together representing a majority share in the object.
 
@@ -6652,7 +6982,9 @@ Maintenance, reconstruction and renovation work necessary to preserve the object
 
 [3] Where an alteration would require a co-owner to bear unreasonable costs, in particular because they are disproportionate to the value of his or her share, the alteration may be carried out without his or her consent only if the other co-owners assume such part of his or her share of the costs as exceeds that which he or she may reasonably be expected to meet.
 
-[c. Works to improve appearance or convenience](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_5/lvl_c) ###### [**Art. 647***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_647_e)
+###### [c. Works to improve appearance or convenience](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_5/lvl_c)
+
+###### [**Art. 647***e*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_647_e)
 
 [1] Building works serving merely to embellish the object, improve its appearance or make its use more comfortable or convenient may only be carried out with the consent of all the co-owners.
 
@@ -6686,7 +7018,9 @@ The use and administration rules agreed by the co-owners, their administrative d
 
 ###### [9. Exclusion from collective ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_9)
 
-[a. Co-owners](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_9/lvl_a) ###### [**Art. 649***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_649_b)
+###### [a. Co-owners](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_9/lvl_a)
+
+###### [**Art. 649***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_649_b)
 
 [1] A co-owner may be excluded from the community of co-owners by court order if, as a result of his or her conduct or that of persons to whom he or she granted use of the object or for whom he or she is responsible, his or her duties towards the other co-owners individually or collectively are so seriously violated that continuation of the community of co-owners becomes unreasonable.
 
@@ -6694,13 +7028,17 @@ The use and administration rules agreed by the co-owners, their administrative d
 
 [3] If the court rules in favour of excluding the defendant, it shall order him or her to alienate his or her share and, should he or she fail to do so within the allowed time limit, shall order it to be sold at public auction in accordance with the provisions governing the forced sale of land to the exclusion of the provisions governing dissolution of co-ownership.
 
-[b. Further entitled persons](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_9/lvl_b) ###### [**Art. 649***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_649_c)
+###### [b. Further entitled persons](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_9/lvl_b)
+
+###### [**Art. 649***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_649_c)
 
 The provisions governing exclusion of co-owners apply *mutatis m**u**tandis* to usufructuaries and to owners of other rights in rem or personal rights of use entered under priority notice in the land register in respect of co-ownership shares.
 
 ###### [10. Dissolution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_10)
 
-[a. Right to request division](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_10/lvl_a) ###### [**Art. 650**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_650)
+###### [a. Right to request division](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_10/lvl_a)
+
+###### [**Art. 650**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_650)
 
 [1] Every co-owner has the right to request the dissolution of the co-ownership unless this is excluded by an agreement, by division of the object into condominium units or by the dedication of the object to a permanent purpose.
 
@@ -6708,7 +7046,9 @@ The provisions governing exclusion of co-owners apply *mutatis m**u**tandis* to 
 
 [3] Dissolution may not be requested at an inopportune time.
 
-[b. Form of partition](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_10/lvl_b) ###### [**Art. 651**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_651)
+###### [b. Form of partition](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_10/lvl_b)
+
+###### [**Art. 651**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_651)
 
 [1] Dissolution is effected by means of physical division, by private sale or sale at auction and division of the sale proceeds, or by transfer of the entire object to one or more co-owners who buy out the others.
 
@@ -6716,7 +7056,9 @@ The provisions governing exclusion of co-owners apply *mutatis m**u**tandis* to 
 
 [3] Physical division giving rise to unequal shares may entail monetary payments to balance out the shares.
 
-[c. Animals kept as pets](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_10/lvl_c) ###### [**Art. 651***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_651_a)
+###### [c. Animals kept as pets](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_18/lvl_C/lvl_I/lvl_10/lvl_c)
+
+###### [**Art. 651***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_651_a)
 
 [1] In the event of disputes over ownership of animals kept as pets rather than for investment or commercial purposes, the court will award sole ownership to whichever party offers the better conditions of animal welfare in which to keep the animal.
 
@@ -6802,19 +7144,25 @@ The dissolution of joint ownership of agricultural enterprises and agricultural 
 
 ###### [II. Types of acquisition](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I)
 
-[1. Transfer](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 657**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_657)
+###### [1. Transfer](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 657**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_657)
 
 [1] In order to be binding, a contract to transfer land ownership must be executed as a public deed.
 
 [2] Testamentary disposition and marital contracts require the forms prescribed by the law of succession and marital property law.
 
-[2. Appropriation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 658**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_658)
+###### [2. Appropriation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 658**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_658)
 
 [1] Immovable property recorded in the land register may be appropriated only if the register establishes that it has no owner.
 
 [2] Appropriation of land not recorded in the land register is subject to the provisions governing ownerless objects.
 
-[3. Formation of new land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_3) ###### [**Art. 659**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_659)
+###### [3. Formation of new land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_3)
+
+###### [**Art. 659**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_659)
 
 [1] If new exploitable land is formed from previously ownerless land as a result of alluvion, filling or ground displacement, changes in the course or level of public waters or in some other manner, such land belongs to the canton in which it lies.
 
@@ -6822,7 +7170,9 @@ The dissolution of joint ownership of agricultural enterprises and agricultural 
 
 [3] If a person can show that parts of ground have become detached from his or her property, he or she is entitled to take them back within an appropriate period.
 
-[4. Ground displacement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_4) [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_a)###### [**Art. 660**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_660)
+###### [4. Ground displacement](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_4)
+
+[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_4/lvl_a)###### [**Art. 660**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_660)
 
 [1] Ground displacement from one parcel of land to another does not alter the boundaries of the parcels.
 
@@ -6842,7 +7192,9 @@ The dissolution of joint ownership of agricultural enterprises and agricultural 
 
 [2] Any loss or gain in value shall be balanced out.
 
-[5. Adverse possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_5) [a. Ordinary adverse possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_5/lvl_a) ###### [**Art. 661**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_661)
+###### [5. Adverse possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_5)
+
+[a. Ordinary adverse possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_5/lvl_a) ###### [**Art. 661**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_661)
 
 Where a person has been wrongly recorded in the land register as the owner of immovable property, his or her ownership may no longer be challenged if he or she has been in possession of it in good faith, uninterruptedly and without challenge for ten years.
 
@@ -6858,7 +7210,9 @@ Where a person has been wrongly recorded in the land register as the owner of im
 
 The rules for computing, interrupting and suspending adverse possession time limits are determined *mutatis mutandis* by the provisions governing prescription of debt claims.
 
-[6. Ownerless and public objects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_6) ###### [**Art. 664**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_664)
+###### [6. Ownerless and public objects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_1/lvl_B/lvl_I_I/lvl_6)
+
+###### [**Art. 664**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_664)
 
 [1] Ownerless and public objects are subject to the sovereignty of the canton on whose territory they are situated.
 
@@ -6923,7 +7277,9 @@ If a legal entity or other rights holder that is recorded in the land register a
 
 ###### [II. Boundaries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_I_I)
 
-[1. Type of boundary](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_I_I/lvl_1) ###### [**Art. 668**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_668)
+###### [1. Type of boundary](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 668**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_668)
 
 [1] Land boundaries are established by the land register plans and by boundary markings on the land itself.
 
@@ -6931,17 +7287,23 @@ If a legal entity or other rights holder that is recorded in the land register a
 
 [3] The foregoing presumption does not apply to areas designated by the canton as being in permanent danger of ground displacement.
 
-[2. Duty to establish boundaries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_I_I/lvl_2) ###### [**Art. 669**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_669)
+###### [2. Duty to establish boundaries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_I_I/lvl_2)
+
+###### [**Art. 669**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_669)
 
 Every landowner is obliged, at the request of his or her neighbour, to co-operate in establishing the boundary where it is unclear, whether by amendment of the land register plans or by affixing boundary markers.
 
-[3. Co-ownership of boundary markers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_I_I/lvl_3) ###### [**Art. 670**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_670)
+###### [3. Co-ownership of boundary markers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_I_I/lvl_3)
+
+###### [**Art. 670**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_670)
 
 Where boundaries are marked by features such as walls, hedges and fences, such features are presumed to be jointly owned by the two neighbouring landowners.
 
 ###### [III. Buildings on the parcel of land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I)
 
-[1. Land and building materials](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_1) [a. Ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_1/lvl_a) ###### [**Art. 671**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_671)
+###### [1. Land and building materials](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_1)
+
+[a. Ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_1/lvl_a) ###### [**Art. 671**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_671)
 
 [1] Where a person uses materials belonging to another in building work on his or her own land or materials of his or her own on land belonging to another, such materials become an integral part of the parcel of land.
 
@@ -6961,7 +7323,9 @@ Where boundaries are marked by features such as walls, hedges and fences, such f
 
 Where the value of the building plainly exceeds the value of the land, the party acting in good faith may request that ownership of both building and land be assigned to the owner of the materials in exchange for appropriate compensation.
 
-[2. Encroaching buildings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_2) ###### [**Art. 674**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_674)
+###### [2. Encroaching buildings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_2)
+
+###### [**Art. 674**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_674)
 
 [1] Buildings and other structures encroaching from one parcel of land onto another remain part of the parcel from which they originate, providing their owner has a right in rem to their existence.
 
@@ -6969,13 +7333,17 @@ Where the value of the building plainly exceeds the value of the land, the party
 
 [3] If an injured party fails to object in timely manner to an unauthorised encroachment, despite being aware of it, where justified in the circumstances the builder of the encroaching structure, provided he or she acted in good faith, may be granted ownership of the encroaching part thereof or of the land below it in exchange for appropriate compensation.
 
-[3. Building right](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_3) ###### [**Art. 675**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_675)
+###### [3. Building right](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_3)
+
+###### [**Art. 675**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_675)
 
 [1] Buildings and other structures that are dug into or built onto land belonging to another person or otherwise permanently connected with that parcel of land on or below its surface may have a separate owner provided their existence is recorded as an easement in the land register.
 
 [2] The creation of rights to buildings in respect of individual storeys of a building is not permitted.
 
-[4. Pipes, cables, conduits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_4) ###### [**Art. 676**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_676)
+###### [4. Pipes, cables, conduits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_4)
+
+###### [**Art. 676**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_676)
 
 [1] Pipes, cables and conduits for water, gas, electricity and the like located outside the parcel of land which they serve are, except where otherwise regulated, the property of the utility plant from which they come or to which they lead.
 
@@ -6983,7 +7351,9 @@ Where the value of the building plainly exceeds the value of the land, the party
 
 [3] If the pipe, cable or conduit is visible, the easement is created when the pipe, cable or conduit is laid. In other cases, it is created by entry in the land register.
 
-[5. Movable structures](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_5) ###### [**Art. 677**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_677)
+###### [5. Movable structures](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_II_I/lvl_5)
+
+###### [**Art. 677**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_677)
 
 [1] Sheds, huts, shacks, cabins and the like retain their separate owner if they are constructed on land belonging to another person without the intention of becoming a permanent fixture.
 
@@ -7001,13 +7371,17 @@ Where the value of the building plainly exceeds the value of the land, the party
 
 ###### [V. Landowner’s liability](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_V)
 
-[1. Acts in excess of ownership rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_V/lvl_1)###### [**Art. 679**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_679)
+###### [1. Acts in excess of ownership rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_V/lvl_1)
+
+###### [**Art. 679**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_679)
 
 1 Where a person incurs or is at risk of damage because a landowner acts in excess of his or her ownership rights, he or she may sue for abatement of the damage or for protection against any imminent damage and for damages.
 
 [2] Where a building or installation deprives a neighbouring parcel of land of certain properties, the aforementioned rights apply only if the regulations that applied at the time the building or installation was constructed were not complied with.
 
-[2. Lawful management of the land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_V/lvl_2) ###### [**Art. 679***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_679_a)
+###### [2. Lawful management of the land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_A/lvl_V/lvl_2)
+
+###### [**Art. 679***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_679_a)
 
 Where a landowner temporarily causes excessive and unavoidable disadvantages to a neighbour while managing his or her parcel of land lawfully, in particular by building and thus causes damage, the neighbour may only claim damages from the landowner.
 
@@ -7025,7 +7399,9 @@ Where a landowner temporarily causes excessive and unavoidable disadvantages to 
 
 ###### [II. Restrictions on alienation; statutory right of pre-emption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I)
 
-[1. General principles](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 681**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_681)
+###### [1. General principles](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 681**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_681)
 
 [1] Statutory rights of pre-emption may also be exercised in the case of compulsory sale at auction, but only at the auction itself and on the conditions that apply to a sale to the highest bidder; in other respects statutory rights of pre-emption may be exercised subject to the conditions that apply to contractual rights of pre-emption.
 
@@ -7033,7 +7409,9 @@ Where a landowner temporarily causes excessive and unavoidable disadvantages to 
 
 [3] Statutory rights of pre-emption may neither be inherited nor assigned. They take precedence over contractual rights of pre-emption.
 
-[2. Exercise](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 681***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_681_a)
+###### [2. Exercise](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 681***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_681_a)
 
 [1] Where a purchase agreement is concluded, the vendor must notify persons with a right of pre-emption of the terms thereof.
 
@@ -7041,13 +7419,17 @@ Where a landowner temporarily causes excessive and unavoidable disadvantages to 
 
 [3] During that time a person may exercise a right of pre-emption against any owner of the land.
 
-[3. Modification, waiver](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_3) ###### [**Art. 681***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_681_b)
+###### [3. Modification, waiver](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_3)
+
+###### [**Art. 681***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_681_b)
 
 [1] An agreement excluding or modifying a statutory right of pre-emption is valid only if executed in the form of a public deed. It may be entered under priority notice in the land register provided the right of pre-emption is held by the current owner of another parcel of land.
 
 [2] The beneficiary may waive his or her statutory right of pre-emption in writing once the event that triggers it has occurred.
 
-[4. In respect of co-ownership and building rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_4)###### [**Art. 682**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_682)
+###### [4. In respect of co-ownership and building rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_4)
+
+###### [**Art. 682**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_682)
 
 [1] Co-owners have a right of pre-emption against any person acquiring a share who is not a co-owner. If several co-owners exercise their right of pre-emption, the share is allocated to them in proportion to their existing shares.
 
@@ -7055,7 +7437,9 @@ Where a landowner temporarily causes excessive and unavoidable disadvantages to 
 
 [3]...
 
-[5. Right of pre-emption of farms and farmland](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_5) ###### [**Art. 682***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_682_a)
+###### [5. Right of pre-emption of farms and farmland](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_I/lvl_5)
+
+###### [**Art. 682***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_682_a)
 
 Rights of pre-emption of agricultural enterprises and agricultural land are also governed by the Federal Act of 4 October 1991 on Rural land Rights.
 
@@ -7063,13 +7447,17 @@ Rights of pre-emption of agricultural enterprises and agricultural land are also
 
 ###### [III. Law of neighbours](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I)
 
-[1. Excess detriment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_1)###### [**Art. 684**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_684)
+###### [1. Excess detriment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_1)
+
+###### [**Art. 684**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_684)
 
 [1] In exercising their ownership rights, including in particular the right to run a business on his or her land, landowners are obliged to refrain from any excess detrimental to neighbouring properties.
 
 [2] In particular all harmful effects that are not justified by the location and character of the land or by local custom such as air pollution emissions of noxious vapours, noise, vibrations, radiation or the deprivation of sunlight or daylight are prohibited.
 
-[2. Excavation and construction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_2) [a. Rule](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 685**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_685)
+###### [2. Excavation and construction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_2)
+
+[a. Rule](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 685**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_685)
 
 [1] When carrying out excavation or construction work, the owner is not permitted to damage the adjoining properties by causing their terrain to shift, exposing it to the risk of shifting or by weakening existing structures.
 
@@ -7081,7 +7469,9 @@ Rights of pre-emption of agricultural enterprises and agricultural land are also
 
 [2] They have the right to issue further building regulations.
 
-[3. Plants](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_3) [a. Rule](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_3/lvl_a) ###### [**Art. 687**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_687)
+###### [3. Plants](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_3)
+
+[a. Rule](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_3/lvl_a) ###### [**Art. 687**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_687)
 
 [1] Overhanging branches and roots encroaching beyond the boundary may be severed and kept by the neighbour if they are damaging his or her property and have not been removed within a reasonable time following his or her complaint in relation thereto.
 
@@ -7093,7 +7483,9 @@ Rights of pre-emption of agricultural enterprises and agricultural land are also
 
 The cantons are authorised to set minimum separation distances for plantations depending on the type of land and plants involved or to oblige the landowner to permit the overhanging branches or encroaching roots of fruit trees and to regulate or annul his or her right to take the fruit from such branches.
 
-[4. Flowing waters](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_4) ###### [**Art. 689**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_689)
+###### [4. Flowing waters](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_4)
+
+###### [**Art. 689**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_689)
 
 [1] Every landowner is obliged to receive the waters flowing naturally from a higher-lying parcel of land, such as rain water, melting snow and water from unchannelled springs.
 
@@ -7101,13 +7493,17 @@ The cantons are authorised to set minimum separation distances for plantations d
 
 [3] Water flowing to a lower-lying parcel of land and required by that property may be withheld only to the extent that such water is indispensable to the higher-lying parcel of land.
 
-[5. Drainage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_5) ###### [**Art. 690**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_690)
+###### [5. Drainage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_5)
+
+###### [**Art. 690**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_690)
 
 [1] Where a higher-lying parcel of land is drained, the owner of lower-lying parcel of land is obliged to receive such water as previously flowed naturally onto his or her land without being entitled to compensation.
 
 [2] If he or she suffers damage as a result of drainage channels, he or she may require the owner of the higher-lying parcel of land to continue such channels through the lower-lying parcel of land at the latter’s expense.
 
-[6. Pipes, cables, conduits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_6) [a. Duty to permit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_6/lvl_a) ###### [**Art. 691**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_691)
+###### [6. Pipes, cables, conduits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_6)
+
+[a. Duty to permit](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_6/lvl_a) ###### [**Art. 691**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_691)
 
 [1] Every landowner is obliged to permit water conduits, drainage pipes, gas pipes and the like and subterranean or overhead cables to traverse his or her land in exchange for full compensation, to the extent that such works would be impossible or prohibitively expensive if they did not traverse his or her land.
 
@@ -7129,7 +7525,9 @@ The cantons are authorised to set minimum separation distances for plantations d
 
 [3] However, where justified by special circumstances, an appropriate portion of the costs may be charged to the servient owner.
 
-[7. Rights of way](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_7) [a. Necessary right of way](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_7/lvl_a) ###### [**Art. 694**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_694)
+###### [7. Rights of way](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_7)
+
+[a. Necessary right of way](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_7/lvl_a) ###### [**Art. 694**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_694)
 
 [1] Where a landowner does not have adequate access from his or her land to a public thoroughfare, he or she has the right to require his or her neighbours to grant him or her the necessary right of way in exchange for full compensation.
 
@@ -7147,31 +7545,41 @@ The cantons reserve the right to enact more detailed provisions which govern the
 
 [2] However, if permanent they are noted in the land register.
 
-[8. Enclosure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_8) ###### [**Art. 697**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_697)
+###### [8. Enclosure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_8)
+
+###### [**Art. 697**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_697)
 
 [1] The costs of enclosing a parcel of land are borne by its owner, subject to the provisions governing co-ownership of boundary markers.
 
 [2] Cantonal law may enact provisions governing the duty to enclose and the manner of enclosure.
 
-[9. Duty to maintain](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_9) ###### [**Art. 698**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_698)
+###### [9. Duty to maintain](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_II_I/lvl_9)
+
+###### [**Art. 698**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_698)
 
 The costs of any structures required for the exercise of rights under the law of neighbours are borne by the landowners in proportion to their interests.
 
 ###### [IV. Right of access and to ward off danger](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_V)
 
-[1. Access](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_V/lvl_1) ###### [**Art. 699**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_699)
+###### [1. Access](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_V/lvl_1)
+
+###### [**Art. 699**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_699)
 
 [1] Any person has the right to enter woodlands and meadows and to gather wild berries, fungi and the like to the extent permitted by local custom except where the competent authority enacts specific limited prohibitions in the interests of conservation.
 
 [2] Cantonal law may enact more detailed regulations on access to land owned by others for the purposes of hunting and fishing.
 
-[2. Retrieval of driftage and the like](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_V/lvl_2) ###### [**Art. 700**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_700)
+###### [2. Retrieval of driftage and the like](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_V/lvl_2)
+
+###### [**Art. 700**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_700)
 
 [1] If objects are carried onto another parcel of land by water, wind, avalanche or other force of nature or by chance event, or if animals such as livestock, swarms of bees, poultry and fish stray onto his or her property, the landowner must grant the rightful owner access to his or her land to search for and retrieve them.
 
 [2] The landowner is entitled to claim damages for any damage caused and to that end has a special lien as to such objects and animals.
 
-[3. Trespass to ward off danger or damage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_V/lvl_3) ###### [**Art. 701**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_701)
+###### [3. Trespass to ward off danger or damage](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_I_V/lvl_3)
+
+###### [**Art. 701**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_701)
 
 [1] If a person is able to ward off imminent damage or present danger from himself or herself or others only by trespassing on land belonging to another, the latter is obliged to tolerate such trespass to the extent that such danger or damage would be considerably greater than the detriment caused by the trespass.
 
@@ -7179,11 +7587,15 @@ The costs of any structures required for the exercise of rights under the law of
 
 ###### [V. Public law restrictions on ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_V)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_V/lvl_1) ###### [**Art. 702**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_702)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_V/lvl_1)
+
+###### [**Art. 702**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_702)
 
 The Confederation, cantons and communes reserve the right to impose restrictions on ownership that are in the public interest, and in particular that relate to building, fire and health regulations, forestry and road services, towpaths, erection of boundary markings and triangulation pillars, land improvements, fragmentation of landholdings, consolidation of agricultural land and building land, conservation of antiquities and natural monuments, preservation of areas of natural beauty and scenic vantage points and protection of mineral springs.
 
-[2. Land improvements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_V/lvl_2) ###### [**Art. 703**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_703)
+###### [2. Land improvements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_B/lvl_V/lvl_2)
+
+###### [**Art. 703**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_703)
 
 [1] Where it is possible to carry out land improvements, such as watercourse modifications, drainage, irrigation, reforestation, path-building, land consolidation procedures and the like, only by collective endeavour and such endeavour has been approved by the majority of the landowners owning more than half of the land involved, the other landowners are obliged to participate. Landowners who choose not to participate in the decision-making process are deemed to consent. Participation is recorded in the land register.
 
@@ -7213,13 +7625,17 @@ The Confederation, cantons and communes reserve the right to impose restrictions
 
 ###### [III. Cutting off springs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_II_I)
 
-[1. Damages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_II_I/lvl_1) ###### [**Art. 706**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_706)
+###### [1. Damages](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_II_I/lvl_1)
+
+###### [**Art. 706**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_706)
 
 [1] Where springs and wells that enjoy considerable use or whose waters are collected for further use are cut off, diminished or contaminated by building works, installations or other measures to the detriment of their owners or rightful users, such persons are entitled to claim damages.
 
 [2] Where the damage was done neither intentionally nor through negligence, or the injured parties are themselves at fault, the court determines the amount and manner of compensation at its discretion.
 
-[2. Restoration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_II_I/lvl_2) ###### [**Art. 707**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_707)
+###### [2. Restoration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_II_I/lvl_2)
+
+###### [**Art. 707**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_707)
 
 [1] If springs and wells that are indispensable for the exploitation or habitation of a parcel of land or for the supply of drinking water are cut off or contaminated, those affected have the right to demand that the status quo ante be restored where at all possible.
 
@@ -7253,13 +7669,17 @@ The cantons have the right to determine the extent to which privately owned spri
 
 ###### [VII. Duty to cede](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_VI_I)
 
-[1. Water sources](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_VI_I/lvl_1) ###### [**Art. 711**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_711)
+###### [1. Water sources](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_VI_I/lvl_1)
+
+###### [**Art. 711**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_711)
 
 [1] Where landowners make no use of springs, wells or streams, or make very little use thereof in comparison with their potential utility, they may be required to cede them in exchange for full compensation for supplying drinking water, fire hydrants or other uses in the public interest.
 
 [2] Such compensation may take the form of water supplied from the new installation.
 
-[2. Land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_VI_I/lvl_2) ###### [**Art. 712**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712)
+###### [2. Land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_2/lvl_C/lvl_VI_I/lvl_2)
+
+###### [**Art. 712**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712)
 
 Owners of drinking water utilities have the right to expropriate the land surrounding their springs to the extent necessary to protect them from contamination.
 
@@ -7358,7 +7778,9 @@ Owners of drinking water utilities have the right to expropriate the land surrou
 
 ###### [II. Communal charges and costs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_C/lvl_I_I)
 
-[1. Definition and distribution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_C/lvl_I_I/lvl_1) ###### [**Art. 712***h*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_h)
+###### [1. Definition and distribution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_C/lvl_I_I/lvl_1)
+
+###### [**Art. 712***h*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_h)
 
 [1] The condominium owners bear the charges in relation to the communal parts of the property and the costs of joint administration in proportion to the value of their shares.
 
@@ -7372,7 +7794,9 @@ Owners of drinking water utilities have the right to expropriate the land surrou
 
 [3] Where specific parts of the building, fittings or installations are of little or no benefit to certain condominium owners, the allocation of shared costs must take this into account.
 
-[2. Liability for cost contributions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_C/lvl_I_I/lvl_2) [a. Statutory lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_C/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 712***i*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_i)
+###### [2. Liability for cost contributions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_C/lvl_I_I/lvl_2)
+
+[a. Statutory lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_C/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 712***i*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_i)
 
 [1] The community of condominium owners is entitled to establish a lien on each condominium owner’s unit as security for his or her portion of the shared costs over the previous three years.
 
@@ -7396,7 +7820,9 @@ The community of condominium owners has the same special lien that a lessor woul
 
 ###### [I. Assembly of condominium owners](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I)
 
-[1. Competence and legal status](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_1) ###### [**Art. 712***m*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_m)
+###### [1. Competence and legal status](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_1)
+
+###### [**Art. 712***m*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_m)
 
 [1] In addition to those rights stipulated in other provisions, the assembly of condominium owners has the following rights in particular:
 
@@ -7410,19 +7836,25 @@ The community of condominium owners has the same special lien that a lessor woul
 
 [2] In the absence of any specific provisions in the law, the assembly of condominium owners and its delegates are subject to the provisions on governing bodies of associations and challenges to resolutions of associations.
 
-[2. Convening and chairing meetings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_2) ###### [**Art. 712***n*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_n)
+###### [2. Convening and chairing meetings](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_2)
+
+###### [**Art. 712***n*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_n)
 
 [1] The assembly of condominium owners is convened and chaired by the administrator, unless the assembly resolves otherwise.
 
 [2] Minutes are taken of the assembly’s resolutions and held in safekeeping by the administrator or the chairman of the meeting.
 
-[3. Voting rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_3) ###### [**Art. 712***o*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_o)
+###### [3. Voting rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_3)
+
+###### [**Art. 712***o*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_o)
 
 [1] Where a unit is owned by more than one person, these persons together have only one vote, to be cast by one of their number as their representative.
 
 [2] Similarly, the owner and the usufructuary of a unit must agree on the exercise of their voting rights, failing which the usufructuary is deemed to hold the right to vote on all administrative matters with the exception of building work carried out for merely useful or decorative purposes or to enhance comfort or convenience.
 
-[4. Quorum](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_4) ###### [**Art. 712***p*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_p)
+###### [4. Quorum](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I/lvl_4)
+
+###### [**Art. 712***p*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_p)
 
 [1] The assembly of condominium owners is quorate if one half of the condominium owners representing one half of the shares in condominium, and in any event at least two condominium owners, are present or represented.
 
@@ -7432,13 +7864,17 @@ The community of condominium owners has the same special lien that a lessor woul
 
 ###### [II. Administrator](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I)
 
-[1. Appointment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_1) ###### [**Art. 712***q*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_q)
+###### [1. Appointment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_1)
+
+###### [**Art. 712***q*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_q)
 
 [1] If the assembly of condominium owners fails to appoint an administrator, any condominium owner is entitled to request the court to appoint one.
 
 [2] Other interested parties, such as the pledgee or insurer, have the same right to request court appointment of an administrator.
 
-[2. Removal](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_2) ###### [**Art. 712***r*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_r)
+###### [2. Removal](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_2)
+
+###### [**Art. 712***r*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_r)
 
 [1] By resolution of the assembly of condominium owners, the administrator may be removed from his or her position at any time, subject to claims for compensation.
 
@@ -7446,7 +7882,9 @@ The community of condominium owners has the same special lien that a lessor woul
 
 [3] A court-appointed administrator may not be removed prior to expiry of the period for which he or she was appointed.
 
-[3. Duties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_3) [a. Implementation of provisions and resolutions concerning administration and use](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 712***s*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_s)
+###### [3. Duties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_3)
+
+[a. Implementation of provisions and resolutions concerning administration and use](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_19/chap_3/lvl_D/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 712***s*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_712_s)
 
 [1] The administrator shall take all action required for collective administration in accordance with the relevant legal provisions, the rules and resolutions passed by the assembly of condominium owners and must of his or her own accord take all measures urgently needed to prevent or remedy damage to the property.
 
@@ -7484,13 +7922,17 @@ Chattel ownership relates to movable physical objects and to forces of nature th
 
 ###### [2. Reservation of ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_I/lvl_2)
 
-[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_I/lvl_2/lvl_a) ###### [**Art. 715**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_715)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_I/lvl_2/lvl_a)
+
+###### [**Art. 715**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_715)
 
 [1] Reservation of ownership in respect of a chattel transferred to the acquirer is only effective provided it is entered in the official register kept by the debt enforcement office at his or her current domicile.
 
 [2] Reservation of ownership is not permitted in livestock trading.
 
-[b. Transactions involving payment by instalments](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_I/lvl_2/lvl_b) ###### [**Art. 716**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_716)
+###### [b. Transactions involving payment by instalments](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_I/lvl_2/lvl_b)
+
+###### [**Art. 716**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_716)
 
 An object transferred under reservation of ownership may be reclaimed by the owner only on condition that he or she reimburse any payments made for it by the acquirer after deduction of an appropriate rental charge and compensation for wear and tear.
 
@@ -7524,7 +7966,9 @@ Ownership of an ownerless chattel is acquired by the act of taking it into posse
 
 ###### [1. Reporting, tracing](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_II_I/lvl_1)
 
-[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_II_I/lvl_1/lvl_a)###### [**Art. 720**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_720)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_II_I/lvl_1/lvl_a)
+
+###### [**Art. 720**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_720)
 
 [1] A person finding a lost object must inform its owner and, if the latter is unknown, either report the find to the police or himself take appropriate steps to publicise the find and trace the owner.
 
@@ -7532,7 +7976,9 @@ Ownership of an ownerless chattel is acquired by the act of taking it into posse
 
 [3] A person who finds an object in an occupied house or on premises used for public services or public transport must deposit it with the head of the household, the tenant or the supervisor.
 
-[b. Animals](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_II_I/lvl_1/lvl_b) ###### [**Art. 720***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_720_a)
+###### [b. Animals](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_1/tit_20/lvl_B/lvl_II_I/lvl_1/lvl_b)
+
+###### [**Art. 720***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_720_a)
 
 [1] A person who finds a lost animal must, subject to Art. 720 para. 3, inform the owner or, if the latter is unknown, report his or her find.
 
@@ -7650,7 +8096,9 @@ Even where possession has been lost, ownership of the chattel is not extinguishe
 
 ###### [I. Creation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I)
 
-[1. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I/lvl_1) ###### [**Art. 731**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_731)
+###### [1. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I/lvl_1)
+
+###### [**Art. 731**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_731)
 
 [1] An easement is created by entry in the land register.
 
@@ -7658,29 +8106,39 @@ Even where possession has been lost, ownership of the chattel is not extinguishe
 
 [3] Adverse possession of an easement is possible only in respect of parcels of land which may be possessed adversely.
 
-[2. Legal transaction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I/lvl_2) ###### [**Art. 732**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_732)
+###### [2. Legal transaction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I/lvl_2)
+
+###### [**Art. 732**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_732)
 
 1 The legal transaction creating an easement is only valid if done as a public deed.
 
 [2] If in the circumstances the exercise of the easement is limited to part of the dominant property and if the geographical location is not sufficiently identifiable in the certificate of legal title, it must be shown in a diagram in an extract of the plan for the land register.
 
-[3. Creation in favour of own property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I/lvl_3) ###### [**Art. 733**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_733)
+###### [3. Creation in favour of own property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I/lvl_3)
+
+###### [**Art. 733**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_733)
 
 The owner of a property may create an easement on a property in favour of another property which he or she also owns.
 
 ###### [II. Extinction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 734**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_734)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 734**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_734)
 
 An easement is extinguished with the deletion of its registration or the complete loss of either the servient or the dominant property.
 
-[2. Amalgamation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 735**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_735)
+###### [2. Amalgamation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 735**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_735)
 
 [1] If the beneficiary of an easement becomes the servient owner, he or she may have the easement deleted from the land register.
 
 [2] If it is not deleted, the easement remains in place as a right in rem.
 
-[3. By court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I_I/lvl_3) ###### [**Art. 736**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_736)
+###### [3. By court order](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_B/lvl_I_I/lvl_3)
+
+###### [**Art. 736**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_736)
 
 [1] If an easement is of no value to the dominant property, the servient owner may request its deletion.
 
@@ -7690,7 +8148,9 @@ An easement is extinguished with the deletion of its registration or the complet
 
 ###### [I. Scope](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_1) ###### [**Art. 737**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_737)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_1)
+
+###### [**Art. 737**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_737)
 
 [1] The beneficiary is entitled to take all measures necessary to preserve and exercise the easement.
 
@@ -7698,21 +8158,29 @@ An easement is extinguished with the deletion of its registration or the complet
 
 [3] The servient owner must not do anything to obstruct the exercise of the easement or render it more difficult.
 
-[2. As defined by land register entry](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_2) ###### [**Art. 738**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_738)
+###### [2. As defined by land register entry](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_2)
+
+###### [**Art. 738**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_738)
 
 [1] The land register entry for an easement defines the scope of the easement, provided it clearly indicates the attendant rights and duties.
 
 [2] Within the limits of such entry, the scope of the easement may be inferred from the reason for its creation or from the fact that it has been exercised unchallenged and in good faith for some length of time.
 
-[3. If needs change](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_3) ###### [**Art. 739**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_739)
+###### [3. If needs change](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_3)
+
+###### [**Art. 739**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_739)
 
 Additional encumbrances may not be imposed on the servient owner if the needs of the dominant property change.
 
-[4. Cantonal law and local custom](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_4) ###### [**Art. 740**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_740)
+###### [4. Cantonal law and local custom](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_4)
+
+###### [**Art. 740**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_740)
 
 In the absence of any other specific arrangement in a given case, cantonal law and local custom shall govern rights of way, such as footpaths, bridle paths, carriageways, field paths, rights of transit in the dead season or for carting wood, rights of pasture, of transit for watering cattle or for irrigation and similar rights.
 
-[5. In the case of two or more beneficiaries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_5) ###### [**Art. 740***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_740_a)
+###### [5. In the case of two or more beneficiaries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_1/lvl_C/lvl_I/lvl_5)
+
+###### [**Art. 740***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_740_a)
 
 [1] If two or more beneficiaries benefit from common fixtures based on the same easement and if no other agreement exists, the provisions applicable to co-owners apply by analogy.
 
@@ -7764,17 +8232,23 @@ In the absence of any other specific arrangement in a given case, cantonal law a
 
 ###### [II. Establishment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_I/lvl_1) ###### [**Art. 746**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_746)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 746**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_746)
 
 [1] A usufruct of chattels or debts is established by transfer to the acquirer and a usufruct of immovable property by entry in the land register.
 
 [2] The provisions governing ownership apply to the acquisition of a usufruct of chattels and of immovable property as well as to entry in the land register, except where otherwise provided.
 
-[2. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_I/lvl_2) ###### [**Art. 747**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_747)
+###### [2. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_I/lvl_2)
+
+###### [**Art. 747**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_747)
 
 ###### [III. Extinction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I)
 
-[1. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_1) ###### [**Art. 748**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_748)
+###### [1. Grounds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_1)
+
+###### [**Art. 748**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_748)
 
 [1] Usufruct is extinguished in the event of the complete loss of the object to which it applies and in the case of immovable property on deletion of the entry from the land register where the entry was required to establish the usufruct.
 
@@ -7782,13 +8256,17 @@ In the absence of any other specific arrangement in a given case, cantonal law a
 
 [3] A statutory usufruct ends on cessation of its cause.
 
-[2. Duration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_2) ###### [**Art. 749**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_749)
+###### [2. Duration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_2)
+
+###### [**Art. 749**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_749)
 
 [1] Usufruct ceases with the death of the usufructuary and in the case of legal entities on their dissolution.
 
 [2] In the case of legal entities, however, it may not last more than 100 years.
 
-[3. Replacement on extinction of usufruct](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_3) ###### [**Art. 750**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_750)
+###### [3. Replacement on extinction of usufruct](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_3)
+
+###### [**Art. 750**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_750)
 
 [1] The owner of the object of a usufruct is not obliged to replace or restore the object if it has been destroyed.
 
@@ -7796,7 +8274,9 @@ In the absence of any other specific arrangement in a given case, cantonal law a
 
 [3] If an object that has been destroyed is replaced, as may be the case with compulsory purchase and insurance indemnities, the usufruct continues on the replacement object.
 
-[4. Return](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_4) [a. Duty](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_4/lvl_a) ###### [**Art. 751**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_751)
+###### [4. Return](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_4)
+
+[a. Duty](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_4/lvl_a) ###### [**Art. 751**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_751)
 
 When the usufruct ends, the person in possession of the object must return it to the owner.
 
@@ -7814,13 +8294,17 @@ When the usufruct ends, the person in possession of the object must return it to
 
 [2] He or she is entitled to remove any fixtures he or she has installed for which the owner is not prepared to pay compensation; he or she is, however, obliged to restore the object to its previous condition.
 
-[5. Prescription of compensation rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_5) ###### [**Art. 754**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_754)
+###### [5. Prescription of compensation rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_II_I/lvl_5)
+
+###### [**Art. 754**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_754)
 
 The owner’s right to compensation for alterations or depreciation and the usufructuary’s right to compensation for expenditure or to remove fixtures prescribe one year after the return of the object.
 
 ###### [IV. Scope](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V)
 
-[1. Rights of the usufructuary](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_1) [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_1/lvl_a) ###### [**Art. 755**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_755)
+###### [1. Rights of the usufructuary](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_1)
+
+[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_1/lvl_a) ###### [**Art. 755**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_755)
 
 [1] The usufructuary has the rights of possession, use and enjoyment of the object.
 
@@ -7846,7 +8330,9 @@ Interest on usufructuary capital and other periodic returns accrue to the usufru
 
 [2] The owner is entitled to assert his or her rights directly against such person.
 
-[2. Rights of the owner](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_2) [a. Supervision](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_2/lvl_a) ###### [**Art. 759**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_759)
+###### [2. Rights of the owner](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_2)
+
+[a. Supervision](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_2/lvl_a) ###### [**Art. 759**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_759)
 
 The owner may object to any unlawful or inappropriate use of the object.
 
@@ -7868,11 +8354,15 @@ The owner may object to any unlawful or inappropriate use of the object.
 
 If the usufructuary fails to provide security within the reasonable time limit set for that purpose, or if he or she persists in using the object unlawfully despite the owner’s objections, the court may dispossess him or her of the object until further notice and appoint a trustee.
 
-[3. Inventory](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_3) ###### [**Art. 763**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_763)
+###### [3. Inventory](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_3)
+
+###### [**Art. 763**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_763)
 
 The owner and the usufructuary have the right at any time to request that a publicly notarised inventory of the objects subject to the usufruct be drawn up at their joint expense.
 
-[4. Costs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_4) [a. Preservation of the object](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_4/lvl_a) ###### [**Art. 764**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_764)
+###### [4. Costs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_4)
+
+[a. Preservation of the object](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_I_V/lvl_4/lvl_a) ###### [**Art. 764**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_764)
 
 [1] The usufructuary must preserve the object in its original condition and of his or her own accord carry out such repairs and renovations as constitute normal maintenance.
 
@@ -7900,7 +8390,9 @@ In the case of a usufruct of assets, the usufructuary must pay interest on the d
 
 ###### [V. Special cases](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V)
 
-[1. Land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_1) [a. Fruits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_1/lvl_a) ###### [**Art. 768**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_768)
+###### [1. Land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_1)
+
+[a. Fruits](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_1/lvl_a) ###### [**Art. 768**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_768)
 
 [1] The usufructuary of immovable property must ensure that it is not exploited beyond the normal limits by the type of use to which it is put.
 
@@ -7926,7 +8418,9 @@ In the case of a usufruct of assets, the usufructuary must pay interest on the d
 
 The provisions governing the usufruct of woodland apply *mutatis mutandis* to the usufruct of objects, such as mines, whose use involves the extraction of substances from the earth.
 
-[2. Consumables and valued chattels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_2) ###### [**Art. 772**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_772)
+###### [2. Consumables and valued chattels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_2)
+
+###### [**Art. 772**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_772)
 
 [1] In the absence of an agreement to the contrary, the usufructuary becomes the owner of consumable objects but is liable to replace the value they had at the beginning of the usufruct.
 
@@ -7934,7 +8428,9 @@ The provisions governing the usufruct of woodland apply *mutatis mutandis* to th
 
 [3] Agricultural equipment, herds of animals, stores of goods and the like may be replaced with objects of the same kind and quality.
 
-[3. Claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_3) [a. Scope](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_3/lvl_a) ###### [**Art. 773**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_773)
+###### [3. Claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_3)
+
+[a. Scope](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_A/lvl_V/lvl_3/lvl_a) ###### [**Art. 773**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_773)
 
 [1] A usufruct of debts entitles the usufructuary to retain the realised revenue.
 
@@ -8018,11 +8514,15 @@ The provisions governing the usufruct of woodland apply *mutatis mutandis* to th
 
 ###### [IV. Consequences of expiry](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_I_V)
 
-[1. Reversion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_I_V/lvl_1) ###### [**Art. 779***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_c)
+###### [1. Reversion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_I_V/lvl_1)
+
+###### [**Art. 779***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_c)
 
 When the building right expires, any existing construction reverts to the landowner and becomes an integral part of his or her parcel of land.
 
-[2. Compensation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_I_V/lvl_2) ###### [**Art. 779***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_d)
+###### [2. Compensation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_I_V/lvl_2)
+
+###### [**Art. 779***d*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_d)
 
 [1] The landowner must pay the holder of the expired right adequate compensation for the buildings which have reverted to his or her ownership, but such compensation is subject to the outstanding claims of creditors to whom the building right was pledged as security and is not payable to the holder of the building right without their consent.
 
@@ -8034,29 +8534,39 @@ When the building right expires, any existing construction reverts to the landow
 
 ###### [V. Premature reversion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V)
 
-[1. Prerequisites](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V/lvl_1) ###### [**Art. 779***f*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_f)
+###### [1. Prerequisites](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V/lvl_1)
+
+###### [**Art. 779***f*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_f)
 
 If the holder of the building right grossly violates his or her right in rem or his or her contractual obligations, the owner is entitled to premature reversion by requesting that the building right with all rights and encumbrances be transferred back to him or her.
 
-[2. Exercising the right of reversion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V/lvl_2) ###### [**Art. 779***g*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_g)
+###### [2. Exercising the right of reversion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V/lvl_2)
+
+###### [**Art. 779***g*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_g)
 
 [1] The right of reversion may be exercised only provided adequate compensation is paid for the reverting buildings, the amount payable being susceptible to reduction if the holder of the building right is at fault.
 
 [2] The building right will not be transferred to the owner until the compensation has been paid or secured.
 
-[3. Other applicable cases](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V/lvl_3) ###### [**Art. 779***h*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_h)
+###### [3. Other applicable cases](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V/lvl_3)
+
+###### [**Art. 779***h*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_h)
 
 The provisions governing the exercise of the right of reversion apply to all rights reserved by the landowner to terminate or reclaim the building right prematurely in the event of breach of duty.
 
 ###### [VI. Liability for remuneration for the right](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V_I)
 
-[1. Right to establish a lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V_I/lvl_1) ###### [**Art. 779***i*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_i)
+###### [1. Right to establish a lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V_I/lvl_1)
+
+###### [**Art. 779***i*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_i)
 
 [1] Provided the building right is recorded in the land register, the landowner is entitled to established a lien thereon against each current holder as security for up to three annual payments.
 
 [2] Where the remuneration does not consist of equal annual payments, the landowner is entitled to record a statutory lien for an amount aggregating three annual payments.
 
-[2. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V_I/lvl_2) ###### [**Art. 779***k*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_k)
+###### [2. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_2/lvl_C/lvl_V_I/lvl_2)
+
+###### [**Art. 779***k*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_779_k)
 
 [1] The lien may be recorded at any time during the existence of the building right and is exempt from deletion in compulsory sale proceedings.
 
@@ -8112,7 +8622,9 @@ The beneficiaries of an easement recorded in the land register are subject by an
 
 ###### [I. Establishment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I)
 
-[1. Registration and form of acquisition](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I/lvl_1) ###### [**Art. 783**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_783)
+###### [1. Registration and form of acquisition](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I/lvl_1)
+
+###### [**Art. 783**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_783)
 
 [1] A real burden is established by recording in the land register.
 
@@ -8120,7 +8632,9 @@ The beneficiaries of an easement recorded in the land register are subject by an
 
 [3] The provisions governing land ownership apply to the acquisition or registration of real burdens, unless otherwise provided.
 
-[2. Public law real burdens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I/lvl_2) ###### [**Art. 784**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_784)
+###### [2. Public law real burdens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I/lvl_2)
+
+###### [**Art. 784**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_784)
 
 The establishment of public law real burdens and their effect in relation to third parties acting in good faith is governed by analogy by the provisions of cantonal law on statutory liens.
 
@@ -8128,13 +8642,17 @@ The establishment of public law real burdens and their effect in relation to thi
 
 ###### [II. Extinction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 786**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_786)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 786**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_786)
 
 [1]A real burden is extinguished on deletion of the entry or on the complete loss of the servient property.
 
 [2] In the case of redemption, replacement or other causes of extinction, the burdened owner acquires a right against the beneficiary for the deletion of the entry.
 
-[2. Redemption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_2) [a. By the creditor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 787**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_787)
+###### [2. Redemption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_2)
+
+[a. By the creditor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_2/lvl_a) ###### [**Art. 787**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_787)
 
 [1] The creditor may request redemption of the real burden by agreement and also:
 
@@ -8161,7 +8679,9 @@ The establishment of public law real burdens and their effect in relation to thi
 
 The redemption sum is equal to the amount recorded in the land register as the total value of the real burden, unless its real value is shown to be less.
 
-[3. Prescription](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_3) ###### [**Art. 790**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_790)
+###### [3. Prescription](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_21/chap_3/lvl_B/lvl_I_I/lvl_3)
+
+###### [**Art. 790**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_790)
 
 [1] A real burden is not subject to prescription.
 
@@ -8201,13 +8721,17 @@ The redemption sum is equal to the amount recorded in the land register as the t
 
 ###### [II. Form of the debt](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_I_I)
 
-[1. Amount](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_I_I/lvl_1) ###### [**Art. 794**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_794)
+###### [1. Amount](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 794**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_794)
 
 [1] Whenever a mortgage is created, a specific amount denominated in Swiss currency must be indicated as the debt.
 
 [2] If the amount of the debt is unspecified, a maximum amount must be indicated up to which the property is liable for all claims of the creditor.
 
-[2. Interest](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_I_I/lvl_2) ###### [**Art. 795**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_795)
+###### [2. Interest](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_I_I/lvl_2)
+
+###### [**Art. 795**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_795)
 
 [1] The interest payable may be set at any level at the parties’ discretion within the legal limits imposed to prevent abusive interest rates.
 
@@ -8215,13 +8739,17 @@ The redemption sum is equal to the amount recorded in the land register as the t
 
 ###### [III. Immovable property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I)
 
-[1. Property subject to a charge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_1) ###### [**Art. 796**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_796)
+###### [1. Property subject to a charge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_1)
+
+###### [**Art. 796**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_796)
 
 [1] A mortgage may be created only on immovable property recorded in the land register.
 
 [2] The cantons may prohibit or enact special provisions to regulate the creation of mortgages over publicly owned land or over common land and pastures owned by corporations, and over any associated rights of use.
 
-[2. Specification](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_2) [a. In the case of a single property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 797**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_797)
+###### [2. Specification](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_2)
+
+[a. In the case of a single property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 797**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_797)
 
 [1] Where a mortgage is created, the immovable property that it encumbers must be clearly specified.
 
@@ -8235,7 +8763,9 @@ The redemption sum is equal to the amount recorded in the land register as the t
 
 [3] Unless otherwise agreed, the total amount secured by the mortgage is divided in proportion to the values of the properties.
 
-[3. Agricultural properties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_3) ###### [**Art. 798***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_798_a)
+###### [3. Agricultural properties](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_A/lvl_II_I/lvl_3)
+
+###### [**Art. 798***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_798_a)
 
 The Federal Act of 4 October 1991 on Rural Land Rights applies to the establishment of mortgages over agricultural properties.
 
@@ -8243,13 +8773,17 @@ The Federal Act of 4 October 1991 on Rural Land Rights applies to the establishm
 
 ###### [I. Creation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_I)
 
-[1. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_I/lvl_1) ###### [**Art. 799**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_799)
+###### [1. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_I/lvl_1)
+
+###### [**Art. 799**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_799)
 
 [1] Subject to exceptions provided by law, a mortgage is created by its recording in the land register.
 
 [2] A legal transaction creating a mortgage is valid only if done as a public deed.
 
-[2. In the case of joint ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_I/lvl_2) ###### [**Art. 800**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_800)
+###### [2. In the case of joint ownership](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_I/lvl_2)
+
+###### [**Art. 800**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_800)
 
 [1] In the case of joint ownership of a property, each joint owner may create a mortgage over his or her share.
 
@@ -8265,17 +8799,23 @@ The Federal Act of 4 October 1991 on Rural Land Rights applies to the establishm
 
 ###### [III. Charges on consolidated land](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_II_I)
 
-[1. Transfer of liens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_II_I/lvl_1) ###### [**Art. 802**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_802)
+###### [1. Transfer of liens](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_II_I/lvl_1)
+
+###### [**Art. 802**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_802)
 
 [1] In the case of land consolidation procedures carried out with the assistance or under the supervision of the public authorities, the mortgage rights assigned are transferred with the same ranking to the land allotted by way of replacement.
 
 [2] Where one parcel of land replaces several parcels which are subject to a mortgage as security for different debts, or not all of which are subject to a mortgage, the liens will be applied to the single parcel of land and their ranking preserved wherever possible.
 
-[2. Redemption by the debtor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_II_I/lvl_2) ###### [**Art. 803**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_803)
+###### [2. Redemption by the debtor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_II_I/lvl_2)
+
+###### [**Art. 803**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_803)
 
 The debtor is entitled to redeem liens on parcels of land involved in a land consolidation procedure by giving three months’ notice expiring on the date on which such consolidation takes effect.
 
-[3. Monetary compensation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_II_I/lvl_3) ###### [**Art. 804**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_804)
+###### [3. Monetary compensation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_B/lvl_II_I/lvl_3)
+
+###### [**Art. 804**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_804)
 
 [1] Where monetary compensation is received in connection with the consolidation of parcels of land subject to mortgages, such funds are distributed among the creditors according to their rank or, if of equal rank, in proportion to the size of their claims.
 
@@ -8311,7 +8851,9 @@ Claims for which a mortgage has been recorded in the land register are not subje
 
 ###### [IV. Safeguarding powers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V)
 
-[1. In the event of a reduction in value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_1) [a. Court order and action by the creditor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_1/lvl_a) ###### [**Art. 808**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_808)
+###### [1. In the event of a reduction in value](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_1)
+
+[a. Court order and action by the creditor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_1/lvl_a) ###### [**Art. 808**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_808)
 
 [1] If the owner reduces the value of the mortgaged property, the creditor may request that the court prohibit any further detrimental action.
 
@@ -8329,7 +8871,9 @@ Claims for which a mortgage has been recorded in the land register are not subje
 
 [3] If the debtor does not comply within the time limit set by the court, the creditor may request redemption of such portion of the debt as is appropriate to compensate for the reduced degree of security.
 
-[2. Depreciation without owner’s fault](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_2) ###### [**Art. 810**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_810)
+###### [2. Depreciation without owner’s fault](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_2)
+
+###### [**Art. 810**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_810)
 
 [1] In the event of depreciation without fault on the owner’s part, the creditor has a right to security or redemption only if the owner is indemnified for the damage.
 
@@ -8337,7 +8881,9 @@ Claims for which a mortgage has been recorded in the land register are not subje
 
 [3] If the amount of the lien exceeds 1000 francs and the lien is not recorded in the land register within four months of completion of the measures, it may not be cited in opposition to third parties who rely on the land register in good faith.
 
-[3. Disposal of minor portions of the property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_3) ###### [**Art. 811**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_811)
+###### [3. Disposal of minor portions of the property](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_I_V/lvl_3)
+
+###### [**Art. 811**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_811)
 
 If a part of the property worth less than one-twentieth of the secured debt is disposed of, the creditor may not refuse to release this portion from liability under the lien provided a proportionate repayment of the debt is made or the rest of the property provides him or her with sufficient security.
 
@@ -8353,13 +8899,17 @@ If a part of the property worth less than one-twentieth of the secured debt is d
 
 ###### [VI. Rank](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_V_I)
 
-[1. Effect of rank](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_V_I/lvl_1) ###### [**Art. 813**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_813)
+###### [1. Effect of rank](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_V_I/lvl_1)
+
+###### [**Art. 813**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_813)
 
 [1] A mortgage is confined to the rank indicated in the entry.
 
 [2] Mortgage rights may be established in a second or any lower rank provided the amount taking precedence is specified in the entry.
 
-[2. Ranking](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_V_I/lvl_2) ###### [**Art. 814**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_814)
+###### [2. Ranking](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_V_I/lvl_2)
+
+###### [**Art. 814**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_814)
 
 [1] If mortgage rights of different rank are created on an immovable property, any deletion does not entitle the beneficiaries of lower-ranking mortgage to advance in rank.
 
@@ -8367,13 +8917,17 @@ If a part of the property worth less than one-twentieth of the secured debt is d
 
 [3] An agreement providing for mortgage creditors to advance in rank only has in rem effect where it is recorded as a priority notice in the land register.
 
-[3. Vacant ranks](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_V_I/lvl_3) ###### [**Art. 815**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_815)
+###### [3. Vacant ranks](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_V_I/lvl_3)
+
+###### [**Art. 815**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_815)
 
 If a subordinate mortgage right is created and no higher-ranking mortgage exists, or if the debtor has not yet made use of an existing higher-ranking right to create a mortgage, or if a precedent claim is worth less than the amount recorded in the land register, in the event of foreclosure, the proceeds are distributed among the actual mortgage creditors according to their rank and irrespective of vacant ranks.
 
 ###### [VII. Foreclosure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I)
 
-[1. Mode](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_1) ###### [**Art. 816**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_816)
+###### [1. Mode](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_1)
+
+###### [**Art. 816**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_816)
 
 [1] In the event of default on the part of the debtor, the creditor has the right to payment out of the proceeds of the sale of the property.
 
@@ -8381,13 +8935,17 @@ If a subordinate mortgage right is created and no higher-ranking mortgage exists
 
 [3] Where several properties are made subject to a mortgage as security for a single claim, foreclosure proceedings must be brought simultaneously against all such properties, while individual properties are sold only if deemed necessary by the debt enforcement office.
 
-[2. Distribution of the proceeds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_2) ###### [**Art. 817**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_817)
+###### [2. Distribution of the proceeds](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_2)
+
+###### [**Art. 817**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_817)
 
 [1] The proceeds from the sale of the property are distributed among the mortgage creditors according to their rank.
 
 [2] Creditors of the same rank are entitled to equal satisfaction.
 
-[3. Extent of security](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_3) ###### [**Art. 818**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_818)
+###### [3. Extent of security](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_3)
+
+###### [**Art. 818**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_818)
 
 [1] A mortgage right secures the creditor:
 
@@ -8398,7 +8956,9 @@ If a subordinate mortgage right is created and no higher-ranking mortgage exists
 
 [2] The interest rate originally agreed must not exceed five per cent to the detriment of subordinate mortgage creditors.
 
-[4. Security for maintenance costs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_4) ###### [**Art. 819**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_819)
+###### [4. Security for maintenance costs](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VI_I/lvl_4)
+
+###### [**Art. 819**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_819)
 
 [1] If a creditor has incurred expenses necessary for the maintenance of the property, in particular by paying insurance premiums owed by the owner, such expenses are secured by a lien over the property. This lien does not require to be recorded in the land register and takes precedence over all other registered encumbrances.
 
@@ -8406,13 +8966,17 @@ If a subordinate mortgage right is created and no higher-ranking mortgage exists
 
 ###### [VIII. Lien in the case of land improvements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VII_I)
 
-[1. Precedence](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VII_I/lvl_1) ###### [**Art. 820**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_820)
+###### [1. Precedence](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VII_I/lvl_1)
+
+###### [**Art. 820**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_820)
 
 [1] If a rural property increases in value due to improvements carried out with the help of the public authorities, the owner may record a lien in the land register as security for his or her share of the costs which takes precedence over all other registered encumbrances on the property.
 
 [2] If such land improvement is made without state subsidy, the owner may enter the lien for a maximum of two-thirds of his or her costs.
 
-[2. Extinction of debt and lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VII_I/lvl_2) ###### [**Art. 821**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_821)
+###### [2. Extinction of debt and lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_1/lvl_C/lvl_VII_I/lvl_2)
+
+###### [**Art. 821**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_821)
 
 [1] If a land improvement is made without state subsidy, the debt in relation to the lien must be repaid in annual payments of at least five per cent of the registered amount of the lien.
 
@@ -8458,17 +9022,23 @@ Where the name or place of residence of the creditor is unknown, the court may, 
 
 ###### [II. Extinction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I)
 
-[1. Right to have entry deleted](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 826**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_826)
+###### [1. Right to have entry deleted](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 826**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_826)
 
 If the debt is extinguished, the owner of the mortgaged property may request the creditor to authorise the deletion of the entry from the land register.
 
-[2. Position of owner](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 827**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_827)
+###### [2. Position of owner](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 827**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_827)
 
 [1] If the property owner is not the debtor of the secured debt, he or she may redeem the mortgage on the same conditions as the debtor may repay the debt.
 
 [2] If he or she satisfies the creditor, the claim passes to him or her.
 
-[3. Unilateral redemption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_3) [a. Conditions and procedure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 828**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_828)
+###### [3. Unilateral redemption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_3)
+
+[a. Conditions and procedure](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 828**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_828)
 
 [1] Where a property is mortgaged for more than its value in respect of debts for which the acquirer is not personally liable, and providing no debt enforcement proceedings are pending, cantonal law may authorise the acquirer to redeem the mortgage rights either by paying the purchase price to the creditors or, where the property was acquired without payment, the amount at which he or she values the property.
 
@@ -8488,7 +9058,9 @@ If the debt is extinguished, the owner of the mortgaged property may request the
 
 Cantonal law may provide that the redemption amount be determined by an official valuation rather than by sale at public auction.
 
-[4. Termination](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_4) ###### [**Art. 831**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_831)
+###### [4. Termination](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_B/lvl_I_I/lvl_4)
+
+###### [**Art. 831**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_831)
 
 Where the owner of the mortgaged property is not also the debtor, notice given by the creditor to terminate his or her claim is binding on the owner only if it is served on both him or her and the debtor.
 
@@ -8496,13 +9068,17 @@ Where the owner of the mortgaged property is not also the debtor, notice given b
 
 ###### [I. Ownership and liability](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_C/lvl_I)
 
-[1. Alienation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_C/lvl_I/lvl_1) ###### [**Art. 832**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_832)
+###### [1. Alienation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_C/lvl_I/lvl_1)
+
+###### [**Art. 832**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_832)
 
 [1] The alienation of a mortgaged property does not affect liability under the mortgage contract and of the debtor unless otherwise agreed.
 
 [2] However, if the new owner has assumed liability for the secured debt, the previous debtor is discharged unless the creditor notifies him or her in writing within one year that he or she intends to retain him or her as debtor.
 
-[2. Division](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_C/lvl_I/lvl_2) ###### [**Art. 833**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_833)
+###### [2. Division](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_C/lvl_I/lvl_2)
+
+###### [**Art. 833**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_833)
 
 [1] If part of a mortgaged property or one of two or more mortgaged properties belonging to the same owner is alienated or if the mortgaged property is divided, unless otherwise agreed, liability under the mortgage will be reallocated in proportion to the value of the different parts.
 
@@ -8510,7 +9086,9 @@ Where the owner of the mortgaged property is not also the debtor, notice given b
 
 [3] Where the new owners have assumed liability for the debts secured by their properties, the previous debtor is discharged unless the creditor notifies him or her in writing within one year that he or she intends to retain him or her as debtor.
 
-[3. Notice of assumption of debt](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_C/lvl_I/lvl_3) ###### [**Art. 834**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_834)
+###### [3. Notice of assumption of debt](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_C/lvl_I/lvl_3)
+
+###### [**Art. 834**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_834)
 
 [1] If the new owner assumes the debt, the land registrar notifies the creditor accordingly.
 
@@ -8536,7 +9114,9 @@ The assignment of a debt secured by a mortgage contract is valid without entry i
 
 ###### [II. With entry](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I)
 
-[1. Cases in point](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_1) ###### [**Art. 837**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_837)
+###### [1. Cases in point](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_1)
+
+###### [**Art. 837**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_837)
 
 [1] The right to establish a statutory mortgage right applies to:
 
@@ -8549,11 +9129,15 @@ The assignment of a debt secured by a mortgage contract is valid without entry i
 
 3 The beneficiary may not waive such statutory mortgage rights in advance.
 
-[2. Vendor, co‑heirs and co‑owners](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_2) ###### [**Art. 838**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_838)
+###### [2. Vendor, co‑heirs and co‑owners](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_2)
+
+###### [**Art. 838**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_838)
 
 A lien in favour of the vendor, co-heirs or co-owners in undivided shares must be registered within three months of transfer of ownership.
 
-[3. Tradesmen and building contractors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_3) [a. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 839**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_839)
+###### [3. Tradesmen and building contractors](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_3)
+
+[a. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_2/lvl_D/lvl_I_I/lvl_3/lvl_a) ###### [**Art. 839**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_839)
 
 [1] A tradesman's or building contractor’s lien may be recorded in the land register as of the date of his or her undertaking to perform work.
 
@@ -8615,13 +9199,17 @@ The consequences of the sale and the division of the property are governed by th
 
 ###### [V. Mortgage certificate debt and ancillary agreements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_V)
 
-[1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_V/lvl_1) ###### [**Art. 846**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_846)
+###### [1. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_V/lvl_1)
+
+###### [**Art. 846**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_846)
 
 [1] The mortgage certificate debt must neither relate to the basic relationship nor include conditions or considerations in return.
 
 [2] The mortgage certificate may include debt-related ancillary agreements on the rate of interest, repayment instalments and discharge as well as other ancillary provisions relating to the mortgage certificate debt. A reference to a separate agreement is permitted.
 
-[2. Notice](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_V/lvl_2) ###### [**Art. 847**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_847)
+###### [2. Notice](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_V/lvl_2)
+
+###### [**Art. 847**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_847)
 
 [1] The mortgage certificate may be discharged by the creditor or the debtor at six months notice at the end of any month unless otherwise agreed.
 
@@ -8681,13 +9269,17 @@ If the mortgage certificate debt is discharged, the debtor may request the credi
 
 ###### [XII. Extinction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_XI_I)
 
-[1. In the absence of a creditor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_XI_I/lvl_1) ###### [**Art. 854**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_854)
+###### [1. In the absence of a creditor](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_XI_I/lvl_1)
+
+###### [**Art. 854**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_854)
 
 [1] If there is no longer a creditor, or if the creditor waives his or her lien, the debtor has the option of either having the entry deleted or allowing it to remain in the land register.
 
 [2] The debtor also has the right to continue to use the mortgage certificate.
 
-[2. Deletion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_XI_I/lvl_2) ###### [**Art. 855**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_855)
+###### [2. Deletion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_A/lvl_XI_I/lvl_2)
+
+###### [**Art. 855**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_855)
 
 A mortgage certificate on paper may not be deleted from the land register before the document of title has been cancelled or declared void by the court.
 
@@ -8735,7 +9327,9 @@ A mortgage certificate on paper may not be deleted from the land register before
 
 ###### [I. Creation](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_I)
 
-[1. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_I/lvl_1) ###### [**Art. 860**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_860)
+###### [1. Registration](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_I/lvl_1)
+
+###### [**Art. 860**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_860)
 
 [1] The creation of a mortgage certificate on paper always requires an entry in the land register and a document of title
 
@@ -8743,7 +9337,9 @@ A mortgage certificate on paper may not be deleted from the land register before
 
 [3] The mortgage certificate shall take effect on registration even if the document of title has not yet been issued.
 
-[2. Document of title](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_I/tit_2) ###### [**Art. 861**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_861)
+###### [2. Document of title](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_I/tit_2)
+
+###### [**Art. 861**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_861)
 
 [1] The mortgage certificate on paper is issued by the land register issued.
 
@@ -8763,13 +9359,17 @@ A mortgage certificate on paper may not be deleted from the land register before
 
 ###### [III. Creditor's rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_II_I)
 
-[1. Claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_II_I/lvl_1) ###### [**Art. 863**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_863)
+###### [1. Claims](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_II_I/lvl_1)
+
+###### [**Art. 863**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_863)
 
 [1] A claim arising from a mortgage certificate may not be alienated, pledged or otherwise asserted unless the claimant is in possession of the document.
 
 [2] This does not apply to the assertion of a claim in cases where the document of title has been cancelled or not yet issued
 
-[2. Assignment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_II_I/lvl_2) ###### [**Art. 864**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_864)
+###### [2. Assignment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_22/chap_3/lvl_C/lvl_II_I/lvl_2)
+
+###### [**Art. 864**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_864)
 
 [1] The assignment of a mortgage certificate debt requires the delivery of the document of title to the assignee.
 
@@ -8811,7 +9411,9 @@ Registered or bearer bonds may be secured by a mortgage:
 
 ###### [I. Establishment](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I)
 
-[1. Possession by pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_1) ###### [**Art. 884**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_884)
+###### [1. Possession by pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_1)
+
+###### [**Art. 884**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_884)
 
 [1] Except where otherwise provided by law, chattels may be pledged only by the transfer of possession of the chattel to the pledgee.
 
@@ -8819,7 +9421,9 @@ Registered or bearer bonds may be secured by a mortgage:
 
 [3] The general lien is not established as long as the pledger retains exclusive possession of the chattel.
 
-[2. Pledge of livestock](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_2) ###### [**Art. 885**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_885)
+###### [2. Pledge of livestock](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_2)
+
+###### [**Art. 885**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_885)
 
 [1] A general lien on livestock to secure the claims of lending institutions and co-operatives authorised to carry out such transactions by the competent authority of the canton in which they have their seat may be established without transfer of possession by entry in a public register and notification to the debt enforcement office.
 
@@ -8827,29 +9431,39 @@ Registered or bearer bonds may be secured by a mortgage:
 
 [3] The cantons may levy fees for entries in the register and the associated administration; they determine the register districts and the responsible officials.
 
-[3. Subordinate pledge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_3) ###### [**Art. 886**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_886)
+###### [3. Subordinate pledge](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_3)
+
+###### [**Art. 886**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_886)
 
 A subordinate pledge is established by notifying the pledgee in writing and instructing him or her to deliver the pledged chattel to the subordinate pledgee after his or her claim has been satisfied.
 
-[4. Further pledge by pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_4) ###### [**Art. 887**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_887)
+###### [4. Further pledge by pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I/lvl_4)
+
+###### [**Art. 887**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_887)
 
 The pledgee may only give the pledged chattel in further pledge with the pledger’s consent.
 
 ###### [II. Extinction](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I_I)
 
-[1. Loss of possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I_I/lvl_1) ###### [**Art. 888**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_888)
+###### [1. Loss of possession](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I_I/lvl_1)
+
+###### [**Art. 888**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_888)
 
 [1] The general lien is extinguished once the pledgee no longer possesses the pledged chattel and is unable to demand its return from third parties.
 
 [2] The effects of the lien are suspended as long as the pledger has exclusive possession of the pledged chattel with the pledgee’s consent.
 
-[2. Return](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I_I/lvl_2) ###### [**Art. 889**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_889)
+###### [2. Return](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I_I/lvl_2)
+
+###### [**Art. 889**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_889)
 
 [1] The pledgee must return the pledged chattel to the entitled party where the pledge is extinguished due to payment of the debt or for some other reason.
 
 [2] He or she is not obliged to return the pledged chattel, in whole or in part, until his or her claim has been fully satisfied.
 
-[3. Liability of the pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I_I/lvl_3) ###### [**Art. 890**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_890)
+###### [3. Liability of the pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_I_I/lvl_3)
+
+###### [**Art. 890**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_890)
 
 [1] The pledgee is liable for the depreciation or loss of the pledged chattel, unless he or she shows that he or she is not at fault.
 
@@ -8857,13 +9471,17 @@ The pledgee may only give the pledged chattel in further pledge with the pledger
 
 ###### [III. Effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I)
 
-[1. Rights of the pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_1) ###### [**Art. 891**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_891)
+###### [1. Rights of the pledgee](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_1)
+
+###### [**Art. 891**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_891)
 
 [1] If the debtor is in default the creditor has the right to satisfy his or her claim from the proceeds of the pledge.
 
 [2] The general lien provides the creditor with security for his or her claim, including contractual interest, debt enforcement costs and default interest.
 
-[2. Scope of the general lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_2) ###### [**Art. 892**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_892)
+###### [2. Scope of the general lien](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_2)
+
+###### [**Art. 892**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_892)
 
 [1] The general lien encumbers the pledged chattel including its accessories.
 
@@ -8871,13 +9489,17 @@ The pledgee may only give the pledged chattel in further pledge with the pledger
 
 [3] Fruits which are a constituent part of the pledged chattel at the time of its realisation are included in it.
 
-[3. Rank](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_3) ###### [**Art. 893**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_893)
+###### [3. Rank](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_3)
+
+###### [**Art. 893**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_893)
 
 [1] Where there are several pledges on the same chattel, the pledgees are satisfied according to their rank.
 
 [2] Rank is determined by the date on which the pledges were established.
 
-[4. Default agreements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_4) ###### [**Art. 894**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_894)
+###### [4. Default agreements](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_1/lvl_A/lvl_II_I/lvl_4)
+
+###### [**Art. 894**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_894)
 
 Any agreement stipulating that the pledged chattel will become the property of the pledgee in the event of default on the part of the debtor is invalid.
 
@@ -9023,13 +9645,17 @@ A chattel is pawned by delivering it to the pawnbroker against receipt.
 
 ###### [II. Effect](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_I_I)
 
-[1. Sale of pawned chattel](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_I_I/lvl_1) ###### [**Art. 910**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_910)
+###### [1. Sale of pawned chattel](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_I_I/lvl_1)
+
+###### [**Art. 910**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_910)
 
 [1] If the pawned chattel is not redeemed by the redemption deadline, the pawnbroker may sell it at public auction after making a prior call for redemption.
 
 [2] The pawnbroker has no claim against the pledger.
 
-[2. Right to surplus](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_I_I/lvl_2) ###### [**Art. 911**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_911)
+###### [2. Right to surplus](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_I_I/lvl_2)
+
+###### [**Art. 911**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_911)
 
 [1] If the auction proceeds exceed the pawned amount, the pledger is entitled to the surplus.
 
@@ -9039,7 +9665,9 @@ A chattel is pawned by delivering it to the pawnbroker against receipt.
 
 ###### [III. Redemption of the pawned chattel](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_II_I)
 
-[1. Right of redemption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_II_I/lvl_1) ###### [**Art. 912**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_912)
+###### [1. Right of redemption](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_II_I/lvl_1)
+
+###### [**Art. 912**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_912)
 
 [1] Provided it has not yet been sold, the pledger may redeem the pawned chattel against return of the receipt.
 
@@ -9047,7 +9675,9 @@ A chattel is pawned by delivering it to the pawnbroker against receipt.
 
 [3] As of six months after the redemption deadline, the pledger also has such right even where the pawnbroker has expressly reserved the right to release the pawned chattel only against return of the receipt.
 
-[2. Pawnbroker’s rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_II_I/lvl_2) ###### [**Art. 913**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_913)
+###### [2. Pawnbroker’s rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_2/tit_23/chap_3/lvl_B/lvl_II_I/lvl_2)
+
+###### [**Art. 913**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_913)
 
 [1] On redemption the pawnbroker is entitled to charge interest for the full current month.
 
@@ -9199,11 +9829,15 @@ The possessor of a chattel may invoke the presumption of his or her better right
 
 ###### [4. Power of disposal and right of restitution](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4)
 
-[a. Entrusted objects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_a) ###### [**Art. 933**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_933)
+###### [a. Entrusted objects](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_a)
+
+###### [**Art. 933**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_933)
 
 A person who takes possession of a chattel in good faith in order to become its owner or to acquire a limited right in rem is protected therein even if the chattel was entrusted to the transferor without any authority to effect the transfer.
 
-[b. Stolen or lost chattels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_b) ###### [**Art. 934**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_934)
+###### [b. Stolen or lost chattels](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_b)
+
+###### [**Art. 934**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_934)
 
 [1] A possessor whose chattel has been stolen or lost, or who has otherwise been dispossessed of it against his or her will, may reclaim it from any possessor within a period of five years. Article 722 is reserved.
 
@@ -9213,11 +9847,15 @@ A person who takes possession of a chattel in good faith in order to become its 
 
 [3] In other respects, restitution is subject to the provisions governing possession in good faith.
 
-[c. Cash and bearer securities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_c) ###### [**Art. 935**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_935)
+###### [c. Cash and bearer securities](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_c)
+
+###### [**Art. 935**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_935)
 
 Cash and bearer securities cannot be reclaimed from a recipient in good faith even if the possessor was dispossessed of them against his or her will.
 
-[d. Bad faith](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_d) ###### [**Art. 936**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_936)
+###### [d. Bad faith](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_I_I/lvl_4/lvl_d)
+
+###### [**Art. 936**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_936)
 
 [1] A person who has not acquired a chattel in good faith may be required by the previous possessor to return it at any time.
 
@@ -9235,13 +9873,17 @@ Cash and bearer securities cannot be reclaimed from a recipient in good faith ev
 
 ###### [1. Possessor in good faith](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_II_I/lvl_1)
 
-[a. Use](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_II_I/lvl_1/lvl_a) ###### [**Art. 938**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_938)
+###### [a. Use](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_II_I/lvl_1/lvl_a)
+
+###### [**Art. 938**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_938)
 
 [1] A person possessing an object in good faith is not liable to its rightful owner for the consequences of using it in accordance with his or her presumed right.
 
 [2] He or she is not obliged to replace what has been lost or damaged.
 
-[b. Indemnity](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_II_I/lvl_1/lvl_b) ###### [**Art. 939**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_939)
+###### [b. Indemnity](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_24/lvl_C/lvl_II_I/lvl_1/lvl_b)
+
+###### [**Art. 939**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_939)
 
 [1] Where the rightful owner requests restitution of an object, the possessor in good faith may request indemnification for any necessary or useful expenditure incurred and may refuse to surrender the object until such indemnification is forthcoming.
 
@@ -9285,7 +9927,9 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 ###### [2. Registered data](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_2)
 
-[a. Object](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_2/lvl_a) ###### [**Art. 943**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_943)
+###### [a. Object](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_2/lvl_a)
+
+###### [**Art. 943**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_943)
 
 [1] The following are recorded in the land register as immovable property:
 
@@ -9297,7 +9941,9 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 [2] The Federal Council issues detailed regulations governing the prerequisites for and method of registration of distinct and permanent rights, mines and co-ownership shares in immovable property.
 
-[b. Exceptions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_2/lvl_b) ###### [**Art. 944**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_944)
+###### [b. Exceptions](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_2/lvl_b)
+
+###### [**Art. 944**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_944)
 
 [1] Immovable property which is not privately owned and is in public use will be recorded in the land register only if rights in rem attaching to such property are to be registered or if cantonal law provides for its registration.
 
@@ -9307,13 +9953,17 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 ###### [3. Registers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3)
 
-[a. Main Register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_a) ###### [**Art. 945**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_945)
+###### [a. Main Register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_a)
+
+###### [**Art. 945**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_945)
 
 [1] Each item of immovable property has its own folio and number in the main register.
 
 [2] The procedure to be followed in the event of the division or consolidation of immovable property is determined by Federal Council ordinance.
 
-[b. Folio](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_b) ###### [**Art. 946**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_946)
+###### [b. Folio](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_b)
+
+###### [**Art. 946**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_946)
 
 [1] The following data is entered in separate sections on each folio:
 
@@ -9324,7 +9974,9 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 [2] Accessories may be noted on the folio at the owner’s request and, once noted, may be deleted only with the consent of all such interested parties as are evident from the land register.
 
-[c. Joint folio](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_c) ###### [**Art. 947**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_947)
+###### [c. Joint folio](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_c)
+
+###### [**Art. 947**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_947)
 
 [1] Two or more parcels of land may be entered on one folio with the owner’s consent, regardless of whether they are contiguous.
 
@@ -9332,7 +9984,9 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 [3] The owner may at any time request that entries for individual parcels of land be removed from a joint folio, all rights being reserved.
 
-[d. Journal, supporting documents](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_d) ###### [**Art. 948**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_948)
+###### [d. Journal, supporting documents](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_3/lvl_d)
+
+###### [**Art. 948**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_948)
 
 [1] Applications for entry in the land register are recorded without delay in the journal in chronological order indicating the applicant and the object of his or her request.
 
@@ -9342,13 +9996,17 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 ###### [4. Implementing ordinances](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4)
 
-[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_a)###### [**Art. 949**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_a)
+
+###### [**Art. 949**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949)
 
 [1] The Federal Council prescribes the land register forms, issues the necessary regulations and regulates at its discretion the keeping of auxiliary registers.
 
 [2] The cantons may establish special provisions governing the registration of rights in rem on land under cantonal law, but such provisions become valid only when approved by the Confederation.
 
-[b. For electronic registers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_b) ###### [**Art. 949***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949_a)
+###### [b. For electronic registers](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_b)
+
+###### [**Art. 949***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949_a)
 
 [1] A canton wishing to keep the land register electronically must obtain the approval of the Federal Department of Justice and Police.
 
@@ -9365,9 +10023,13 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 [3] The Federal Department of Justice and Police and the Federal Department of Defence, Civil Protection and Sport define data models and standard interfaces for the land register and official land surveys.
 
-[4*a*. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_4_a) ###### [**Art. 949***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949_b)
+###### [4*a*. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_4_a)
 
-[4*b*. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_4_b) ###### [**Art. 949***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949_c)
+###### [**Art. 949***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949_b)
+
+###### [4*b*. ...](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4/lvl_4_b)
+
+###### [**Art. 949***c*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_949_c)
 
 ###### [4*c*. Commissioning private individuals to use the electronic version of the land register](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I/lvl_4_a)
 
@@ -9394,13 +10056,17 @@ A possessor fulfilling the requirements of adverse possession may count his or h
 
 ###### [1. Districts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I_I/lvl_1)
 
-[a. Allocation to districts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I_I/lvl_1/lvl_a) ###### [**Art. 951**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_951)
+###### [a. Allocation to districts](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I_I/lvl_1/lvl_a)
+
+###### [**Art. 951**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_951)
 
 [1] For land register purposes the cantons are divided into districts.
 
 [2] Immovable property is entered in the register for the district in which it is situated.
 
-[b. Land straddling more than one district](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I_I/lvl_1/lvl_b) ###### [**Art. 952**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_952)
+###### [b. Land straddling more than one district](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_A/lvl_I_I/lvl_1/lvl_b)
+
+###### [**Art. 952**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_952)
 
 [1] Immovable property that lies in more than one district is entered in the register of each district, with reference being made to the register of the other districts.
 
@@ -9486,13 +10152,17 @@ The following rights to immovable property are recorded in the land register:
 
 ###### [2. Priority notices](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2)
 
-[a. Personal rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_a) ###### [**Art. 959**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_959)
+###### [a. Personal rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_a)
+
+###### [**Art. 959**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_959)
 
 [1] Personal rights may be entered under priority notice in the land register where such notices are expressly provided for by law, as is the case for a right of pre-emption, right of repurchase, right of purchase, usufructuary lease and tenancy.
 
 [2] By virtue of being entered under priority notice, they may be invoked against any rights subsequently acquired.
 
-[b. Restrictions on powers of disposal](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_b) ###### [**Art. 960**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_960)
+###### [b. Restrictions on powers of disposal](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_b)
+
+###### [**Art. 960**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_960)
 
 [1] Restrictions on powers of disposal may be entered under priority notice for individual parcels of land if they result from:
 
@@ -9503,7 +10173,9 @@ The following rights to immovable property are recorded in the land register:
 
 [2] On entry under priority notice, the restrictions on powers of disposal become effective against all subsequently acquired rights.
 
-[c. Provisional entries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_c) ###### [**Art. 961**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_961)
+###### [c. Provisional entries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_c)
+
+###### [**Art. 961**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_961)
 
 [1] Provisional entries may be made in the land register:
 
@@ -9515,7 +10187,9 @@ The following rights to immovable property are recorded in the land register:
 
 [3] The court rules on the application and, provided the applicant satisfies the court of his or her entitlement, approves the provisional entry, precisely specifying its nature, duration and effect and, where necessary, setting a time limit within which the applicant must bring an action to assert his or her rights.
 
-[d. Entry of subordinate rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_d) ###### [**Art. 961***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_961_a)
+###### [d. Entry of subordinate rights](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_I/lvl_2/lvl_d)
+
+###### [**Art. 961***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_961_a)
 
 A priority notice in the land register does not preclude the registration of a right with a subordinate rank.
 
@@ -9548,7 +10222,9 @@ The following may be noted in the land register:
 
 ###### [1. Applications](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_1)
 
-[a. For an entry](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_1/lvl_a) ###### [**Art. 963**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_963)
+###### [a. For an entry](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_1/lvl_a)
+
+###### [**Art. 963**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_963)
 
 [1] Entries in the land register are based on a written declaration by the owner of the immovable property to which the entry relates.
 
@@ -9556,7 +10232,9 @@ The following may be noted in the land register:
 
 [3] The officials authorised to execute public deeds may be instructed by the cantons to notify the transactions certified by such deeds for entry in the land register.
 
-[b. For a deletion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_1/lvl_b) ###### [**Art. 964**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_964)
+###### [b. For a deletion](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_1/lvl_b)
+
+###### [**Art. 964**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_964)
 
 [1] Amendment or deletion of an entry in the land register requires an declaration in writing by the person whose entitlement results from the entry.
 
@@ -9564,7 +10242,9 @@ The following may be noted in the land register:
 
 ###### [2. Authority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_2)
 
-[a. Valid proof of authority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 965**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_965)
+###### [a. Valid proof of authority](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_2/lvl_a)
+
+###### [**Art. 965**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_965)
 
 [1] A disposition in the land register, such as an entry, amendment or deletion, may be made only on the basis of documents establishing the right to make such disposition and its legal basis.
 
@@ -9572,7 +10252,9 @@ The following may be noted in the land register:
 
 [3] The legal basis for the requested disposition is established by proof that the formal requirements have been observed.
 
-[b. Completion of application](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_2/lvl_b) ###### [**Art. 966**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_966)
+###### [b. Completion of application](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_B/lvl_II_I/lvl_2/lvl_b)
+
+###### [**Art. 966**](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_966)
 
 [1] Where the documentation required for a disposition in the land register is not forthcoming, the application is rejected.
 
@@ -9721,13 +10403,17 @@ The land register may delete an entry *ex officio* if the entry:
 
 ###### [2. Other entries](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_E/lvl_II_I/lvl_2)
 
-[a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_E/lvl_II_I/lvl_2/lvl_a) ###### [**Art. 976***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_976_a)
+###### [a. In general](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_E/lvl_II_I/lvl_2/lvl_a)
+
+###### [**Art. 976***a*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_976_a)
 
 [1] If an entry in all probability has no legal importance, in particular because according to the supporting documents or the circumstances it does not relate to the property, then any person encumbered may request its deletion.
 
 [2] If the land registry regards the request as justified, it shall inform the beneficiary that it will delete the entry unless he or she files an objection with land registry within 30 days.
 
-[b. On objection](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_E/lvl_II_I/lvl_2/lvl_b) ###### [**Art. 976***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_976_b)
+###### [b. On objection](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#book_4/part_3/tit_25/lvl_E/lvl_II_I/lvl_2/lvl_b)
+
+###### [**Art. 976***b*](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en#art_976_b)
 
 [1] If the beneficiary files an objection, the land registry shall reassess the request for deletion at the request of the encumbered person.
 
