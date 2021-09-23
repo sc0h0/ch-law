@@ -35,7 +35,7 @@ with open('linklist.txt', 'r') as f_in:
             continue
 
         driver.get(line)
-        time.sleep(30)  # standard delay
+        time.sleep(5)  # standard delay
 
         # wait until necessary elements are present
         delay = 60  # max delay in seconds until element is present
@@ -66,21 +66,19 @@ with open('linklist.txt', 'r') as f_in:
             dt_list.insert_after(" ")  # add whitespace after tag
             dt_list.name = "br"
 
-        # replace lvl 2 div headings with h2 headers
-        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "2"}):
+        # replace div headings with corresponding <h> tag
+        for divheader in soup.find_all("div", {"aria-level": "1"}):
             divheader.name = "h2"
-
-        # replace lvl 3 div headings with h3 headers
-        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "3"}):
+        for divheader in soup.find_all("div", {"aria-level": "2"}):
+            divheader.name = "h2"
+        for divheader in soup.find_all("div", {"aria-level": "3"}):
             divheader.name = "h3"
-
-        # replace lvl 4 div headings with h4 headers
-        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "4"}):
+        for divheader in soup.find_all("div", {"aria-level": "4"}):
             divheader.name = "h4"
-
-        # replace lvl 5 div headings with h5 headers
-        for divheader in soup.find_all("div", {"class": "heading"}, {"aria-level": "5"}):
+        for divheader in soup.find_all("div", {"aria-level": "5"}):
             divheader.name = "h5"
+        for divheader in soup.find_all("div", {"aria-level": "6"}):
+            divheader.name = "h6"
 
         # get norms
         lawtext = soup.find("div", id="lawcontent")
