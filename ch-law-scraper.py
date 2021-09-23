@@ -1,7 +1,7 @@
+import bs4
 from selenium import webdriver
 from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver import FirefoxOptions
-from bs4 import BeautifulSoup
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -14,6 +14,19 @@ opts = FirefoxOptions()
 opts.add_argument("--headless")
 driver = webdriver.Firefox(
     executable_path=GeckoDriverManager().install(), options=opts)
+
+# function to update superscripts recursively
+
+
+def update_sup(soup):
+    if soup.name == 'sup':
+        if any(not isinstance(i, bs4.element.NavigableString) for i in soup.contents):
+            soup.extract()
+        else:
+            soup.string = f'[{soup.get_text(strip=True)}]'
+    for i in filter(lambda x: not isinstance(x, bs4.element.NavigableString), soup.contents):
+        update_sup(i)
+
 
 # select input TXT file
 with open('linklist.txt', 'r') as f_in:
@@ -33,7 +46,7 @@ with open('linklist.txt', 'r') as f_in:
         WebDriverWait(driver, delay).until(
             EC.visibility_of_element_located((By.ID, 'lawcontent')))
         html = driver.page_source
-        soup = BeautifulSoup(html, "html.parser")
+        soup = bs4.BeautifulSoup(html, "html.parser")
 
         # remove toolbar
         soup.find("div", id="toolbar").decompose()
@@ -42,21 +55,15 @@ with open('linklist.txt', 'r') as f_in:
         for div in soup.find_all("div", {'class': 'footnotes'}):
             div.decompose()
 
-        # remove superscripts belonging to footnotes
-        for superscript in soup.find_all("sup"):
-            for suplink in superscript.find_all("a"):
-                suplink.decompose()
-
-            # wrap articles in brackets
-            superscript.insert(0, "[")
-            superscript.insert_after("]")
+        # call function to handle superscripts
+        update_sup(soup)
 
         # isolate descriptive lists to paragraphs
         for dl_list in soup.find_all("dl"):
             dl_list.name = "p"
 
         for dt_list in soup.find_all("dt"):
-            dt_list.insert_after(" ")  # add whitespace
+            dt_list.insert_after(" ")  # add whitespace after tag
             dt_list.name = "br"
 
         # replace div headings with h2 headers
