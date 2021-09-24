@@ -301,8 +301,8 @@ adopt the following Constitution:
 [3] It shall enact simplified regulations on the naturalisation of:
 
   
-a. third generation immigrants;  
-b. stateless children.
+|    a. third generation immigrants;  
+|    b. stateless children.
 
 [**Art. 39** Exercise of political rights](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_39) 
 
@@ -327,13 +327,13 @@ b. stateless children.
 [1] The Confederation and the Cantons shall, as a complement to personal responsibility and private initiative, endeavour to ensure that:
 
   
-a. every person has access to social security;  
-b. every person has access to the health care that they require;  
-c. families are protected and encouraged as communities of adults and children;  
-d. every person who is fit to work can earn their living by working under fair conditions;  
-e. any person seeking accommodation for themselves and their family can find suitable accommodation on reasonable terms;  
-f. children and young people as well as persons of employable age can obtain an education and undergo basic and advanced training in accordance with their abilities;  
-g. children and young people are encouraged to develop into independent and socially responsible people and are supported in their social, cultural and political integration.
+|    a. every person has access to social security;  
+|    b. every person has access to the health care that they require;  
+|    c. families are protected and encouraged as communities of adults and children;  
+|    d. every person who is fit to work can earn their living by working under fair conditions;  
+|    e. any person seeking accommodation for themselves and their family can find suitable accommodation on reasonable terms;  
+|    f. children and young people as well as persons of employable age can obtain an education and undergo basic and advanced training in accordance with their abilities;  
+|    g. children and young people are encouraged to develop into independent and socially responsible people and are supported in their social, cultural and political integration.
 
 [2] The Confederation and Cantons shall endeavour to ensure that every person is protected against the economic consequences of old-age, invalidity, illness, accident, unemployment, maternity, being orphaned and being widowed.
 
@@ -410,8 +410,8 @@ g. children and young people are encouraged to develop into independent and soci
 [4] The Cantons may by intercantonal agreement authorise intercantonal bodies to issue legislative provisions that implement an intercantonal agreement, provided the agreement:
 
   
-a. has been approved under the same procedure that applies to other legislation;  
-b. determines the basic content of the provisions.
+|    a. has been approved under the same procedure that applies to other legislation;  
+|    b. determines the basic content of the provisions.
 
 [5] The Cantons shall comply with intercantonal law.
 
@@ -420,15 +420,15 @@ b. determines the basic content of the provisions.
  [1] At the request of interested Cantons, the Confederation may declare intercantonal agreements to be generally binding or require Cantons to participate in intercantonal agreements in the following fields:
 
   
-a. the execution of criminal penalties and measures;  
-b. school education in the matters specified in Article 62 paragraph 4;  
-c. cantonal institutions of higher education;  
-d. cultural institutions of supra-regional importance;  
-e. waste management;  
-f. waste water treatment;  
-g. urban transport;  
-h. advanced medical science and specialist clinics;  
-i. institutions for the rehabilitation and care of invalids.
+|    a. the execution of criminal penalties and measures;  
+|    b. school education in the matters specified in Article 62 paragraph 4;  
+|    c. cantonal institutions of higher education;  
+|    d. cultural institutions of supra-regional importance;  
+|    e. waste management;  
+|    f. waste water treatment;  
+|    g. urban transport;  
+|    h. advanced medical science and specialist clinics;  
+|    i. institutions for the rehabilitation and care of invalids.
 
 [2] A declaration of general application is made in the form of a federal decree.
 
@@ -757,12 +757,12 @@ i. institutions for the rehabilitation and care of invalids.
 [2] It shall in particular regulate:
 
   
-a. the keeping and care of animals;  
-b. experiments on animals and procedures carried out on living animals;  
-c. the use of animals;  
-d. the import of animals and animal products;  
-e. the trade in animals and the transport of animals;  
-f. the killing of animals.
+|    a. the keeping and care of animals;  
+|    b. experiments on animals and procedures carried out on living animals;  
+|    c. the use of animals;  
+|    d. the import of animals and animal products;  
+|    e. the trade in animals and the transport of animals;  
+|    f. the killing of animals.
 
 [3] The enforcement of the regulations is the responsibility of the Cantons, except where the law reserves this to the Confederation.
 
@@ -819,25 +819,25 @@ f. the killing of animals.
 [2] The following monies shall be allocated to the fund:
 
   
-a. the net proceeds of the national highways charge in accordance with Article 85*a*;  
-b. the net proceeds of the special consumption tax in accordance with Article 131 paragraph 1 letter d;  
-c. the net proceeds of the surcharge in accordance with Article 131 paragraph 2 letter a;  
-d. the net proceeds of the charge in accordance with Article 131 paragraph 2 letter b;  
-e. a percentage of the net proceeds from the consumption tax on all motor fuels, with the exception of aviation fuels, in accordance with Article 131 paragraph 1 letter e; this shall amount to 9 per cent each of the net proceeds under letter c and 9 per cent of one half of the net proceeds of the consumption tax on all motor fuels, with the exception of aviation fuels, but no more than 310 million francs per year; the indexation of this amount shall be regulated by law;  
-f. in general, 10 per cent of the net proceeds of consumption tax on all motor fuels, with the exception of aviation fuels, in accordance with Article 131 paragraph 1 letter e;  
-g. the proceeds to cover additional expenditure on new sections of the national highways from the special finance programme in accordance with paragraph 3 letter g and from contributions made by the Cantons:  
-h. other monies allocated by law in connection with road transport.
+|    a. the net proceeds of the national highways charge in accordance with Article 85*a*;  
+|    b. the net proceeds of the special consumption tax in accordance with Article 131 paragraph 1 letter d;  
+|    c. the net proceeds of the surcharge in accordance with Article 131 paragraph 2 letter a;  
+|    d. the net proceeds of the charge in accordance with Article 131 paragraph 2 letter b;  
+|    e. a percentage of the net proceeds from the consumption tax on all motor fuels, with the exception of aviation fuels, in accordance with Article 131 paragraph 1 letter e; this shall amount to 9 per cent each of the net proceeds under letter c and 9 per cent of one half of the net proceeds of the consumption tax on all motor fuels, with the exception of aviation fuels, but no more than 310 million francs per year; the indexation of this amount shall be regulated by law;  
+|    f. in general, 10 per cent of the net proceeds of consumption tax on all motor fuels, with the exception of aviation fuels, in accordance with Article 131 paragraph 1 letter e;  
+|    g. the proceeds to cover additional expenditure on new sections of the national highways from the special finance programme in accordance with paragraph 3 letter g and from contributions made by the Cantons:  
+|    h. other monies allocated by law in connection with road transport.
 
 [3] A special finance programme shall be administered for the following tasks and costs in connection with road transport:
 
   
-a. contributions towards measures to promote combined transport and the transport of motor vehicles and drivers;  
-b. contributions towards the cost of main roads;  
-c. contributions towards protective structures to prevent natural disasters and measures to protect the environment and countryside from the effects of road traffic;  
-d. general contributions towards the costs incurred by the Cantons for roads open to motor vehicles;  
-e. contributions to Cantons without national highways;  
-f. research and administration;  
-g. contributions to the fund in accordance with paragraph 2 letter g.
+|    a. contributions towards measures to promote combined transport and the transport of motor vehicles and drivers;  
+|    b. contributions towards the cost of main roads;  
+|    c. contributions towards protective structures to prevent natural disasters and measures to protect the environment and countryside from the effects of road traffic;  
+|    d. general contributions towards the costs incurred by the Cantons for roads open to motor vehicles;  
+|    e. contributions to Cantons without national highways;  
+|    f. research and administration;  
+|    g. contributions to the fund in accordance with paragraph 2 letter g.
 
 [4] The special finance programme shall be allocated one half of the net proceeds of the consumption tax on all motor fuels, with the exception of aviation fuels, in accordance with Article 131 paragraph 1 letter e, under deduction of the monies under paragraph 2 letter e.
 
@@ -854,10 +854,10 @@ g. contributions to the fund in accordance with paragraph 2 letter g.
 [2] Railway infrastructure shall be financed from a fund. The following resources shall be allocated to the fund:
 
   
-a. a maximum of two thirds of the revenue from the heavy vehicle charge under Article 85;  
-b. the revenue from the increase in value added tax under Article 130 paragraph 3[bis];  
-c. 2.0 per cent of the receipts from the direct federal taxation of private individuals;  
-d. 2,300 million francs each year from the general federal budget; the indexation of this amount shall be regulated by law.
+|    a. a maximum of two thirds of the revenue from the heavy vehicle charge under Article 85;  
+|    b. the revenue from the increase in value added tax under Article 130 paragraph 3[bis];  
+|    c. 2.0 per cent of the receipts from the direct federal taxation of private individuals;  
+|    d. 2,300 million francs each year from the general federal budget; the indexation of this amount shall be regulated by law.
 
 [3] The Cantons shall participate appropriately in the financing of railway infrastructure. The details shall be regulated by law.
 
@@ -868,9 +868,9 @@ d. 2,300 million francs each year from the general federal budget; the indexatio
  One half of the net proceeds of the consumption tax on aviation fuels and the surcharge on the consumption tax on aviation fuels shall be used for the following tasks and costs in connection with air traffic:
 
   
-a. contributions towards environmental protection measures made necessary by air traffic;  
-b. contributions towards security measures to protect against unlawful acts against air traffic, and in particular against terrorist attacks and the hijacking of aircraft, insofar as such measures are not the responsibility of national authorities;  
-c. contributions towards measures to ensure a high technical level of safety in air traffic.
+|    a. contributions towards environmental protection measures made necessary by air traffic;  
+|    b. contributions towards security measures to protect against unlawful acts against air traffic, and in particular against terrorist attacks and the hijacking of aircraft, insofar as such measures are not the responsibility of national authorities;  
+|    c. contributions towards measures to ensure a high technical level of safety in air traffic.
 
 [**Art. 88**](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_88) [Footpaths, hiking trails and cycle paths](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_88) 
 
@@ -943,10 +943,10 @@ c. contributions towards measures to ensure a high technical level of safety in 
 [3] For the protection of the economy, private property and shareholders, and to guarantee sustainable corporate governance, the law shall regulate Swiss companies limited by shares listed on stock exchanges in Switzerland or abroad in accordance with the following principles:
 
   
-a. the general meeting votes on an annual basis on the total amount of all remuneration (money and the value of benefits in kind) given to the board of directors, the executive board and the board of advisors. It elects on an annual basis the president of the board of directors, the individual members of the board of directors and the remuneration committee, and the independent representatives of voting rights. Pension funds vote in the interests of their insured members and disclose how they have voted. Shareholders may vote remotely online; they may not be represented by a governing officer of the company or by a custodian bank;  
-b. the governing officers may not be given severance or similar payments, advance payments, bonuses for company purchases and sales, additional contracts as consultants to or employees of other companies in the group. The management of the company may not be delegated to a legal entity;  
-c. the articles of association regulate the amount of credits, loans and pensions payable to governing officers, their profit-sharing and equity participation plans and the number of mandates they may accept outside the group, as well as the duration of employment contracts of members of the executive board;  
-d. persons violating the provisions under letters a-c are liable to a custodial sentence not exceeding three years and to a monetary penalty not exceeding six times their annual remuneration.
+|    a. the general meeting votes on an annual basis on the total amount of all remuneration (money and the value of benefits in kind) given to the board of directors, the executive board and the board of advisors. It elects on an annual basis the president of the board of directors, the individual members of the board of directors and the remuneration committee, and the independent representatives of voting rights. Pension funds vote in the interests of their insured members and disclose how they have voted. Shareholders may vote remotely online; they may not be represented by a governing officer of the company or by a custodian bank;  
+|    b. the governing officers may not be given severance or similar payments, advance payments, bonuses for company purchases and sales, additional contracts as consultants to or employees of other companies in the group. The management of the company may not be delegated to a legal entity;  
+|    c. the articles of association regulate the amount of credits, loans and pensions payable to governing officers, their profit-sharing and equity participation plans and the number of mandates they may accept outside the group, as well as the duration of employment contracts of members of the executive board;  
+|    d. persons violating the provisions under letters a-c are liable to a custodial sentence not exceeding three years and to a monetary penalty not exceeding six times their annual remuneration.
 
 [**Art. 96** Competition policy](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_96) 
 
@@ -955,8 +955,8 @@ d. persons violating the provisions under letters a-c are liable to a custodial 
 [2] It shall take measures:
 
   
-a. to prevent abuses in price maintenance by dominant undertakings and private and public law organisations;  
-b. against unfair competition.
+|    a. to prevent abuses in price maintenance by dominant undertakings and private and public law organisations;  
+|    b. against unfair competition.
 
 [**Art. 97** Consumer protection](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_97) 
 
@@ -1019,21 +1019,21 @@ b. against unfair competition.
  [1] The Confederation shall ensure that the agricultural sector, by means of a sustainable and market oriented production policy, makes an essential contribution towards:
 
   
-a. the reliable provision of the population with foodstuffs;  
-b. the conservation of natural resources and the upkeep of the countryside;  
-c. decentralised population settlement of the country.
+|    a. the reliable provision of the population with foodstuffs;  
+|    b. the conservation of natural resources and the upkeep of the countryside;  
+|    c. decentralised population settlement of the country.
 
 [2] In addition to the self-help measures that can reasonably be expected in the agriculture sector and if necessary in derogation from the principle of economic freedom, the Confederation shall support farms that cultivate the land.
 
 [3] The Confederation shall organise measures in such a manner that the agricultural sector fulfils its multi-functional duties. It has in particular the following powers and duties:
 
   
-a. supplementing revenues from agriculture by means of direct subsidies in order to achieve of fair and adequate remuneration for the services provided, subject to proof of compliance with ecological requirements;  
-b. encouraging by means of economically advantageous incentives methods of production that are specifically near-natural and respectful of both the environment and livestock;  
-c. legislating on declarations of origin, quality, production methods and processing procedures for foodstuffs;  
-d. protecting the environment against the detrimental effects of the excessive use of fertilisers, chemicals and other auxiliary agents;  
-e. at its discretion, encouraging agricultural research, counselling and education and subsidise investments;  
-f. at its discretion, legislating on the consolidation of agricultural property holdings.
+|    a. supplementing revenues from agriculture by means of direct subsidies in order to achieve of fair and adequate remuneration for the services provided, subject to proof of compliance with ecological requirements;  
+|    b. encouraging by means of economically advantageous incentives methods of production that are specifically near-natural and respectful of both the environment and livestock;  
+|    c. legislating on declarations of origin, quality, production methods and processing procedures for foodstuffs;  
+|    d. protecting the environment against the detrimental effects of the excessive use of fertilisers, chemicals and other auxiliary agents;  
+|    e. at its discretion, encouraging agricultural research, counselling and education and subsidise investments;  
+|    f. at its discretion, legislating on the consolidation of agricultural property holdings.
 
 [4] For these purposes, the Confederation shall provide both funds earmarked for the agricultural sector and general federal funds.
 
@@ -1042,11 +1042,11 @@ f. at its discretion, legislating on the consolidation of agricultural property 
  In order to guarantee the supply of food to the population, the Confederation shall create the conditions required for:
 
   
-a. safeguarding the basis for agricultural production, and agricultural land in particular;  
-b. food production that is adapted to local conditions and which uses natural resources efficiently;  
-c. an agriculture and food sector that responds to market requirements;  
-d. cross-border trade relations that contribute to the sustainable development of the agriculture and food sector;  
-e. using food in a way that conserves natural resources.
+|    a. safeguarding the basis for agricultural production, and agricultural land in particular;  
+|    b. food production that is adapted to local conditions and which uses natural resources efficiently;  
+|    c. an agriculture and food sector that responds to market requirements;  
+|    d. cross-border trade relations that contribute to the sustainable development of the agriculture and food sector;  
+|    e. using food in a way that conserves natural resources.
 
 [**Art. 105** Alcohol](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_105) 
 
@@ -1061,9 +1061,9 @@ e. using food in a way that conserves natural resources.
 [3] The cantons are responsible for granting licences for and supervising the following:
 
   
-a. gambling activities that are available to an unlimited number of people, are offered at more than one location and which are based on the same random draw or a similar procedure; the foregoing does not apply to the jackpot systems in casinos;  
-b. betting on sports;  
-c. games of skill.
+|    a. gambling activities that are available to an unlimited number of people, are offered at more than one location and which are based on the same random draw or a similar procedure; the foregoing does not apply to the jackpot systems in casinos;  
+|    b. betting on sports;  
+|    c. games of skill.
 
 [4] Paragraphs 2 and 3 also apply to telecommunications-based gambling.
 
@@ -1102,10 +1102,10 @@ c. games of skill.
  [1] The Confederation may legislate on:
 
   
-a. employee protection;  
-b. relations between employer and employee, and in particular on common regulations on operational and professional matters;  
-c. recruitment services;  
-d. the declaration of collective employment agreements to be generally applicable.
+|    a. employee protection;  
+|    b. relations between employer and employee, and in particular on common regulations on operational and professional matters;  
+|    c. recruitment services;  
+|    d. the declaration of collective employment agreements to be generally applicable.
 
 [2] Collective employment agreements may be declared generally applicable only if they take appropriate account of the justified interests of minorities and regional particularities, and they respect the principle of equality before the law and the right to form professional associations.
 
@@ -1128,17 +1128,17 @@ d. the declaration of collective employment agreements to be generally applicabl
 [2] In doing so, it shall adhere to the following principles:
 
   
-a. the insurance is compulsory;  
-a[bis]. it provides cash and non-cash benefits;  
-b. pensions must be sufficient to cover basic living expenses adequately;  
-c. the maximum pension must not be more than twice the minimum pension;  
-d. pensions must as a minimum be adjusted in line with price trends.
+|    a. the insurance is compulsory;  
+|    a[bis]. it provides cash and non-cash benefits;  
+|    b. pensions must be sufficient to cover basic living expenses adequately;  
+|    c. the maximum pension must not be more than twice the minimum pension;  
+|    d. pensions must as a minimum be adjusted in line with price trends.
 
 [3] The insurance is funded:
 
   
-a. through contributions from those insured, whereby employers must pay one half of the contributions payable by their employees;  
-b. through subsidies from the Confederation.
+|    a. through contributions from those insured, whereby employers must pay one half of the contributions payable by their employees;  
+|    b. through subsidies from the Confederation.
 
 [4] The subsidies from the Confederation may not exceed one half of the disbursements made under the scheme..
 
@@ -1173,11 +1173,11 @@ b. through subsidies from the Confederation.
 [2] In doing so, it shall adhere to the following principles:
 
   
-a. the occupational pension scheme, together with the Old-age, Survivors’ and Invalidity Insurance, enables the insured person to maintain his or her previous lifestyle in an appropriate manner.  
-b. the occupational pension scheme is compulsory for employees; the law may provide for exceptions.  
-c. employers shall insure their employees with a pension institution; if required, the Confederation shall make it possible for employees to be insured with a federal pension institution.  
-d. self-employed persons may insure themselves on a voluntary basis with a pension institution.  
-e. for specific groups of self-employed persons, the Confederation may declare the occupational pension scheme to be compulsory, either in general terms or for individual risks only.
+|    a. the occupational pension scheme, together with the Old-age, Survivors’ and Invalidity Insurance, enables the insured person to maintain his or her previous lifestyle in an appropriate manner.  
+|    b. the occupational pension scheme is compulsory for employees; the law may provide for exceptions.  
+|    c. employers shall insure their employees with a pension institution; if required, the Confederation shall make it possible for employees to be insured with a federal pension institution.  
+|    d. self-employed persons may insure themselves on a voluntary basis with a pension institution.  
+|    e. for specific groups of self-employed persons, the Confederation may declare the occupational pension scheme to be compulsory, either in general terms or for individual risks only.
 
 [3] The occupation pension scheme is funded from the contributions of those insured, whereby employers must pay a minimum of one half of the contributions of their employees.
 
@@ -1190,9 +1190,9 @@ e. for specific groups of self-employed persons, the Confederation may declare t
 [2] In doing so, it shall adhere to the following principles:
 
   
-a. the insurance guarantees appropriate compensation for loss of earnings and supports measures to prevent and combat unemployment;  
-b. the insurance is compulsory for employees; the law may provide for exceptions;  
-c. self-employed persons may insure themselves voluntarily.
+|    a. the insurance guarantees appropriate compensation for loss of earnings and supports measures to prevent and combat unemployment;  
+|    b. the insurance is compulsory for employees; the law may provide for exceptions;  
+|    c. self-employed persons may insure themselves voluntarily.
 
 [3] The insurance is funded by the contributions from those insured, whereby one half of the contributions of employees shall be paid by their employers.
 
@@ -1227,8 +1227,8 @@ c. self-employed persons may insure themselves voluntarily.
 [2] The Confederation shall legislate on:
 
   
-a. basic and continuing education and training for family medicine professions and the requirements for practising these professions;  
-b. appropriate remuneration for family medicine services.
+|    a. basic and continuing education and training for family medicine professions and the requirements for practising these professions;  
+|    b. appropriate remuneration for family medicine services.
 
 [**Art. 118** Health protection](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118) 
 
@@ -1237,9 +1237,9 @@ b. appropriate remuneration for family medicine services.
 [2] It shall legislate on:
 
   
-a. the use of foodstuffs as well as therapeutic products, narcotics, organisms, chemicals and items that may be dangerous to health;  
-b. the combating of communicable, widespread or particularly dangerous human and animal diseases;  
-c. protection against ionising radiation.
+|    a. the use of foodstuffs as well as therapeutic products, narcotics, organisms, chemicals and items that may be dangerous to health;  
+|    b. the combating of communicable, widespread or particularly dangerous human and animal diseases;  
+|    c. protection against ionising radiation.
 
 [**Art. 118***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_a) [Complementary medicine](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_118_a) 
 
@@ -1252,10 +1252,10 @@ c. protection against ionising radiation.
 [2] The Confederation shall adhere to the following principles in relation to biological and medical research involving human beings:
 
   
-a. It is a requirement for any research project that the participants or their legal representatives have given their informed consent. The law may provide for exceptions. A refusal is binding in every case.  
-b. The risks and stress for the participants must not be disproportionate to the benefits of the research project.  
-c. A research project involving persons lacking the capacity to consent may be conducted only if findings of equal value cannot be obtained from research involving persons who have the capacity to consent. If the research project is not expected to bring any immediate benefit to the persons lacking the capacity to consent, the risks and stress must be minimal.  
-d. An independent assessment of the research project must have determined that the safety of the participants is guaranteed.
+|    a. It is a requirement for any research project that the participants or their legal representatives have given their informed consent. The law may provide for exceptions. A refusal is binding in every case.  
+|    b. The risks and stress for the participants must not be disproportionate to the benefits of the research project.  
+|    c. A research project involving persons lacking the capacity to consent may be conducted only if findings of equal value cannot be obtained from research involving persons who have the capacity to consent. If the research project is not expected to bring any immediate benefit to the persons lacking the capacity to consent, the risks and stress must be minimal.  
+|    d. An independent assessment of the research project must have determined that the safety of the participants is guaranteed.
 
 [**Art. 119** Reproductive medicine and gene technology involving human beings](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_119) 
 
@@ -1264,13 +1264,13 @@ d. An independent assessment of the research project must have determined that t
 [2] The Confederation shall legislate on the use of human reproductive and genetic material. In doing so, it shall ensure the protection of human dignity, privacy and the family and shall adhere in particular to the following principles:
 
   
-a. All forms of cloning and interference with the genetic material of human reproductive cells and embryos are unlawful.  
-b. Non-human reproductive and genetic material may neither be introduced into nor combined with human reproductive material.  
-c. The procedures for medically-assisted reproduction may be used only if infertility or the risk of transmitting a serious illness cannot otherwise be overcome, but not in order to conceive a child with specific characteristics or to further research; the fertilisation of human egg cells outside a woman’s body is permitted only under the conditions laid down by the law; no more human egg cells may be developed into embryos outside a woman’s body than are required for medically-assisted reproduction.  
-d. The donation of embryos and all forms of surrogate motherhood are unlawful.  
-e. The trade in human reproductive material and in products obtained from embryos is prohibited.  
-f. The genetic material of a person may be analysed, registered or made public only with the consent of the person concerned or if the law so provides.  
-g. Every person shall have access to data relating to their ancestry.
+|    a. All forms of cloning and interference with the genetic material of human reproductive cells and embryos are unlawful.  
+|    b. Non-human reproductive and genetic material may neither be introduced into nor combined with human reproductive material.  
+|    c. The procedures for medically-assisted reproduction may be used only if infertility or the risk of transmitting a serious illness cannot otherwise be overcome, but not in order to conceive a child with specific characteristics or to further research; the fertilisation of human egg cells outside a woman’s body is permitted only under the conditions laid down by the law; no more human egg cells may be developed into embryos outside a woman’s body than are required for medically-assisted reproduction.  
+|    d. The donation of embryos and all forms of surrogate motherhood are unlawful.  
+|    e. The trade in human reproductive material and in products obtained from embryos is prohibited.  
+|    f. The genetic material of a person may be analysed, registered or made public only with the consent of the person concerned or if the law so provides.  
+|    g. Every person shall have access to data relating to their ancestry.
 
 [**Art. 119***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_119_a) [Transplant medicine](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_119_a) 
 
@@ -1297,8 +1297,8 @@ g. Every person shall have access to data relating to their ancestry.
 [3] Irrespective of their status under the law on foreign nationals, foreign nationals shall lose their right of residence and all other legal rights to remain in Switzerland if they:
 
   
-a. are convicted with legal binding effect of an offence of intentional homicide, rape or any other serious sexual offence, any other violent offence such as robbery, the offences of trafficking in human beings or in drugs, or a burglary offence; or  
-b. have improperly claimed social insurance or social assistance benefits.
+|    a. are convicted with legal binding effect of an offence of intentional homicide, rape or any other serious sexual offence, any other violent offence such as robbery, the offences of trafficking in human beings or in drugs, or a burglary offence; or  
+|    b. have improperly claimed social insurance or social assistance benefits.
 
 [4] The legislature shall define the offences covered by paragraph 3 in more detail. It may add additional offences.
 
@@ -1335,9 +1335,9 @@ b. have improperly claimed social insurance or social assistance benefits.
 [3] The Confederation may issue regulations on the execution of penalties and measures. It may grant subsidies to the Cantons for:
 
   
-a. the construction of penal institutions;  
-b. improvements in the execution of penalties and measures;  
-c. institutions that conduct educative measures for the benefit of children, adolescents and young adults.
+|    a. the construction of penal institutions;  
+|    b. improvements in the execution of penalties and measures;  
+|    c. institutions that conduct educative measures for the benefit of children, adolescents and young adults.
 
 [**Art. 123***a*](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_123_a)
 
@@ -1390,9 +1390,9 @@ c. institutions that conduct educative measures for the benefit of children, ado
  [1] The Confederation may levy a direct tax:
 
   
-a. of a maximum of 11.5 per cent on the income of private individuals;  
-b. of a maximum of 8.5 per cent of the net profit of legal entities;  
-c. ...
+|    a. of a maximum of 11.5 per cent on the income of private individuals;  
+|    b. of a maximum of 8.5 per cent of the net profit of legal entities;  
+|    c. ...
 
 [2] The Confederation, in fixing the taxation rates, shall take account of the burden of direct taxation imposed by the Cantons and communes.
 
@@ -1425,17 +1425,17 @@ c. ...
  [1] The Confederation may level special consumption taxes on:
 
   
-a. tobacco and tobacco products;  
-b. distilled spirits;  
-c. beer;  
-d. automobiles and their parts;  
-e. petroleum, other mineral oils, natural gas and products obtained by refining these resources, as well as on motor fuels.
+|    a. tobacco and tobacco products;  
+|    b. distilled spirits;  
+|    c. beer;  
+|    d. automobiles and their parts;  
+|    e. petroleum, other mineral oils, natural gas and products obtained by refining these resources, as well as on motor fuels.
 
 [2] It may also levy:
 
   
-a. a surcharge on the consumption tax on motor fuels with the exception of aviation fuels;  
-b. a charge that applies when motor vehicles are powered by means other than motor fuels in accordance with paragraph 1 letter e.
+|    a. a surcharge on the consumption tax on motor fuels with the exception of aviation fuels;  
+|    b. a charge that applies when motor vehicles are powered by means other than motor fuels in accordance with paragraph 1 letter e.
 
 [2bis] If the monies are insufficient to carry out the tasks provided for under Article 87*b* in connection with air traffic, the Confederation shall levy a surcharge on the consumption tax on aviation fuels.
 
@@ -1462,11 +1462,11 @@ b. a charge that applies when motor vehicles are powered by means other than mot
 [2] The equalisation of financial resources and burdens is intended in particular to:
 
   
-a. reduce the differences in financial capacity among the Cantons;  
-b. guarantee the Cantons a minimum level of financial resources;  
-c. compensate for excessive financial burdens on individual Cantons due to geo-topographical or socio-demographic factors;  
-d. encourage intercantonal cooperation on burden equalisation;  
-e. maintain the tax competitiveness of the Cantons by national and international comparison.
+|    a. reduce the differences in financial capacity among the Cantons;  
+|    b. guarantee the Cantons a minimum level of financial resources;  
+|    c. compensate for excessive financial burdens on individual Cantons due to geo-topographical or socio-demographic factors;  
+|    d. encourage intercantonal cooperation on burden equalisation;  
+|    e. maintain the tax competitiveness of the Cantons by national and international comparison.
 
 [3] The funds for the equalisation of financial resources shall be provided by those Cantons with a higher level of resources and by the Confederation. The payments made by those Cantons with a higher level of resources shall amount to a minimum of two thirds and a maximum of 80 per cent of the payments made by the Confederation.
 
@@ -1519,30 +1519,30 @@ e. maintain the tax competitiveness of the Cantons by national and international
  [1] The following must be put to the vote of the People and the Cantons:
 
   
-a. amendments to the Federal Constitution;  
-b. accession to organisations for collective security or to supranational communities;  
-c. emergency federal acts that are not based on a provision of the Constitution and whose term of validity exceeds one year; such federal acts must be put to the vote within one year of being passed by the Federal Assembly.
+|    a. amendments to the Federal Constitution;  
+|    b. accession to organisations for collective security or to supranational communities;  
+|    c. emergency federal acts that are not based on a provision of the Constitution and whose term of validity exceeds one year; such federal acts must be put to the vote within one year of being passed by the Federal Assembly.
 
 [2] The following are submitted to a vote of the People:
 
   
-popular initiatives for a total revision of the Federal Constitution;   
-a[bis]. ...  
-b. popular initiatives for a partial revision of the Federal Constitution in the form of a general proposal that have been rejected by the Federal Assembly;  
-c. the question of whether a total revision of the Federal Constitution should be carried out, in the event that there is disagreement between the two Councils.
+|    popular initiatives for a total revision of the Federal Constitution;   
+|    a[bis]. ...  
+|    b. popular initiatives for a partial revision of the Federal Constitution in the form of a general proposal that have been rejected by the Federal Assembly;  
+|    c. the question of whether a total revision of the Federal Constitution should be carried out, in the event that there is disagreement between the two Councils.
 
 [**Art. 141** Optional referendum](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_141) 
 
  [1] If within 100 days of the official publication of the enactment any 50,000 persons eligible to vote or any eight Cantons request it, the following shall be submitted to a vote of the People:
 
   
-a. federal acts;  
-b. emergency federal acts whose term of validity exceeds one year;  
-c. federal decrees, provided the Constitution or an act so requires;  
-d. international treaties that:  
-1. are of unlimited duration and may not be terminated,  
-2. provide for accession to an international organisation,  
-3. contain important legislative provisions or whose implementation requires the enactment of federal legislation.
+|    a. federal acts;  
+|    b. emergency federal acts whose term of validity exceeds one year;  
+|    c. federal decrees, provided the Constitution or an act so requires;  
+|    d. international treaties that:  
+|    1. are of unlimited duration and may not be terminated,  
+|    2. provide for accession to an international organisation,  
+|    3. contain important legislative provisions or whose implementation requires the enactment of federal legislation.
 
 
 
@@ -1659,19 +1659,19 @@ d. international treaties that:
 [3] Provision shall be made by the law to ensure that in the event of disagreement between the Councils decisions are made on:
 
   
-a. the validity or partial invalidity of a popular initiative;  
-b. the implementation of a popular initiative in the form of a general proposal that has been adopted by the People;  
-c. the implementation of a Federal Decree initiating a total revision of the Federal Constitution that has been approved by the People;  
-d. the budget or any amendment to it.
+|    a. the validity or partial invalidity of a popular initiative;  
+|    b. the implementation of a popular initiative in the form of a general proposal that has been adopted by the People;  
+|    c. the implementation of a Federal Decree initiating a total revision of the Federal Constitution that has been approved by the People;  
+|    d. the budget or any amendment to it.
 
 [**Art. 157** Joint proceedings](https://www.fedlex.admin.ch/eli/cc/1999/404/en#art_157) 
 
  [1] The National Council and Council of States hold joint proceedings as the United Federal Assembly under the presidency of the President of the National Council in order to:
 
   
-a. conduct elections;  
-b. decide on conflicts of jurisdiction between the highest federal authorities;  
-c. decide on applications for pardons.
+|    a. conduct elections;  
+|    b. decide on conflicts of jurisdiction between the highest federal authorities;  
+|    c. decide on applications for pardons.
 
 [2] The United Federal Assembly also convenes for special events and to hear declarations made by the Federal Council.
 
@@ -1688,9 +1688,9 @@ c. decide on applications for pardons.
 [3] However, the consent of an absolute majority of the members of each of the two Councils is required for:
 
   
-a. a declaration that a federal act is urgent;  
-b. provisions on subsidies, guarantee credits or spending ceilings that involve new non-recurrent expenditure of more than 20 million francs or new recurrent expenditure of more than 2 million francs;  
-c. an increase in overall expenditure in the case of extraordinary financial requirements in terms of Article 126 paragraph 3.
+|    a. a declaration that a federal act is urgent;  
+|    b. provisions on subsidies, guarantee credits or spending ceilings that involve new non-recurrent expenditure of more than 20 million francs or new recurrent expenditure of more than 2 million francs;  
+|    c. an increase in overall expenditure in the case of extraordinary financial requirements in terms of Article 126 paragraph 3.
 
 [4] The Federal Assembly may, by ordinance, adjust subsidies made in terms of paragraph 3 letter b in line with inflation.
 
@@ -1725,13 +1725,13 @@ c. an increase in overall expenditure in the case of extraordinary financial req
  [1] All significant provisions that establish binding legal rules must be enacted in the form of a federal act. These include in particular fundamental provisions on:
 
   
-a. the exercise of political rights;  
-b. the restriction of constitutional rights;  
-c. the rights and obligations of persons;  
-d. those liable to pay tax as well as the subject matter and assessment of taxes and duties;  
-e. the duties and services of the Confederation;  
-f. the obligations of the Cantons in relation to the implementation and enforcement of federal law;  
-g. the organisation and procedure of the federal authorities.
+|    a. the exercise of political rights;  
+|    b. the restriction of constitutional rights;  
+|    c. the rights and obligations of persons;  
+|    d. those liable to pay tax as well as the subject matter and assessment of taxes and duties;  
+|    e. the duties and services of the Confederation;  
+|    f. the obligations of the Cantons in relation to the implementation and enforcement of federal law;  
+|    g. the organisation and procedure of the federal authorities.
 
 [2] Legislative powers may be delegated by federal act unless this is prohibited by the Federal Constitution.
 
@@ -1788,16 +1788,16 @@ g. the organisation and procedure of the federal authorities.
  [1] The Federal Assembly has the following additional duties and powers:
 
   
-a. Taking measures to safeguard external security and the independence and neutrality of Switzerland.  
-b. Taking measures to safeguard internal security.  
-c. If extraordinary circumstances require, issuing ordinances or simple federal decrees in order to fulfil its duties under letters (a) and (b).  
-d. Regulating active service and mobilising the armed forces or sections thereof for this purpose.  
-e. Taking measures to enforce federal law.  
-f. Ruling on the validity of popular initiatives that meet the formal requirements.  
-g. Participating in the general planning of state activities.  
-h. Deciding on individual acts where a federal act expressly so provides.  
-i. Deciding on conflicts of jurisdiction between the highest federal authorities.  
-k. Issuing pardons and deciding on amnesties.
+|    a. Taking measures to safeguard external security and the independence and neutrality of Switzerland.  
+|    b. Taking measures to safeguard internal security.  
+|    c. If extraordinary circumstances require, issuing ordinances or simple federal decrees in order to fulfil its duties under letters (a) and (b).  
+|    d. Regulating active service and mobilising the armed forces or sections thereof for this purpose.  
+|    e. Taking measures to enforce federal law.  
+|    f. Ruling on the validity of popular initiatives that meet the formal requirements.  
+|    g. Participating in the general planning of state activities.  
+|    h. Deciding on individual acts where a federal act expressly so provides.  
+|    i. Deciding on conflicts of jurisdiction between the highest federal authorities.  
+|    k. Issuing pardons and deciding on amnesties.
 
 [2] The Federal Assembly also deals with matters that fall within the remit of the Confederation and are not the responsibility of any other authority.
 
@@ -1906,10 +1906,10 @@ k. Issuing pardons and deciding on amnesties.
  [1] The Federal Council also has the following duties and powers:
 
   
-a. Supervising the Federal Administration and the other bodies entrusted with federal duties.  
-b. Reporting regularly to the Federal Assembly on the conduct of its business as well as on the situation in Switzerland.  
-c. Making appointments that do not fall within the remit of other authorities.  
-d. Dealing with appeals, where the law so provides.
+|    a. Supervising the Federal Administration and the other bodies entrusted with federal duties.  
+|    b. Reporting regularly to the Federal Assembly on the conduct of its business as well as on the situation in Switzerland.  
+|    c. Making appointments that do not fall within the remit of other authorities.  
+|    d. Dealing with appeals, where the law so provides.
 
 [2] Other duties and powers may be delegated by law to the Federal Council.
 
@@ -1928,13 +1928,13 @@ d. Dealing with appeals, where the law so provides.
  [1] The Federal Supreme Court hears disputes concerning violations of:
 
   
-a. federal law;  
-b. international law;  
-c. inter-cantonal law;  
-d. cantonal constitutional rights;  
-e. the autonomy of the communes and other cantonal guarantees in favour of public law corporations;  
-f. federal and cantonal provisions on political rights.  
-[1bis] ... 
+|    a. federal law;  
+|    b. international law;  
+|    c. inter-cantonal law;  
+|    d. cantonal constitutional rights;  
+|    e. the autonomy of the communes and other cantonal guarantees in favour of public law corporations;  
+|    f. federal and cantonal provisions on political rights.  
+|    [1bis] ... 
 
 [2] It hears disputes between the Confederation and Cantons or between Cantons.
 
@@ -2024,16 +2024,16 @@ The transfer of freight transit traffic from road to rail must be completed ten 
 
 
 |  | Fr. |
-| a. for trucks and articulated motor vehicles of |  |
-| – over 3.5 to 12 t |  650 |
-| – over 12 to 18 t | 2000 |
-| – over 18 to 26 t | 3000 |
-| – over 26 t | 4000 |
-| b. for trailers of |   |
-| – over 3.5 to 8 t |  650 |
-| – over 8 to 10 t | 1500 |
-| – over 10 t | 2000 |
-| c. for coaches |  650 |
+| |    a. for trucks and articulated motor vehicles of |  |
+| |    – over 3.5 to 12 t |  650 |
+| |    – over 12 to 18 t | 2000 |
+| |    – over 18 to 26 t | 3000 |
+| |    – over 26 t | 4000 |
+| |    b. for trailers of | |      |
+| |    – over 3.5 to 8 t |  650 |
+| |    – over 8 to 10 t | 1500 |
+| |    – over 10 t | 2000 |
+| |    c. for coaches |  650 |
 
 [3] The rates of the charge may be adjusted by federal act insofar as this is justified by the cost of road transport.
 
@@ -2146,8 +2146,8 @@ The current payments under Article 101[bis] of the Federal Act of 20 December 1
 Swiss agriculture shall remain free of gene technology for a period of five years following the adoption of this constitutional provision. In particular, the following may neither be imported nor placed on the market:
 
   
-a. genetically modified plants that are capable of propagation, parts of plants and seeds that are intended for agricultural, horticultural or forestry use in the environment;  
-b. genetically modified animals that are intended for the production of foodstuffs and other agricultural products.
+|    a. genetically modified plants that are capable of propagation, parts of plants and seeds that are intended for agricultural, horticultural or forestry use in the environment;  
+|    b. genetically modified animals that are intended for the production of foodstuffs and other agricultural products.
 
 8. Transitional provision to Art. 121 (Residence and Permanent Settlement of Foreign Nationals)
 
@@ -2201,9 +2201,9 @@ c. Art. 121[bis] para. 1, 2 and para. 3 first and second sentence
 [1] If the Federal Assembly decides to submit a counter-proposal, voters shall be asked three questions on the same ballot paper. Each voter has the unrestricted right to state:
 
   
-1. whether he or she prefers the popular initiative to the existing law;  
-2. whether he or she prefers the counter-proposal to the existing law;  
-3. which of the two proposals should come into force in the event that the People and the Cantons prefer both proposals to the existing law.
+|    1. whether he or she prefers the popular initiative to the existing law;  
+|    2. whether he or she prefers the counter-proposal to the existing law;  
+|    3. which of the two proposals should come into force in the event that the People and the Cantons prefer both proposals to the existing law.
 
 [2] The absolute majority shall be calculated separately for each question. Unanswered questions shall not be taken into consideration.
 
