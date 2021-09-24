@@ -64,6 +64,7 @@ with open('linklist.txt', 'r') as f_in:
 
         for dt_list in soup.find_all("dt"):
             dt_list.insert_after(" ")  # add whitespace after tag
+            dt_list.insert(0, "|    ")  # add nonbreaking spaces as indent
             dt_list.name = "br"
 
         # replace articles with bold paragraphs
@@ -71,20 +72,12 @@ with open('linklist.txt', 'r') as f_in:
             article.name = "p"
 
         # replace div headings with corresponding <h> tag
-        for divheader in soup.find_all("div", {"aria-level": "1"}):
-            divheader.name = "h1"
-        for divheader in soup.find_all("div", {"aria-level": "2"}):
-            divheader.name = "h2"
-        for divheader in soup.find_all("div", {"aria-level": "3"}):
-            divheader.name = "h3"
-        for divheader in soup.find_all("div", {"aria-level": "4"}):
-            divheader.name = "h4"
-        for divheader in soup.find_all("div", {"aria-level": "5"}):
-            divheader.name = "h5"
-        for divheader in soup.find_all("div", {"aria-level": "6"}):
-            divheader.name = "h6"
-        for divheader in soup.find_all("div", {"aria-level": "7"}):
-            divheader.name = "h6"  # max level possible in markdown
+        for div in soup.select("div[aria-level]"):
+            if div["aria-level"] > "6":  # capp at max lvl 6
+                div.name = f'h6'
+            else:
+                div.name = f'h{div["aria-level"]}'
+            del div.attrs
 
         # get norms
         lawtext = soup.find("div", id="lawcontent")
